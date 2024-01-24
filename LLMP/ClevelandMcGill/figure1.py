@@ -4,14 +4,11 @@ import os
 import skimage.draw
 import sys
 
-sys.path.append('../')
-from LLMP.util import Util
-
 class Figure1:
 
-  DELTA_MIN = 420
-  DELTA_MAX = 480
-  SIZE = (1000, 1000)
+  DELTA_MIN = 20
+  DELTA_MAX = 80
+  SIZE = (100, 100)
 
   @staticmethod
   def position_common_scale(flags=[False, False], preset=None):
@@ -36,7 +33,7 @@ class Figure1:
     if preset:
       Y = preset
 
-    X = Figure1.SIZE[1] // 2
+    X = Figure1.SIZE[1] / 2
     if var_x:
       X, p = Util.parameter(X_RANGE[0], X_RANGE[1])
       parameters *= p
@@ -57,7 +54,7 @@ class Figure1:
     image[Y_RANGE[0]:Y_RANGE[1], ORIGIN] = 1
 
     # draw spot
-    half_spot_size = SPOT_SIZE // 2
+    half_spot_size = SPOT_SIZE / 2
     image[Y-half_spot_size:Y+half_spot_size+1, X-half_spot_size:X+half_spot_size+1] = 1
 
     label = Y - Figure1.DELTA_MIN
@@ -278,7 +275,7 @@ class Figure1:
       Y, p = Util.parameter(Y_RANGE[0], Y_RANGE[1])
       parameters *= p
 
-    image = np.zeros(Figure1.SIZE, dtype=np.uint8)
+    image = np.zeros(Figure1.SIZE, dtype=bool)
 
     # first line
     first_angle = np.random.randint(360)
@@ -287,16 +284,11 @@ class Figure1:
     rr, cc = skimage.draw.line(Y, X, int(np.round(END[0])), int(np.round(END[1])))
     image[rr, cc] = 1
 
-    structuring_element = skimage.morphology.disk(1) 
-    image = skimage.morphology.dilation(image, structuring_element)
-
     second_angle = first_angle+ANGLE
     theta = -(np.pi / 180.0) * second_angle
     END = (Y - LENGTH * np.cos(theta), X - LENGTH * np.sin(theta))
     rr, cc = skimage.draw.line(Y, X, int(np.round(END[0])), int(np.round(END[1])))
     image[rr, cc] = 1
-
-    image = skimage.morphology.dilation(image, structuring_element)
 
     sparse = [Y, X, ANGLE, first_angle]
 
@@ -580,5 +572,4 @@ class Figure1:
     label = COVERED
 
     return sparse, img, label, parameters
-
 
