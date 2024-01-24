@@ -1,7 +1,6 @@
-import sys
-sys.path.append('./LLMP/')
 import requests
-import cv2
+import png
+import io
 import numpy as np
 import base64
 
@@ -14,13 +13,17 @@ class ChatGPT:
         grayscale[image==0] = 255
         grayscale[image==1] = 0
 
-        rgb = np.stack((grayscale,grayscale,grayscale),axis=-1)
-        _, png = cv2.imencode('.png', rgb)
+        png_image = png.from_array(grayscale, 'L')
 
-        base64_image = base64.b64encode(png.tobytes()).decode('utf-8')
+        outp = io.BytesIO()
+        png_image.write(outp)
+        png_bytes = outp.getvalue()
+        outp.close()
+
+        base64_image = base64.b64encode(png_bytes).decode('utf-8')
 
         # OpenAI API Key
-        api_key = "***********************************"
+        api_key = "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"
 
         headers = {
             "Content-Type": "application/json",
@@ -51,6 +54,12 @@ class ChatGPT:
 
         response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
 
-        content_string = response.json()['choices'][0]['message']['content']
-        return content_string  
+        response_json = response.json()
+
+        if ('error' in response_json):
+            print('ERROR', response_json)
+
+        if 'choices' in response_json:
+            content_string = response_json['choices'][0]['message']['content']
+            return content_string  
 

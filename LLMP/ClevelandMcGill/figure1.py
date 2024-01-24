@@ -110,7 +110,7 @@ class Figure1:
 
     sparse = [Y, X, SPOT_SIZE]
 
-    image = np.zeros(Figure1.SIZE, dtype=np.bool)
+    image = np.zeros(Figure1.SIZE, dtype=bool)
 
     # draw axis
     image[Y_RANGE[0]:Y_RANGE[1], ORIGIN] = 1
@@ -170,7 +170,7 @@ class Figure1:
 
     sparse = [Y, X, LENGTH, WIDTH]
 
-    image = np.zeros(Figure1.SIZE, dtype=np.bool)
+    image = np.zeros(Figure1.SIZE, dtype=bool)
 
 
     half_width = math.floor(WIDTH / 2) # this always floors
@@ -226,7 +226,7 @@ class Figure1:
 
     sparse = [Y, X, DIRECTION, LENGTH]
 
-    image = np.zeros(Figure1.SIZE, dtype=np.bool)
+    image = np.zeros(Figure1.SIZE, dtype=bool)
 
     # draw direction
     rr, cc = skimage.draw.line(Y, X, int(np.round(END[0])), int(np.round(END[1])))
@@ -340,7 +340,7 @@ class Figure1:
       Y, p = Util.parameter(Y_RANGE[0], Y_RANGE[1])
       parameters *= p
 
-    image = np.zeros(Figure1.SIZE, dtype=np.bool)
+    image = np.zeros(Figure1.SIZE, dtype=bool)
 
     rr, cc = skimage.draw.ellipse_perimeter(Y, X, RADIUS, RADIUS)
     image[rr, cc] = 1
@@ -405,7 +405,7 @@ class Figure1:
 
     # print X,Y,DEPTH
 
-    img = np.zeros(Figure1.SIZE, dtype=np.bool)
+    img = np.zeros(Figure1.SIZE, dtype=bool)
 
     front_bottom_left = (Y, X)
 
@@ -505,7 +505,7 @@ class Figure1:
     mid = (DEPTH, X+WIDTH/2)
     end = (Y, X+WIDTH)
 
-    img = np.zeros(Figure1.SIZE, dtype=np.bool)
+    img = np.zeros(Figure1.SIZE, dtype=bool)
 
     rr, cc = skimage.draw.bezier_curve(start[0], start[1], mid[0], mid[1], end[0], end[1], 1)
     img[rr, cc] = 1
@@ -551,7 +551,7 @@ class Figure1:
     if preset:
       COVERED = preset
 
-    img = np.zeros((100,100), dtype=np.bool)
+    img = np.zeros((100,100), dtype=bool)
 
     X = 0
     if var_x:
@@ -565,7 +565,7 @@ class Figure1:
 
     step = max(1, 100-COVERED)
 
-    img = np.zeros(Figure1.SIZE, dtype=np.bool)
+    img = np.zeros(Figure1.SIZE, dtype=bool)
 
     for i in range(0,100):
         for j in range(0,100):
