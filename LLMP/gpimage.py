@@ -44,7 +44,7 @@ class GPImage:
             case "pie":
                 image = Figure3.data_to_piechart(data)
 
-        return image
+        return image, labels
     
 
     @staticmethod
@@ -62,7 +62,7 @@ class GPImage:
             case "type5":
                 image = Figure4.data_to_type5(data)
 
-        return image
+        return image, labels
     
     @staticmethod
     def figure12(framed):
@@ -70,8 +70,8 @@ class GPImage:
         if framed:
             image = Figure12.data_to_framed_rectangles(data)
         else:
-            image = Figure12.data_to_image(data)
-        return image
+            image = Figure12.data_to_bars(data)
+        return image, labels
     
     
     @staticmethod
@@ -83,4 +83,4 @@ class GPImage:
                 image, label = Weber.base100()
             case "1000":
                 image, label = Weber.base1000()
-        return image
+        return image, label
