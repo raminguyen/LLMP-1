@@ -4,6 +4,9 @@ import os
 import skimage.draw
 import sys
 
+sys.path.append('../')
+from LLMP.util import Util
+
 class Figure1:
 
   DELTA_MIN = 20
@@ -219,19 +222,19 @@ class Figure1:
       Y, p = Util.parameter(Y_RANGE[0], Y_RANGE[1])
       parameters *= p
 
-    END = (Y - LENGTH * np.cos(theta), X - LENGTH * np.sin(theta))
+    END = (int(Y) - LENGTH * np.cos(theta), int(X) - LENGTH * np.sin(theta))
 
     sparse = [Y, X, DIRECTION, LENGTH]
 
     image = np.zeros(Figure1.SIZE, dtype=bool)
 
     # draw direction
-    rr, cc = skimage.draw.line(Y, X, int(np.round(END[0])), int(np.round(END[1])))
+    rr, cc = skimage.draw.line(int(Y), int(X), int(np.round(END[0])), int(np.round(END[1])))
     image[rr, cc] = 1
 
     # Draw origin spot
     half_spot_size = 1 #equals spot size of 3
-    image[Y-half_spot_size:Y+half_spot_size+1, X-half_spot_size:X+half_spot_size+1] = 1
+    image[int(Y)-half_spot_size:int(Y)+half_spot_size+1, int(X)-half_spot_size:int(X)+half_spot_size+1] = 1
 
     label = DIRECTION
 
@@ -334,7 +337,7 @@ class Figure1:
 
     image = np.zeros(Figure1.SIZE, dtype=bool)
 
-    rr, cc = skimage.draw.ellipse_perimeter(Y, X, RADIUS, RADIUS)
+    rr, cc = skimage.draw.ellipse_perimeter(int(Y), int(X), RADIUS, RADIUS)
     image[rr, cc] = 1
 
     sparse = [Y, X, RADIUS]
