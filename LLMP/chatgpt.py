@@ -23,7 +23,7 @@ class ChatGPT:
         base64_image = base64.b64encode(png_bytes).decode('utf-8')
 
         # OpenAI API Key
-        api_key = "****"
+        api_key = "************************"
 
         headers = {
             "Content-Type": "application/json",
@@ -49,7 +49,7 @@ class ChatGPT:
             ]
             }
         ],
-        "max_tokens": 1500
+        "max_tokens": 1600
         }
 
         response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
