@@ -1,6 +1,5 @@
 import math
 import numpy as np
-import os
 import skimage.draw
 import sys
 
@@ -58,7 +57,7 @@ class Figure1:
 
     # draw spot
     half_spot_size = SPOT_SIZE / 2
-    image[Y-half_spot_size:Y+half_spot_size+1, X-half_spot_size:X+half_spot_size+1] = 1
+    image[int(Y-half_spot_size):int(Y+half_spot_size+1), int(X-half_spot_size):int(X+half_spot_size+1)] = 1
 
     label = Y - Figure1.DELTA_MIN
 
@@ -393,10 +392,14 @@ class Figure1:
       X, p = Util.parameter(X_RANGE[0], X_RANGE[1])
       parameters *= p
 
+    X = int(X) # just for testing
+
     Y = Figure1.SIZE[0] / 2
     if var_y:
       Y, p = Util.parameter(Y_RANGE[0], Y_RANGE[1])
       parameters *= p
+
+    Y = int(Y) # just for testing
 
     # print X,Y,DEPTH
 
@@ -496,9 +499,12 @@ class Figure1:
 
     # print 'WIDTH', WIDTH
 
+    X = int(X)
+    Y = int(Y)
+    DEPTH = int(DEPTH)
     start = (Y, X)
-    mid = (DEPTH, X+WIDTH/2)
-    end = (Y, X+WIDTH)
+    mid = (DEPTH, int(X+WIDTH/2))
+    end = (Y, int(X+WIDTH))
 
     img = np.zeros(Figure1.SIZE, dtype=bool)
 
