@@ -119,8 +119,8 @@ class Figure3:
 
     piechart = np.zeros((100,100), dtype=bool)
     RADIUS = 30
-    # rr,cc = skimage.draw.circle_perimeter(50,50,RADIUS)
-    # piechart[rr,cc] = 1
+    rr,cc = skimage.draw.circle_perimeter(50,50,RADIUS)
+    piechart[rr,cc] = 1
     random_direction = np.random.randint(360)
     theta = -(np.pi / 180.0) * random_direction
     END = (LENGTH - RADIUS * np.cos(theta), LENGTH - RADIUS * np.sin(theta))
