@@ -9,6 +9,7 @@
 
 
 `cd LLMP/LLaVA`
+
 `pip install -e .`
 
 `conda install conda-forge::protobuf`
