@@ -4,6 +4,7 @@
 
 `conda env create -f LLMP.yml`
 
+`conda activate LLMP`
 
 `git submodule init --update`
 
