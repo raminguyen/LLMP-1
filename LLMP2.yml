@@ -1,4 +1,4 @@
-name: llava
+name: LLMP2
 channels:
   - defaults
 dependencies:
@@ -205,4 +205,4 @@ dependencies:
     - wavedrom==2.0.3.post3
     - websockets==12.0
     - yarl==1.9.4
-prefix: /home/daniel.haehn/miniconda3/envs/llava
+prefix: /home/daniel.haehn/miniconda3/envs/LLMP2
