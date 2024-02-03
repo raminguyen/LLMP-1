@@ -13,7 +13,7 @@
 
 `pip install -e .`
 
-`conda install conda-forge::protobuf`
+`pip install protobuf`
 
 `python -m pip install git+https://gitlab.com/drj11/pypng@pypng-0.0.21`
 
