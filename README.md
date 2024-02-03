@@ -6,7 +6,7 @@
 
 `conda activate LLMP`
 
-`git submodule init --update`
+`git submodule update --init`
 
 
 `cd LLMP/LLaVA`
