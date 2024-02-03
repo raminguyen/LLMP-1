@@ -2,6 +2,8 @@ import os, sys
 sys.path.append(os.path.abspath('LLaVA/'))
 
 from io import StringIO
+import png
+import base64
 import numpy as np
 
 
