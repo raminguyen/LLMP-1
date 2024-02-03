@@ -1,10 +1,10 @@
 import os, sys
 sys.path.append(os.path.abspath('LLaVA/'))
 
-from io import StringIO
 import png
-import base64
+import io
 import numpy as np
+import base64
 
 
 class LLaVA:
@@ -56,7 +56,7 @@ class LLaVA:
         })()
 
         # pipe std out
-        result = StringIO()
+        result = io.StringIO()
         old_stdout = sys.stdout
         sys.stdout = result
 
