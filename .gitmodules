@@ -1,0 +1,3 @@
+[submodule "LLMP/LLaVA"]
+	path = LLMP/LLaVA
+	url = git@github.com:haehn/LLaVA.git
