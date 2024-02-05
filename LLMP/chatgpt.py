@@ -5,6 +5,7 @@ import numpy as np
 import base64
 
 class ChatGPT:
+    
     @staticmethod
     def query(question, image):
 
