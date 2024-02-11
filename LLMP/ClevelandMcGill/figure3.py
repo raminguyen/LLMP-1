@@ -115,15 +115,17 @@ class Figure3:
   def data_to_piechart(data):
     '''
     '''
-    piechart = np.zeros((100,100), dtype=np.float32)
+    LENGTH = 50
+
+    piechart = np.zeros((100,100), dtype=bool)
     RADIUS = 30
     rr,cc = skimage.draw.circle_perimeter(50,50,RADIUS)
     piechart[rr,cc] = 1
     random_direction = np.random.randint(360)
     theta = -(np.pi / 180.0) * random_direction
-    END = (50 - RADIUS * np.cos(theta), 50 - RADIUS * np.sin(theta))
-    rr, cc, val = skimage.draw.line_aa(50, 50, int(np.round(END[0])), int(np.round(END[1])))
-    piechart[rr, cc] = val
+    END = (LENGTH - RADIUS * np.cos(theta), LENGTH - RADIUS * np.sin(theta))
+    rr, cc = skimage.draw.line(50, 50, int(np.round(END[0])), int(np.round(END[1])))
+    piechart[rr, cc] = 1
 
     for i,d in enumerate(data):
 
@@ -133,15 +135,15 @@ class Figure3:
       # print 'from', random_direction, 'to', current_angle
       theta = -(np.pi / 180.0) * (random_direction-current_angle)
       END = (50 - RADIUS * np.cos(theta), 50 - RADIUS * np.sin(theta))
-      rr, cc,val = skimage.draw.line_aa(50, 50, int(np.round(END[0])), int(np.round(END[1])))
-      piechart[rr,cc] = val
+      rr, cc = skimage.draw.line(50, 50, int(np.round(END[0])), int(np.round(END[1])))
+      piechart[rr,cc] = 1
       
       if d == np.max(data):
         # this is the max spot
         theta = -(np.pi / 180.0) * (random_direction-current_angle/2.)
         END = (50 - RADIUS/2 * np.cos(theta), 50 - RADIUS/2 * np.sin(theta))
-        rr, cc,val = skimage.draw.line_aa(int(np.round(END[0])), int(np.round(END[1])), int(np.round(END[0])), int(np.round(END[1])))
-        piechart[rr,cc] = val
+        rr, cc = skimage.draw.line(int(np.round(END[0])), int(np.round(END[1])), int(np.round(END[0])), int(np.round(END[1])))
+        piechart[rr,cc] = 1
       
       random_direction -= current_angle
 
@@ -182,4 +184,3 @@ class Figure3:
       random_direction -= current_angle
 
     return piechart
-

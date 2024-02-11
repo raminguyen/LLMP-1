@@ -2,6 +2,7 @@ import LLMP as L
 import re
 import time
 import numpy as np
+from sklearn.metrics import mean_squared_error
 
 class Evaluator:
 
@@ -13,8 +14,8 @@ class Evaluator:
         if gt_array.shape != answers_array.shape:
             raise ValueError("Size discrepancy")
 
-        mse = np.mean((gt_array - answers_array) ** 2)
-        return mse
+        return mean_squared_error(gt_array,answers_array)
+
     
     # Calculate midmean logistic absoulte error (MALE)
     def calculate_mlae(gt, answers):
@@ -24,10 +25,8 @@ class Evaluator:
         if gt_array.shape != answers_array.shape:
             raise ValueError("Size discrepancy")
 
-        """
-        male = log2(|predicted percent - true percent| + .125)
-        return male
-        """
+        #male = np.log2(sklearn.metrics.mean_absolute_error(pred*100, test*100) + .125)
+        #return male
 
     @staticmethod
     def run(data, query, models):

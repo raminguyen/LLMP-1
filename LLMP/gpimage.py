@@ -42,7 +42,7 @@ class GPImage:
             case "bar":
                 image = Figure3.data_to_barchart(data)
             case "pie":
-                image = Figure3.data_to_piechart(data)
+                image = Figure3.data_to_piechart_aa(data)
 
         return image, labels
     
