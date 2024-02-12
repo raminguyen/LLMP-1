@@ -62,7 +62,12 @@ class Evaluator:
 
 
             # Evaluation
-            midpoints = [(a+b)/2 for a, b in parsed_answers]  # could be first or last
+            midpoints;
+            if (len(parsed_answers[0])==1):
+                midpoints = [item for sublist in parsed_answers for item in sublist]
+            else:    
+                midpoints = [(a+b)/2 for a, b in parsed_answers]
+                
             mse = Evaluator.calculate_mse(gt, midpoints)
             mlae = Evaluator.calculate_mlae(gt, midpoints)
 
