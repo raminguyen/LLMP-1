@@ -3,6 +3,7 @@ import re
 import time
 import numpy as np
 from sklearn.metrics import mean_squared_error
+from sklearn.metrics import mean_absolute_error
 
 class Evaluator:
 
@@ -10,9 +11,6 @@ class Evaluator:
     def calculate_mse(gt, answers):
         gt_array = np.array(gt)
         answers_array = np.array(answers)
-
-        if gt_array.shape != answers_array.shape:
-            raise ValueError("Size discrepancy")
 
         return mean_squared_error(gt_array,answers_array)
 
@@ -22,11 +20,8 @@ class Evaluator:
         gt_array = np.array(gt)
         answers_array = np.array(answers)
 
-        if gt_array.shape != answers_array.shape:
-            raise ValueError("Size discrepancy")
-
-        #male = np.log2(sklearn.metrics.mean_absolute_error(pred*100, test*100) + .125)
-        #return male
+        male = np.log2(mean_absolute_error(gt_array*100, answers_array*100) + .125)
+        return male
 
     @staticmethod
     def run(data, query, models):
@@ -69,13 +64,14 @@ class Evaluator:
             # Evaluation
             midpoints = [(a+b)/2 for a, b in parsed_answers]  # could be first or last
             mse = Evaluator.calculate_mse(gt, midpoints)
+            mlae = Evaluator.calculate_mlae(gt, midpoints)
 
             results[model_name] = {
                 'parameters': None, 
                 'raw_answers': raw_answers,
                 'parsed_answers': parsed_answers,
                 'mse': mse, 
-                'mlae': None, 
+                'mlae': mlae, 
                 'times': times,
                 'forced_repetitions': forced_repetitions
             }
