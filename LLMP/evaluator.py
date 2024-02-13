@@ -20,8 +20,8 @@ class Evaluator:
         gt_array = np.array(gt)
         answers_array = np.array(answers)
 
-        male = np.log2(mean_absolute_error(gt_array*100, answers_array*100) + .125)
-        return male
+        mlae = np.log2(mean_absolute_error(gt_array*100, answers_array*100) + .125)
+        return mlae
 
     @staticmethod
     def run(data, query, models):
@@ -81,4 +81,4 @@ class Evaluator:
                 'forced_repetitions': forced_repetitions
             }
 
-        print(results)
+        return results
