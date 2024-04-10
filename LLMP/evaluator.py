@@ -46,6 +46,8 @@ class Evaluator:
                             answer = L.LLaVA.query(query, image)
                         case "ChatGPT":
                             answer = L.ChatGPT.query(query, image)
+                        case "CustomLLaVA":
+                            answer = L.CustomLLaVA.query(query, image)
 
                     range = re.findall(r'\d+', answer)
                     if range:
@@ -62,7 +64,7 @@ class Evaluator:
 
 
             # Evaluation
-            midpoints;
+            midpoints = None
             if (len(parsed_answers[0])==1):
                 midpoints = [item for sublist in parsed_answers for item in sublist]
             else:    

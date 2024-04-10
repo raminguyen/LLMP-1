@@ -337,7 +337,7 @@ class Figure4:
     if current_max <= 9:
       # this won't work
       raise Exception('Out of bounds')
-
+    
     all_values[0] = np.random.randint(3,current_max/3.)
     
     all_values[1] = np.random.randint(3,current_max/3.)

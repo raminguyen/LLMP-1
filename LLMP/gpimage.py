@@ -3,6 +3,7 @@ from .ClevelandMcGill import Figure3
 from .ClevelandMcGill import Figure4
 from .ClevelandMcGill import Figure12
 from .ClevelandMcGill import Weber
+import numpy as np
 
 
 class GPImage:
@@ -50,6 +51,12 @@ class GPImage:
     @staticmethod
     def figure4(type):
         data, labels = Figure4.generate_datapoint()
+
+        current_max = 93-data[0]-data[1]
+        while current_max/3. <= 4:
+            data, labels = Figure4.generate_datapoint()
+            current_max = 93-data[0]-data[1]
+        
         match type:
             case "type1":
                 image = Figure4.data_to_type1(data)
@@ -59,7 +66,7 @@ class GPImage:
                 image = Figure4.data_to_type3(data)
             case "type4":
                 image = Figure4.data_to_type4(data)
-            case "type5":
+            case "type5":      
                 image = Figure4.data_to_type5(data)
 
         return image, labels
