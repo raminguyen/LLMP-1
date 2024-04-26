@@ -35,13 +35,24 @@ class CustomLLaVA:
             output = subprocess.run(command, shell=True, capture_output=True, text=True)
     
             output_text = output.stdout
-            result = re.search(r'(\d+)$', output_text)
+            #result = re.search(r'(\d+)(?:\.\d+)?$', output_text)
+            result = re.search(r'(\d+(?:\.\d+)?)$', output_text)
 
             if result:
                 extracted_number = result.group(1)
                 return extracted_number
             else:
-                print("Number not found.")
+                print(output)
+                """
+                while not result:
+                    print("Number not found.")
+                    print(output)
+                    output = subprocess.run(command, shell=True, capture_output=True, text=True) # run again
+                    output_text = output.stdout
+                    result = re.search(r'(\d+(?:\.\d+)?)$', output_text)
+                extracted_number = result.group(1)
+                return extracted_number"""
+                    
 
 
             

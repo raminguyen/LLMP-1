@@ -16,6 +16,9 @@ class GPImage:
             case "position_common_scale":
                 sparse, image, label, parameters = Figure1.position_common_scale()
 
+            case "position_non_aligned_scale":
+                sparse, image, label, parameters = Figure1.position_non_aligned_scale()
+
             case "length":
                 sparse, image, label, parameters = Figure1.length([False, False, False])
 

@@ -116,7 +116,7 @@ class Figure1:
 
     # draw spot
     half_spot_size = SPOT_SIZE / 2
-    image[Y-half_spot_size:Y+half_spot_size+1, X-half_spot_size:X+half_spot_size+1] = 1
+    image[int(Y-half_spot_size):int(Y+half_spot_size+1), int(X-half_spot_size):int(X+half_spot_size+1)] = 1
 
     label = Y + OFFSET - Figure1.DELTA_MIN
 

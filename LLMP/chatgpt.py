@@ -3,6 +3,7 @@ import png
 import io
 import numpy as np
 import base64
+import time
 
 class ChatGPT:
     
@@ -24,7 +25,7 @@ class ChatGPT:
         base64_image = base64.b64encode(png_bytes).decode('utf-8')
 
         # OpenAI API Key
-        api_key = "****************************"
+        api_key = "*************************************"
 
         headers = {
             "Content-Type": "application/json",
@@ -50,12 +51,40 @@ class ChatGPT:
             ]
             }
         ],
-        "max_tokens": 1600
+        "max_tokens": 400
         }
 
         response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
 
+
+        """
+        while response.status_code == 429 or response.status_code == 400 or response.status_code == 415 or response.status_code == 451:  
+            
+            try:
+                
+                error_info = response.json()
+                wait_seconds = float(error_info['error']['message'].split('in ')[1].split('s')[0])
+                print(f"Rate limit exceeded. Retrying after {wait_seconds} seconds.")
+                time.sleep(wait_seconds+1)
+                
+            except (KeyError, IndexError, ValueError):
+                print("Failed to parse retry time. Waiting 30 seconds.")
+                time.sleep(10)
+            time.sleep(10)
+            response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)"""
+
+
         response_json = response.json()
+
+        #############################################################
+        """
+        while ('error' in response_json):
+            #time.sleep(5)
+            response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
+            response_json = response.json()
+        """
+
+        #############################################################
 
         if ('error' in response_json):
             print('ERROR', response_json)
