@@ -67,9 +67,6 @@ class CustomLLaVA:
             captured_output = output_capture.getvalue()
             output_text = captured_output.strip().split('\n')[-1]
             
-            #output = subprocess.run(command, shell=True, capture_output=True, text=True)
-    
-            #output_text = output.stdout
             """
 
              # Capture the printed output
@@ -89,13 +86,16 @@ class CustomLLaVA:
                 captured_output = output_capture.getvalue().strip().split('\n')[-1]
 
 
+            return captured_output
+
+            """
             #result = re.search(r'(\d+(?:\.\d+)?)$', output_text)
             result = re.search(r'(\d+(?:\.\d+)?)$', captured_output)
             if result:
                 extracted_number = result.group(1)
                 return extracted_number
             else:
-                print(captured_output)
+                print(captured_output)"""
 
                     
 

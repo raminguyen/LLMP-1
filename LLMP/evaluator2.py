@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.metrics import mean_absolute_error
 import torch
 
-class Evaluator:
+class Evaluator2:
 
     # Calculate mean squared error (MSE)
     def calculate_mse(gt, answers):
@@ -58,57 +58,42 @@ class Evaluator:
                             answer = L.ChatGPT.query(query, image)
                         case "CustomLLaVA":
                             answer = L.CustomLLaVA.query(query, image)
-
-                    """
-                    ranges = re.findall(r'\b(\d+)(?:-(\d+))?\b', answer)
-                    if ranges:
-                        ranges_numbers = [num for range_tuple in ranges for num in range_tuple if num]
-                        ranges_numbers = [float(r) for r in ranges_numbers]"""
                         
-                    pattern = r'(?<![\d\w*.-])\d+(?:\.\d+)?(?:-(?:\d+(?:\.\d+)?))?(?![\d\w*.-])'
-                    matches = re.findall(pattern, answer)
+                    #pattern = r'(?<![\d\w*.-])\d+(?:\.\d+)?(?:-(?:\d+(?:\.\d+)?))?(?![\d\w*.-])'
+                    #matches = re.findall(pattern, answer)
 
-                    if matches:
-                        ranges_numbers = []
-                        FLAG = 0
-                        for match in matches:
-                            if '-' in match:
-                                FLAG = 1
-                                ranges_numbers.extend(match.split('-'))
-                                ranges_numbers = ranges_numbers[-2:]
-                            else:
-                                ranges_numbers.append(match)
-                        if (FLAG == 0):
-                            ranges_numbers = ranges_numbers[-1:]
-                        ranges_numbers = [float(r) for r in ranges_numbers]
-                        
+                    values = re.findall(r'(\d+\.\d+)', answer)
+                    
+
+                    if (len(values) != 5):
+                        values = values[-5:]
+
+                    ranges_numbers = [float(val) for val in values]
+
+                    if len(values) == 5:
                         raw_answers.append(answer)
                         parsed_answers.append(ranges_numbers)
                         FLAG = True
                         end_time = time.time()
                         times.append((end_time - start_time) * 1000)
                         if model_name == "ChatGPT":
-                            time.sleep(5)  # Avoid hitting rate limits!
+                            time.sleep(2)  # Avoid hitting rate limits!
                     else:
                         forced_repetitions += 1
                         if model_name == "ChatGPT":
-                            time.sleep(5)  # Avoid hitting rate limits!
+                            time.sleep(2)  # Avoid hitting rate limits!
 
-
-            # Evaluation
-            midpoints = None
-            """
-            if (len(parsed_answers[0])==1):
-                midpoints = [item for sublist in parsed_answers for item in sublist]
-            else:   
-                midpoints = [(a+b)/2 for a, b in parsed_answers]"""
-            midpoints = [(sum(sublist) // 2) if len(sublist) > 1 else sublist[0] for sublist in parsed_answers]
 
                 
-            mse = Evaluator.calculate_mse(gt, midpoints)
-            mlae = Evaluator.calculate_mlae(gt, midpoints)
-            mean = Evaluator.calculate_mean(midpoints)
-            std = Evaluator.calculate_std(midpoints)
+            mse = Evaluator2.calculate_mse(gt, parsed_answers)
+            mlae = Evaluator2.calculate_mlae(gt, parsed_answers)
+            #mean = Evaluator2.calculate_mean(parsed_answers)
+            #std = Evaluator2.calculate_std(parsed_answers)
+
+            #mse = 0
+            #mlae = 0
+            mean = None
+            std = None
 
             results[model_name] = {
                 'parameters': None, 
