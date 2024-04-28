@@ -102,7 +102,7 @@ class Evaluator:
                 midpoints = [item for sublist in parsed_answers for item in sublist]
             else:   
                 midpoints = [(a+b)/2 for a, b in parsed_answers]"""
-            midpoints = [(sum(sublist) // 2) if len(sublist) > 1 else sublist[0] for sublist in parsed_answers]
+            midpoints = [(sum(sublist) / 2) if len(sublist) > 1 else sublist[0] for sublist in parsed_answers]
 
                 
             mse = Evaluator.calculate_mse(gt, midpoints)
