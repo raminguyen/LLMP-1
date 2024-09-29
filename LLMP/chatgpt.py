@@ -12,13 +12,13 @@ import time  # Import time for sleep functionality
 load_dotenv()
 
 print('chatgpt_api_key')
+print(os.getcwd())
 # Get the API key from the .env file
 chatgpt_api_key = os.getenv('chatgpt_api_key')
 
 if not chatgpt_api_key:
     raise ValueError("API key not found. Please ensure your .env file contains the API key.")
 
-#chatgpt_api_key = "*****"
 
 class GPTModel:
     
