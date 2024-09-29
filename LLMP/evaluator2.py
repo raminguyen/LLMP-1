@@ -8,27 +8,24 @@ import torch
 
 class Evaluator2:
 
-    # Calculate mean squared error (MSE)
+    @staticmethod
     def calculate_mse(gt, answers):
         gt_array = np.array(gt)
         answers_array = np.array(answers)
+        return mean_squared_error(gt_array, answers_array)
 
-        return mean_squared_error(gt_array,answers_array)
-
-    
-    # Calculate midmean logistic absoulte error (MALE)
+    @staticmethod
     def calculate_mlae(gt, answers):
         gt_array = np.array(gt)
         answers_array = np.array(answers)
-
-        mlae = np.log2(mean_absolute_error(gt_array*100, answers_array*100) + .125)
+        mlae = np.log2(mean_absolute_error(gt_array * 100, answers_array * 100) + .125)
         return mlae
 
-    # Calculate mean
+    @staticmethod
     def calculate_mean(answers):
         return np.mean(answers)
 
-    # Calculate std
+    @staticmethod
     def calculate_std(answers):
         return np.std(answers)
 
@@ -38,73 +35,63 @@ class Evaluator2:
         gt = [d[1] for d in data]
         results = {'gt': gt}
 
-        for model_name in models:
-            raw_answers = []
-            parsed_answers = []
-            forced_repetitions = 0
-            times = []
+        for model_name, model_instance in models.items():
+            results[model_name] = {}
+            # Run three times to calculate STD
+            mlae_list = []
+            
+            for i in range(3):
+            
+                raw_answers = []
+                parsed_answers = []
+                forced_repetitions = 0
+                times = []
 
-            for image in images:
-                torch.torch.cuda.empty_cache()
-                FLAG = False
-                start_time = time.time()
+                for image in images:
+                    torch.cuda.empty_cache()
+                    FLAG = False
+                    start_time = time.time()
 
-                while not FLAG:
-                    answer = ""
-                    match model_name:
-                        case "LLaVA":
-                            answer = L.LLaVA.query(query, image)
-                        case "ChatGPT":
-                            answer = L.ChatGPT.query(query, image)
-                        case "CustomLLaVA":
-                            answer = L.CustomLLaVA.query(query, image)
-                        
-                    #pattern = r'(?<![\d\w*.-])\d+(?:\.\d+)?(?:-(?:\d+(?:\.\d+)?))?(?![\d\w*.-])'
-                    #matches = re.findall(pattern, answer)
+                    while not FLAG:
+                        answer = model_instance.query(query, image)
 
-                    values = re.findall(r'(\d+\.\d+)', answer)
-                    
+                        values = re.findall(r'(\d+\.\d+)', answer)
+    
+                        if len(values) != 5:
+                            values = values[-5:]
 
-                    if (len(values) != 5):
-                        values = values[-5:]
+                        ranges_numbers = [float(val) for val in values]
 
-                    ranges_numbers = [float(val) for val in values]
+                        if len(values) == 5:
+                            raw_answers.append(answer)
+                            parsed_answers.append(ranges_numbers)
+                            FLAG = True
+                            end_time = time.time()
+                            times.append((end_time - start_time) * 1000)
+                            if "GPT" in model_name:
+                                time.sleep(2)  # Avoid hitting rate limits!
+                        else:
+                            forced_repetitions += 1
+                            if "GPT" in model_name:
+                                time.sleep(2)  # Avoid hitting rate limits!
 
-                    if len(values) == 5:
-                        raw_answers.append(answer)
-                        parsed_answers.append(ranges_numbers)
-                        FLAG = True
-                        end_time = time.time()
-                        times.append((end_time - start_time) * 1000)
-                        if model_name == "ChatGPT":
-                            time.sleep(2)  # Avoid hitting rate limits!
-                    else:
-                        forced_repetitions += 1
-                        if model_name == "ChatGPT":
-                            time.sleep(2)  # Avoid hitting rate limits!
+                mse = Evaluator2.calculate_mse(gt, parsed_answers)
+                mlae = Evaluator2.calculate_mlae(gt, parsed_answers)
+                mean = None
 
+                mlae_list.append(mlae)
 
-                
-            mse = Evaluator2.calculate_mse(gt, parsed_answers)
-            mlae = Evaluator2.calculate_mlae(gt, parsed_answers)
-            #mean = Evaluator2.calculate_mean(parsed_answers)
-            #std = Evaluator2.calculate_std(parsed_answers)
+                results[model_name][f"run_{i}"] = {
+                    'raw_answers': raw_answers,
+                    'parsed_answers': parsed_answers,
+                    'mean': mean,
+                    'mse': mse,
+                    'mlae': mlae,
+                    'times': times,
+                    'forced_repetitions': forced_repetitions
+                }
 
-            #mse = 0
-            #mlae = 0
-            mean = None
-            std = None
-
-            results[model_name] = {
-                'parameters': None, 
-                'raw_answers': raw_answers,
-                'parsed_answers': parsed_answers,
-                'mean': mean,
-                'std': std,
-                'mse': mse, 
-                'mlae': mlae, 
-                'times': times,
-                'forced_repetitions': forced_repetitions
-            }
+            results[model_name]['average_mlae'] = Evaluator.calculate_mean(mlae_list)
+            results[model_name]['std'] = Evaluator.calculate_std(mlae_list)
 
         return results

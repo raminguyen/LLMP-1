@@ -7,7 +7,7 @@ import io
 import numpy as np
 import base64
 
-
+import time
 import torch
 
 from llava.constants import (
@@ -29,8 +29,6 @@ from llava.mm_utils import (
 
 from PIL import Image
 import requests
-
-
 
 
 class LLaVA:
@@ -107,6 +105,9 @@ class LLaVA:
 
         # image_files = image_parser(args)
         # images = load_images(image_files)
+
+        # Add a delay before processing the image
+        time.sleep(3)
 
         size = image.shape[0]
         grayscale = np.zeros((size,size), dtype=np.uint8)
@@ -188,5 +189,4 @@ class LLaVA:
 
         return outputs
         # print(outputs)
-
 

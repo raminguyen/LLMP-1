@@ -3,17 +3,63 @@ import png
 import io
 import numpy as np
 import base64
-import time
+import os
+from dotenv import load_dotenv
+import time  # Import time for sleep functionality
 
-class ChatGPT:
+
+# Load environment variables from the .env file
+load_dotenv()
+
+print('chatgpt_api_key')
+# Get the API key from the .env file
+chatgpt_api_key = os.getenv('chatgpt_api_key')
+
+if not chatgpt_api_key:
+    raise ValueError("API key not found. Please ensure your .env file contains the API key.")
+
+#chatgpt_api_key = "*****"
+
+class GPTModel:
     
-    @staticmethod
-    def query(question, image):
+    def __init__(self, model_name):
+        print(f"Initializing GPTModel with model_name: {model_name}")
+        self.model_name = model_name
+        self.api_key = chatgpt_api_key  # This should be a string
 
+    def query(self, question, image=None):
+        headers = {
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {self.api_key}"  # Should work if self.api_key is a string
+        }
+
+        # Prepare payload based on the model and whether an image is provided
+        if image is not None:
+            payload = self._prepare_payload_with_image(question, image)
+        else:
+            payload = self._prepare_payload_without_image(question)
+
+        # Add a delay before making the API request
+        time.sleep(5)  # Sleep for 5 seconds to avoid rate limits
+
+        # Make the API request
+        response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
+        response_json = response.json()
+
+        # Handle any errors
+        if 'error' in response_json:
+            print('ERROR', response_json)
+            return None
+
+        # Return the content from the response
+        if 'choices' in response_json:
+            return response_json['choices'][0]['message']['content']
+
+    def _prepare_payload_with_image(self, question, image):
         size = image.shape[0]
-        grayscale = np.zeros((size,size), dtype=np.uint8)
-        grayscale[image==0] = 255
-        grayscale[image==1] = 0
+        grayscale = np.zeros((size, size), dtype=np.uint8)
+        grayscale[image == 0] = 255
+        grayscale[image == 1] = 0
 
         png_image = png.from_array(grayscale, 'L')
 
@@ -24,72 +70,36 @@ class ChatGPT:
 
         base64_image = base64.b64encode(png_bytes).decode('utf-8')
 
-        # OpenAI API Key
-        api_key = "***************************************"
-
-        headers = {
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {api_key}"
+        return {
+            "model": self.model_name,
+            "messages": [
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": question
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                                "url": f"data:image/png;base64,{base64_image}"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "max_tokens": 400
         }
 
-        payload = {
-        "model": "gpt-4-vision-preview",
-        "messages": [
-            {
-            "role": "user",
-            "content": [
+    def _prepare_payload_without_image(self, question):
+        return {
+            "model": self.model_name,
+            "messages": [
                 {
-                "type": "text",
-                "text": question
-                },
-                {
-                "type": "image_url",
-                "image_url": {
-                    "url": f"data:image/png;base64,{base64_image}"
+                    "role": "user",
+                    "content": question
                 }
-                }
-            ]
-            }
-        ],
-        "max_tokens": 400
+            ],
+            "max_tokens": 400
         }
-
-        response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
-
-
-        """
-        while response.status_code == 429 or response.status_code == 400 or response.status_code == 415 or response.status_code == 451:  
-            
-            try:
-                
-                error_info = response.json()
-                wait_seconds = float(error_info['error']['message'].split('in ')[1].split('s')[0])
-                print(f"Rate limit exceeded. Retrying after {wait_seconds} seconds.")
-                time.sleep(wait_seconds+1)
-                
-            except (KeyError, IndexError, ValueError):
-                print("Failed to parse retry time. Waiting 30 seconds.")
-                time.sleep(10)
-            time.sleep(10)
-            response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)"""
-
-
-        response_json = response.json()
-
-        #############################################################
-        """
-        while ('error' in response_json):
-            #time.sleep(5)
-            response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
-            response_json = response.json()
-        """
-
-        #############################################################
-
-        if ('error' in response_json):
-            print('ERROR', response_json)
-
-        if 'choices' in response_json:
-            content_string = response_json['choices'][0]['message']['content']
-            return content_string  
-

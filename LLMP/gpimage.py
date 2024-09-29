@@ -5,73 +5,66 @@ from .ClevelandMcGill import Figure12
 from .ClevelandMcGill import Weber
 import numpy as np
 
-
 class GPImage:
     @staticmethod
     def figure1(task):
-        match task:
-            case "angle":
-                sparse, image, label, parameters = Figure1.angle()
-
-            case "position_common_scale":
-                sparse, image, label, parameters = Figure1.position_common_scale()
-
-            case "position_non_aligned_scale":
-                sparse, image, label, parameters = Figure1.position_non_aligned_scale()
-
-            case "length":
-                sparse, image, label, parameters = Figure1.length([False, False, False])
-
-            case "direction":
-                sparse, image, label, parameters = Figure1.direction()
-
-            case "area":
-                sparse, image, label, parameters = Figure1.area()
+        if task == "angle":
+            sparse, image, label, parameters = Figure1.angle()
+        elif task == "position_common_scale":
+            sparse, image, label, parameters = Figure1.position_common_scale()
+        elif task == "position_non_aligned_scale":
+            sparse, image, label, parameters = Figure1.position_non_aligned_scale()
+        elif task == "length":
+            sparse, image, label, parameters = Figure1.length([False, False, False])
+        elif task == "direction":
+            sparse, image, label, parameters = Figure1.direction()
+        elif task == "area":
+            sparse, image, label, parameters = Figure1.area()
+        elif task == "volume":
+            sparse, image, label, parameters = Figure1.volume()
+        elif task == "curvature":
+            sparse, image, label, parameters = Figure1.curvature()
+        elif task == "shading":
+            sparse, image, label, parameters = Figure1.shading()
+        else:
+            raise ValueError(f"Unknown task: {task}")
         
-            case "volume":
-                sparse, image, label, parameters = Figure1.volume()
-
-            case "curvature":
-                sparse, image, label, parameters = Figure1.curvature()
-
-            case "shading":
-                sparse, image, label, parameters = Figure1.shading()
-
         return image, label
     
     @staticmethod
     def figure3(type):
         data, labels = Figure3.generate_datapoint()
-        match type:
-            case "bar":
-                image = Figure3.data_to_barchart(data)
-            case "pie":
-                image = Figure3.data_to_piechart(data)
-
+        if type == "bar":
+            image = Figure3.data_to_barchart(data)
+        elif type == "pie":
+            image = Figure3.data_to_piechart(data)
+        else:
+            raise ValueError(f"Unknown type: {type}")
+        
         return image, labels
     
-
     @staticmethod
     def figure4(type):
         data, labels = Figure4.generate_datapoint()
-
-        current_max = 93-data[0]-data[1]
-        while current_max/3. <= 4:
-            data, labels = Figure4.generate_datapoint()
-            current_max = 93-data[0]-data[1]
+        current_max = 93 - data[0] - data[1]
         
-        match type:
-            case "type1":
-                image = Figure4.data_to_type1(data)
-            case "type2":
-                image = Figure4.data_to_type2(data)
-            case "type3":
-                image = Figure4.data_to_type3(data)
-            case "type4":
-                image = Figure4.data_to_type4(data)
-            case "type5":      
-                image = Figure4.data_to_type5(data)
-
+        while current_max / 3.0 <= 4:
+            data, labels = Figure4.generate_datapoint()
+            current_max = 93 - data[0] - data[1]
+        
+        if type == "type1":
+            image = Figure4.data_to_type1(data)
+        elif type == "type2":
+            image = Figure4.data_to_type2(data)
+        elif type == "type3":
+            image = Figure4.data_to_type3(data)
+        elif type == "type4":
+            image = Figure4.data_to_type4(data)
+        elif type == "type5":
+            image = Figure4.data_to_type5(data)
+        else:
+            raise ValueError(f"Unknown type: {type}")
+        
         return image, labels
     
     @staticmethod
@@ -83,14 +76,15 @@ class GPImage:
             image = Figure12.data_to_bars(data)
         return image, labels
     
-    
     @staticmethod
     def weber(dots):
-        match dots:
-            case "10":
-                image, label = Weber.base10()
-            case "100":
-                image, label = Weber.base100()
-            case "1000":
-                image, label = Weber.base1000()
+        if dots == "10":
+            image, label = Weber.base10()
+        elif dots == "100":
+            image, label = Weber.base100()
+        elif dots == "1000":
+            image, label = Weber.base1000()
+        else:
+            raise ValueError(f"Unknown dots: {dots}")
+        
         return image, label
