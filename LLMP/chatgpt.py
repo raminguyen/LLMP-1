@@ -11,8 +11,6 @@ import time  # Import time for sleep functionality
 # Load environment variables from the .env file
 load_dotenv()
 
-print('chatgpt_api_key')
-print(os.getcwd())
 # Get the API key from the .env file
 chatgpt_api_key = os.getenv('chatgpt_api_key')
 
