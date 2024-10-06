@@ -115,6 +115,7 @@ class Evaluator:
 
             results[model_name]['average_mlae'] = Evaluator.calculate_mean(mlae_list)
             results[model_name]['std'] = Evaluator.calculate_std(mlae_list)
+            results[model_name]['confidence'] = 1.96*bs.bootstrap(mlae_list, stat_func=bs_stats.std).value
             
         
         return results

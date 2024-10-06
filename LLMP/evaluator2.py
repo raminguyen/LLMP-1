@@ -2,23 +2,21 @@ import LLMP as L
 import re
 import time
 import numpy as np
-from sklearn.metrics import mean_squared_error
-from sklearn.metrics import mean_absolute_error
+from sklearn.metrics import mean_squared_error, mean_absolute_error
 import torch
 
 class Evaluator2:
-
     @staticmethod
     def calculate_mse(gt, answers):
-        gt_array = np.array(gt)
-        answers_array = np.array(answers)
+        gt_array = np.array(gt).flatten()  # Flatten to ensure 1D array
+        answers_array = np.array(answers).flatten()  # Flatten to ensure 1D array
         return mean_squared_error(gt_array, answers_array)
 
     @staticmethod
     def calculate_mlae(gt, answers):
-        gt_array = np.array(gt)
-        answers_array = np.array(answers)
-        mlae = np.log2(mean_absolute_error(gt_array * 100, answers_array * 100) + .125)
+        gt_array = np.array(gt).flatten()  # Flatten to ensure 1D array
+        answers_array = np.array(answers).flatten()  # Flatten to ensure 1D array
+        mlae = np.log2(mean_absolute_error(gt_array * 100, answers_array * 100) + 0.125)
         return mlae
 
     @staticmethod
@@ -93,5 +91,6 @@ class Evaluator2:
 
             results[model_name]['average_mlae'] = Evaluator.calculate_mean(mlae_list)
             results[model_name]['std'] = Evaluator.calculate_std(mlae_list)
+            results[model_name]['confidence'] = 1.96*bs.bootstrap(mlae_list, stat_func=bs_stats.std).value
 
         return results
