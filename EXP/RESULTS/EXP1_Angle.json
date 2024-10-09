@@ -1,0 +1,64 @@
+{
+    "gt": [
+        6
+    ],
+    "llava-1.5-7b-hf": {
+        "run_0": {
+            "raw_answers": [
+                "\n\n            USER:  \n\n            \n            This image contains a simple line drawing that forms an acute angle. Please estimate the angle. Please respond with a possible range not larger than 10 degrees and report just the numbers.\n            \n            \nASSISTANT:\n            \n            \n            The line is pointing at an angle of approximately 45 degrees."
+            ],
+            "parsed_answers": [
+                [
+                    10.0,
+                    45.0
+                ]
+            ],
+            "mean": 27.5,
+            "mse": 462.25,
+            "mlae": 11.07020481965727,
+            "times": [
+                6395.754337310791
+            ],
+            "forced_repetitions": 0
+        },
+        "run_1": {
+            "raw_answers": [
+                "\n\n            USER:  \n\n            \n            This image contains a simple line drawing that forms an acute angle. Please estimate the angle. Please respond with a possible range not larger than 10 degrees and report just the numbers.\n            \n            \nASSISTANT:\n            \n            \n            The line is pointing at an angle of approximately 45 degrees."
+            ],
+            "parsed_answers": [
+                [
+                    10.0,
+                    45.0
+                ]
+            ],
+            "mean": 27.5,
+            "mse": 462.25,
+            "mlae": 11.07020481965727,
+            "times": [
+                4447.832107543945
+            ],
+            "forced_repetitions": 0
+        },
+        "run_2": {
+            "raw_answers": [
+                "\n\n            USER:  \n\n            \n            This image contains a simple line drawing that forms an acute angle. Please estimate the angle. Please respond with a possible range not larger than 10 degrees and report just the numbers.\n            \n            \nASSISTANT:\n            \n            \n            The line is pointing at an angle of approximately 45 degrees."
+            ],
+            "parsed_answers": [
+                [
+                    10.0,
+                    45.0
+                ]
+            ],
+            "mean": 27.5,
+            "mse": 462.25,
+            "mlae": 11.07020481965727,
+            "times": [
+                4646.560430526733
+            ],
+            "forced_repetitions": 0
+        },
+        "average_mlae": 11.07020481965727,
+        "std": 0.0,
+        "confidence": 0.0
+    }
+}

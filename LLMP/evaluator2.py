@@ -4,8 +4,14 @@ import time
 import numpy as np
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 import torch
+import bootstrapped.bootstrap as bs
+import bootstrapped.stats_functions as bs_stats
 
 class Evaluator2:
+
+    def __init__(self):
+        self.results = None
+    
     @staticmethod
     def calculate_mse(gt, answers):
         gt_array = np.array(gt).flatten()  # Flatten to ensure 1D array
@@ -27,8 +33,8 @@ class Evaluator2:
     def calculate_std(answers):
         return np.std(answers)
 
-    @staticmethod
-    def run(data, query, models):
+    def run(self, data, query, models):
+        """Run experiments."""
         images = [d[0] for d in data]
         gt = [d[1] for d in data]
         results = {'gt': gt}
@@ -91,6 +97,24 @@ class Evaluator2:
 
             results[model_name]['average_mlae'] = Evaluator.calculate_mean(mlae_list)
             results[model_name]['std'] = Evaluator.calculate_std(mlae_list)
-            results[model_name]['confidence'] = 1.96*bs.bootstrap(mlae_list, stat_func=bs_stats.std).value
+            results[model_name]['confidence'] = 1.96*bs.bootstrap(np.array(mlae_list), stat_func=bs_stats.std).value
 
-        return results
+        self.results = results
+
+        return self.results
+
+    def get_results(self):
+            """Retrieve the stored results."""
+            if self.results is None:
+                raise ValueError("No results found. Run the 'run' method first.")
+            return self.results
+
+    def save_results(self, filename):
+        """Save the results."""
+        if self.results is None:
+            raise ValueError("No results found. Run the 'run' method first.")
+
+        with open(filename, 'w') as json_file:
+            json.dump(self.results, json_file, indent=4) 
+
+
