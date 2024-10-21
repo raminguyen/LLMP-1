@@ -21,7 +21,7 @@ class Evaluator4:
     def calculate_mlae(gt, answers):
         gt_array = np.array(gt).flatten()  # Flatten to ensure 1D array
         answers_array = np.array(answers).flatten()  # Flatten to ensure 1D array
-        mlae = np.log2(mean_absolute_error(gt_array * 100, answers_array * 100) + 0.125)
+        mlae = np.log2(mean_absolute_error(gt_array, answers_array) + 0.125)
         return mlae
 
     @staticmethod

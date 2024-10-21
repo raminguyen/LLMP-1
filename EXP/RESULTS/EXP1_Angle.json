@@ -1,64 +1,77 @@
 {
     "gt": [
-        6
+        34,
+        4
     ],
-    "llava-1.5-7b-hf": {
+    "fineTunedllama": {
         "run_0": {
             "raw_answers": [
-                "\n\n            USER:  \n\n            \n            This image contains a simple line drawing that forms an acute angle. Please estimate the angle. Please respond with a possible range not larger than 10 degrees and report just the numbers.\n            \n            \nASSISTANT:\n            \n            \n            The line is pointing at an angle of approximately 45 degrees."
+                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n30",
+                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n45"
             ],
             "parsed_answers": [
                 [
-                    10.0,
+                    30.0
+                ],
+                [
                     45.0
                 ]
             ],
-            "mean": 27.5,
-            "mse": 462.25,
-            "mlae": 11.07020481965727,
+            "mean": 37.5,
+            "mse": 848.5,
+            "mlae": 11.135789433602595,
             "times": [
-                6395.754337310791
+                6434.012413024902,
+                6037.961006164551
             ],
             "forced_repetitions": 0
         },
         "run_1": {
             "raw_answers": [
-                "\n\n            USER:  \n\n            \n            This image contains a simple line drawing that forms an acute angle. Please estimate the angle. Please respond with a possible range not larger than 10 degrees and report just the numbers.\n            \n            \nASSISTANT:\n            \n            \n            The line is pointing at an angle of approximately 45 degrees."
+                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n90",
+                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n15"
             ],
             "parsed_answers": [
                 [
-                    10.0,
-                    45.0
+                    90.0
+                ],
+                [
+                    15.0
                 ]
             ],
-            "mean": 27.5,
-            "mse": 462.25,
-            "mlae": 11.07020481965727,
+            "mean": 52.5,
+            "mse": 1628.5,
+            "mlae": 11.709999211132706,
             "times": [
-                4447.832107543945
+                5999.291658401489,
+                6104.198455810547
             ],
             "forced_repetitions": 0
         },
         "run_2": {
             "raw_answers": [
-                "\n\n            USER:  \n\n            \n            This image contains a simple line drawing that forms an acute angle. Please estimate the angle. Please respond with a possible range not larger than 10 degrees and report just the numbers.\n            \n            \nASSISTANT:\n            \n            \n            The line is pointing at an angle of approximately 45 degrees."
+                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n30",
+                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n90"
             ],
             "parsed_answers": [
                 [
-                    10.0,
-                    45.0
+                    30.0
+                ],
+                [
+                    90.0
                 ]
             ],
-            "mean": 27.5,
-            "mse": 462.25,
-            "mlae": 11.07020481965727,
+            "mean": 60.0,
+            "mse": 3706.0,
+            "mlae": 12.135749360410061,
             "times": [
-                4646.560430526733
+                6193.588972091675,
+                6096.835136413574
             ],
             "forced_repetitions": 0
         },
-        "average_mlae": 11.07020481965727,
-        "std": 0.0,
-        "confidence": 0.0
+        "average_mlae": 11.660512668381786,
+        "std": 0.40972889593020523,
+        "confidence": 0.8030686360232022
     }
 }
