@@ -1,15 +1,2012 @@
 {
     "gt": [
-        34,
-        4
+        47,
+        31,
+        53,
+        17,
+        12,
+        28,
+        6,
+        20,
+        49,
+        38,
+        22,
+        70,
+        35,
+        21,
+        64,
+        52,
+        81,
+        10,
+        48,
+        62,
+        51,
+        83,
+        41,
+        63,
+        31,
+        12,
+        72,
+        90,
+        50,
+        46,
+        80,
+        24,
+        6,
+        53,
+        55,
+        49,
+        82,
+        20,
+        35,
+        90,
+        65,
+        55,
+        43,
+        33,
+        41,
+        61,
+        1,
+        80,
+        33,
+        79,
+        40,
+        5,
+        23,
+        15,
+        39
     ],
-    "fineTunedllama": {
+    "gpt4o": {
         "run_0": {
             "raw_answers": [
-                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n30",
-                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n45"
+                "45",
+                "50",
+                "45",
+                "40",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "50",
+                "60",
+                "45",
+                "35",
+                "45",
+                "45",
+                "45",
+                "50",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "50",
+                "45",
+                "50",
+                "45",
+                "45",
+                "45",
+                "30",
+                "49",
+                "45",
+                "45"
             ],
             "parsed_answers": [
+                [
+                    45.0
+                ],
+                [
+                    50.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    40.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    50.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    35.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    50.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    50.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    50.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    49.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ]
+            ],
+            "mean": 45.25454545454546,
+            "mse": 545.3636363636364,
+            "mlae": 4.287250643254617,
+            "times": [
+                6506.136178970337,
+                20435.565948486328,
+                6626.754283905029,
+                5733.746767044067,
+                5901.92174911499,
+                6565.0975704193115,
+                6474.880695343018,
+                7395.00880241394,
+                42230.58581352234,
+                7356.216907501221,
+                5616.328239440918,
+                6805.682897567749,
+                6166.9511795043945,
+                6871.722459793091,
+                5860.359907150269,
+                10025.257587432861,
+                5866.324663162231,
+                11978.085041046143,
+                5602.30016708374,
+                5886.741638183594,
+                6380.544424057007,
+                5612.425804138184,
+                12715.146541595459,
+                5730.173587799072,
+                10096.088647842407,
+                6463.677883148193,
+                6028.306245803833,
+                12745.57638168335,
+                140779.64544296265,
+                18742.20871925354,
+                6423.950433731079,
+                6528.112173080444,
+                5964.859485626221,
+                6181.869029998779,
+                23596.065044403076,
+                106607.96213150024,
+                5587.739944458008,
+                5762.907981872559,
+                35196.690797805786,
+                5983.725309371948,
+                6552.901983261108,
+                7107.935667037964,
+                6216.256618499756,
+                6894.842147827148,
+                5639.865159988403,
+                14901.046752929688,
+                5655.381441116333,
+                143169.8350906372,
+                6501.36137008667,
+                5891.3915157318115,
+                6045.750617980957,
+                6605.155229568481,
+                39730.738401412964,
+                5633.673906326294,
+                37473.61445426941
+            ],
+            "forced_repetitions": 87
+        },
+        "run_1": {
+            "raw_answers": [
+                "45",
+                "60",
+                "45",
+                "45",
+                "45",
+                "45",
+                "40",
+                "45",
+                "45",
+                "30",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "30",
+                "45",
+                "45",
+                "45",
+                "44",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "30",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "65",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "30",
+                "40",
+                "45",
+                "45"
+            ],
+            "parsed_answers": [
+                [
+                    45.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    40.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    44.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    65.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    40.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ]
+            ],
+            "mean": 44.345454545454544,
+            "mse": 555.2545454545455,
+            "mlae": 4.297958390729342,
+            "times": [
+                6895.830869674683,
+                6901.319742202759,
+                6551.558971405029,
+                8915.605783462524,
+                5766.721248626709,
+                5703.149318695068,
+                5687.674522399902,
+                5834.381580352783,
+                18415.33327102661,
+                9203.871011734009,
+                5632.8125,
+                9242.94638633728,
+                5634.49501991272,
+                5877.029657363892,
+                6412.801265716553,
+                5754.631996154785,
+                6461.53712272644,
+                5656.411170959473,
+                6591.4857387542725,
+                5972.562551498413,
+                5755.247116088867,
+                5913.768529891968,
+                7021.477460861206,
+                5918.676376342773,
+                5706.279516220093,
+                5590.074777603149,
+                6481.457471847534,
+                5630.953073501587,
+                24428.569078445435,
+                5560.47797203064,
+                19279.858350753784,
+                6959.418296813965,
+                6494.673728942871,
+                5586.2486362457275,
+                5555.083513259888,
+                5874.704837799072,
+                6650.969982147217,
+                5648.103713989258,
+                5583.478689193726,
+                5826.549291610718,
+                6711.2135887146,
+                5582.463502883911,
+                5837.380647659302,
+                5815.970659255981,
+                5807.799339294434,
+                280087.8005027771,
+                5722.121477127075,
+                23245.612621307373,
+                5642.159461975098,
+                5982.772350311279,
+                5662.132740020752,
+                5533.482313156128,
+                41138.93485069275,
+                5754.921674728394,
+                18073.068141937256
+            ],
+            "forced_repetitions": 59
+        },
+        "run_2": {
+            "raw_answers": [
+                "45",
+                "45",
+                "45",
+                "53",
+                "45",
+                "45",
+                "30",
+                "45",
+                "30",
+                "45",
+                "60",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "30",
+                "60",
+                "45",
+                "40",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "30",
+                "45",
+                "45",
+                "45",
+                "45",
+                "45",
+                "30",
+                "45",
+                "45",
+                "45"
+            ],
+            "parsed_answers": [
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    53.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    40.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ]
+            ],
+            "mean": 44.236363636363635,
+            "mse": 566.4545454545455,
+            "mlae": 4.337419176629862,
+            "times": [
+                5590.693473815918,
+                18378.350496292114,
+                6717.347860336304,
+                6494.236946105957,
+                5866.547107696533,
+                6598.724126815796,
+                5960.150241851807,
+                5972.792148590088,
+                17819.215536117554,
+                5639.561653137207,
+                5665.725946426392,
+                5850.289106369019,
+                6643.435001373291,
+                6535.765647888184,
+                6464.316368103027,
+                42705.70206642151,
+                6461.3800048828125,
+                5993.79825592041,
+                5829.591512680054,
+                5951.30729675293,
+                5991.419553756714,
+                7115.803003311157,
+                27591.39657020569,
+                5706.309080123901,
+                11536.131858825684,
+                6921.334028244019,
+                5575.774908065796,
+                6500.50950050354,
+                57056.54859542847,
+                5563.431024551392,
+                7533.022403717041,
+                5696.295738220215,
+                5589.777946472168,
+                7301.974058151245,
+                5642.585754394531,
+                111953.24230194092,
+                6479.318141937256,
+                5773.826599121094,
+                110339.40505981445,
+                5815.500259399414,
+                5696.843862533569,
+                6450.77109336853,
+                6243.263483047485,
+                5900.686740875244,
+                6415.999174118042,
+                593153.1848907471,
+                6576.64942741394,
+                50481.47535324097,
+                5734.715938568115,
+                5855.260372161865,
+                6517.054080963135,
+                15950.530529022217,
+                5822.572708129883,
+                6670.920372009277,
+                7848.763704299927
+            ],
+            "forced_repetitions": 150
+        },
+        "average_mlae": 4.307542736871273,
+        "std": 0.021573366349615066,
+        "confidence": 0.04228379804524553
+    },
+    "CustomLLaMA": {
+        "run_0": {
+            "raw_answers": [
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n50",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n33",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n49",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n20",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n16",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n30",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n6",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n23",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n52",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n40",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n25",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n71",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n30",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n26",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n61",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n54",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n74",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n17",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n44",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n63",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n44",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n82",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n43",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n65",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n30",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n18",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n69",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n90",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n50",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n49",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n74",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n28",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n11",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n55",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n56",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n52",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n71",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n24",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n38",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n90",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n63",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n50",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n47",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n30",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n42",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n62",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n7",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n69",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n32",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n75",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n38",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n12",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n25",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n19",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n39"
+            ],
+            "parsed_answers": [
+                [
+                    50.0
+                ],
+                [
+                    33.0
+                ],
+                [
+                    49.0
+                ],
+                [
+                    20.0
+                ],
+                [
+                    16.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    6.0
+                ],
+                [
+                    23.0
+                ],
+                [
+                    52.0
+                ],
+                [
+                    40.0
+                ],
+                [
+                    25.0
+                ],
+                [
+                    71.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    26.0
+                ],
+                [
+                    61.0
+                ],
+                [
+                    54.0
+                ],
+                [
+                    74.0
+                ],
+                [
+                    17.0
+                ],
+                [
+                    44.0
+                ],
+                [
+                    63.0
+                ],
+                [
+                    44.0
+                ],
+                [
+                    82.0
+                ],
+                [
+                    43.0
+                ],
+                [
+                    65.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    18.0
+                ],
+                [
+                    69.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    50.0
+                ],
+                [
+                    49.0
+                ],
+                [
+                    74.0
+                ],
+                [
+                    28.0
+                ],
+                [
+                    11.0
+                ],
+                [
+                    55.0
+                ],
+                [
+                    56.0
+                ],
+                [
+                    52.0
+                ],
+                [
+                    71.0
+                ],
+                [
+                    24.0
+                ],
+                [
+                    38.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    63.0
+                ],
+                [
+                    50.0
+                ],
+                [
+                    47.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    42.0
+                ],
+                [
+                    62.0
+                ],
+                [
+                    7.0
+                ],
+                [
+                    69.0
+                ],
+                [
+                    32.0
+                ],
+                [
+                    75.0
+                ],
+                [
+                    38.0
+                ],
+                [
+                    12.0
+                ],
+                [
+                    25.0
+                ],
+                [
+                    19.0
+                ],
+                [
+                    39.0
+                ]
+            ],
+            "mean": 44.236363636363635,
+            "mse": 16.745454545454546,
+            "mlae": 1.772269580391705,
+            "times": [
+                2361.8369102478027,
+                385.8919143676758,
+                396.1484432220459,
+                398.1184959411621,
+                394.6712017059326,
+                402.646541595459,
+                406.3894748687744,
+                403.92112731933594,
+                399.7690677642822,
+                409.0721607208252,
+                402.10843086242676,
+                393.66888999938965,
+                395.71428298950195,
+                392.41790771484375,
+                396.8644142150879,
+                392.0762538909912,
+                403.64766120910645,
+                404.1712284088135,
+                398.85640144348145,
+                404.97660636901855,
+                421.5967655181885,
+                417.1476364135742,
+                399.7509479522705,
+                396.787166595459,
+                405.08294105529785,
+                408.3235263824463,
+                393.4335708618164,
+                399.3499279022217,
+                402.96196937561035,
+                393.3568000793457,
+                394.6716785430908,
+                393.21327209472656,
+                392.0888900756836,
+                527.7628898620605,
+                405.44891357421875,
+                393.46814155578613,
+                400.0535011291504,
+                394.08302307128906,
+                409.4352722167969,
+                399.75523948669434,
+                393.4760093688965,
+                396.97790145874023,
+                392.89331436157227,
+                442.54088401794434,
+                418.49541664123535,
+                419.4917678833008,
+                387.10856437683105,
+                403.52582931518555,
+                407.9709053039551,
+                405.14469146728516,
+                395.427942276001,
+                402.67324447631836,
+                395.160436630249,
+                402.54878997802734,
+                393.5973644256592
+            ],
+            "forced_repetitions": 0
+        },
+        "run_1": {
+            "raw_answers": [
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n52",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n32",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n50",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n20",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n17",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n31",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n8",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n23",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n52",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n39",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n25",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n70",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n32",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n26",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n63",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n57",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n74",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n15",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n44",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n64",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n45",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n79",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n41",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n64",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n30",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n15",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n70",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n89",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n49",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n49",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n72",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n26",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n12",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n57",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n56",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n54",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n72",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n25",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n39",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n86",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n60",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n52",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n47",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n30",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n39",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n60",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n1",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n70",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n33",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n76",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n42",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n10",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n26",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n17",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n38"
+            ],
+            "parsed_answers": [
+                [
+                    52.0
+                ],
+                [
+                    32.0
+                ],
+                [
+                    50.0
+                ],
+                [
+                    20.0
+                ],
+                [
+                    17.0
+                ],
+                [
+                    31.0
+                ],
+                [
+                    8.0
+                ],
+                [
+                    23.0
+                ],
+                [
+                    52.0
+                ],
+                [
+                    39.0
+                ],
+                [
+                    25.0
+                ],
+                [
+                    70.0
+                ],
+                [
+                    32.0
+                ],
+                [
+                    26.0
+                ],
+                [
+                    63.0
+                ],
+                [
+                    57.0
+                ],
+                [
+                    74.0
+                ],
+                [
+                    15.0
+                ],
+                [
+                    44.0
+                ],
+                [
+                    64.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    79.0
+                ],
+                [
+                    41.0
+                ],
+                [
+                    64.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    15.0
+                ],
+                [
+                    70.0
+                ],
+                [
+                    89.0
+                ],
+                [
+                    49.0
+                ],
+                [
+                    49.0
+                ],
+                [
+                    72.0
+                ],
+                [
+                    26.0
+                ],
+                [
+                    12.0
+                ],
+                [
+                    57.0
+                ],
+                [
+                    56.0
+                ],
+                [
+                    54.0
+                ],
+                [
+                    72.0
+                ],
+                [
+                    25.0
+                ],
+                [
+                    39.0
+                ],
+                [
+                    86.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    52.0
+                ],
+                [
+                    47.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    39.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    70.0
+                ],
+                [
+                    33.0
+                ],
+                [
+                    76.0
+                ],
+                [
+                    42.0
+                ],
+                [
+                    10.0
+                ],
+                [
+                    26.0
+                ],
+                [
+                    17.0
+                ],
+                [
+                    38.0
+                ]
+            ],
+            "mean": 44.09090909090909,
+            "mse": 15.654545454545454,
+            "mlae": 1.756829218527759,
+            "times": [
+                397.68314361572266,
+                392.87710189819336,
+                400.8755683898926,
+                414.34311866760254,
+                393.1701183319092,
+                394.93536949157715,
+                393.3377265930176,
+                408.832311630249,
+                397.1998691558838,
+                393.74446868896484,
+                397.6130485534668,
+                395.22337913513184,
+                454.9260139465332,
+                408.0212116241455,
+                439.0735626220703,
+                399.37710762023926,
+                396.8491554260254,
+                409.82937812805176,
+                403.51366996765137,
+                399.0046977996826,
+                403.86033058166504,
+                397.5796699523926,
+                402.4462699890137,
+                393.3534622192383,
+                397.458553314209,
+                393.57495307922363,
+                402.2507667541504,
+                416.74304008483887,
+                393.3734893798828,
+                397.34625816345215,
+                396.17276191711426,
+                407.53865242004395,
+                401.58534049987793,
+                392.96483993530273,
+                397.0921039581299,
+                395.43604850769043,
+                443.0689811706543,
+                430.0999641418457,
+                388.843297958374,
+                398.9431858062744,
+                398.0226516723633,
+                407.2566032409668,
+                390.05398750305176,
+                397.2914218902588,
+                401.9436836242676,
+                395.42388916015625,
+                402.7671813964844,
+                393.64123344421387,
+                400.1426696777344,
+                393.51630210876465,
+                407.4840545654297,
+                400.054931640625,
+                392.9145336151123,
+                397.46880531311035,
+                393.2981491088867
+            ],
+            "forced_repetitions": 0
+        },
+        "run_2": {
+            "raw_answers": [
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n51",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n31",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n51",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n21",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n16",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n31",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n8",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n23",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n51",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n39",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n26",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n68",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n32",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n25",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n63",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n57",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n75",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n16",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n44",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n64",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n43",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n79",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n42",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n65",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n30",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n15",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n69",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n90",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n49",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n46",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n72",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n25",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n13",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n56",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n56",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n50",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n73",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n26",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n38",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n87",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n60",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n53",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n48",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n30",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n40",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n60",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n8",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n70",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n33",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n77",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n40",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n11",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n25",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n20",
+                "user\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\n\nassistant\n\n38"
+            ],
+            "parsed_answers": [
+                [
+                    51.0
+                ],
+                [
+                    31.0
+                ],
+                [
+                    51.0
+                ],
+                [
+                    21.0
+                ],
+                [
+                    16.0
+                ],
+                [
+                    31.0
+                ],
+                [
+                    8.0
+                ],
+                [
+                    23.0
+                ],
+                [
+                    51.0
+                ],
+                [
+                    39.0
+                ],
+                [
+                    26.0
+                ],
+                [
+                    68.0
+                ],
+                [
+                    32.0
+                ],
+                [
+                    25.0
+                ],
+                [
+                    63.0
+                ],
+                [
+                    57.0
+                ],
+                [
+                    75.0
+                ],
+                [
+                    16.0
+                ],
+                [
+                    44.0
+                ],
+                [
+                    64.0
+                ],
+                [
+                    43.0
+                ],
+                [
+                    79.0
+                ],
+                [
+                    42.0
+                ],
+                [
+                    65.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    15.0
+                ],
+                [
+                    69.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    49.0
+                ],
+                [
+                    46.0
+                ],
+                [
+                    72.0
+                ],
+                [
+                    25.0
+                ],
+                [
+                    13.0
+                ],
+                [
+                    56.0
+                ],
+                [
+                    56.0
+                ],
+                [
+                    50.0
+                ],
+                [
+                    73.0
+                ],
+                [
+                    26.0
+                ],
+                [
+                    38.0
+                ],
+                [
+                    87.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    53.0
+                ],
+                [
+                    48.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    40.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    8.0
+                ],
+                [
+                    70.0
+                ],
+                [
+                    33.0
+                ],
+                [
+                    77.0
+                ],
+                [
+                    40.0
+                ],
+                [
+                    11.0
+                ],
+                [
+                    25.0
+                ],
+                [
+                    20.0
+                ],
+                [
+                    38.0
+                ]
+            ],
+            "mean": 44.163636363636364,
+            "mse": 16.2,
+            "mlae": 1.7412218177301706,
+            "times": [
+                403.0458927154541,
+                411.7603302001953,
+                393.1586742401123,
+                396.6808319091797,
+                398.3616828918457,
+                471.01759910583496,
+                424.3733882904053,
+                418.5829162597656,
+                386.90972328186035,
+                402.24385261535645,
+                403.3966064453125,
+                404.62327003479004,
+                397.65429496765137,
+                393.0075168609619,
+                408.97130966186523,
+                408.19501876831055,
+                393.1417465209961,
+                393.25618743896484,
+                400.1002311706543,
+                405.1339626312256,
+                408.19263458251953,
+                393.2065963745117,
+                389.6756172180176,
+                400.29263496398926,
+                403.383731842041,
+                396.55447006225586,
+                395.7977294921875,
+                406.28623962402344,
+                401.71003341674805,
+                419.2538261413574,
+                387.3560428619385,
+                423.03943634033203,
+                394.1624164581299,
+                403.2397270202637,
+                410.7508659362793,
+                393.02968978881836,
+                394.17433738708496,
+                397.27783203125,
+                394.359827041626,
+                393.73302459716797,
+                393.12195777893066,
+                397.6407051086426,
+                397.98855781555176,
+                409.1324806213379,
+                399.9981880187988,
+                394.24848556518555,
+                392.32826232910156,
+                405.6885242462158,
+                400.00009536743164,
+                406.6011905670166,
+                403.9146900177002,
+                398.3132839202881,
+                412.5642776489258,
+                436.34963035583496,
+                419.6586608886719
+            ],
+            "forced_repetitions": 0
+        },
+        "average_mlae": 1.7567735388832115,
+        "std": 0.012675257176585028,
+        "confidence": 0.024843504066106654
+    },
+    "LLaMA": {
+        "run_0": {
+            "raw_answers": [
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle in the image is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 45 degrees, one",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts an acute angle with a measure of approximately 35 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle in the image is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle marked as greater than 45",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image shows a right angle, which is 90 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 30 degrees. The",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image shows a right triangle with one angle labeled as 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle labeled as 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right angle, which is 90 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 90 degrees, as",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts an acute angle, which is less than 90 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\n**Step 1: Identify the given angle**\n\nThe given angle is a",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 45 degrees. Since",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle in the image is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\n**Step 1: Understand the Problem**\n\nThe problem asks for the exact",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 30 degrees. The",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees."
+            ],
+            "parsed_answers": [
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    35.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
                 [
                     30.0
                 ],
@@ -17,61 +2014,2376 @@
                     45.0
                 ]
             ],
-            "mean": 37.5,
-            "mse": 848.5,
-            "mlae": 11.135789433602595,
+            "mean": 45.945454545454545,
+            "mse": 729.2545454545455,
+            "mlae": 4.4969445386123725,
             "times": [
-                6434.012413024902,
-                6037.961006164551
+                39721.659898757935,
+                8105.409145355225,
+                8306.714296340942,
+                8253.761768341064,
+                7892.186403274536,
+                7807.117700576782,
+                24701.980113983154,
+                8418.396711349487,
+                7730.035305023193,
+                7760.329723358154,
+                8259.653091430664,
+                7971.353769302368,
+                8617.61736869812,
+                7784.028053283691,
+                7944.999694824219,
+                7968.848466873169,
+                17318.979263305664,
+                7769.69051361084,
+                8081.618547439575,
+                7878.962755203247,
+                8041.217088699341,
+                8225.265502929688,
+                7775.351762771606,
+                8071.211576461792,
+                8214.823722839355,
+                7860.429525375366,
+                8427.116632461548,
+                8399.503707885742,
+                8247.097969055176,
+                7661.9226932525635,
+                7829.175710678101,
+                8207.675218582153,
+                8009.254217147827,
+                8218.653202056885,
+                8311.695098876953,
+                8471.708297729492,
+                8013.734340667725,
+                8656.03756904602,
+                16151.519060134888,
+                7913.601636886597,
+                8492.13171005249,
+                8247.004747390747,
+                8439.110517501831,
+                7923.475980758667,
+                8169.453144073486,
+                7926.097631454468,
+                8075.5510330200195,
+                8249.567031860352,
+                8181.863069534302,
+                8057.718515396118,
+                8508.919954299927,
+                7710.243225097656,
+                8118.322849273682,
+                8471.24433517456,
+                8110.050678253174
+            ],
+            "forced_repetitions": 3
+        },
+        "run_1": {
+            "raw_answers": [
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe exact acute angle is 30 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image shows a right triangle with one angle labeled as 30 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle marked as 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image shows a right triangle with one angle measuring 45 degrees. Since",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle in the image is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right angle, which is equivalent to 90 degrees.\n\n",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts an acute angle, which is less than 90 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle labeled as 90 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right-angled triangle with one angle measuring 90 degrees",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image shows a right angle, which is 90 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\n**Step 1: Understand the question**\n\nThe question asks for the exact",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image shows a right triangle with one angle labeled as 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle labeled as 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image shows a right-angled triangle with one angle labeled as 30",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\n**Step 1: Understand the Problem**\n\nThe problem asks for the exact",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 90 degrees. The",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe angle is an acute angle, which means it is less than 90",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees."
+            ],
+            "parsed_answers": [
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ]
+            ],
+            "mean": 48.30909090909091,
+            "mse": 619.0363636363636,
+            "mlae": 4.383390116723488,
+            "times": [
+                7902.212619781494,
+                7877.329111099243,
+                9382.962226867676,
+                8540.753841400146,
+                8822.580337524414,
+                8392.091274261475,
+                8116.242408752441,
+                8572.05319404602,
+                7785.662651062012,
+                8348.734378814697,
+                8200.900793075562,
+                8388.644456863403,
+                7853.546142578125,
+                7955.622911453247,
+                8504.25672531128,
+                8577.203512191772,
+                8544.978618621826,
+                7922.613620758057,
+                8341.124296188354,
+                7896.520137786865,
+                8125.73504447937,
+                8641.968965530396,
+                8203.669548034668,
+                8101.632595062256,
+                8496.260643005371,
+                7780.716896057129,
+                8497.681856155396,
+                8491.11533164978,
+                8037.114381790161,
+                8370.348453521729,
+                7989.741325378418,
+                16715.144395828247,
+                8027.64105796814,
+                7784.559011459351,
+                7728.353977203369,
+                7885.418653488159,
+                8317.756414413452,
+                16681.894779205322,
+                8287.610054016113,
+                8023.997068405151,
+                7873.967409133911,
+                16465.26789665222,
+                8671.817064285278,
+                7804.651975631714,
+                7809.10587310791,
+                8108.854293823242,
+                8172.5873947143555,
+                7813.5645389556885,
+                7815.4096603393555,
+                8403.059482574463,
+                8626.238107681274,
+                8430.158615112305,
+                8038.408041000366,
+                7839.027881622314,
+                7723.029613494873
+            ],
+            "forced_repetitions": 3
+        },
+        "run_2": {
+            "raw_answers": [
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right-angled triangle with one angle measuring 45 degrees",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts an acute angle, which is less than 90 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image shows a right triangle with one angle labeled as 30 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right-angled triangle with one angle measuring 45 degrees",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right-angled triangle with one angle measuring 45 degrees",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle in the image is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 45 degrees. Since",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 45 degrees. The",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 45 degrees. Since",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\n**Step 1: Identify the acute angle**\n\nThe acute angle is den",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\n**Step 1: Identify the acute angle.**\n\nThe acute angle is",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image shows a right triangle with one angle labeled as 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 45 degrees. This",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image shows a right triangle with one angle labeled as 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 30 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle labeled as 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 45 degrees. Since",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 30 degrees. The",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe acute angle is 45 degrees.",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe image depicts a right triangle with one angle measuring 30 degrees. The",
+                "user\n\n\nWhat is the exact acute angle degree? Give your answer as a specific number.\nNo extra explanation is required.\n\nassistant\n\nThe angle in the image is 45 degrees."
+            ],
+            "parsed_answers": [
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ]
+            ],
+            "mean": 43.127272727272725,
+            "mse": 690.1454545454545,
+            "mlae": 4.397149532127523,
+            "times": [
+                8274.859189987183,
+                8412.846803665161,
+                8540.477752685547,
+                8313.451528549194,
+                8303.842067718506,
+                8253.828287124634,
+                8214.961767196655,
+                8021.3727951049805,
+                8221.492052078247,
+                8435.129404067993,
+                7799.9584674835205,
+                8054.632902145386,
+                8110.419988632202,
+                8339.504718780518,
+                8785.161018371582,
+                8035.93111038208,
+                7762.899160385132,
+                16729.72822189331,
+                8593.947887420654,
+                7722.412347793579,
+                7810.782194137573,
+                8266.640186309814,
+                8641.900300979614,
+                8128.326654434204,
+                8380.69200515747,
+                7971.108675003052,
+                7904.988050460815,
+                8371.447801589966,
+                8503.607273101807,
+                8634.690999984741,
+                7884.3700885772705,
+                7782.201290130615,
+                8059.687852859497,
+                8316.265344619751,
+                8261.894464492798,
+                8423.425674438477,
+                8494.720935821533,
+                16413.91372680664,
+                8231.140613555908,
+                8080.920457839966,
+                7811.094045639038,
+                8218.796968460083,
+                8121.412515640259,
+                8027.86660194397,
+                8575.249433517456,
+                8064.229249954224,
+                8032.09376335144,
+                8029.159307479858,
+                7859.543800354004,
+                8216.513872146606,
+                8203.261375427246,
+                8348.74963760376,
+                8084.182500839233,
+                16917.831659317017,
+                8335.332155227661
+            ],
+            "forced_repetitions": 3
+        },
+        "average_mlae": 4.425828062487795,
+        "std": 0.050599705271529315,
+        "confidence": 0.09917542233219745
+    },
+    "GeminiProVision": {
+        "run_0": {
+            "raw_answers": [
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "60\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "30\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45 degrees. \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45 degrees \n",
+                "45\u00b0 \n"
+            ],
+            "parsed_answers": [
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    30.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ]
+            ],
+            "mean": 45.0,
+            "mse": 576.9636363636364,
+            "mlae": 4.321764142953453,
+            "times": [
+                5856.524467468262,
+                5602.960824966431,
+                5642.019748687744,
+                5615.88191986084,
+                5723.599433898926,
+                5631.303071975708,
+                5604.694843292236,
+                5610.005855560303,
+                5620.18346786499,
+                6117.204666137695,
+                5775.852203369141,
+                5575.107097625732,
+                5581.923723220825,
+                5600.158452987671,
+                5577.731132507324,
+                5612.9302978515625,
+                5610.854387283325,
+                5581.069231033325,
+                5587.294816970825,
+                5576.547861099243,
+                5999.663352966309,
+                5580.29317855835,
+                5574.35941696167,
+                5568.260192871094,
+                5590.670108795166,
+                5578.946828842163,
+                5599.804401397705,
+                5581.864356994629,
+                5650.068759918213,
+                5571.246147155762,
+                5579.422473907471,
+                5601.454019546509,
+                5602.293491363525,
+                5576.943159103394,
+                5594.77972984314,
+                5597.440719604492,
+                5585.659503936768,
+                5592.6220417022705,
+                5575.545787811279,
+                5595.399618148804,
+                5591.354846954346,
+                5836.838245391846,
+                5730.795860290527,
+                5574.6893882751465,
+                5584.56826210022,
+                5589.233636856079,
+                5573.5814571380615,
+                5566.82276725769,
+                5589.157342910767,
+                5576.938629150391,
+                5573.96936416626,
+                5571.808099746704,
+                5602.294445037842,
+                5587.543487548828,
+                5685.447692871094
             ],
             "forced_repetitions": 0
         },
         "run_1": {
             "raw_answers": [
-                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n90",
-                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n15"
+                "45\u00b0 \n",
+                "45 degrees \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "25 degrees \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45 degrees \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "60\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45 degrees \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "26.6\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n"
             ],
             "parsed_answers": [
                 [
-                    90.0
+                    45.0
                 ],
                 [
-                    15.0
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    25.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    26.6
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
                 ]
             ],
-            "mean": 52.5,
-            "mse": 1628.5,
-            "mlae": 11.709999211132706,
+            "mean": 44.57454545454545,
+            "mse": 618.8756363636364,
+            "mlae": 4.352135742479887,
             "times": [
-                5999.291658401489,
-                6104.198455810547
+                5602.017164230347,
+                5586.504220962524,
+                5583.621501922607,
+                5568.964004516602,
+                5648.036003112793,
+                5591.9342041015625,
+                5602.737188339233,
+                5626.1560916900635,
+                5570.1353549957275,
+                5585.148334503174,
+                5576.286554336548,
+                5583.529233932495,
+                5834.366798400879,
+                5595.654726028442,
+                5558.829307556152,
+                5615.931510925293,
+                5725.238561630249,
+                5567.846059799194,
+                5573.547601699829,
+                5742.821931838989,
+                5577.682971954346,
+                5592.514753341675,
+                5577.691078186035,
+                5606.585741043091,
+                5585.700988769531,
+                5577.979803085327,
+                5588.085889816284,
+                5588.894605636597,
+                5569.564580917358,
+                5570.952653884888,
+                5575.120687484741,
+                5609.411716461182,
+                5578.848600387573,
+                5606.977939605713,
+                5585.0818157196045,
+                5617.684841156006,
+                5626.493453979492,
+                5582.541942596436,
+                5576.070785522461,
+                5602.832555770874,
+                5660.458087921143,
+                5615.2024269104,
+                5571.827173233032,
+                5576.29919052124,
+                5570.752859115601,
+                5596.128225326538,
+                5585.880756378174,
+                5568.699836730957,
+                5601.804971694946,
+                5551.341772079468,
+                5569.669485092163,
+                5575.186967849731,
+                5561.742544174194,
+                5600.233554840088,
+                5569.30685043335
             ],
             "forced_repetitions": 0
         },
         "run_2": {
             "raw_answers": [
-                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n30",
-                "user\n\nWhat is the exact size of this acute angle? No explanation needed. Just returns the number.assistant\n\n90"
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45 degrees \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "60\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45 degrees \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "60\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "60 degrees \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "20 degrees \n",
+                "45\u00b0 \n",
+                "60\u00b0 \n",
+                "45 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "60\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n",
+                "45\u00b0 \n"
             ],
             "parsed_answers": [
                 [
-                    30.0
+                    45.0
                 ],
                 [
-                    90.0
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    20.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
                 ]
             ],
-            "mean": 60.0,
-            "mse": 3706.0,
-            "mlae": 12.135749360410061,
+            "mean": 45.90909090909091,
+            "mse": 618.9636363636364,
+            "mlae": 4.363139212312871,
             "times": [
-                6193.588972091675,
-                6096.835136413574
+                5569.03600692749,
+                5608.778953552246,
+                5592.191219329834,
+                5615.1745319366455,
+                5571.257591247559,
+                5606.594800949097,
+                5578.662872314453,
+                5638.389587402344,
+                5603.472948074341,
+                5596.250534057617,
+                5568.742752075195,
+                5578.638076782227,
+                5586.712837219238,
+                5650.299549102783,
+                5610.78143119812,
+                5617.267608642578,
+                5579.291343688965,
+                5591.522216796875,
+                5565.474510192871,
+                5572.173833847046,
+                5571.7785358428955,
+                5597.864627838135,
+                5622.929334640503,
+                5600.060939788818,
+                5590.052366256714,
+                5619.175910949707,
+                5564.210653305054,
+                5579.109907150269,
+                5647.664308547974,
+                5583.62889289856,
+                5591.6900634765625,
+                5570.188045501709,
+                5567.7666664123535,
+                5579.665899276733,
+                5628.5600662231445,
+                5564.7852420806885,
+                5572.925329208374,
+                5572.742462158203,
+                5590.054512023926,
+                5651.826620101929,
+                5634.233713150024,
+                5579.333305358887,
+                5616.045713424683,
+                5579.253196716309,
+                5575.655937194824,
+                5584.4855308532715,
+                5575.174570083618,
+                5651.329517364502,
+                5576.436519622803,
+                5602.66900062561,
+                5591.269493103027,
+                5606.667280197144,
+                5577.777624130249,
+                5565.967559814453,
+                5588.3941650390625
             ],
             "forced_repetitions": 0
         },
-        "average_mlae": 11.660512668381786,
-        "std": 0.40972889593020523,
-        "confidence": 0.8030686360232022
+        "average_mlae": 4.345679699248737,
+        "std": 0.017497322876676994,
+        "confidence": 0.03429475283828691
+    },
+    "Gemini1_5Flash": {
+        "run_0": {
+            "raw_answers": [
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "45 \n"
+            ],
+            "parsed_answers": [
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ]
+            ],
+            "mean": 45.0,
+            "mse": 572.6,
+            "mlae": 4.321764142953453,
+            "times": [
+                5248.714923858643,
+                5252.198696136475,
+                5289.856195449829,
+                5297.18279838562,
+                5271.299839019775,
+                5295.618534088135,
+                5285.312175750732,
+                5270.503044128418,
+                5277.155637741089,
+                5305.462121963501,
+                5277.284622192383,
+                5284.11602973938,
+                5343.136548995972,
+                5229.249477386475,
+                5267.924547195435,
+                5299.445152282715,
+                5264.370441436768,
+                5275.571823120117,
+                5285.698413848877,
+                5247.457027435303,
+                5284.579038619995,
+                5280.867576599121,
+                5293.623208999634,
+                5271.17919921875,
+                5229.610443115234,
+                5262.869834899902,
+                5241.4257526397705,
+                5297.2962856292725,
+                5283.6549282073975,
+                5315.865039825439,
+                5247.092962265015,
+                5266.821622848511,
+                5298.0897426605225,
+                5279.717445373535,
+                5279.92057800293,
+                5327.735662460327,
+                5243.128776550293,
+                5280.997037887573,
+                5243.580341339111,
+                5232.334613800049,
+                5248.960018157959,
+                5297.893047332764,
+                5235.8551025390625,
+                5242.360591888428,
+                5250.555753707886,
+                5310.868501663208,
+                5262.0134353637695,
+                5245.9986209869385,
+                5279.021978378296,
+                5291.229248046875,
+                5247.34354019165,
+                5335.090398788452,
+                5752.579212188721,
+                5644.7296142578125,
+                5782.7253341674805
+            ],
+            "forced_repetitions": 0
+        },
+        "run_1": {
+            "raw_answers": [
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "90\n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "90\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "45\n"
+            ],
+            "parsed_answers": [
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ]
+            ],
+            "mean": 46.63636363636363,
+            "mse": 749.3272727272728,
+            "mlae": 4.435234593114134,
+            "times": [
+                5258.387804031372,
+                5297.130107879639,
+                5216.915845870972,
+                5257.474660873413,
+                5291.611671447754,
+                5273.547172546387,
+                5263.060569763184,
+                5233.216047286987,
+                5287.8124713897705,
+                5242.9516315460205,
+                5256.119966506958,
+                5247.040748596191,
+                5427.546739578247,
+                5992.291450500488,
+                5600.49295425415,
+                5250.598669052124,
+                5293.593168258667,
+                5254.365921020508,
+                5320.6000328063965,
+                5251.173257827759,
+                5286.174297332764,
+                5255.0084590911865,
+                5235.385179519653,
+                5248.730421066284,
+                5364.416837692261,
+                5241.930961608887,
+                5238.701820373535,
+                5254.774570465088,
+                5284.964799880981,
+                5232.043743133545,
+                5240.930795669556,
+                5255.5882930755615,
+                5237.750768661499,
+                5309.077501296997,
+                5244.552373886108,
+                5320.721864700317,
+                5240.672588348389,
+                5258.564710617065,
+                5233.388900756836,
+                5228.885889053345,
+                5269.440412521362,
+                5247.865915298462,
+                5261.595726013184,
+                5255.448579788208,
+                5250.068426132202,
+                5289.329767227173,
+                5220.223426818848,
+                5229.035139083862,
+                5266.082763671875,
+                5279.142379760742,
+                5240.100622177124,
+                5254.502058029175,
+                5246.329545974731,
+                5263.10920715332,
+                5251.800537109375
+            ],
+            "forced_repetitions": 0
+        },
+        "run_2": {
+            "raw_answers": [
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45 \n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "90\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "60\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "90\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45",
+                "45 \n",
+                "45 \n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45\n",
+                "45 \n",
+                "45 \n"
+            ],
+            "parsed_answers": [
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    60.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    90.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ],
+                [
+                    45.0
+                ]
+            ],
+            "mean": 46.90909090909091,
+            "mse": 615.4181818181818,
+            "mlae": 4.338716126973092,
+            "times": [
+                5304.5454025268555,
+                5238.580703735352,
+                5243.603229522705,
+                5291.194915771484,
+                5238.62624168396,
+                5253.296613693237,
+                5259.146928787231,
+                5234.947204589844,
+                5250.591039657593,
+                5267.49587059021,
+                5293.0004596710205,
+                5244.154453277588,
+                5276.427984237671,
+                5282.917737960815,
+                5286.710500717163,
+                5229.498624801636,
+                5266.5088176727295,
+                5266.361713409424,
+                5274.731159210205,
+                5238.357305526733,
+                5301.240682601929,
+                5250.575542449951,
+                5260.169506072998,
+                5260.2832317352295,
+                5258.428335189819,
+                5268.32127571106,
+                5247.084140777588,
+                5262.549877166748,
+                5227.297067642212,
+                5257.179021835327,
+                5248.526096343994,
+                5240.027189254761,
+                5238.462448120117,
+                5253.8275718688965,
+                5267.758846282959,
+                5277.275562286377,
+                5259.451150894165,
+                5236.4490032196045,
+                5243.252754211426,
+                5291.419506072998,
+                5284.838914871216,
+                5229.554653167725,
+                5291.549444198608,
+                5243.666887283325,
+                5264.927625656128,
+                5262.421369552612,
+                5323.4546184539795,
+                5237.388849258423,
+                5254.769086837769,
+                5273.848056793213,
+                5257.784366607666,
+                5232.479095458984,
+                5265.28525352478,
+                5277.043342590332,
+                5253.123044967651
+            ],
+            "forced_repetitions": 0
+        },
+        "average_mlae": 4.365238287680227,
+        "std": 0.0499763578861593,
+        "confidence": 0.09795366145687222
     }
 }

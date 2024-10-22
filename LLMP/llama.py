@@ -1,80 +1,62 @@
+import requests
+import png
+import io
 import numpy as np
+import base64
+import os
 import torch
-from transformers import AutoProcessor, BitsAndBytesConfig, AutoModelForVision2Seq
-from peft import PeftModel
+from transformers import AutoModelForPreTraining, TrainingArguments, Trainer, MllamaForConditionalGeneration, AutoProcessor, BitsAndBytesConfig, AutoModelForVision2Seq, pipeline, AutoModel
+from peft import LoraConfig, get_peft_model
 from PIL import Image
 
 
-import torch
-import numpy as np
-from PIL import Image
-from transformers import AutoModelForVision2Seq, AutoProcessor, BitsAndBytesConfig
-from peft import PeftModel
+class llama:
+    
+    def __init__(self, model_name):
+        print(f"Initializing llamaModel with model_name: {model_name}")
+        self.model_name = model_name
 
-class llamaModel:
-    def __init__(self, adapter_name):
-        print(f"Initializing llamaModel with adapter: {adapter_name}") 
-        self.model_name = "meta-llama/Llama-3.2-11B-Vision-Instruct"
-        
-        # Bits and Bytes configuration for efficient loading
-        self.bnb_config = BitsAndBytesConfig(
+    def query(self, question, image=None):
+
+        size = image.shape[0]
+        grayscale = np.zeros((size,size), dtype=np.uint8)
+        grayscale[image==0] = 255
+        grayscale[image==1] = 0
+
+        pil_image = Image.fromarray(grayscale)
+
+        # Bits and Bytes configuration
+        bnb_config = BitsAndBytesConfig(
             load_in_4bit=True,
             bnb_4bit_use_double_quant=True,
             bnb_4bit_quant_type="nf4",
             bnb_4bit_compute_dtype=torch.bfloat16
         )
-        
-        # Load the base model from the cache or local directory
-        self.model = AutoModelForVision2Seq.from_pretrained(
-            self.model_name,
-            device_map="cuda:0",  # Use GPU 0
-            torch_dtype=torch.bfloat16,
+
+        # Model and processor loading
+        model_id = "meta-llama/Llama-3.2-11B-Vision-Instruct"
+        model = AutoModelForPreTraining.from_pretrained(
+            model_id,
+            device_map="auto",   # Automatically map model to available devices (e.g., GPU)
+            torch_dtype=torch.bfloat16,  # Using bfloat16 for reduced memory usage
+            quantization_config=bnb_config,
             low_cpu_mem_usage=True
         )
-        
-        # Load the LoRA adapter for the base model
-        self.model = PeftModel.from_pretrained(
-            self.model, 
-            adapter_name  # Load adapter from the specified path
-        )
-                
-        # Load the processor from the same cache directory
-        self.processor = AutoProcessor.from_pretrained(
-            self.model_name
-        )
-    
-    def query(self, question, image):
-        # Convert NumPy image to grayscale
-        size = image.shape[0]
-        grayscale = np.zeros((size, size), dtype=np.uint8)
-        grayscale[image == 0] = 255
-        grayscale[image == 1] = 0
-        
-        # Convert NumPy array to PIL image and RGB format
-        pil_image = Image.fromarray(grayscale).convert("RGB")
-        
-        # Format the input text
-        text = (
-            f"<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n"
-            f"<|image|>{question}<|eot_id|>\n"
-            f"<|start_header_id|>assistant<|end_header_id|>\n\n"
-        )
 
-        # Process the input text and image to create a batch
-        batch = self.processor(text=text, images=pil_image, return_tensors="pt", padding=True).to("cuda")
+        image = pil_image.convert("RGB")
+
+
+        processor = AutoProcessor.from_pretrained(self.model_name)
+
+        model.tie_weights()
+        text = f"<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\n<|image|>{question}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+
+        # For inference, you only need to process the inputs, without handling labels or setting -100
+        batch = processor(text=text, images=image, return_tensors="pt", padding=True).to("cuda")
         
-        # Run inference using the model
-        outputs = self.model.generate(**batch, max_length=50)
+        # Run inference on the model with the preprocessed batch
+        outputs = model.generate(**batch, max_length=50)
         
         # Decode the generated output
-        decoded_output = self.processor.decode(outputs[0], skip_special_tokens=True)
+        decoded_output = processor.decode(outputs[0], skip_special_tokens=True)
         return decoded_output
-
-# Example usage:
-# llama = llamaModel("./kenichiLLMP/LLMP/my_model_llama")
-# result = llama.query("What is the angle in the image?", image_array)
-
-
-# Example usage:
-# llama = llamaModel("raminguyen/generated_images_360")
-# result = llama.query("What is the angle in the image?", image_array)

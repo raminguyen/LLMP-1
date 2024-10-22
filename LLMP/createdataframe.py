@@ -51,8 +51,8 @@ class CreateDataFrame:
             if 'average_mlae' in self.result[model_name]:
                 print(f"Model: {model_name}")
                 print(f"Average MLAE: {self.result[model_name]['average_mlae']}")
-                #print(f"Standard Deviation: {self.result[model_name]['std']}")
-                #print(f"Confidence: {self.result[model_name]['confidence']}\n")
+                print(f"Standard Deviation: {self.result[model_name]['std']}")
+                print(f"Confidence: {self.result[model_name]['confidence']}\n")
 
     # Function to display the created DataFrame
     def show_dataframe(self):

@@ -69,7 +69,7 @@ class Evaluator:
             # Run three times to calculate STD
             mlae_list = []
             
-            for i in range(1):
+            for i in range(3):
             
                 raw_answers = []
                 parsed_answers = []
