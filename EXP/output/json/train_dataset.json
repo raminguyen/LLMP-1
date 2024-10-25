@@ -1,0 +1,344 @@
+[
+    {
+        "id":"f7ad6788-16fc-4dee-bed3-afa897983fb5",
+        "image":"f7ad6788-16fc-4dee-bed3-afa897983fb5.jpg",
+        "question":"Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation.",
+        "value":46.0
+    },
+    {
+        "id":"37c3c81f-732e-49e2-8507-f1724260e963",
+        "image":"37c3c81f-732e-49e2-8507-f1724260e963.jpg",
+        "question":"Please estimate the curvature of the line. The more bend the line is, the higher the curvature. No explanation.",
+        "value":0.011
+    },
+    {
+        "id":"08064064-f30f-4962-a23d-e20689f2c41c",
+        "image":"08064064-f30f-4962-a23d-e20689f2c41c.jpg",
+        "question":"Please estimate the angle (0-90 degrees). No explanation.",
+        "value":72.0
+    },
+    {
+        "id":"c8e54e39-adf5-4d6c-982f-04ca05e163c2",
+        "image":"c8e54e39-adf5-4d6c-982f-04ca05e163c2.jpg",
+        "question":"Please estimate the shading density or texture density (range 0 to 100). No explanation.",
+        "value":62.0
+    },
+    {
+        "id":"bcbebf46-e495-48a5-870d-6b358e092b7a",
+        "image":"bcbebf46-e495-48a5-870d-6b358e092b7a.jpg",
+        "question":"Please estimate the area covered by the circle. The whole image is 100x100 with an area of 10000. No explanation.",
+        "value":314.159265359
+    },
+    {
+        "id":"e51813c9-2a22-44ea-b3ee-c006b761f7d3",
+        "image":"e51813c9-2a22-44ea-b3ee-c006b761f7d3.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":7.0
+    },
+    {
+        "id":"28d1272f-2035-4e8d-9eb2-312d9ba4bf3a",
+        "image":"28d1272f-2035-4e8d-9eb2-312d9ba4bf3a.jpg",
+        "question":"Please estimate the angle (0-90 degrees). No explanation.",
+        "value":57.0
+    },
+    {
+        "id":"7e685c71-f8d8-4113-aa04-ce1ef0cd713b",
+        "image":"7e685c71-f8d8-4113-aa04-ce1ef0cd713b.jpg",
+        "question":"Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. (0 is no curvature - 1 is the maximum curvature) No explanation.",
+        "value":1.0
+    },
+    {
+        "id":"ce2a4d2e-942a-4e8f-bdb1-4a8dfb28cfdf",
+        "image":"ce2a4d2e-942a-4e8f-bdb1-4a8dfb28cfdf.jpg",
+        "question":"Please estimate the shading density or texture density (range 0 to 100). No explanation.",
+        "value":97.0
+    },
+    {
+        "id":"8282cf9a-cf4a-4507-87dd-499efd05d41d",
+        "image":"8282cf9a-cf4a-4507-87dd-499efd05d41d.jpg",
+        "question":"Please estimate the curvature of the line. The more bend the line is, the higher the curvature. No explanation.",
+        "value":0.001
+    },
+    {
+        "id":"b7d7258f-a5f5-4dc6-9ba6-f8cf62a2c705",
+        "image":"b7d7258f-a5f5-4dc6-9ba6-f8cf62a2c705.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":36.0
+    },
+    {
+        "id":"da044e04-2697-4b04-9f0d-a957361e5bb1",
+        "image":"da044e04-2697-4b04-9f0d-a957361e5bb1.jpg",
+        "question":"Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. (0 is no curvature - 1 is the maximum curvature) No explanation.",
+        "value":8.0
+    },
+    {
+        "id":"d9fd6a98-0b89-4bb5-9c16-c2e2f9983fcf",
+        "image":"d9fd6a98-0b89-4bb5-9c16-c2e2f9983fcf.jpg",
+        "question":"Please estimate the angle (0-90 degrees). No explanation.",
+        "value":16.0
+    },
+    {
+        "id":"2790a767-8280-400c-ab71-27bb98460377",
+        "image":"2790a767-8280-400c-ab71-27bb98460377.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":33.0
+    },
+    {
+        "id":"d601bdc7-f3ab-4f6d-b34d-50784886471f",
+        "image":"d601bdc7-f3ab-4f6d-b34d-50784886471f.jpg",
+        "question":"Please estimate the curvature of the line. The more bend the line is, the higher the curvature. No explanation.",
+        "value":0.088
+    },
+    {
+        "id":"5a013b4d-e578-49aa-b73b-abeed292b055",
+        "image":"5a013b4d-e578-49aa-b73b-abeed292b055.jpg",
+        "question":"Please estimate the area covered by the circle. The whole image is 100x100 with an area of 10000. No explanation.",
+        "value":1256.6370614359
+    },
+    {
+        "id":"3852b198-0327-4d86-9651-3849e15c0eaa",
+        "image":"3852b198-0327-4d86-9651-3849e15c0eaa.jpg",
+        "question":"Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.",
+        "value":310.0
+    },
+    {
+        "id":"805aa22b-6d41-4b9c-abf8-6134471197f6",
+        "image":"805aa22b-6d41-4b9c-abf8-6134471197f6.jpg",
+        "question":"Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation.",
+        "value":58.0
+    },
+    {
+        "id":"e6da8241-f800-44c5-a275-9a7b6c7d547d",
+        "image":"e6da8241-f800-44c5-a275-9a7b6c7d547d.jpg",
+        "question":"Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation.",
+        "value":9.0
+    },
+    {
+        "id":"ee053910-5ef8-4f3f-8fda-ec6d830a4e4b",
+        "image":"ee053910-5ef8-4f3f-8fda-ec6d830a4e4b.jpg",
+        "question":"Please estimate the angle (0-90 degrees). No explanation.",
+        "value":50.0
+    },
+    {
+        "id":"6cef1752-29c0-4aca-9c15-cf4e439f6099",
+        "image":"6cef1752-29c0-4aca-9c15-cf4e439f6099.jpg",
+        "question":"Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. (0 is no curvature - 1 is the maximum curvature) No explanation.",
+        "value":64.0
+    },
+    {
+        "id":"be5f16da-ab5d-4222-8366-c755b2512f17",
+        "image":"be5f16da-ab5d-4222-8366-c755b2512f17.jpg",
+        "question":"Please estimate the shading density or texture density (range 0 to 100). No explanation.",
+        "value":42.0
+    },
+    {
+        "id":"189cc74f-2052-4983-81e6-66242f32bd4e",
+        "image":"189cc74f-2052-4983-81e6-66242f32bd4e.jpg",
+        "question":"Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. (0 is no curvature - 1 is the maximum curvature) No explanation.",
+        "value":6859.0
+    },
+    {
+        "id":"c1040c09-3d21-4d43-b4ee-01bea398b18c",
+        "image":"c1040c09-3d21-4d43-b4ee-01bea398b18c.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":34.0
+    },
+    {
+        "id":"42495119-f9da-4801-9d8e-df3e7ed55f01",
+        "image":"42495119-f9da-4801-9d8e-df3e7ed55f01.jpg",
+        "question":"Please estimate the shading density or texture density (range 0 to 100). No explanation.",
+        "value":63.0
+    },
+    {
+        "id":"36d18489-bfb6-4f2e-a238-86f3a981b917",
+        "image":"36d18489-bfb6-4f2e-a238-86f3a981b917.jpg",
+        "question":"Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. (0 is no curvature - 1 is the maximum curvature) No explanation.",
+        "value":6859.0
+    },
+    {
+        "id":"ace0e55f-8471-435a-bac6-7a2f9d4b3b2d",
+        "image":"ace0e55f-8471-435a-bac6-7a2f9d4b3b2d.jpg",
+        "question":"Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.",
+        "value":160.0
+    },
+    {
+        "id":"5d305e58-c8c1-4b00-b7dc-803b3322571b",
+        "image":"5d305e58-c8c1-4b00-b7dc-803b3322571b.jpg",
+        "question":"Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.",
+        "value":248.0
+    },
+    {
+        "id":"3678abab-454c-4f5d-9347-368e5b4edee8",
+        "image":"3678abab-454c-4f5d-9347-368e5b4edee8.jpg",
+        "question":"Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.",
+        "value":36.0
+    },
+    {
+        "id":"0c6e7e86-c0af-424f-96cb-d9e570c395f5",
+        "image":"0c6e7e86-c0af-424f-96cb-d9e570c395f5.jpg",
+        "question":"Please estimate the shading density or texture density (range 0 to 100). No explanation.",
+        "value":69.0
+    },
+    {
+        "id":"85c5cdf5-7ab5-494f-85a3-6a4bf10f8c13",
+        "image":"85c5cdf5-7ab5-494f-85a3-6a4bf10f8c13.jpg",
+        "question":"Please estimate the shading density or texture density (range 0 to 100). No explanation.",
+        "value":30.0
+    },
+    {
+        "id":"0adb60b0-39a7-4f3b-b552-fd49e0239261",
+        "image":"0adb60b0-39a7-4f3b-b552-fd49e0239261.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":21.0
+    },
+    {
+        "id":"7613ff0a-a503-4402-8edf-a06e96169eca",
+        "image":"7613ff0a-a503-4402-8edf-a06e96169eca.jpg",
+        "question":"Please estimate the angle (0-90 degrees). No explanation.",
+        "value":84.0
+    },
+    {
+        "id":"46f93b6a-25a4-44e8-9e60-d73c7bd41f71",
+        "image":"46f93b6a-25a4-44e8-9e60-d73c7bd41f71.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":38.0
+    },
+    {
+        "id":"a2cc851e-ffe0-4232-93bb-abf066335296",
+        "image":"a2cc851e-ffe0-4232-93bb-abf066335296.jpg",
+        "question":"Please estimate the area covered by the circle. The whole image is 100x100 with an area of 10000. No explanation.",
+        "value":1661.902513749
+    },
+    {
+        "id":"2cf52fe8-9e0a-49b3-8747-8cde6a42bd4b",
+        "image":"2cf52fe8-9e0a-49b3-8747-8cde6a42bd4b.jpg",
+        "question":"Please estimate the area covered by the circle. The whole image is 100x100 with an area of 10000. No explanation.",
+        "value":4300.8403427644
+    },
+    {
+        "id":"b86d37ba-39a2-471e-b757-31f5c56016a6",
+        "image":"b86d37ba-39a2-471e-b757-31f5c56016a6.jpg",
+        "question":"Please estimate the area covered by the circle. The whole image is 100x100 with an area of 10000. No explanation.",
+        "value":153.9380400259
+    },
+    {
+        "id":"3e26d551-a6cc-4763-8477-87a1aef347ea",
+        "image":"3e26d551-a6cc-4763-8477-87a1aef347ea.jpg",
+        "question":"Please estimate the shading density or texture density (range 0 to 100). No explanation.",
+        "value":18.0
+    },
+    {
+        "id":"3b142aaa-aa65-4053-9691-b97dce67db12",
+        "image":"3b142aaa-aa65-4053-9691-b97dce67db12.jpg",
+        "question":"Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation.",
+        "value":14.0
+    },
+    {
+        "id":"c4c29c4a-d4ec-408d-82eb-9bbde530a50e",
+        "image":"c4c29c4a-d4ec-408d-82eb-9bbde530a50e.jpg",
+        "question":"Please estimate the curvature of the line. The more bend the line is, the higher the curvature. No explanation.",
+        "value":0.029
+    },
+    {
+        "id":"3661a0bd-d9f9-4930-a394-3ff34680ad0c",
+        "image":"3661a0bd-d9f9-4930-a394-3ff34680ad0c.jpg",
+        "question":"Please estimate the curvature of the line. The more bend the line is, the higher the curvature. No explanation.",
+        "value":0.0
+    },
+    {
+        "id":"07581666-040d-4d50-b855-71f801a1ce19",
+        "image":"07581666-040d-4d50-b855-71f801a1ce19.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":14.0
+    },
+    {
+        "id":"c69b82f3-1b18-4667-b004-04a9f15b6470",
+        "image":"c69b82f3-1b18-4667-b004-04a9f15b6470.jpg",
+        "question":"Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. (0 is no curvature - 1 is the maximum curvature) No explanation.",
+        "value":4913.0
+    },
+    {
+        "id":"dfac5611-1256-4a0a-9748-c2a72f29e2b8",
+        "image":"dfac5611-1256-4a0a-9748-c2a72f29e2b8.jpg",
+        "question":"Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation.",
+        "value":20.0
+    },
+    {
+        "id":"4c157e91-a744-49d3-a3d2-f0808ad5716a",
+        "image":"4c157e91-a744-49d3-a3d2-f0808ad5716a.jpg",
+        "question":"Please estimate the shading density or texture density (range 0 to 100). No explanation.",
+        "value":55.0
+    },
+    {
+        "id":"11f1abfd-58fb-427c-b84d-80c9f84c4298",
+        "image":"11f1abfd-58fb-427c-b84d-80c9f84c4298.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":9.0
+    },
+    {
+        "id":"6a8bd890-4366-4424-90b8-6b9e1ba994f3",
+        "image":"6a8bd890-4366-4424-90b8-6b9e1ba994f3.jpg",
+        "question":"Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. (0 is no curvature - 1 is the maximum curvature) No explanation.",
+        "value":2197.0
+    },
+    {
+        "id":"49731e6e-ea68-4802-84a7-423642ac2457",
+        "image":"49731e6e-ea68-4802-84a7-423642ac2457.jpg",
+        "question":"Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation.",
+        "value":22.0
+    },
+    {
+        "id":"2a7b2ee1-abd9-4d84-8b91-16ebed2890a3",
+        "image":"2a7b2ee1-abd9-4d84-8b91-16ebed2890a3.jpg",
+        "question":"Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. (0 is no curvature - 1 is the maximum curvature) No explanation.",
+        "value":125.0
+    },
+    {
+        "id":"5d94c81d-1c3c-452d-9b67-81dbd0d18b06",
+        "image":"5d94c81d-1c3c-452d-9b67-81dbd0d18b06.jpg",
+        "question":"Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.",
+        "value":121.0
+    },
+    {
+        "id":"e0ae8093-429c-40f0-940c-3b8cde04189e",
+        "image":"e0ae8093-429c-40f0-940c-3b8cde04189e.jpg",
+        "question":"Please estimate the curvature of the line. The more bend the line is, the higher the curvature. No explanation.",
+        "value":0.036
+    },
+    {
+        "id":"a70b07e1-a905-4c08-ab64-0465d520d8f9",
+        "image":"a70b07e1-a905-4c08-ab64-0465d520d8f9.jpg",
+        "question":"Please estimate the curvature of the line. The more bend the line is, the higher the curvature. No explanation.",
+        "value":0.066
+    },
+    {
+        "id":"de2489a4-e31c-40f9-beda-f8f92dd9c8bc",
+        "image":"de2489a4-e31c-40f9-beda-f8f92dd9c8bc.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":30.0
+    },
+    {
+        "id":"d764a6df-c8ad-4252-9eec-b177db17746e",
+        "image":"d764a6df-c8ad-4252-9eec-b177db17746e.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":39.0
+    },
+    {
+        "id":"4fc7355c-33fa-406f-9ff7-4ee279807e34",
+        "image":"4fc7355c-33fa-406f-9ff7-4ee279807e34.jpg",
+        "question":"Please estimate the area covered by the circle. The whole image is 100x100 with an area of 10000. No explanation.",
+        "value":3.1415926536
+    },
+    {
+        "id":"58c4edb5-9148-43c9-b7bb-4425769f832e",
+        "image":"58c4edb5-9148-43c9-b7bb-4425769f832e.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":50.0
+    },
+    {
+        "id":"8f73d83a-b4ea-40d6-9624-2c543a2ec1c2",
+        "image":"8f73d83a-b4ea-40d6-9624-2c543a2ec1c2.jpg",
+        "question":"Please estimate the area covered by the circle. The whole image is 100x100 with an area of 10000. No explanation.",
+        "value":254.4690049408
+    }
+]

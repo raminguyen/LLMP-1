@@ -1,0 +1,543 @@
+model_name,run,ground_truth,raw_answers,parsed_answers,mean,mse,mlae,forced_repetitions,time_ms,image_idx,std,confidence
+gpt4o,run_0,7.0,25,[25.0],26.2,106.3,3.1415962783838176,0.0,6006.359577178955,,,
+gpt4o,run_0,38.0,30,[30.0],26.2,106.3,3.1415962783838176,0.0,5921.621799468994,,,
+gpt4o,run_0,10.0,20,[20.0],26.2,106.3,3.1415962783838176,0.0,5784.743070602417,,,
+gpt4o,run_0,58.0,40,[40.0],26.2,106.3,3.1415962783838176,0.0,5657.777309417725,,,
+gpt4o,run_0,4.0,10,[10.0],26.2,106.3,3.1415962783838176,0.0,5592.980146408081,,,
+gpt4o,run_0,24.0,30,[30.0],26.2,106.3,3.1415962783838176,0.0,6811.408758163452,,,
+gpt4o,run_0,27.0,30,[30.0],26.2,106.3,3.1415962783838176,0.0,5774.042129516602,,,
+gpt4o,run_0,36.0,37,[37.0],26.2,106.3,3.1415962783838176,0.0,5573.302984237671,,,
+gpt4o,run_0,18.0,30,[30.0],26.2,106.3,3.1415962783838176,0.0,5539.738655090332,,,
+gpt4o,run_0,5.0,10,[10.0],26.2,106.3,3.1415962783838176,0.0,5754.358768463135,,,
+gpt4o,run_1,7.0,15,[15.0],26.3,126.2,3.3398500028846247,0.0,5997.951984405518,,,
+gpt4o,run_1,38.0,30,[30.0],26.3,126.2,3.3398500028846247,0.0,5929.531574249268,,,
+gpt4o,run_1,10.0,28,[28.0],26.3,126.2,3.3398500028846247,0.0,5460.270404815674,,,
+gpt4o,run_1,58.0,40,[40.0],26.3,126.2,3.3398500028846247,0.0,5520.931959152222,,,
+gpt4o,run_1,4.0,10,[10.0],26.3,126.2,3.3398500028846247,0.0,5861.38653755188,,,
+gpt4o,run_1,24.0,30,[30.0],26.3,126.2,3.3398500028846247,0.0,5496.222734451294,,,
+gpt4o,run_1,27.0,30,[30.0],26.3,126.2,3.3398500028846247,0.0,5790.658712387085,,,
+gpt4o,run_1,36.0,30,[30.0],26.3,126.2,3.3398500028846247,0.0,5491.261005401611,,,
+gpt4o,run_1,18.0,30,[30.0],26.3,126.2,3.3398500028846247,0.0,6221.6057777404785,,,
+gpt4o,run_1,5.0,20,[20.0],26.3,126.2,3.3398500028846247,0.0,5464.2651081085205,,,
+gpt4o,run_2,7.0,18,[18.0],24.0,141.3,3.296457407371244,0.0,5846.055030822754,,,
+gpt4o,run_2,38.0,30,[30.0],24.0,141.3,3.296457407371244,0.0,6012.033224105835,,,
+gpt4o,run_2,10.0,20,[20.0],24.0,141.3,3.296457407371244,0.0,5516.099452972412,,,
+gpt4o,run_2,58.0,30,[30.0],24.0,141.3,3.296457407371244,0.0,5528.148651123047,,,
+gpt4o,run_2,4.0,15,[15.0],24.0,141.3,3.296457407371244,0.0,5465.798854827881,,,
+gpt4o,run_2,24.0,27,[27.0],24.0,141.3,3.296457407371244,0.0,6791.306495666504,,,
+gpt4o,run_2,27.0,30,[30.0],24.0,141.3,3.296457407371244,0.0,5865.606784820557,,,
+gpt4o,run_2,36.0,30,[30.0],24.0,141.3,3.296457407371244,0.0,5885.719060897827,,,
+gpt4o,run_2,18.0,30,[30.0],24.0,141.3,3.296457407371244,0.0,5571.416854858398,,,
+gpt4o,run_2,5.0,10,[10.0],24.0,141.3,3.296457407371244,0.0,6106.371641159058,,,
+gpt4o,average,,,,,,3.259301229546562,,,,0.08509434365265814,0.16678491355920994
+CustomLLaMA,run_0,7.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+13.0",[13.0],25.4,38.1,2.3854310371935203,0.0,1962.3444080352783,,,
+CustomLLaMA,run_0,38.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+38.0",[38.0],25.4,38.1,2.3854310371935203,0.0,500.6546974182129,,,
+CustomLLaMA,run_0,10.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+17.0",[17.0],25.4,38.1,2.3854310371935203,0.0,490.8406734466553,,,
+CustomLLaMA,run_0,58.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+46.0",[46.0],25.4,38.1,2.3854310371935203,0.0,491.0128116607666,,,
+CustomLLaMA,run_0,4.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+7.0",[7.0],25.4,38.1,2.3854310371935203,0.0,487.8504276275635,,,
+CustomLLaMA,run_0,24.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+31.0",[31.0],25.4,38.1,2.3854310371935203,0.0,501.361608505249,,,
+CustomLLaMA,run_0,27.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+32.0",[32.0],25.4,38.1,2.3854310371935203,0.0,486.4697456359863,,,
+CustomLLaMA,run_0,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+37.0",[37.0],25.4,38.1,2.3854310371935203,0.0,688.8322830200195,,,
+CustomLLaMA,run_0,18.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+26.0",[26.0],25.4,38.1,2.3854310371935203,0.0,484.33375358581543,,,
+CustomLLaMA,run_0,5.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+7.0",[7.0],25.4,38.1,2.3854310371935203,0.0,483.48522186279297,,,
+CustomLLaMA,run_1,7.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+13.0",[13.0],25.4,41.7,2.439623137557117,0.0,490.51952362060547,,,
+CustomLLaMA,run_1,38.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+38.0",[38.0],25.4,41.7,2.439623137557117,0.0,488.2018566131592,,,
+CustomLLaMA,run_1,10.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+17.0",[17.0],25.4,41.7,2.439623137557117,0.0,497.8487491607666,,,
+CustomLLaMA,run_1,58.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+45.0",[45.0],25.4,41.7,2.439623137557117,0.0,489.13002014160156,,,
+CustomLLaMA,run_1,4.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+7.0",[7.0],25.4,41.7,2.439623137557117,0.0,514.4648551940918,,,
+CustomLLaMA,run_1,24.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+31.0",[31.0],25.4,41.7,2.439623137557117,0.0,503.5247802734375,,,
+CustomLLaMA,run_1,27.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+33.0",[33.0],25.4,41.7,2.439623137557117,0.0,490.1731014251709,,,
+CustomLLaMA,run_1,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+37.0",[37.0],25.4,41.7,2.439623137557117,0.0,483.4146499633789,,,
+CustomLLaMA,run_1,18.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+26.0",[26.0],25.4,41.7,2.439623137557117,0.0,500.9596347808838,,,
+CustomLLaMA,run_1,5.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+7.0",[7.0],25.4,41.7,2.439623137557117,0.0,487.332820892334,,,
+CustomLLaMA,run_2,7.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+13.0",[13.0],25.8,46.3,2.542258049766918,0.0,493.4685230255127,,,
+CustomLLaMA,run_2,38.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+38.0",[38.0],25.8,46.3,2.542258049766918,0.0,483.5667610168457,,,
+CustomLLaMA,run_2,10.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+17.0",[17.0],25.8,46.3,2.542258049766918,0.0,488.140344619751,,,
+CustomLLaMA,run_2,58.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+45.0",[45.0],25.8,46.3,2.542258049766918,0.0,492.7856922149658,,,
+CustomLLaMA,run_2,4.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+11.0",[11.0],25.8,46.3,2.542258049766918,0.0,493.30711364746094,,,
+CustomLLaMA,run_2,24.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+31.0",[31.0],25.8,46.3,2.542258049766918,0.0,485.0478172302246,,,
+CustomLLaMA,run_2,27.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+32.0",[32.0],25.8,46.3,2.542258049766918,0.0,491.09435081481934,,,
+CustomLLaMA,run_2,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+37.0",[37.0],25.8,46.3,2.542258049766918,0.0,492.7835464477539,,,
+CustomLLaMA,run_2,18.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+27.0",[27.0],25.8,46.3,2.542258049766918,0.0,490.0498390197754,,,
+CustomLLaMA,run_2,5.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+7.0",[7.0],25.8,46.3,2.542258049766918,0.0,483.33024978637695,,,
+CustomLLaMA,average,,,,,,2.4557707415058516,,,,0.06503453853216797,0.1274676955230492
+LLaMA,run_0,7.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image features a vertical line and a small black square.
+
+The vertical line is positioned on the left side of the image, and the small black square is located at the top of the image, slightly to the right of the vertical line.
+
+The block's vertical position is 30.",[30.0],20.9,364.0,3.778734244117836,8.0,58529.60991859436,,,
+LLaMA,run_0,38.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Vertical Position:** 34.",[34.0],20.9,364.0,3.778734244117836,8.0,27726.943254470825,,,
+LLaMA,run_0,10.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line on the left and a small black square in the center. The vertical line extends from the top of the image to the middle, while the black square is positioned slightly below the middle.
+
+*Answer*: 30",[30.0],20.9,364.0,3.778734244117836,8.0,32946.412801742554,,,
+LLaMA,run_0,58.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line on the left side of the image, and a small black square at the bottom. The vertical line is positioned at the 50% mark, and the black square is at the 10% mark.
+
+Therefore, the block's vertical position is 10.",[10.0],20.9,364.0,3.778734244117836,8.0,11470.765829086304,,,
+LLaMA,run_0,4.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The final answer is 10.",[10.0],20.9,364.0,3.778734244117836,8.0,7844.174861907959,,,
+LLaMA,run_0,24.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line on the left and a small black square in the middle. The vertical line is 40 units long, and the square is 10 units by 10 units. The square is placed 20 units above the top of the vertical line. Therefore, the block's vertical position is 20.",[20.0],20.9,364.0,3.778734244117836,8.0,11685.205221176147,,,
+LLaMA,run_0,27.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The answer is 30.",[30.0],20.9,364.0,3.778734244117836,8.0,7788.624286651611,,,
+LLaMA,run_0,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Identify the vertical position of the block in the image.**
+
+The block is positioned near the middle of the image.
+
+**Step 2: Estimate the vertical position of the block.**
+
+The block is approximately 20 units from the top of the image.
+
+**Answer:** 20",[20.0],20.9,364.0,3.778734244117836,8.0,11706.543445587158,,,
+LLaMA,run_0,18.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block is positioned at 25.",[25.0],20.9,364.0,3.778734244117836,8.0,7870.75138092041,,,
+LLaMA,run_0,5.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Identify the vertical position of the block.**
+
+The block is located at the top of the image.
+
+**Step 2: Determine the vertical position.**
+
+The vertical position is 0.
+
+**Answer:** 0",[0.0],20.9,364.0,3.778734244117836,8.0,10381.618022918701,,,
+LLaMA,run_1,7.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line and a block. The vertical line is 50 units long, and the block is 10 units long. The block is positioned 20 units above the top of the vertical line.
+
+*Answer*: 20",[20.0],25.5,170.8,3.4757334309663976,6.0,22486.416578292847,,,
+LLaMA,run_1,38.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the vertical position of the block**
+
+*   The block is positioned between the 20th and 30th vertical position.
+
+**Step 2: Convert the block's vertical position to a number**
+
+*   The block's vertical position is approximately 25.
+
+**Step 3: Add 25",[25.0],25.5,170.8,3.4757334309663976,6.0,11913.172483444214,,,
+LLaMA,run_1,10.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line on the left and a small black square in the middle. The vertical line is 40 units long, and the black square is 10 units wide and 10 units long.
+
+The vertical position of the block is 20.",[20.0],25.5,170.8,3.4757334309663976,6.0,10624.66549873352,,,
+LLaMA,run_1,58.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line and a small black square. The vertical line is positioned at the top of the image, while the small black square is located below it, approximately at the 30th mark on the vertical scale. 
+
+Therefore, the block's vertical position is 30.",[30.0],25.5,170.8,3.4757334309663976,6.0,22963.167667388916,,,
+LLaMA,run_1,4.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block is positioned at 20.",[20.0],25.5,170.8,3.4757334309663976,6.0,19315.40560722351,,,
+LLaMA,run_1,24.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Identify the block's vertical position.**
+
+The block is located above the middle line.
+
+**Step 2: Convert the block's vertical position to a number.**
+
+The block is at the 30th position.
+
+**Answer:** 30",[30.0],25.5,170.8,3.4757334309663976,6.0,10707.038164138794,,,
+LLaMA,run_1,27.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line with a small black square to its right, which is aligned with the top of the line. The square is positioned at the 30 mark on the vertical line. Therefore, the block's vertical position is 30.",[30.0],25.5,170.8,3.4757334309663976,6.0,22158.872604370117,,,
+LLaMA,run_1,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block is located at 40.",[40.0],25.5,170.8,3.4757334309663976,6.0,8117.428779602051,,,
+LLaMA,run_1,18.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the block's vertical position**
+
+The block is positioned approximately at the 30% mark.
+
+**Answer:** 30",[30.0],25.5,170.8,3.4757334309663976,6.0,33087.60595321655,,,
+LLaMA,run_1,5.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Vertical Position:** 10",[10.0],25.5,170.8,3.4757334309663976,6.0,7661.041259765625,,,
+LLaMA,run_2,7.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line with a small block positioned at the top of the line. The vertical line is 60 units long, and the block is 2 units high.
+
+*Answer*: 58",[58.0],21.7,855.0,4.48058827023386,9.0,19848.129749298096,,,
+LLaMA,run_2,38.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the vertical position of the block**
+
+*   The block is located at the 20th line from the top.
+
+**Answer:** 20",[20.0],21.7,855.0,4.48058827023386,9.0,19493.02649497986,,,
+LLaMA,run_2,10.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line and a small black square. The vertical line is positioned at the left side of the image, while the black square is located slightly below the top edge of the image.
+
+*Answer*: 20",[20.0],21.7,855.0,4.48058827023386,9.0,10134.46021080017,,,
+LLaMA,run_2,58.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Identify the block's position**
+
+The block is located at the bottom of the image.
+
+**Step 2: Convert the position to a number**
+
+The image is 60 units tall. The block is at the bottom, so its vertical position is 0.
+
+**Step 3: Answer**
+
+0",[0.0],21.7,855.0,4.48058827023386,9.0,20473.164319992065,,,
+LLaMA,run_2,4.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block's vertical position is 30.",[30.0],21.7,855.0,4.48058827023386,9.0,31536.696434020996,,,
+LLaMA,run_2,24.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image presents a vertical line on the left and a small black square in the center, with the vertical line positioned at the top of the image. The square is situated approximately 20 units below the top edge of the image.
+
+**Vertical Position of the Block**
+
+* 20",[20.0],21.7,855.0,4.48058827023386,9.0,11190.58895111084,,,
+LLaMA,run_2,27.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The answer is 29.",[29.0],21.7,855.0,4.48058827023386,9.0,7940.905809402466,,,
+LLaMA,run_2,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the vertical position of the block**
+
+The block is located at the bottom of the image.
+
+**Step 2: Determine the vertical position**
+
+The vertical position is 0.
+
+**Answer:** 0",[0.0],21.7,855.0,4.48058827023386,9.0,10361.4661693573,,,
+LLaMA,run_2,18.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Vertical Position:** 30",[30.0],21.7,855.0,4.48058827023386,9.0,19913.013458251953,,,
+LLaMA,run_2,5.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Property to determine:** The vertical position of the block.
+
+**Available data:**
+
+* The block is located at the top of a vertical line segment.
+* The vertical line segment has a length of 60 units.
+
+**Answer:** 10",[10.0],21.7,855.0,4.48058827023386,9.0,46589.18213844299,,,
+LLaMA,average,,,,,,3.911685315106032,,,,0.4208644298405292,0.8248942824874372
+GeminiProVision,run_0,7.0,"30 
+",[30.0],24.0,350.3,4.106432077816929,0.0,5696.048974990845,,,
+GeminiProVision,run_0,38.0,"30 
+",[30.0],24.0,350.3,4.106432077816929,0.0,5622.783422470093,,,
+GeminiProVision,run_0,10.0,"20 
+",[20.0],24.0,350.3,4.106432077816929,0.0,5596.726894378662,,,
+GeminiProVision,run_0,58.0,"30 
+",[30.0],24.0,350.3,4.106432077816929,0.0,5609.92431640625,,,
+GeminiProVision,run_0,4.0,"25 
+",[25.0],24.0,350.3,4.106432077816929,0.0,5688.493490219116,,,
+GeminiProVision,run_0,24.0,"30 
+",[30.0],24.0,350.3,4.106432077816929,0.0,5596.741676330566,,,
+GeminiProVision,run_0,27.0,"10 
+",[10.0],24.0,350.3,4.106432077816929,0.0,5625.93150138855,,,
+GeminiProVision,run_0,36.0,"10 
+",[10.0],24.0,350.3,4.106432077816929,0.0,5579.307317733765,,,
+GeminiProVision,run_0,18.0,"40 
+",[40.0],24.0,350.3,4.106432077816929,0.0,5622.636318206787,,,
+GeminiProVision,run_0,5.0,"15 
+",[15.0],24.0,350.3,4.106432077816929,0.0,5588.250637054443,,,
+GeminiProVision,run_1,7.0,"15 
+",[15.0],24.0,322.3,4.002252451731379,0.0,5626.630544662476,,,
+GeminiProVision,run_1,38.0,"20 
+",[20.0],24.0,322.3,4.002252451731379,0.0,5642.701864242554,,,
+GeminiProVision,run_1,10.0,"20 
+",[20.0],24.0,322.3,4.002252451731379,0.0,5546.440362930298,,,
+GeminiProVision,run_1,58.0,"30 
+",[30.0],24.0,322.3,4.002252451731379,0.0,5546.419382095337,,,
+GeminiProVision,run_1,4.0,"30 
+",[30.0],24.0,322.3,4.002252451731379,0.0,5579.8985958099365,,,
+GeminiProVision,run_1,24.0,"20 
+",[20.0],24.0,322.3,4.002252451731379,0.0,5579.516887664795,,,
+GeminiProVision,run_1,27.0,"20 
+",[20.0],24.0,322.3,4.002252451731379,0.0,5565.970182418823,,,
+GeminiProVision,run_1,36.0,"20 
+",[20.0],24.0,322.3,4.002252451731379,0.0,5648.619890213013,,,
+GeminiProVision,run_1,18.0,"45 
+",[45.0],24.0,322.3,4.002252451731379,0.0,5605.8197021484375,,,
+GeminiProVision,run_1,5.0,"20 
+",[20.0],24.0,322.3,4.002252451731379,0.0,5626.781702041626,,,
+GeminiProVision,run_2,7.0,"20 
+",[20.0],24.5,283.8,3.8801957289430984,0.0,5563.5085105896,,,
+GeminiProVision,run_2,38.0,"30 
+",[30.0],24.5,283.8,3.8801957289430984,0.0,6043.386936187744,,,
+GeminiProVision,run_2,10.0,"25 
+",[25.0],24.5,283.8,3.8801957289430984,0.0,5604.297876358032,,,
+GeminiProVision,run_2,58.0,"25 
+",[25.0],24.5,283.8,3.8801957289430984,0.0,5605.519771575928,,,
+GeminiProVision,run_2,4.0,"20 
+",[20.0],24.5,283.8,3.8801957289430984,0.0,5615.134239196777,,,
+GeminiProVision,run_2,24.0,"30 
+",[30.0],24.5,283.8,3.8801957289430984,0.0,5567.523002624512,,,
+GeminiProVision,run_2,27.0,"10 
+",[10.0],24.5,283.8,3.8801957289430984,0.0,5569.730043411255,,,
+GeminiProVision,run_2,36.0,"30 
+",[30.0],24.5,283.8,3.8801957289430984,0.0,5595.602750778198,,,
+GeminiProVision,run_2,18.0,"25 
+",[25.0],24.5,283.8,3.8801957289430984,0.0,5576.934814453125,,,
+GeminiProVision,run_2,5.0,"30 
+",[30.0],24.5,283.8,3.8801957289430984,0.0,5590.983629226685,,,
+GeminiProVision,average,,,,,,3.9962934194971353,,,,0.09245667070513602,0.1812150745820666
+Gemini1_5Flash,run_0,7.0,"40 
+",[40.0],33.0,446.3,4.234577959784565,0.0,5264.483451843262,,,
+Gemini1_5Flash,run_0,38.0,"30 
+",[30.0],33.0,446.3,4.234577959784565,0.0,5230.310440063477,,,
+Gemini1_5Flash,run_0,10.0,"30 
+",[30.0],33.0,446.3,4.234577959784565,0.0,5278.382301330566,,,
+Gemini1_5Flash,run_0,58.0,"30 
+",[30.0],33.0,446.3,4.234577959784565,0.0,5253.165245056152,,,
+Gemini1_5Flash,run_0,4.0,"40 
+",[40.0],33.0,446.3,4.234577959784565,0.0,5309.669971466064,,,
+Gemini1_5Flash,run_0,24.0,"40 
+",[40.0],33.0,446.3,4.234577959784565,0.0,5245.19157409668,,,
+Gemini1_5Flash,run_0,27.0,"40 
+",[40.0],33.0,446.3,4.234577959784565,0.0,5349.033832550049,,,
+Gemini1_5Flash,run_0,36.0,"30 
+",[30.0],33.0,446.3,4.234577959784565,0.0,5361.2000942230225,,,
+Gemini1_5Flash,run_0,18.0,"30 
+",[30.0],33.0,446.3,4.234577959784565,0.0,5631.521940231323,,,
+Gemini1_5Flash,run_0,5.0,"20 
+",[20.0],33.0,446.3,4.234577959784565,0.0,5265.3467655181885,,,
+Gemini1_5Flash,run_1,7.0,"30 
+",[30.0],29.5,307.8,3.9378151688034193,0.0,5288.078546524048,,,
+Gemini1_5Flash,run_1,38.0,"30 
+",[30.0],29.5,307.8,3.9378151688034193,0.0,5286.606311798096,,,
+Gemini1_5Flash,run_1,10.0,"30 
+",[30.0],29.5,307.8,3.9378151688034193,0.0,5232.039451599121,,,
+Gemini1_5Flash,run_1,58.0,"30 
+",[30.0],29.5,307.8,3.9378151688034193,0.0,5303.118944168091,,,
+Gemini1_5Flash,run_1,4.0,"30 
+",[30.0],29.5,307.8,3.9378151688034193,0.0,5258.132696151733,,,
+Gemini1_5Flash,run_1,24.0,"30 
+",[30.0],29.5,307.8,3.9378151688034193,0.0,5291.240930557251,,,
+Gemini1_5Flash,run_1,27.0,"30 
+",[30.0],29.5,307.8,3.9378151688034193,0.0,5257.082939147949,,,
+Gemini1_5Flash,run_1,36.0,"30 
+",[30.0],29.5,307.8,3.9378151688034193,0.0,5267.769813537598,,,
+Gemini1_5Flash,run_1,18.0,"30 
+",[30.0],29.5,307.8,3.9378151688034193,0.0,5235.939025878906,,,
+Gemini1_5Flash,run_1,5.0,"25 
+",[25.0],29.5,307.8,3.9378151688034193,0.0,5271.483421325684,,,
+Gemini1_5Flash,run_2,7.0,"30 
+",[30.0],29.0,328.3,3.965784284662087,0.0,5242.384910583496,,,
+Gemini1_5Flash,run_2,38.0,"30 
+",[30.0],29.0,328.3,3.965784284662087,0.0,5469.120979309082,,,
+Gemini1_5Flash,run_2,10.0,"30 
+",[30.0],29.0,328.3,3.965784284662087,0.0,5271.97003364563,,,
+Gemini1_5Flash,run_2,58.0,"30 
+",[30.0],29.0,328.3,3.965784284662087,0.0,5234.482049942017,,,
+Gemini1_5Flash,run_2,4.0,"30 
+",[30.0],29.0,328.3,3.965784284662087,0.0,5234.84206199646,,,
+Gemini1_5Flash,run_2,24.0,"20
+",[20.0],29.0,328.3,3.965784284662087,0.0,5296.844959259033,,,
+Gemini1_5Flash,run_2,27.0,"30 
+",[30.0],29.0,328.3,3.965784284662087,0.0,5307.652711868286,,,
+Gemini1_5Flash,run_2,36.0,"30 
+",[30.0],29.0,328.3,3.965784284662087,0.0,5287.950277328491,,,
+Gemini1_5Flash,run_2,18.0,"30 
+",[30.0],29.0,328.3,3.965784284662087,0.0,5318.176984786987,,,
+Gemini1_5Flash,run_2,5.0,"30 
+",[30.0],29.0,328.3,3.965784284662087,0.0,5224.8735427856445,,,
+Gemini1_5Flash,average,,,,,,4.0460591377500235,,,,0.13379107483049144,0.2622305066677632

@@ -1,0 +1,447 @@
+model_name,run,ground_truth,raw_answers,parsed_answers,mean,mse,mlae,forced_repetitions,time_ms,image_idx,std,confidence
+gpt4o,run_0,55.0,30,[30.0],39.0,627.8,4.45450493755737,0.0,8795.713901519775,,,
+gpt4o,run_0,70.0,45,[45.0],39.0,627.8,4.45450493755737,0.0,6004.323482513428,,,
+gpt4o,run_0,24.0,30,[30.0],39.0,627.8,4.45450493755737,0.0,6413.423538208008,,,
+gpt4o,run_0,39.0,45,[45.0],39.0,627.8,4.45450493755737,0.0,6030.174493789673,,,
+gpt4o,run_0,70.0,45,[45.0],39.0,627.8,4.45450493755737,0.0,5645.719766616821,,,
+gpt4o,run_0,46.0,45,[45.0],39.0,627.8,4.45450493755737,0.0,5916.1858558654785,,,
+gpt4o,run_0,17.0,45,[45.0],39.0,627.8,4.45450493755737,0.0,5594.720363616943,,,
+gpt4o,run_0,62.0,30,[30.0],39.0,627.8,4.45450493755737,0.0,5593.170166015625,,,
+gpt4o,run_0,1.0,30,[30.0],39.0,627.8,4.45450493755737,0.0,7603.572368621826,,,
+gpt4o,run_0,86.0,45,[45.0],39.0,627.8,4.45450493755737,0.0,8480.859756469727,,,
+gpt4o,run_1,55.0,35,[35.0],45.5,836.3,4.610286657081023,0.0,5506.014585494995,,,
+gpt4o,run_1,70.0,45,[45.0],45.5,836.3,4.610286657081023,0.0,5939.89372253418,,,
+gpt4o,run_1,24.0,45,[45.0],45.5,836.3,4.610286657081023,0.0,6231.021165847778,,,
+gpt4o,run_1,39.0,45,[45.0],45.5,836.3,4.610286657081023,0.0,6119.405269622803,,,
+gpt4o,run_1,70.0,45,[45.0],45.5,836.3,4.610286657081023,0.0,6154.412746429443,,,
+gpt4o,run_1,46.0,45,[45.0],45.5,836.3,4.610286657081023,0.0,6430.5408000946045,,,
+gpt4o,run_1,17.0,45,[45.0],45.5,836.3,4.610286657081023,0.0,5548.2001304626465,,,
+gpt4o,run_1,62.0,45,[45.0],45.5,836.3,4.610286657081023,0.0,5986.766815185547,,,
+gpt4o,run_1,1.0,60,[60.0],45.5,836.3,4.610286657081023,0.0,6356.624126434326,,,
+gpt4o,run_1,86.0,45,[45.0],45.5,836.3,4.610286657081023,0.0,6798.4960079193115,,,
+gpt4o,run_2,55.0,40,[40.0],40.5,477.3,4.203592714207708,0.0,5549.900770187378,,,
+gpt4o,run_2,70.0,45,[45.0],40.5,477.3,4.203592714207708,0.0,6358.513832092285,,,
+gpt4o,run_2,24.0,45,[45.0],40.5,477.3,4.203592714207708,0.0,6141.378402709961,,,
+gpt4o,run_2,39.0,45,[45.0],40.5,477.3,4.203592714207708,0.0,6953.41157913208,,,
+gpt4o,run_2,70.0,45,[45.0],40.5,477.3,4.203592714207708,0.0,5476.512670516968,,,
+gpt4o,run_2,46.0,45,[45.0],40.5,477.3,4.203592714207708,0.0,6031.999349594116,,,
+gpt4o,run_2,17.0,20,[20.0],40.5,477.3,4.203592714207708,0.0,6319.849491119385,,,
+gpt4o,run_2,62.0,45,[45.0],40.5,477.3,4.203592714207708,0.0,5771.414995193481,,,
+gpt4o,run_2,1.0,30,[30.0],40.5,477.3,4.203592714207708,0.0,5574.824810028076,,,
+gpt4o,run_2,86.0,45,[45.0],40.5,477.3,4.203592714207708,0.0,6196.844816207886,,,
+gpt4o,average,,,,,,4.4227947696153675,,,,0.16753933240813113,0.328377091519937
+CustomLLaMA,run_0,55.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+52.0",[52.0],43.9,68.3,2.727920454563199,0.0,529.1693210601807,,,
+CustomLLaMA,run_0,70.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+62.0",[62.0],43.9,68.3,2.727920454563199,0.0,527.3396968841553,,,
+CustomLLaMA,run_0,24.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+25.0",[25.0],43.9,68.3,2.727920454563199,0.0,487.46585845947266,,,
+CustomLLaMA,run_0,39.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+43.0",[43.0],43.9,68.3,2.727920454563199,0.0,489.4592761993408,,,
+CustomLLaMA,run_0,70.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+61.0",[61.0],43.9,68.3,2.727920454563199,0.0,491.3620948791504,,,
+CustomLLaMA,run_0,46.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+45.0",[45.0],43.9,68.3,2.727920454563199,0.0,494.48609352111816,,,
+CustomLLaMA,run_0,17.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+18.0",[18.0],43.9,68.3,2.727920454563199,0.0,489.9275302886963,,,
+CustomLLaMA,run_0,62.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+52.0",[52.0],43.9,68.3,2.727920454563199,0.0,485.43787002563477,,,
+CustomLLaMA,run_0,1.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+12.0",[12.0],43.9,68.3,2.727920454563199,0.0,490.2949333190918,,,
+CustomLLaMA,run_0,86.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+69.0",[69.0],43.9,68.3,2.727920454563199,0.0,488.7533187866211,,,
+CustomLLaMA,run_1,55.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+53.0",[53.0],44.5,79.3,2.8529975876133165,0.0,491.8520450592041,,,
+CustomLLaMA,run_1,70.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+62.0",[62.0],44.5,79.3,2.8529975876133165,0.0,489.58587646484375,,,
+CustomLLaMA,run_1,24.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+25.0",[25.0],44.5,79.3,2.8529975876133165,0.0,488.2996082305908,,,
+CustomLLaMA,run_1,39.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+46.0",[46.0],44.5,79.3,2.8529975876133165,0.0,486.9976043701172,,,
+CustomLLaMA,run_1,70.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+59.0",[59.0],44.5,79.3,2.8529975876133165,0.0,486.82379722595215,,,
+CustomLLaMA,run_1,46.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+47.0",[47.0],44.5,79.3,2.8529975876133165,0.0,494.3432807922363,,,
+CustomLLaMA,run_1,17.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+19.0",[19.0],44.5,79.3,2.8529975876133165,0.0,486.7265224456787,,,
+CustomLLaMA,run_1,62.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+53.0",[53.0],44.5,79.3,2.8529975876133165,0.0,486.9823455810547,,,
+CustomLLaMA,run_1,1.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+13.0",[13.0],44.5,79.3,2.8529975876133165,0.0,488.4653091430664,,,
+CustomLLaMA,run_1,86.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+68.0",[68.0],44.5,79.3,2.8529975876133165,0.0,494.70019340515137,,,
+CustomLLaMA,run_2,55.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+52.0",[52.0],44.3,76.5,2.812498225333564,0.0,493.8194751739502,,,
+CustomLLaMA,run_2,70.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+63.0",[63.0],44.3,76.5,2.812498225333564,0.0,492.0365810394287,,,
+CustomLLaMA,run_2,24.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+26.0",[26.0],44.3,76.5,2.812498225333564,0.0,512.7601623535156,,,
+CustomLLaMA,run_2,39.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+45.0",[45.0],44.3,76.5,2.812498225333564,0.0,489.87674713134766,,,
+CustomLLaMA,run_2,70.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+62.0",[62.0],44.3,76.5,2.812498225333564,0.0,493.149995803833,,,
+CustomLLaMA,run_2,46.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+46.0",[46.0],44.3,76.5,2.812498225333564,0.0,488.9695644378662,,,
+CustomLLaMA,run_2,17.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+18.0",[18.0],44.3,76.5,2.812498225333564,0.0,594.9108600616455,,,
+CustomLLaMA,run_2,62.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+49.0",[49.0],44.3,76.5,2.812498225333564,0.0,491.2097454071045,,,
+CustomLLaMA,run_2,1.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+13.0",[13.0],44.3,76.5,2.812498225333564,0.0,488.0871772766113,,,
+CustomLLaMA,run_2,86.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+69.0",[69.0],44.3,76.5,2.812498225333564,0.0,490.07582664489746,,,
+CustomLLaMA,average,,,,,,2.79780542250336,,,,0.052108739793273476,0.10213312999481601
+LLaMA,run_0,55.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The answer is 45.",[45.0],71.5,1547.3,4.917670434361761,3.0,7720.813512802124,,,
+LLaMA,run_0,70.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",[80.0],71.5,1547.3,4.917670434361761,3.0,7139.595746994019,,,
+LLaMA,run_0,24.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+60",[60.0],71.5,1547.3,4.917670434361761,3.0,7464.445114135742,,,
+LLaMA,run_0,39.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",[80.0],71.5,1547.3,4.917670434361761,3.0,7421.404838562012,,,
+LLaMA,run_0,70.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+65",[65.0],71.5,1547.3,4.917670434361761,3.0,7444.765567779541,,,
+LLaMA,run_0,46.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+90",[90.0],71.5,1547.3,4.917670434361761,3.0,7206.137180328369,,,
+LLaMA,run_0,17.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",[80.0],71.5,1547.3,4.917670434361761,3.0,27758.953332901,,,
+LLaMA,run_0,62.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+60",[60.0],71.5,1547.3,4.917670434361761,3.0,19820.778608322144,,,
+LLaMA,run_0,1.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",[80.0],71.5,1547.3,4.917670434361761,3.0,7460.8306884765625,,,
+LLaMA,run_0,86.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+75",[75.0],71.5,1547.3,4.917670434361761,3.0,7135.441541671753,,,
+LLaMA,run_1,55.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+70",[70.0],71.5,1243.3,4.756222712847288,5.0,7559.571027755737,,,
+LLaMA,run_1,70.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+60",[60.0],71.5,1243.3,4.756222712847288,5.0,15703.835010528564,,,
+LLaMA,run_1,24.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+90",[90.0],71.5,1243.3,4.756222712847288,5.0,14883.841514587402,,,
+LLaMA,run_1,39.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+70",[70.0],71.5,1243.3,4.756222712847288,5.0,19859.771728515625,,,
+LLaMA,run_1,70.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+75",[75.0],71.5,1243.3,4.756222712847288,5.0,15375.885963439941,,,
+LLaMA,run_1,46.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+75",[75.0],71.5,1243.3,4.756222712847288,5.0,19691.856861114502,,,
+LLaMA,run_1,17.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",[80.0],71.5,1243.3,4.756222712847288,5.0,7104.776620864868,,,
+LLaMA,run_1,62.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+**Step 1: Identify the given angle.**
+
+The given angle is 60 degrees.
+
+**Step 2: Determine the answer.**
+
+*Answer*: 60",[60.0],71.5,1243.3,4.756222712847288,5.0,9412.31918334961,,,
+LLaMA,run_1,1.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The answer is 45.",[45.0],71.5,1243.3,4.756222712847288,5.0,7583.008527755737,,,
+LLaMA,run_1,86.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+90",[90.0],71.5,1243.3,4.756222712847288,5.0,7670.674800872803,,,
+LLaMA,run_2,55.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The answer is 60.",[60.0],79.0,1798.8,5.014578464922892,9.0,15371.04058265686,,,
+LLaMA,run_2,70.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",[80.0],79.0,1798.8,5.014578464922892,9.0,7160.768270492554,,,
+LLaMA,run_2,24.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+60",[60.0],79.0,1798.8,5.014578464922892,9.0,15614.573240280151,,,
+LLaMA,run_2,39.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+90",[90.0],79.0,1798.8,5.014578464922892,9.0,7046.406030654907,,,
+LLaMA,run_2,70.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",[80.0],79.0,1798.8,5.014578464922892,9.0,7598.374843597412,,,
+LLaMA,run_2,46.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",[80.0],79.0,1798.8,5.014578464922892,9.0,7601.016283035278,,,
+LLaMA,run_2,17.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The answer is 90.",[90.0],79.0,1798.8,5.014578464922892,9.0,49332.54313468933,,,
+LLaMA,run_2,62.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",[80.0],79.0,1798.8,5.014578464922892,9.0,7499.387979507446,,,
+LLaMA,run_2,1.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+85",[85.0],79.0,1798.8,5.014578464922892,9.0,14951.25436782837,,,
+LLaMA,run_2,86.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+85",[85.0],79.0,1798.8,5.014578464922892,9.0,17755.46431541443,,,
+LLaMA,average,,,,,,4.8961572040439805,,,,0.10656465319753759,0.20886672026717368
+GeminiProVision,run_0,55.0,"35 
+",[35.0],44.0,681.8,4.518849828707692,0.0,5646.376609802246,,,
+GeminiProVision,run_0,70.0,"45 
+",[45.0],44.0,681.8,4.518849828707692,0.0,5577.140331268311,,,
+GeminiProVision,run_0,24.0,"45 
+",[45.0],44.0,681.8,4.518849828707692,0.0,5681.250810623169,,,
+GeminiProVision,run_0,39.0,"45 
+",[45.0],44.0,681.8,4.518849828707692,0.0,5621.999502182007,,,
+GeminiProVision,run_0,70.0,"45 
+",[45.0],44.0,681.8,4.518849828707692,0.0,5594.408750534058,,,
+GeminiProVision,run_0,46.0,"45 
+",[45.0],44.0,681.8,4.518849828707692,0.0,5598.499774932861,,,
+GeminiProVision,run_0,17.0,"45 
+",[45.0],44.0,681.8,4.518849828707692,0.0,5592.695951461792,,,
+GeminiProVision,run_0,62.0,"45 
+",[45.0],44.0,681.8,4.518849828707692,0.0,5577.827453613281,,,
+GeminiProVision,run_0,1.0,"45 
+",[45.0],44.0,681.8,4.518849828707692,0.0,5651.122093200684,,,
+GeminiProVision,run_0,86.0,"45 
+",[45.0],44.0,681.8,4.518849828707692,0.0,5629.259347915649,,,
+GeminiProVision,run_1,55.0,"30 
+",[30.0],38.0,921.8,4.696272083925863,0.0,5569.464206695557,,,
+GeminiProVision,run_1,70.0,"35 
+",[35.0],38.0,921.8,4.696272083925863,0.0,5613.265514373779,,,
+GeminiProVision,run_1,24.0,"45 
+",[45.0],38.0,921.8,4.696272083925863,0.0,5571.86484336853,,,
+GeminiProVision,run_1,39.0,"45 
+",[45.0],38.0,921.8,4.696272083925863,0.0,5603.752851486206,,,
+GeminiProVision,run_1,70.0,"45 
+",[45.0],38.0,921.8,4.696272083925863,0.0,5553.372144699097,,,
+GeminiProVision,run_1,46.0,"45 
+",[45.0],38.0,921.8,4.696272083925863,0.0,5589.986324310303,,,
+GeminiProVision,run_1,17.0,"30 
+",[30.0],38.0,921.8,4.696272083925863,0.0,5585.68549156189,,,
+GeminiProVision,run_1,62.0,"30 
+",[30.0],38.0,921.8,4.696272083925863,0.0,5586.116075515747,,,
+GeminiProVision,run_1,1.0,"45 
+",[45.0],38.0,921.8,4.696272083925863,0.0,5551.202774047852,,,
+GeminiProVision,run_1,86.0,"30 
+",[30.0],38.0,921.8,4.696272083925863,0.0,5765.220403671265,,,
+GeminiProVision,run_2,55.0,"45 
+",[45.0],42.5,857.3,4.610286657081023,0.0,5586.502552032471,,,
+GeminiProVision,run_2,70.0,"35 
+",[35.0],42.5,857.3,4.610286657081023,0.0,5587.044477462769,,,
+GeminiProVision,run_2,24.0,"45 
+",[45.0],42.5,857.3,4.610286657081023,0.0,5598.9110469818115,,,
+GeminiProVision,run_2,39.0,"45 
+",[45.0],42.5,857.3,4.610286657081023,0.0,5577.659845352173,,,
+GeminiProVision,run_2,70.0,"45 
+",[45.0],42.5,857.3,4.610286657081023,0.0,5535.435914993286,,,
+GeminiProVision,run_2,46.0,"45 
+",[45.0],42.5,857.3,4.610286657081023,0.0,5549.054145812988,,,
+GeminiProVision,run_2,17.0,"45 
+",[45.0],42.5,857.3,4.610286657081023,0.0,5560.300827026367,,,
+GeminiProVision,run_2,62.0,"45 
+",[45.0],42.5,857.3,4.610286657081023,0.0,5545.185327529907,,,
+GeminiProVision,run_2,1.0,"45 
+",[45.0],42.5,857.3,4.610286657081023,0.0,5580.564975738525,,,
+GeminiProVision,run_2,86.0,"30 
+",[30.0],42.5,857.3,4.610286657081023,0.0,5564.40544128418,,,
+GeminiProVision,average,,,,,,4.608469523238193,,,,0.07244372824580249,0.14198970736177288
+Gemini1_5Flash,run_0,55.0,45,[45.0],45.0,651.8,4.45450493755737,0.0,5292.427778244019,,,
+Gemini1_5Flash,run_0,70.0,45,[45.0],45.0,651.8,4.45450493755737,0.0,5416.863441467285,,,
+Gemini1_5Flash,run_0,24.0,45,[45.0],45.0,651.8,4.45450493755737,0.0,5338.016986846924,,,
+Gemini1_5Flash,run_0,39.0,"45 
+",[45.0],45.0,651.8,4.45450493755737,0.0,5227.615594863892,,,
+Gemini1_5Flash,run_0,70.0,45,[45.0],45.0,651.8,4.45450493755737,0.0,5285.726308822632,,,
+Gemini1_5Flash,run_0,46.0,45,[45.0],45.0,651.8,4.45450493755737,0.0,5280.389070510864,,,
+Gemini1_5Flash,run_0,17.0,"45 
+",[45.0],45.0,651.8,4.45450493755737,0.0,5473.5918045043945,,,
+Gemini1_5Flash,run_0,62.0,"45
+",[45.0],45.0,651.8,4.45450493755737,0.0,5259.82666015625,,,
+Gemini1_5Flash,run_0,1.0,45,[45.0],45.0,651.8,4.45450493755737,0.0,5309.57818031311,,,
+Gemini1_5Flash,run_0,86.0,45,[45.0],45.0,651.8,4.45450493755737,0.0,5260.800838470459,,,
+Gemini1_5Flash,run_1,55.0,"45 
+",[45.0],54.0,1641.8,4.950701690089008,0.0,5273.690223693848,,,
+Gemini1_5Flash,run_1,70.0,"45 
+",[45.0],54.0,1641.8,4.950701690089008,0.0,5248.854637145996,,,
+Gemini1_5Flash,run_1,24.0,90,[90.0],54.0,1641.8,4.950701690089008,0.0,5750.163555145264,,,
+Gemini1_5Flash,run_1,39.0,"45
+",[45.0],54.0,1641.8,4.950701690089008,0.0,5329.3633460998535,,,
+Gemini1_5Flash,run_1,70.0,45,[45.0],54.0,1641.8,4.950701690089008,0.0,5272.701025009155,,,
+Gemini1_5Flash,run_1,46.0,"45 
+",[45.0],54.0,1641.8,4.950701690089008,0.0,5249.1614818573,,,
+Gemini1_5Flash,run_1,17.0,"45
+",[45.0],54.0,1641.8,4.950701690089008,0.0,5245.528936386108,,,
+Gemini1_5Flash,run_1,62.0,45,[45.0],54.0,1641.8,4.950701690089008,0.0,5284.019470214844,,,
+Gemini1_5Flash,run_1,1.0,"90
+",[90.0],54.0,1641.8,4.950701690089008,0.0,5299.783945083618,,,
+Gemini1_5Flash,run_1,86.0,"45
+",[45.0],54.0,1641.8,4.950701690089008,0.0,5273.766994476318,,,
+Gemini1_5Flash,run_2,55.0,45,[45.0],54.0,1227.8,4.696272083925863,0.0,5302.424907684326,,,
+Gemini1_5Flash,run_2,70.0,45,[45.0],54.0,1227.8,4.696272083925863,0.0,5279.136657714844,,,
+Gemini1_5Flash,run_2,24.0,45,[45.0],54.0,1227.8,4.696272083925863,0.0,5259.486436843872,,,
+Gemini1_5Flash,run_2,39.0,"45
+",[45.0],54.0,1227.8,4.696272083925863,0.0,5267.217397689819,,,
+Gemini1_5Flash,run_2,70.0,"90 
+",[90.0],54.0,1227.8,4.696272083925863,0.0,5281.082630157471,,,
+Gemini1_5Flash,run_2,46.0,"45 
+",[45.0],54.0,1227.8,4.696272083925863,0.0,5224.732875823975,,,
+Gemini1_5Flash,run_2,17.0,45,[45.0],54.0,1227.8,4.696272083925863,0.0,5288.2184982299805,,,
+Gemini1_5Flash,run_2,62.0,"45 
+",[45.0],54.0,1227.8,4.696272083925863,0.0,5264.973163604736,,,
+Gemini1_5Flash,run_2,1.0,90,[90.0],54.0,1227.8,4.696272083925863,0.0,5270.626068115234,,,
+Gemini1_5Flash,run_2,86.0,"45 
+",[45.0],54.0,1227.8,4.696272083925863,0.0,5250.720739364624,,,
+Gemini1_5Flash,average,,,,,,4.7004929038574135,,,,0.2025934612245365,0.3970831840000915

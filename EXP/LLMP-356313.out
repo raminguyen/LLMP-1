@@ -1,0 +1,45 @@
+using 4 CPUs
+Fri 25 Oct 2024 07:45:16 AM EDT
+INFO: activate-gcc_linux-64.sh made the following environmental changes:
++CC=/home/huuthanhvy.nguyen001/anaconda3/envs/pytorch/bin/x86_64-conda_cos6-linux-gnu-cc
++CFLAGS=-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -pipe
++CPPFLAGS=-DNDEBUG -D_FORTIFY_SOURCE=2 -O2
++CPP=/home/huuthanhvy.nguyen001/anaconda3/envs/pytorch/bin/x86_64-conda_cos6-linux-gnu-cpp
++DEBUG_CFLAGS=-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -pipe
++DEBUG_CPPFLAGS=-D_DEBUG -D_FORTIFY_SOURCE=2 -Og
++GCC_AR=/home/huuthanhvy.nguyen001/anaconda3/envs/pytorch/bin/x86_64-conda_cos6-linux-gnu-gcc-ar
++GCC=/home/huuthanhvy.nguyen001/anaconda3/envs/pytorch/bin/x86_64-conda_cos6-linux-gnu-gcc
++GCC_NM=/home/huuthanhvy.nguyen001/anaconda3/envs/pytorch/bin/x86_64-conda_cos6-linux-gnu-gcc-nm
++GCC_RANLIB=/home/huuthanhvy.nguyen001/anaconda3/envs/pytorch/bin/x86_64-conda_cos6-linux-gnu-gcc-ranlib
++HOST=x86_64-conda_cos6-linux-gnu
++LDFLAGS=-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now
++_PYTHON_SYSCONFIGDATA_NAME=_sysconfigdata_x86_64_conda_cos6_linux_gnu
+INFO: activate-gxx_linux-64.sh made the following environmental changes:
++CXXFLAGS=-fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -pipe
++CXX=/home/huuthanhvy.nguyen001/anaconda3/envs/pytorch/bin/x86_64-conda_cos6-linux-gnu-c++
++DEBUG_CXXFLAGS=-fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -pipe
++GXX=/home/huuthanhvy.nguyen001/anaconda3/envs/pytorch/bin/x86_64-conda_cos6-linux-gnu-g++
+The token has not been saved to the git credentials helper. Pass `add_to_git_credential=True` in this function directly or `--add-to-git-credential` if using via `huggingface-cli` if you want to set the git credential as well.
+Token is valid (permission: read).
+Your token has been saved to /home/huuthanhvy.nguyen001/.cache/huggingface/token
+Login successful
+Initializing GPTModel with model_name: gpt-4o
+Initializing llamaModel with adapter: ./output/1000 images for 5 epochs/finetuned-1000-images-5-epoch
+Initializing llamaModel with model_name: meta-llama/Llama-3.2-11B-Vision-Instruct
+Starting task: position_common_scale
+It is completed.
+Starting task: position_non_aligned_scale
+It is completed.
+Starting task: length
+It is completed.
+Starting task: direction
+It is completed.
+Starting task: angle
+It is completed.
+Starting task: area
+It is completed.
+Starting task: volume
+It is completed.
+Starting task: curvature
+It is completed.
+Starting task: shading

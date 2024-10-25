@@ -1,0 +1,110 @@
+[
+    {
+        "id":"48d00a00-e299-463d-9795-840fdafbdac4",
+        "image":"48d00a00-e299-463d-9795-840fdafbdac4.jpg",
+        "question":"Please estimate the angle (0-90 degrees). No explanation.",
+        "value":40.0
+    },
+    {
+        "id":"41ee5d2d-be1b-4e78-82ab-5e9722e870da",
+        "image":"41ee5d2d-be1b-4e78-82ab-5e9722e870da.jpg",
+        "question":"Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation.",
+        "value":35.0
+    },
+    {
+        "id":"02161d6e-f604-40a3-bebd-bddc97fcd704",
+        "image":"02161d6e-f604-40a3-bebd-bddc97fcd704.jpg",
+        "question":"Please estimate the area covered by the circle. The whole image is 100x100 with an area of 10000. No explanation.",
+        "value":3848.4510006475
+    },
+    {
+        "id":"ad6b3a3f-4b60-4500-8934-9fa90ec2aa23",
+        "image":"ad6b3a3f-4b60-4500-8934-9fa90ec2aa23.jpg",
+        "question":"Please estimate the curvature of the line. The more bend the line is, the higher the curvature. No explanation.",
+        "value":0.053
+    },
+    {
+        "id":"b51213a5-1874-4f2a-b88b-a59d824e330f",
+        "image":"b51213a5-1874-4f2a-b88b-a59d824e330f.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":48.0
+    },
+    {
+        "id":"fd918a78-1e7b-475a-880b-76bbcd113cc9",
+        "image":"fd918a78-1e7b-475a-880b-76bbcd113cc9.jpg",
+        "question":"Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation.",
+        "value":4.0
+    },
+    {
+        "id":"94efabc0-31b2-4a25-829b-c8ec2e637484",
+        "image":"94efabc0-31b2-4a25-829b-c8ec2e637484.jpg",
+        "question":"Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.",
+        "value":334.0
+    },
+    {
+        "id":"5db03635-c2d1-4fae-8c34-2e1ed19d9ae3",
+        "image":"5db03635-c2d1-4fae-8c34-2e1ed19d9ae3.jpg",
+        "question":"Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. (0 is no curvature - 1 is the maximum curvature) No explanation.",
+        "value":4913.0
+    },
+    {
+        "id":"3c8ff74a-16c2-4bb8-9467-93df24eb5ec2",
+        "image":"3c8ff74a-16c2-4bb8-9467-93df24eb5ec2.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":25.0
+    },
+    {
+        "id":"edb03231-a5e7-4111-ba04-ca0eb9116b6f",
+        "image":"edb03231-a5e7-4111-ba04-ca0eb9116b6f.jpg",
+        "question":"Please estimate the angle (0-90 degrees). No explanation.",
+        "value":85.0
+    },
+    {
+        "id":"21cae39f-ef29-40a3-ae54-6dba992aaa32",
+        "image":"21cae39f-ef29-40a3-ae54-6dba992aaa32.jpg",
+        "question":"Please estimate the shading density or texture density (range 0 to 100). No explanation.",
+        "value":19.0
+    },
+    {
+        "id":"1c6144e4-5d33-4945-8258-6ccb3c51a1fb",
+        "image":"1c6144e4-5d33-4945-8258-6ccb3c51a1fb.jpg",
+        "question":"Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.",
+        "value":352.0
+    },
+    {
+        "id":"948ca3db-2177-4f79-8f53-ffce102a5c0a",
+        "image":"948ca3db-2177-4f79-8f53-ffce102a5c0a.jpg",
+        "question":"Please estimate the area covered by the circle. The whole image is 100x100 with an area of 10000. No explanation.",
+        "value":804.247719319
+    },
+    {
+        "id":"7f72fb97-294c-4ab2-a9da-8f2e8351ff21",
+        "image":"7f72fb97-294c-4ab2-a9da-8f2e8351ff21.jpg",
+        "question":"Please estimate the shading density or texture density (range 0 to 100). No explanation.",
+        "value":4.0
+    },
+    {
+        "id":"79630679-5367-450c-b670-845d7fc2007b",
+        "image":"79630679-5367-450c-b670-845d7fc2007b.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":37.0
+    },
+    {
+        "id":"33a42781-83a6-48b3-a362-592305c32faf",
+        "image":"33a42781-83a6-48b3-a362-592305c32faf.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":42.0
+    },
+    {
+        "id":"ea9d6f9f-4b66-4863-ae29-e3ddd40823d9",
+        "image":"ea9d6f9f-4b66-4863-ae29-e3ddd40823d9.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":21.0
+    },
+    {
+        "id":"879d2e58-fb8a-4167-8823-059e708cc085",
+        "image":"879d2e58-fb8a-4167-8823-059e708cc085.jpg",
+        "question":"Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation.",
+        "value":44.0
+    }
+]

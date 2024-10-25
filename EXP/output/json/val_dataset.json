@@ -1,0 +1,92 @@
+[
+    {
+        "id":"c641db4d-6276-4ee3-b91e-d53da18fc602",
+        "image":"c641db4d-6276-4ee3-b91e-d53da18fc602.jpg",
+        "question":"Please estimate the curvature of the line. The more bend the line is, the higher the curvature. No explanation.",
+        "value":0.039
+    },
+    {
+        "id":"814354ba-7d85-41af-86bd-83d4c51b67b5",
+        "image":"814354ba-7d85-41af-86bd-83d4c51b67b5.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":36.0
+    },
+    {
+        "id":"6cafc732-e419-46c4-8eb0-7e8ab20938af",
+        "image":"6cafc732-e419-46c4-8eb0-7e8ab20938af.jpg",
+        "question":"Please estimate the angle (0-90 degrees). No explanation.",
+        "value":47.0
+    },
+    {
+        "id":"4ea8ea24-68b8-4024-abb8-4567fa90e997",
+        "image":"4ea8ea24-68b8-4024-abb8-4567fa90e997.jpg",
+        "question":"Please estimate the angle (0-90 degrees). No explanation.",
+        "value":16.0
+    },
+    {
+        "id":"81170626-4280-4c87-839b-91f5f63a0ede",
+        "image":"81170626-4280-4c87-839b-91f5f63a0ede.jpg",
+        "question":"Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation.",
+        "value":2.0
+    },
+    {
+        "id":"e5db0dfa-9959-4413-99db-0d56a26b53bf",
+        "image":"e5db0dfa-9959-4413-99db-0d56a26b53bf.jpg",
+        "question":"Please estimate the curvature of the line. The more bend the line is, the higher the curvature. No explanation.",
+        "value":0.08
+    },
+    {
+        "id":"3bf27d72-13dc-4cd1-91e3-f8e118dcfbbf",
+        "image":"3bf27d72-13dc-4cd1-91e3-f8e118dcfbbf.jpg",
+        "question":"Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.",
+        "value":96.0
+    },
+    {
+        "id":"c5d04041-c91d-4dc0-a0cb-12314b9df9c8",
+        "image":"c5d04041-c91d-4dc0-a0cb-12314b9df9c8.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":27.0
+    },
+    {
+        "id":"10079e57-864c-4727-abd5-5a878fd2d5ce",
+        "image":"10079e57-864c-4727-abd5-5a878fd2d5ce.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":52.0
+    },
+    {
+        "id":"c17bbcad-ec94-4304-b6c1-c14cc4f4cf00",
+        "image":"c17bbcad-ec94-4304-b6c1-c14cc4f4cf00.jpg",
+        "question":"Please estimate the area covered by the circle. The whole image is 100x100 with an area of 10000. No explanation.",
+        "value":28.2743338823
+    },
+    {
+        "id":"fda787d0-1f12-44ba-b8ff-0ac8383bd229",
+        "image":"fda787d0-1f12-44ba-b8ff-0ac8383bd229.jpg",
+        "question":"Please estimate the angle (0-90 degrees). No explanation.",
+        "value":81.0
+    },
+    {
+        "id":"51fe8e76-e9bf-4bf4-8244-78d0c24332ff",
+        "image":"51fe8e76-e9bf-4bf4-8244-78d0c24332ff.jpg",
+        "question":"Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.",
+        "value":172.0
+    },
+    {
+        "id":"a8ff9e5d-ec93-468a-a8db-559f2a2983ec",
+        "image":"a8ff9e5d-ec93-468a-a8db-559f2a2983ec.jpg",
+        "question":"Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. (0 is no curvature - 1 is the maximum curvature) No explanation.",
+        "value":8.0
+    },
+    {
+        "id":"75cc162e-20f4-48c8-8c24-9900b1752bd6",
+        "image":"75cc162e-20f4-48c8-8c24-9900b1752bd6.jpg",
+        "question":"Please estimate the vertical position of the block relative to the line on the left (Top is 0, Bottom is 60). So the range is 0 - 60. No explanation.",
+        "value":38.0
+    },
+    {
+        "id":"10dcd523-234f-4d81-9197-66cb49d23525",
+        "image":"10dcd523-234f-4d81-9197-66cb49d23525.jpg",
+        "question":"Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.",
+        "value":79.0
+    }
+]

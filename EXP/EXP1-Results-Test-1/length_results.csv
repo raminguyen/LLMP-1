@@ -1,0 +1,51 @@
+model_name,run,ground_truth,raw_answers,parsed_answers,mean,mse,mlae,forced_repetitions,time_ms,image_idx,std,confidence
+gpt4o,run_0,42.0,30,[30.0],30.0,144.0,3.599912842187128,0.0,6449.655294418335,,,
+gpt4o,run_1,42.0,38,[38.0],38.0,16.0,2.0443941193584534,0.0,5555.98258972168,,,
+gpt4o,run_2,42.0,20,[20.0],20.0,484.0,4.467605550082998,0.0,5848.642110824585,,,
+gpt4o,average,,,,,,3.3706375038761927,,,,1.002468218969798,1.964837709180804
+CustomLLaMA,run_0,42.0,"user
+Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation. Only answer in number.
+assistant
+
+42.0",[42.0],42.0,0.0,-3.0,0.0,534.3809127807617,,,
+CustomLLaMA,run_1,42.0,"user
+Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation. Only answer in number.
+assistant
+
+41.0",[41.0],41.0,1.0,0.16992500144231237,0.0,488.93189430236816,,,
+CustomLLaMA,run_2,42.0,"user
+Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation. Only answer in number.
+assistant
+
+41.0",[41.0],41.0,1.0,0.16992500144231237,0.0,487.2620105743408,,,
+CustomLLaMA,average,,,,,,-0.8867166657051252,,,,1.4943169762484239,2.928861273446911
+LLaMA,run_0,42.0,"user
+
+Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation. Only answer in number.assistant
+
+The length of the vertical line is approximately 20.",[20.0],20.0,484.0,4.467605550082998,0.0,8067.891359329224,,,
+LLaMA,run_1,42.0,"user
+
+Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation. Only answer in number.assistant
+
+The length of the vertical line is 90.",[90.0],90.0,2304.0,5.588714635582264,0.0,7971.132040023804,,,
+LLaMA,run_2,42.0,"user
+
+Please estimate the length of the vertical line (from top to bottom). The height of the whole image is 100. No explanation. Only answer in number.assistant
+
+The length of the vertical line is approximately 50.",[50.0],50.0,64.0,3.0223678130284544,0.0,8433.780193328857,,,
+LLaMA,average,,,,,,4.359562666231239,,,,1.0504884425736636,2.0589573474443807
+GeminiProVision,run_0,42.0,"50 
+",[50.0],50.0,64.0,3.0223678130284544,0.0,5582.536697387695,,,
+GeminiProVision,run_1,42.0,"25 
+",[25.0],25.0,289.0,4.098032082960526,0.0,5576.716423034668,,,
+GeminiProVision,run_2,42.0,"20 
+",[20.0],20.0,484.0,4.467605550082998,0.0,5626.89995765686,,,
+GeminiProVision,average,,,,,,3.862668482023993,,,,0.6130389044946458,1.2015562528095058
+Gemini1_5Flash,run_0,42.0,"25
+",[25.0],25.0,289.0,4.098032082960526,0.0,5291.277170181274,,,
+Gemini1_5Flash,run_1,42.0,"25 
+",[25.0],25.0,289.0,4.098032082960526,0.0,5339.660167694092,,,
+Gemini1_5Flash,run_2,42.0,"50 
+",[50.0],50.0,64.0,3.0223678130284544,0.0,5274.681329727173,,,
+Gemini1_5Flash,average,,,,,,3.739477326316502,,,,0.5070729996993634,0.9938630794107521

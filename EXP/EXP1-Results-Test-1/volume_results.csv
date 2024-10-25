@@ -1,0 +1,50 @@
+model_name,run,ground_truth,raw_answers,parsed_answers,mean,mse,mlae,forced_repetitions,time_ms,image_idx,std,confidence
+gpt4o,run_0,512.0,1,[1.0],1.0,261121.0,8.997532347526366,0.0,5665.2209758758545,,,
+gpt4o,run_1,512.0,1,[1.0],1.0,261121.0,8.997532347526366,0.0,6639.702320098877,,,
+gpt4o,run_2,512.0,1,[1.0],1.0,261121.0,8.997532347526366,0.0,6667.781591415405,,,
+gpt4o,average,,,,,,8.997532347526366,,,,0.0,0.0
+CustomLLaMA,run_0,512.0,"user
+Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. No explanation. Only answer in number.
+assistant
+
+512.0",[512.0],512.0,0.0,-3.0,0.0,529.0946960449219,,,
+CustomLLaMA,run_1,512.0,"user
+Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. No explanation. Only answer in number.
+assistant
+
+512.0",[512.0],512.0,0.0,-3.0,0.0,486.2971305847168,,,
+CustomLLaMA,run_2,512.0,"user
+Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. No explanation. Only answer in number.
+assistant
+
+512.0",[512.0],512.0,0.0,-3.0,0.0,493.53861808776855,,,
+CustomLLaMA,average,,,,,,-3.0,,,,0.0,0.0
+LLaMA,run_0,512.0,"user
+
+Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. No explanation. Only answer in number.assistant
+
+The volume of the cube is 1000.",[1000.0],1000.0,238144.0,8.931106833029341,0.0,8135.734558105469,,,
+LLaMA,run_1,512.0,"user
+
+Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. No explanation. Only answer in number.assistant
+
+The volume of the cube is 1000.",[1000.0],1000.0,238144.0,8.931106833029341,0.0,8241.69635772705,,,
+LLaMA,run_2,512.0,"user
+
+Please estimate the volume of the cube. The cube size is relative to the image size of 100x100. No explanation. Only answer in number.assistant
+
+The volume of the cube is 1,000.",[0.0],0.0,262144.0,9.0003521774803,0.0,8941.25509262085,,,
+LLaMA,average,,,,,,8.954188614512994,,,,0.03264256841791419,0.06397943409911182
+GeminiProVision,run_0,512.0,625000,[625000.0],625000.0,389985262144.0,19.252314612856917,0.0,5660.303354263306,,,
+GeminiProVision,run_1,512.0,"625000 
+",[625000.0],625000.0,389985262144.0,19.252314612856917,0.0,5655.081987380981,,,
+GeminiProVision,run_2,512.0,"64000000 
+",[64000000.0],64000000.0,4095934464262144.0,25.931557030535465,0.0,5718.721389770508,,,
+GeminiProVision,average,,,,,,21.4787287520831,,,,3.148625071152888,6.17130513945966
+Gemini1_5Flash,run_0,512.0,"1000000
+",[1000000.0],1000000.0,998976262144.0,19.930829900730995,0.0,5340.513706207275,,,
+Gemini1_5Flash,run_1,512.0,"1000000 
+",[1000000.0],1000000.0,998976262144.0,19.930829900730995,0.0,5268.329381942749,,,
+Gemini1_5Flash,run_2,512.0,"1000000
+",[1000000.0],1000000.0,998976262144.0,19.930829900730995,0.0,5315.6397342681885,,,
+Gemini1_5Flash,average,,,,,,19.930829900730995,,,,0.0,0.0

@@ -1,1 +1,0 @@
-Elapsed time for running the query: 6307.444086074829 seconds
