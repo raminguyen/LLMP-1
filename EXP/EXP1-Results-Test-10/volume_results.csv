@@ -1,0 +1,488 @@
+model_name,run,ground_truth,raw_answers,parsed_answers,mean,mse,mlae,forced_repetitions,time_ms,image_idx,std,confidence
+gpt4o,run_0,8000.0,125,[125.0],45.5,19031687.0,11.657910145852863,0.0,6324.117183685303,,,
+gpt4o,run_0,4096.0,8,[8.0],45.5,19031687.0,11.657910145852863,0.0,5714.957475662231,,,
+gpt4o,run_0,3375.0,8,[8.0],45.5,19031687.0,11.657910145852863,0.0,6385.310173034668,,,
+gpt4o,run_0,1000.0,125,[125.0],45.5,19031687.0,11.657910145852863,0.0,6049.8528480529785,,,
+gpt4o,run_0,512.0,27,[27.0],45.5,19031687.0,11.657910145852863,0.0,5687.00385093689,,,
+gpt4o,run_0,8000.0,20,[20.0],45.5,19031687.0,11.657910145852863,0.0,5597.01943397522,,,
+gpt4o,run_0,1728.0,8,[8.0],45.5,19031687.0,11.657910145852863,0.0,5570.259571075439,,,
+gpt4o,run_0,5832.0,125,[125.0],45.5,19031687.0,11.657910145852863,0.0,6089.9498462677,,,
+gpt4o,run_0,8.0,1,[1.0],45.5,19031687.0,11.657910145852863,0.0,6004.5835971832275,,,
+gpt4o,run_0,216.0,8,[8.0],45.5,19031687.0,11.657910145852863,0.0,5905.020236968994,,,
+gpt4o,run_1,8000.0,125,[125.0],44.3,18906455.4,11.658445812388738,0.0,6518.378973007202,,,
+gpt4o,run_1,4096.0,125,[125.0],44.3,18906455.4,11.658445812388738,0.0,6052.34169960022,,,
+gpt4o,run_1,3375.0,8,[8.0],44.3,18906455.4,11.658445812388738,0.0,6861.531972885132,,,
+gpt4o,run_1,1000.0,27,[27.0],44.3,18906455.4,11.658445812388738,0.0,6148.152112960815,,,
+gpt4o,run_1,512.0,1,[1.0],44.3,18906455.4,11.658445812388738,0.0,5969.739675521851,,,
+gpt4o,run_1,8000.0,125,[125.0],44.3,18906455.4,11.658445812388738,0.0,6134.374141693115,,,
+gpt4o,run_1,1728.0,3,[3.0],44.3,18906455.4,11.658445812388738,0.0,5709.396123886108,,,
+gpt4o,run_1,5832.0,27,[27.0],44.3,18906455.4,11.658445812388738,0.0,6253.193140029907,,,
+gpt4o,run_1,8.0,1,[1.0],44.3,18906455.4,11.658445812388738,0.0,6135.859727859497,,,
+gpt4o,run_1,216.0,1,[1.0],44.3,18906455.4,11.658445812388738,0.0,7852.129220962524,,,
+gpt4o,run_2,8000.0,125,[125.0],31.9,19128632.8,11.663969418239816,0.0,6498.308897018433,,,
+gpt4o,run_2,4096.0,8,[8.0],31.9,19128632.8,11.663969418239816,0.0,5507.347106933594,,,
+gpt4o,run_2,3375.0,125,[125.0],31.9,19128632.8,11.663969418239816,0.0,7172.332048416138,,,
+gpt4o,run_2,1000.0,27,[27.0],31.9,19128632.8,11.663969418239816,0.0,5854.366779327393,,,
+gpt4o,run_2,512.0,8,[8.0],31.9,19128632.8,11.663969418239816,0.0,5951.268672943115,,,
+gpt4o,run_2,8000.0,8,[8.0],31.9,19128632.8,11.663969418239816,0.0,5630.0928592681885,,,
+gpt4o,run_2,1728.0,8,[8.0],31.9,19128632.8,11.663969418239816,0.0,6328.925371170044,,,
+gpt4o,run_2,5832.0,8,[8.0],31.9,19128632.8,11.663969418239816,0.0,5782.281160354614,,,
+gpt4o,run_2,8.0,1,[1.0],31.9,19128632.8,11.663969418239816,0.0,7963.005781173706,,,
+gpt4o,run_2,216.0,1,[1.0],31.9,19128632.8,11.663969418239816,0.0,6181.997299194336,,,
+gpt4o,average,,,,,,11.660108458827139,,,,0.0027388550343975704,0.005368155867419238
+
+CustomLLaMA,run_0,8000.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,560.8220100402832,,,
+CustomLLaMA,run_0,4096.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,534.9164009094238,,,
+CustomLLaMA,run_0,3375.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+512.0",[512.0],1259.3,9284702.2,11.043932957046346,0.0,493.7419891357422,,,
+CustomLLaMA,run_0,1000.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+512.0",[512.0],1259.3,9284702.2,11.043932957046346,0.0,492.260217666626,,,
+CustomLLaMA,run_0,512.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+512.0",[512.0],1259.3,9284702.2,11.043932957046346,0.0,488.7421131134033,,,
+CustomLLaMA,run_0,8000.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,537.5478267669678,,,
+CustomLLaMA,run_0,1728.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,534.9934101104736,,,
+CustomLLaMA,run_0,5832.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,531.7127704620361,,,
+CustomLLaMA,run_0,8.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+8.0",[8.0],1259.3,9284702.2,11.043932957046346,0.0,485.1186275482178,,,
+CustomLLaMA,run_0,216.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+64.0",[64.0],1259.3,9284702.2,11.043932957046346,0.0,489.6385669708252,,,
+CustomLLaMA,run_1,8000.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,540.5447483062744,,,
+CustomLLaMA,run_1,4096.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,536.2045764923096,,,
+CustomLLaMA,run_1,3375.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+512.0",[512.0],1259.3,9284702.2,11.043932957046346,0.0,497.6460933685303,,,
+CustomLLaMA,run_1,1000.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+512.0",[512.0],1259.3,9284702.2,11.043932957046346,0.0,500.8859634399414,,,
+CustomLLaMA,run_1,512.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+512.0",[512.0],1259.3,9284702.2,11.043932957046346,0.0,484.71808433532715,,,
+CustomLLaMA,run_1,8000.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,532.8736305236816,,,
+CustomLLaMA,run_1,1728.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,532.2630405426025,,,
+CustomLLaMA,run_1,5832.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,533.0173969268799,,,
+CustomLLaMA,run_1,8.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+8.0",[8.0],1259.3,9284702.2,11.043932957046346,0.0,499.011754989624,,,
+CustomLLaMA,run_1,216.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+64.0",[64.0],1259.3,9284702.2,11.043932957046346,0.0,485.5513572692871,,,
+CustomLLaMA,run_2,8000.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,530.5047035217285,,,
+CustomLLaMA,run_2,4096.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,537.6825332641602,,,
+CustomLLaMA,run_2,3375.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+512.0",[512.0],1259.3,9284702.2,11.043932957046346,0.0,618.6037063598633,,,
+CustomLLaMA,run_2,1000.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+512.0",[512.0],1259.3,9284702.2,11.043932957046346,0.0,490.02528190612793,,,
+CustomLLaMA,run_2,512.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+512.0",[512.0],1259.3,9284702.2,11.043932957046346,0.0,488.9674186706543,,,
+CustomLLaMA,run_2,8000.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,538.4128093719482,,,
+CustomLLaMA,run_2,1728.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,535.7389450073242,,,
+CustomLLaMA,run_2,5832.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+2197.0",[2197.0],1259.3,9284702.2,11.043932957046346,0.0,528.7103652954102,,,
+CustomLLaMA,run_2,8.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+8.0",[8.0],1259.3,9284702.2,11.043932957046346,0.0,487.9286289215088,,,
+CustomLLaMA,run_2,216.0,"user
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.
+assistant
+
+64.0",[64.0],1259.3,9284702.2,11.043932957046346,0.0,485.46433448791504,,,
+CustomLLaMA,average,,,,,,11.043932957046346,,,,0.0,0.0
+LLaMA,run_0,8000.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 1000.",[1000.0],102310.2,98417605262.7,16.63224868701473,12.0,8342.5452709198,,,
+LLaMA,run_0,4096.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+10000",[10000.0],102310.2,98417605262.7,16.63224868701473,12.0,7486.159086227417,,,
+LLaMA,run_0,3375.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 1000.",[1000.0],102310.2,98417605262.7,16.63224868701473,12.0,7881.674289703369,,,
+LLaMA,run_0,1000.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of a cube is calculated by multiplying its side length by itself three times. In this case, the image is 100 units on each side, so the volume would be:
+
+100 x 100 x 100 = 1,000,000
+
+Therefore, the volume of the cube is 1,000,000.",[0.0],102310.2,98417605262.7,16.63224868701473,12.0,24138.792514801025,,,
+LLaMA,run_0,512.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+To estimate the cube volume, we need to determine the length of one side of the cube. Based on the given image, the side length appears to be approximately 10 units.
+
+**Volume Calculation**
+
+* Volume = side length^3
+* Volume = 10^3
+* Volume = 1000
+
+**Answer**: 100",[100.0],102310.2,98417605262.7,16.63224868701473,12.0,35976.44877433777,,,
+LLaMA,run_0,8000.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 1000000.",[1000000.0],102310.2,98417605262.7,16.63224868701473,12.0,7865.201234817505,,,
+LLaMA,run_0,1728.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+**Step 1: Estimate the cube volume.**
+
+*   The cube is a small, three-dimensional shape with equal sides.
+
+*   The cube is about 1/10 the size of the image.
+
+*   The volume of a cube is calculated by cubing the length of one side.
+
+*   Since the cube is 1",[1.0],102310.2,98417605262.7,16.63224868701473,12.0,95263.06986808777,,,
+LLaMA,run_0,5832.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+10000",[10000.0],102310.2,98417605262.7,16.63224868701473,12.0,7460.301637649536,,,
+LLaMA,run_0,8.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of a cube is calculated by multiplying the length of one side by itself three times. In this case, the side length is 10 units.
+
+*Answer*: 1000",[1000.0],102310.2,98417605262.7,16.63224868701473,12.0,33958.13226699829,,,
+LLaMA,run_0,216.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of a cube is calculated by cubing the length of one of its sides. In this case, the side length is 1 unit.
+
+*Answer*: 1",[1.0],102310.2,98417605262.7,16.63224868701473,12.0,9705.884218215942,,,
+LLaMA,run_1,8000.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 10000.",[10000.0],106400.0,98931100491.3,16.68474896279871,5.0,7956.523418426514,,,
+LLaMA,run_1,4096.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+30000",[30000.0],106400.0,98931100491.3,16.68474896279871,5.0,44064.91017341614,,,
+LLaMA,run_1,3375.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 1000.",[1000.0],106400.0,98931100491.3,16.68474896279871,5.0,8230.048894882202,,,
+LLaMA,run_1,1000.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 1000.",[1000.0],106400.0,98931100491.3,16.68474896279871,5.0,7955.966234207153,,,
+LLaMA,run_1,512.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 1000.",[1000.0],106400.0,98931100491.3,16.68474896279871,5.0,30860.952854156494,,,
+LLaMA,run_1,8000.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+1,000",[0.0],106400.0,98931100491.3,16.68474896279871,5.0,7588.07373046875,,,
+LLaMA,run_1,1728.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 1000.",[1000.0],106400.0,98931100491.3,16.68474896279871,5.0,7817.179441452026,,,
+LLaMA,run_1,5832.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of a cube is calculated by multiplying the length of one side by itself three times. In this case, the side length is 100 units. 
+
+*Answer*: 1000000",[1000000.0],106400.0,98931100491.3,16.68474896279871,5.0,10049.904108047485,,,
+LLaMA,run_1,8.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 10000.",[10000.0],106400.0,98931100491.3,16.68474896279871,5.0,7852.112293243408,,,
+LLaMA,run_1,216.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 10000.",[10000.0],106400.0,98931100491.3,16.68474896279871,5.0,7970.183372497559,,,
+LLaMA,run_2,8000.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+1,000",[0.0],15900.1,1533669389.0,13.867368036525338,1.0,7549.821376800537,,,
+LLaMA,run_2,4096.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 1000.",[1000.0],15900.1,1533669389.0,13.867368036525338,1.0,20048.43258857727,,,
+LLaMA,run_2,3375.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+10000",[10000.0],15900.1,1533669389.0,13.867368036525338,1.0,8121.737003326416,,,
+LLaMA,run_2,1000.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The image is a 3D cube with a side length of 10 units.
+
+**Step 2: Calculate the volume of the cube**
+
+Volume = side^3
+= 10^3
+= 1000
+
+**Answer:** 1000",[1000.0],15900.1,1533669389.0,13.867368036525338,1.0,10983.055114746094,,,
+LLaMA,run_2,512.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of a cube is calculated by cubing the length of one of its sides. In this case, the side length is 1.
+
+1^3 = 1",[1.0],15900.1,1533669389.0,13.867368036525338,1.0,9591.952800750732,,,
+LLaMA,run_2,8000.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+10000",[10000.0],15900.1,1533669389.0,13.867368036525338,1.0,7378.3698081970215,,,
+LLaMA,run_2,1728.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of a cube is calculated by cubing the length of one side. In this case, the side length is 50 units (100/2 = 50). 
+
+50^3 = 125000
+
+Answer: 125000",[125000.0],15900.1,1533669389.0,13.867368036525338,1.0,10406.359910964966,,,
+LLaMA,run_2,5832.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+10000",[10000.0],15900.1,1533669389.0,13.867368036525338,1.0,7607.06639289856,,,
+LLaMA,run_2,8.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 1000.",[1000.0],15900.1,1533669389.0,13.867368036525338,1.0,8160.907506942749,,,
+LLaMA,run_2,216.0,"user
+
+Estimate the cube volume (relative to 100x100 image). Number only. No explanation.assistant
+
+The volume of the cube is 1000.",[1000.0],15900.1,1533669389.0,13.867368036525338,1.0,8113.335847854614,,,
+LLaMA,average,,,,,,15.72812189544626,,,,1.3159262295321812,2.579215409883075
+GeminiProVision,run_0,8000.0,"20 
+",[20.0],25032.0,5977654066.3,14.725037342603185,0.0,5646.929502487183,,,
+GeminiProVision,run_0,4096.0,"50 
+",[50.0],25032.0,5977654066.3,14.725037342603185,0.0,5603.375434875488,,,
+GeminiProVision,run_0,3375.0,"25
+",[25.0],25032.0,5977654066.3,14.725037342603185,0.0,5568.158864974976,,,
+GeminiProVision,run_0,1000.0,"50 
+",[50.0],25032.0,5977654066.3,14.725037342603185,0.0,5679.105281829834,,,
+GeminiProVision,run_0,512.0,"50 
+",[50.0],25032.0,5977654066.3,14.725037342603185,0.0,5612.0734214782715,,,
+GeminiProVision,run_0,8000.0,"50 
+",[50.0],25032.0,5977654066.3,14.725037342603185,0.0,5599.289894104004,,,
+GeminiProVision,run_0,1728.0,"25 
+",[25.0],25032.0,5977654066.3,14.725037342603185,0.0,5607.41400718689,,,
+GeminiProVision,run_0,5832.0,"250000 
+",[250000.0],25032.0,5977654066.3,14.725037342603185,0.0,5661.434888839722,,,
+GeminiProVision,run_0,8.0,25,[25.0],25032.0,5977654066.3,14.725037342603185,0.0,5564.514636993408,,,
+GeminiProVision,run_0,216.0,25,[25.0],25032.0,5977654066.3,14.725037342603185,0.0,5563.068866729736,,,
+GeminiProVision,run_1,8000.0,"40000 
+",[40000.0],605034.2,3600112125711.9,19.20966141059042,0.0,5649.947643280029,,,
+GeminiProVision,run_1,4096.0,"50
+",[50.0],605034.2,3600112125711.9,19.20966141059042,0.0,5559.278964996338,,,
+GeminiProVision,run_1,3375.0,"60 
+",[60.0],605034.2,3600112125711.9,19.20966141059042,0.0,5573.2362270355225,,,
+GeminiProVision,run_1,1000.0,"60 
+",[60.0],605034.2,3600112125711.9,19.20966141059042,0.0,5606.551647186279,,,
+GeminiProVision,run_1,512.0,"27 
+",[27.0],605034.2,3600112125711.9,19.20966141059042,0.0,5594.589471817017,,,
+GeminiProVision,run_1,8000.0,"70 
+",[70.0],605034.2,3600112125711.9,19.20966141059042,0.0,5605.063438415527,,,
+GeminiProVision,run_1,1728.0,10000,[10000.0],605034.2,3600112125711.9,19.20966141059042,0.0,5635.836124420166,,,
+GeminiProVision,run_1,5832.0,"50
+",[50.0],605034.2,3600112125711.9,19.20966141059042,0.0,5563.048601150513,,,
+GeminiProVision,run_1,8.0,"6000000 
+",[6000000.0],605034.2,3600112125711.9,19.20966141059042,0.0,5720.3052043914795,,,
+GeminiProVision,run_1,216.0,"25 
+",[25.0],605034.2,3600112125711.9,19.20966141059042,0.0,5617.518901824951,,,
+GeminiProVision,run_2,8000.0,"25 
+",[25.0],35.2,19267738.9,11.666235100414657,0.0,5577.674865722656,,,
+GeminiProVision,run_2,4096.0,"30 
+",[30.0],35.2,19267738.9,11.666235100414657,0.0,5576.435804367065,,,
+GeminiProVision,run_2,3375.0,"20 
+",[20.0],35.2,19267738.9,11.666235100414657,0.0,5586.525201797485,,,
+GeminiProVision,run_2,1000.0,"75 
+",[75.0],35.2,19267738.9,11.666235100414657,0.0,5620.630264282227,,,
+GeminiProVision,run_2,512.0,"27 
+",[27.0],35.2,19267738.9,11.666235100414657,0.0,5576.688528060913,,,
+GeminiProVision,run_2,8000.0,20,[20.0],35.2,19267738.9,11.666235100414657,0.0,5524.328231811523,,,
+GeminiProVision,run_2,1728.0,"50 
+",[50.0],35.2,19267738.9,11.666235100414657,0.0,5597.57399559021,,,
+GeminiProVision,run_2,5832.0,"30 
+",[30.0],35.2,19267738.9,11.666235100414657,0.0,5648.432970046997,,,
+GeminiProVision,run_2,8.0,"50 
+",[50.0],35.2,19267738.9,11.666235100414657,0.0,5597.739458084106,,,
+GeminiProVision,run_2,216.0,25,[25.0],35.2,19267738.9,11.666235100414657,0.0,5529.745817184448,,,
+GeminiProVision,average,,,,,,15.20031128453609,,,,3.097873906856477,6.071832857438695
+Gemini1_5Flash,run_0,8000.0,144,[144.0],286.3,17640582.2,11.5489784006012,0.0,5279.582500457764,,,
+Gemini1_5Flash,run_0,4096.0,"2000
+",[2000.0],286.3,17640582.2,11.5489784006012,0.0,5262.57061958313,,,
+Gemini1_5Flash,run_0,3375.0,"125
+",[125.0],286.3,17640582.2,11.5489784006012,0.0,5314.663887023926,,,
+Gemini1_5Flash,run_0,1000.0,125,[125.0],286.3,17640582.2,11.5489784006012,0.0,5271.432876586914,,,
+Gemini1_5Flash,run_0,512.0,"125
+",[125.0],286.3,17640582.2,11.5489784006012,0.0,5330.020427703857,,,
+Gemini1_5Flash,run_0,8000.0,"75
+",[75.0],286.3,17640582.2,11.5489784006012,0.0,5307.325124740601,,,
+Gemini1_5Flash,run_0,1728.0,"30
+",[30.0],286.3,17640582.2,11.5489784006012,0.0,5294.32225227356,,,
+Gemini1_5Flash,run_0,5832.0,"77
+",[77.0],286.3,17640582.2,11.5489784006012,0.0,5259.122371673584,,,
+Gemini1_5Flash,run_0,8.0,"37
+",[37.0],286.3,17640582.2,11.5489784006012,0.0,5259.301424026489,,,
+Gemini1_5Flash,run_0,216.0,"125
+",[125.0],286.3,17640582.2,11.5489784006012,0.0,5258.546590805054,,,
+Gemini1_5Flash,run_1,8000.0,"111000
+",[111000.0],11148.6750001,1073695960.5062485,13.635735122439526,0.0,5289.5238399505615,,,
+Gemini1_5Flash,run_1,4096.0,"20
+",[20.0],11148.6750001,1073695960.5062485,13.635735122439526,0.0,5285.683870315552,,,
+Gemini1_5Flash,run_1,3375.0,"125 
+",[125.0],11148.6750001,1073695960.5062485,13.635735122439526,0.0,5271.349668502808,,,
+Gemini1_5Flash,run_1,1000.0,"1
+",[1.0],11148.6750001,1073695960.5062485,13.635735122439526,0.0,5295.495271682739,,,
+Gemini1_5Flash,run_1,512.0,"1.75
+",[1.75],11148.6750001,1073695960.5062485,13.635735122439526,0.0,5259.217023849487,,,
+Gemini1_5Flash,run_1,8000.0,"44
+",[44.0],11148.6750001,1073695960.5062485,13.635735122439526,0.0,5253.732442855835,,,
+Gemini1_5Flash,run_1,1728.0,"144
+",[144.0],11148.6750001,1073695960.5062485,13.635735122439526,0.0,5280.012130737305,,,
+Gemini1_5Flash,run_1,5832.0,"26
+",[26.0],11148.6750001,1073695960.5062485,13.635735122439526,0.0,5247.308969497681,,,
+Gemini1_5Flash,run_1,8.0,0.000001,[1e-06],11148.6750001,1073695960.5062485,13.635735122439526,0.0,5319.890022277832,,,
+Gemini1_5Flash,run_1,216.0,"125 
+",[125.0],11148.6750001,1073695960.5062485,13.635735122439526,0.0,5304.093837738037,,,
+Gemini1_5Flash,run_2,8000.0,"16
+",[16.0],200115.6,398380858894.9,17.62646355663449,0.0,5266.691446304321,,,
+Gemini1_5Flash,run_2,4096.0,"2000000
+",[2000000.0],200115.6,398380858894.9,17.62646355663449,0.0,5315.285205841064,,,
+Gemini1_5Flash,run_2,3375.0,"20
+",[20.0],200115.6,398380858894.9,17.62646355663449,0.0,5297.802209854126,,,
+Gemini1_5Flash,run_2,1000.0,"1000
+",[1000.0],200115.6,398380858894.9,17.62646355663449,0.0,5264.629125595093,,,
+Gemini1_5Flash,run_2,512.0,"27
+",[27.0],200115.6,398380858894.9,17.62646355663449,0.0,5253.150463104248,,,
+Gemini1_5Flash,run_2,8000.0,16,[16.0],200115.6,398380858894.9,17.62646355663449,0.0,5302.505254745483,,,
+Gemini1_5Flash,run_2,1728.0,"8
+",[8.0],200115.6,398380858894.9,17.62646355663449,0.0,5256.340980529785,,,
+Gemini1_5Flash,run_2,5832.0,"15
+",[15.0],200115.6,398380858894.9,17.62646355663449,0.0,5272.556304931641,,,
+Gemini1_5Flash,run_2,8.0,"27
+",[27.0],200115.6,398380858894.9,17.62646355663449,0.0,5268.2812213897705,,,
+Gemini1_5Flash,run_2,216.0,"27 
+",[27.0],200115.6,398380858894.9,17.62646355663449,0.0,5266.665697097778,,,
+Gemini1_5Flash,average,,,,,,14.270392359891739,,,,2.5213817392108773,4.941908208853319

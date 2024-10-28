@@ -21,7 +21,7 @@ login('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')
 # Set up model instances
 model_instances = {
     "gpt4o": L.GPTModel("gpt-4o"),
-    "CustomLLaMA": L.llamafinetuned("./output/1000 images for 5 epochs/finetuned-1000-images-5-epoch"),
+    "CustomLLaMA": L.llamafinetuned("./output/1000model/finetuned-1000-images-5-epoch"),
     "LLaMA": L.llama("meta-llama/Llama-3.2-11B-Vision-Instruct"),
     "GeminiProVision": L.GeminiProVision(),
     "Gemini1_5Flash": L.Gemini1_5Flash()
@@ -29,7 +29,7 @@ model_instances = {
 
 # Set up the number of images and sleep time
 num_images = 10
-timesheet = 5  # Sleep for 5 seconds between each task
+timesheet = 5 # Sleep for 5 seconds between each task
 
 # Create an instance of the Runexp1 class
 experiment = L.Runexp1()

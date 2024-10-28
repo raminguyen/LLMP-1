@@ -1,0 +1,18 @@
+using 4 CPUs
+Sun 27 Oct 2024 10:04:54 AM EDT
+Train size: 57, Validation size: 15, Test size: 18
+Dataset({
+    features: ['id', 'image', 'question', 'value'],
+    num_rows: 57
+})
+Dataset({
+    features: ['id', 'image', 'question', 'value'],
+    num_rows: 15
+})
+Dataset({
+    features: ['id', 'image', 'question', 'value'],
+    num_rows: 18
+})
+{'train_runtime': 218.6055, 'train_samples_per_second': 0.782, 'train_steps_per_second': 0.192, 'train_loss': 13.876200358072916, 'epoch': 2.95}
+Finish Run
+end time is Sun 27 Oct 2024 10:09:07 AM EDT

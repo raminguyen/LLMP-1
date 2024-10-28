@@ -1,0 +1,96 @@
+model_name,run,image_path,ground_truth,raw_answers,parsed_answers,mean,mse,mlae,forced_repetitions,time_ms,std,confidence
+gpt4o,run_0,EXP1-Results/curvature/curvature_image_1.png,0.054,0.6,[0.6],0.6,0.3064184999999999,-0.5595792792432331,0.0,5839.868068695068,,
+gpt4o,run_0,EXP1-Results/curvature/curvature_image_2.png,0.039,0.6,[0.6],0.6,0.3064184999999999,-0.5595792792432331,0.0,6536.4110469818115,,
+gpt4o,run_1,EXP1-Results/curvature/curvature_image_1.png,0.054,0.3,[0.3],0.4,0.13651850000000001,-1.0634091701760613,0.0,6411.312580108643,,
+gpt4o,run_1,EXP1-Results/curvature/curvature_image_2.png,0.039,0.5,[0.5],0.4,0.13651850000000001,-1.0634091701760613,0.0,5834.015130996704,,
+gpt4o,run_2,EXP1-Results/curvature/curvature_image_1.png,0.054,0.4,[0.4],0.5,0.21721849999999998,-0.789611135554597,0.0,5521.378755569458,,
+gpt4o,run_2,EXP1-Results/curvature/curvature_image_2.png,0.039,0.6,[0.6],0.5,0.21721849999999998,-0.789611135554597,0.0,5888.52334022522,,
+gpt4o,average,,,,,,,-0.8041998616579639,,,0.20594621133738727,0.40365457422127904
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_1.png,0.054,"user
+Estimate the line curvature (0-1, no to max). Number only. No explanation.
+assistant
+
+0.057000000000000004",[0.057],0.049,6.5000000000000115e-06,-2.971430847803229,0.0,759.4425678253174,,
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_2.png,0.039,"user
+Estimate the line curvature (0-1, no to max). Number only. No explanation.
+assistant
+
+0.041",[0.041],0.049,6.5000000000000115e-06,-2.971430847803229,0.0,489.931583404541,,
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_1.png,0.054,"user
+Estimate the line curvature (0-1, no to max). Number only. No explanation.
+assistant
+
+0.057000000000000004",[0.057],0.049,6.5000000000000115e-06,-2.971430847803229,0.0,715.1837348937988,,
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_2.png,0.039,"user
+Estimate the line curvature (0-1, no to max). Number only. No explanation.
+assistant
+
+0.041",[0.041],0.049,6.5000000000000115e-06,-2.971430847803229,0.0,488.2466793060303,,
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_1.png,0.054,"user
+Estimate the line curvature (0-1, no to max). Number only. No explanation.
+assistant
+
+0.058",[0.058],0.0495,1.000000000000002e-05,-2.965784284662087,0.0,493.21532249450684,,
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_2.png,0.039,"user
+Estimate the line curvature (0-1, no to max). Number only. No explanation.
+assistant
+
+0.041",[0.041],0.0495,1.000000000000002e-05,-2.965784284662087,0.0,491.025447845459,,
+CustomLLaMA,average,,,,,,,-2.969548660089515,,,0.0026618153916664424,0.005217158167666227
+LLaMA,run_0,EXP1-Results/curvature/curvature_image_1.png,0.054,"user
+
+Estimate the line curvature (0-1, no to max). Number only. No explanation.assistant
+
+The answer is 0.5.",[0.5],0.25,0.1002185,-1.4441838449383604,6.0,80263.59701156616,,
+LLaMA,run_0,EXP1-Results/curvature/curvature_image_2.png,0.039,"user
+
+Estimate the line curvature (0-1, no to max). Number only. No explanation.assistant
+
+The final answer is 0.",[0.0],0.25,0.1002185,-1.4441838449383604,6.0,7463.803291320801,,
+LLaMA,run_1,EXP1-Results/curvature/curvature_image_1.png,0.054,"user
+
+Estimate the line curvature (0-1, no to max). Number only. No explanation.assistant
+
+The answer is 1.",[1.0],0.5,0.44821849999999996,-0.6954889581900472,5.0,42367.660999298096,,
+LLaMA,run_1,EXP1-Results/curvature/curvature_image_2.png,0.039,"user
+
+Estimate the line curvature (0-1, no to max). Number only. No explanation.assistant
+
+The answer is 0.",[0.0],0.5,0.44821849999999996,-0.6954889581900472,5.0,31004.523754119873,,
+LLaMA,run_2,EXP1-Results/curvature/curvature_image_1.png,0.054,"user
+
+Estimate the line curvature (0-1, no to max). Number only. No explanation.assistant
+
+The answer is 1.",[1.0],0.75,0.5537185,-0.2714263974406352,7.0,30955.44958114624,,
+LLaMA,run_2,EXP1-Results/curvature/curvature_image_2.png,0.039,"user
+
+Estimate the line curvature (0-1, no to max). Number only. No explanation.assistant
+
+The answer is: 0.5",[0.5],0.75,0.5537185,-0.2714263974406352,7.0,65682.19518661499,,
+LLaMA,average,,,,,,,-0.8036997335230142,,,0.4848519956914456,0.9503099115552334
+GeminiProVision,run_0,EXP1-Results/curvature/curvature_image_1.png,0.054,"0.25 
+",[0.25],0.175,0.021068500000000004,-1.9799423476587465,0.0,5679.175853729248,,
+GeminiProVision,run_0,EXP1-Results/curvature/curvature_image_2.png,0.039,"0.1 
+",[0.1],0.175,0.021068500000000004,-1.9799423476587465,0.0,5599.8406410217285,,
+GeminiProVision,run_1,EXP1-Results/curvature/curvature_image_1.png,0.054,"0.25 
+",[0.25],0.175,0.021068500000000004,-1.9799423476587465,0.0,5677.515268325806,,
+GeminiProVision,run_1,EXP1-Results/curvature/curvature_image_2.png,0.039,"0.1 
+",[0.1],0.175,0.021068500000000004,-1.9799423476587465,0.0,5609.039783477783,,
+GeminiProVision,run_2,EXP1-Results/curvature/curvature_image_1.png,0.054,"0.25 
+",[0.25],0.175,0.021068500000000004,-1.9799423476587465,0.0,5635.206460952759,,
+GeminiProVision,run_2,EXP1-Results/curvature/curvature_image_2.png,0.039,"0.1 
+",[0.1],0.175,0.021068500000000004,-1.9799423476587465,0.0,5628.950119018555,,
+GeminiProVision,average,,,,,,,-1.9799423476587465,,,0.0,0.0
+Gemini1_5Flash,run_0,EXP1-Results/curvature/curvature_image_1.png,0.054,"0.2 
+",[0.2],0.2,0.023618500000000004,-1.8442507673220552,0.0,5300.683498382568,,
+Gemini1_5Flash,run_0,EXP1-Results/curvature/curvature_image_2.png,0.039,"0.2 
+",[0.2],0.2,0.023618500000000004,-1.8442507673220552,0.0,5275.641441345215,,
+Gemini1_5Flash,run_1,EXP1-Results/curvature/curvature_image_1.png,0.054,"0.5 
+",[0.5],0.35,0.1124185,-1.2226328905495871,0.0,5273.284196853638,,
+Gemini1_5Flash,run_1,EXP1-Results/curvature/curvature_image_2.png,0.039,"0.2 
+",[0.2],0.35,0.1124185,-1.2226328905495871,0.0,5262.886762619019,,
+Gemini1_5Flash,run_2,EXP1-Results/curvature/curvature_image_1.png,0.054,"0.5 
+",[0.5],0.35,0.1124185,-1.2226328905495871,0.0,5299.593925476074,,
+Gemini1_5Flash,run_2,EXP1-Results/curvature/curvature_image_2.png,0.039,"0.2 
+",[0.2],0.35,0.1124185,-1.2226328905495871,0.0,5264.484643936157,,
+Gemini1_5Flash,average,,,,,,,-1.429838849473743,,,0.2930334773150639,0.5743456155375253

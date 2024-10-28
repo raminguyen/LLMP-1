@@ -1,0 +1,129 @@
+model_name,run,image_path,ground_truth,raw_answers,parsed_answers,mean,mse,mlae,forced_repetitions,time_ms,std,confidence
+gpt4o,run_0,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,30,[30.0],30.0,12.5,1.857980995127572,0.0,5947.169780731201,,
+gpt4o,run_0,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,30,[30.0],30.0,12.5,1.857980995127572,0.0,5961.586236953735,,
+gpt4o,run_1,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,30,[30.0],30.0,12.5,1.857980995127572,0.0,5693.091869354248,,
+gpt4o,run_1,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,30,[30.0],30.0,12.5,1.857980995127572,0.0,5639.769077301025,,
+gpt4o,run_2,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,30,[30.0],30.0,12.5,1.857980995127572,0.0,5450.1800537109375,,
+gpt4o,run_2,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,30,[30.0],30.0,12.5,1.857980995127572,0.0,5541.836977005005,,
+gpt4o,average,,,,,,,1.857980995127572,,,0.0,0.0
+CustomLLaMA,run_0,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+31.0",[31.0],32.0,30.5,2.4918530963296748,0.0,1591.1097526550293,,
+CustomLLaMA,run_0,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+33.0",[33.0],32.0,30.5,2.4918530963296748,0.0,500.7193088531494,,
+CustomLLaMA,run_1,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+31.0",[31.0],32.0,30.5,2.4918530963296748,0.0,500.26512145996094,,
+CustomLLaMA,run_1,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+33.0",[33.0],32.0,30.5,2.4918530963296748,0.0,488.2814884185791,,
+CustomLLaMA,run_2,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+31.0",[31.0],31.5,25.0,2.357552004618084,0.0,487.47777938842773,,
+CustomLLaMA,run_2,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+32.0",[32.0],31.5,25.0,2.357552004618084,0.0,492.30289459228516,,
+CustomLLaMA,average,,,,,,,2.4470860657591444,,,0.06331014178001496,0.12408787788882931
+LLaMA,run_0,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the block's vertical position**
+
+*   The block is positioned at the bottom of the image.
+
+**Step 2: Determine the vertical position**
+
+*   The image is 60 units tall.
+*   The block is positioned at the bottom of the image.
+
+**Answer:** 0",[0.0],0.0,702.5,4.734709620225838,0.0,11397.411108016968,,
+LLaMA,run_0,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Identify the position of the block**
+
+The block is located at the 30% mark.
+
+**Step 2: Convert the percentage to a numerical value**
+
+30% is equivalent to 0.3.
+
+**Step 3: Calculate the block's vertical position**
+
+The block's vertical position is 0",[0.0],0.0,702.5,4.734709620225838,0.0,11781.45956993103,,
+LLaMA,run_1,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image presents a vertical line and a small black square. The vertical line extends from the top of the image to the bottom, while the square is positioned slightly below the midpoint of the line.
+
+*Answer*: 30",[30.0],20.0,152.5,3.4093909361377017,1.0,10340.766191482544,,
+LLaMA,run_1,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the block's vertical position**
+
+The block is positioned above the line.
+
+**Step 2: Determine the block's vertical position**
+
+The block is approximately 10 units above the line.
+
+**Answer:** 10",[10.0],20.0,152.5,3.4093909361377017,1.0,22078.561305999756,,
+LLaMA,run_2,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the block's vertical position**
+
+*   The block is located approximately at the 40th mark on the y-axis.
+
+**Answer:** 40",[40.0],32.5,100.0,3.0223678130284544,1.0,9204.768419265747,,
+LLaMA,run_2,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block is positioned at approximately 25.",[25.0],32.5,100.0,3.0223678130284544,1.0,16636.64674758911,,
+LLaMA,average,,,,,,,3.722156123130665,,,0.7332099121056934,1.4370914277271591
+GeminiProVision,run_0,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"20 
+",[20.0],15.0,162.5,3.5391588111080314,0.0,5779.00767326355,,
+GeminiProVision,run_0,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"10 
+",[10.0],15.0,162.5,3.5391588111080314,0.0,5629.190921783447,,
+GeminiProVision,run_1,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"30 
+",[30.0],27.5,10.0,1.6438561897747246,0.0,5628.06510925293,,
+GeminiProVision,run_1,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"25 
+",[25.0],27.5,10.0,1.6438561897747246,0.0,5741.647958755493,,
+GeminiProVision,run_2,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"10 
+",[10.0],15.0,152.5,3.5391588111080314,0.0,6859.286546707153,,
+GeminiProVision,run_2,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"20 
+",[20.0],15.0,152.5,3.5391588111080314,0.0,5618.151664733887,,
+GeminiProVision,average,,,,,,,2.9073912706635956,,,0.8934542239636136,1.7511702789686827
+Gemini1_5Flash,run_0,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"30 
+",[30.0],30.0,12.5,1.857980995127572,0.0,5298.990726470947,,
+Gemini1_5Flash,run_0,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"30 
+",[30.0],30.0,12.5,1.857980995127572,0.0,5451.321601867676,,
+Gemini1_5Flash,run_1,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"25 
+",[25.0],30.0,32.5,2.2094533656289497,0.0,5298.960447311401,,
+Gemini1_5Flash,run_1,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"35 
+",[35.0],30.0,32.5,2.2094533656289497,0.0,5321.142911911011,,
+Gemini1_5Flash,run_2,EXP1-Results/position_common_scale/position_common_scale_image_1.png,26.0,"40 
+",[40.0],30.0,122.5,3.4093909361377017,0.0,5339.505195617676,,
+Gemini1_5Flash,run_2,EXP1-Results/position_common_scale/position_common_scale_image_2.png,27.0,"20 
+",[20.0],30.0,122.5,3.4093909361377017,0.0,5289.316177368164,,
+Gemini1_5Flash,average,,,,,,,2.492275098964741,,,0.664183358670159,1.3017993829935115

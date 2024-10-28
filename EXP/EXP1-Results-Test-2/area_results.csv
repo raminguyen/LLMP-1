@@ -1,0 +1,127 @@
+model_name,run,image_path,ground_truth,raw_answers,parsed_answers,mean,mse,mlae,forced_repetitions,time_ms,std,confidence
+gpt4o,run_0,EXP1-Results/area/area_image_1.png,1520.5308443374597,2000,[2000.0],1050.0,115175.6053572406,7.969183131826915,0.0,6623.751163482666,,
+gpt4o,run_0,EXP1-Results/area/area_image_2.png,78.53981633974483,100,[100.0],1050.0,115175.6053572406,7.969183131826915,0.0,5603.780269622803,,
+gpt4o,run_1,EXP1-Results/area/area_image_1.png,1520.5308443374597,3500,[3500.0],1789.5,1959149.1749941856,9.951415381752307,0.0,5757.4474811553955,,
+gpt4o,run_1,EXP1-Results/area/area_image_2.png,78.53981633974483,79,[79.0],1789.5,1959149.1749941856,9.951415381752307,0.0,6975.135326385498,,
+gpt4o,run_2,EXP1-Results/area/area_image_1.png,1520.5308443374597,2500,[2500.0],1290.0,479680.9795153056,8.938373045184338,0.0,6127.81548500061,,
+gpt4o,run_2,EXP1-Results/area/area_image_2.png,78.53981633974483,80,[80.0],1290.0,479680.9795153056,8.938373045184338,0.0,5556.0407638549805,,
+gpt4o,average,,,,,,,8.952990519587853,,,0.8093089340416812,1.5862455107216953
+CustomLLaMA,run_0,EXP1-Results/area/area_image_1.png,1520.5308443374597,"user
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.
+assistant
+
+2827.4330842037398",[2827.43308420374],1639.9112135456035,923878.4665337281,9.715105525235801,0.0,732.764482498169,,
+CustomLLaMA,run_0,EXP1-Results/area/area_image_2.png,78.53981633974483,"user
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.
+assistant
+
+452.3893428874673",[452.3893428874673],1639.9112135456035,923878.4665337281,9.715105525235801,0.0,694.2007541656494,,
+CustomLLaMA,run_1,EXP1-Results/area/area_image_1.png,1520.5308443374597,"user
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.
+assistant
+
+2544.0",[2544.0],1429.0796326794896,551502.8186743604,9.298450524522961,0.0,538.4750366210938,,
+CustomLLaMA,run_1,EXP1-Results/area/area_image_2.png,78.53981633974483,"user
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.
+assistant
+
+314.1592653589793",[314.1592653589793],1429.0796326794896,551502.8186743604,9.298450524522961,0.0,671.0183620452881,,
+CustomLLaMA,run_2,EXP1-Results/area/area_image_1.png,1520.5308443374597,"user
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.
+assistant
+
+2827.4338364591848",[2827.433836459185],1570.796550909082,881755.9777864229,9.591309564815564,0.0,719.1658020019531,,
+CustomLLaMA,run_2,EXP1-Results/area/area_image_2.png,78.53981633974483,"user
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.
+assistant
+
+314.1592653589793",[314.1592653589793],1570.796550909082,881755.9777864229,9.591309564815564,0.0,675.0965118408203,,
+CustomLLaMA,average,,,,,,,9.53495520485811,,,0.17470395496270258,0.34241975172689704
+LLaMA,run_0,EXP1-Results/area/area_image_1.png,1520.5308443374597,"user
+
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.assistant
+
+The information in the image is:
+
+* The circle is drawn within a 100x100 pixel grid.
+* The circle is not explicitly defined, but its diameter is approximately 100 pixels.
+* The task is to estimate the area of the circle.
+* The maximum possible area is given as 100",[100.0],5050.0,50226640.02783495,12.46941809924351,24.0,244924.6382713318,,
+LLaMA,run_0,EXP1-Results/area/area_image_2.png,78.53981633974483,"user
+
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.assistant
+
+The information in the image is:
+
+* A circle with a diameter of 100 units
+* The circle is inscribed within a square with side length 100 units
+* The task is to estimate the area of the circle
+* The maximum possible area of the circle is given as 10000",[10000.0],5050.0,50226640.02783495,12.46941809924351,24.0,45320.06740570068,,
+LLaMA,run_1,EXP1-Results/area/area_image_1.png,1520.5308443374597,"user
+
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.assistant
+
+The information in the question is:
+
+* A circle is given with a diameter of 100 units.
+* The circle is enclosed within a square with side length 100 units.
+* The task is to estimate the area of the circle.
+* The maximum possible area of the circle is 10000.",[10000.0],5050.0,35950928.85065756,12.053447279908957,15.0,145961.06600761414,,
+LLaMA,run_1,EXP1-Results/area/area_image_2.png,78.53981633974483,"user
+
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.assistant
+
+The information in the question is:
+
+* The shape being described is a circle.
+* The image of the circle is 100 units by 100 units.
+* The maximum possible area of the circle is 10000 square units.
+* The question asks to estimate the area of the circle. 100",[100.0],5050.0,35950928.85065756,12.053447279908957,15.0,43997.18451499939,,
+LLaMA,run_2,EXP1-Results/area/area_image_1.png,1520.5308443374597,"user
+
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.assistant
+
+The information in the image is:
+
+* A circle with a diameter of 100 units
+* The circle is drawn within a square with side length of 100 units
+* The task is to estimate the area of the circle
+* The maximum possible area of the circle is given as 10000",[10000.0],5000.5,35953704.792475194,12.06293303680586,2.0,11112.01548576355,,
+LLaMA,run_2,EXP1-Results/area/area_image_2.png,78.53981633974483,"user
+
+Estimate the area of the circle (image: 100x100, max area: 10000). Number only. No explanation.assistant
+
+The information in the question is:
+
+* A circle is given with a diameter of 100 units.
+* The maximum possible area of the circle is 10000 square units.
+* The question asks for an estimate of the area of the circle, with no explanation required. 
+## Step 1
+",[1.0],5000.5,35953704.792475194,12.06293303680586,2.0,33953.168630599976,,
+LLaMA,average,,,,,,,12.195266138652777,,,0.19389338654319715,0.3800310376246664
+GeminiProVision,run_0,EXP1-Results/area/area_image_1.png,1520.5308443374597,"7850 
+",[7850.0],7852.0,50259980.43008472,12.783937388635415,0.0,5693.186283111572,,
+GeminiProVision,run_0,EXP1-Results/area/area_image_2.png,78.53981633974483,"7854 
+",[7854.0],7852.0,50259980.43008472,12.783937388635415,0.0,5656.805992126465,,
+GeminiProVision,run_1,EXP1-Results/area/area_image_1.png,1520.5308443374597,"7854 
+",[7854.0],7852.0,50254212.46597273,12.783937388635415,0.0,5644.680500030518,,
+GeminiProVision,run_1,EXP1-Results/area/area_image_2.png,78.53981633974483,"7850 
+",[7850.0],7852.0,50254212.46597273,12.783937388635415,0.0,5640.860080718994,,
+GeminiProVision,run_2,EXP1-Results/area/area_image_1.png,1520.5308443374597,"7850 
+",[7850.0],7850.0,50228886.589350075,12.783528205708404,0.0,5669.041872024536,,
+GeminiProVision,run_2,EXP1-Results/area/area_image_2.png,78.53981633974483,"7850 
+",[7850.0],7850.0,50228886.589350075,12.783528205708404,0.0,5653.11861038208,,
+GeminiProVision,average,,,,,,,12.783800994326413,,,0.00019289068162379482,0.00037806573598263786
+Gemini1_5Flash,run_0,EXP1-Results/area/area_image_1.png,1520.5308443374597,"7800 
+",[7800.0],5150.0,22647601.148984585,12.086995238690513,0.0,5375.081300735474,,
+Gemini1_5Flash,run_0,EXP1-Results/area/area_image_2.png,78.53981633974483,"2500 
+",[2500.0],5150.0,22647601.148984585,12.086995238690513,0.0,5262.697696685791,,
+Gemini1_5Flash,run_1,EXP1-Results/area/area_image_1.png,1520.5308443374597,"4300 
+",[4300.0],6077.0,34091614.9274827,12.365663470764467,0.0,5261.901378631592,,
+Gemini1_5Flash,run_1,EXP1-Results/area/area_image_2.png,78.53981633974483,"7854 
+",[7854.0],6077.0,34091614.9274827,12.365663470764467,0.0,5312.530755996704,,
+Gemini1_5Flash,run_2,EXP1-Results/area/area_image_1.png,1520.5308443374597,"5000 
+",[5000.0],5000.0,18163737.97228011,12.03637614916844,0.0,5275.457859039307,,
+Gemini1_5Flash,run_2,EXP1-Results/area/area_image_2.png,78.53981633974483,"5000 
+",[5000.0],5000.0,18163737.97228011,12.03637614916844,0.0,5307.076215744019,,
+Gemini1_5Flash,average,,,,,,,12.16301161954114,,,0.14477891803065812,0.2837666793400899

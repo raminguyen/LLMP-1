@@ -1,0 +1,15 @@
+using 4 CPUs
+Sun 27 Oct 2024 10:20:53 AM EDT
+Train size: 28800, Validation size: 7200, Test size: 9000
+Dataset({
+    features: ['id', 'image', 'question', 'value'],
+    num_rows: 28800
+})
+Dataset({
+    features: ['id', 'image', 'question', 'value'],
+    num_rows: 7200
+})
+Dataset({
+    features: ['id', 'image', 'question', 'value'],
+    num_rows: 9000
+})
