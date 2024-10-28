@@ -64,7 +64,7 @@ class llamafinetuned:
         batch = self.processor(text=text, images=pil_image, return_tensors="pt", padding=True).to("cuda")
         
         # Run inference using the model
-        outputs = self.model.generate(**batch, max_length=50)
+        outputs = self.model.generate(**batch, max_length=100)
         
         # Decode the generated output
         decoded_output = self.processor.decode(outputs[0], skip_special_tokens=True)

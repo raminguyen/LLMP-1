@@ -7,25 +7,26 @@ import numpy as np
 
 class GPImage:
     @staticmethod
-    def figure1(task):
+    def figure1(task, preset=None):
+        # Pass `preset` to Figure1's method if it's provided
         if task == "angle":
-            sparse, image, label, parameters = Figure1.angle()
+            sparse, image, label, parameters = Figure1.angle(preset=preset)
         elif task == "position_common_scale":
-            sparse, image, label, parameters = Figure1.position_common_scale()
+            sparse, image, label, parameters = Figure1.position_common_scale(preset=preset)
         elif task == "position_non_aligned_scale":
-            sparse, image, label, parameters = Figure1.position_non_aligned_scale()
+            sparse, image, label, parameters = Figure1.position_non_aligned_scale(preset=preset)
         elif task == "length":
-            sparse, image, label, parameters = Figure1.length([False, False, False])
+            sparse, image, label, parameters = Figure1.length([False, False, False], preset=preset)
         elif task == "direction":
-            sparse, image, label, parameters = Figure1.direction()
+            sparse, image, label, parameters = Figure1.direction(preset=preset)
         elif task == "area":
-            sparse, image, label, parameters = Figure1.area()
+            sparse, image, label, parameters = Figure1.area(preset=preset)
         elif task == "volume":
-            sparse, image, label, parameters = Figure1.volume()
+            sparse, image, label, parameters = Figure1.volume(preset=preset)
         elif task == "curvature":
-            sparse, image, label, parameters = Figure1.curvature()
+            sparse, image, label, parameters = Figure1.curvature(preset=preset)
         elif task == "shading":
-            sparse, image, label, parameters = Figure1.shading()
+            sparse, image, label, parameters = Figure1.shading(preset=preset)
         else:
             raise ValueError(f"Unknown task: {task}")
         
