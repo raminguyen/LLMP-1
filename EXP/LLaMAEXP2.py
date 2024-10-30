@@ -14,7 +14,7 @@ import numpy as np
 from sklearn.metrics import mean_absolute_error
 
 # Path to the folder containing the images
-image_folder = "/home/huuthanhvy.nguyen001/LLMP/EXP/output/images"
+image_folder = "/home/huuthanhvy.nguyen001/LLMP/EXP/outputexp2/images"
 
 # Function to process the examples
 def process(examples):
