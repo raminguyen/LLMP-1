@@ -165,3 +165,6 @@ Oldfile/
 
 #exclude output files *: all output folders
 EXP/output*
+
+*.err
+*.out
