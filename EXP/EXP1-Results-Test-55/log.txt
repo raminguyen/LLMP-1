@@ -1,4 +1,0 @@
-position_common_scale - Elapsed time: 6259.15 seconds
-position_non_aligned_scale - Elapsed time: 5866.67 seconds
-length - Elapsed time: 5014.81 seconds
-direction - Elapsed time: 5193.89 seconds
