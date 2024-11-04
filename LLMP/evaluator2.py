@@ -1,27 +1,26 @@
-import LLMP as L
-import re
+import torch
 import time
 import numpy as np
 from sklearn.metrics import mean_squared_error, mean_absolute_error
-import torch
-import bootstrapped.bootstrap as bs
-import bootstrapped.stats_functions as bs_stats
+import pandas as pd
+import os
+from PIL import Image
 
 class Evaluator2:
 
     def __init__(self):
         self.results = None
-    
+
     @staticmethod
     def calculate_mse(gt, answers):
-        gt_array = np.array(gt).flatten()  # Flatten to ensure 1D array
-        answers_array = np.array(answers).flatten()  # Flatten to ensure 1D array
+        gt_array = np.array(gt).flatten()
+        answers_array = np.array(answers).flatten()
         return mean_squared_error(gt_array, answers_array)
 
     @staticmethod
     def calculate_mlae(gt, answers):
-        gt_array = np.array(gt).flatten()  # Flatten to ensure 1D array
-        answers_array = np.array(answers).flatten()  # Flatten to ensure 1D array
+        gt_array = np.array(gt).flatten()
+        answers_array = np.array(answers).flatten()
         mlae = np.log2(mean_absolute_error(gt_array, answers_array) + 0.125)
         return mlae
 
@@ -34,87 +33,108 @@ class Evaluator2:
         return np.std(answers)
 
     def run(self, data, query, models):
-        """Run experiments."""
-        images = [d[0] for d in data]
-        gt = [d[1] for d in data]
-        results = {'gt': gt}
+        """Run experiments without parsing answers."""
+        results = {'gt': [d[1] for d in data], 'image_path': [d[0] for d in data]}
 
         for model_name, model_instance in models.items():
             results[model_name] = {}
-            # Run three times to calculate STD
             mlae_list = []
-            
-            for i in range(3):
-            
+
+            for i in range(1):  # Repeat each experiment 3 times
                 raw_answers = []
                 parsed_answers = []
-                forced_repetitions = 0
                 times = []
 
-                for image in images:
+                for image_path, ground_truth in data:
                     torch.cuda.empty_cache()
-                    FLAG = False
                     start_time = time.time()
 
-                    while not FLAG:
-                        answer = model_instance.query(query, image)
+                    # Load image as grayscale
+                    image = np.array(Image.open(image_path).convert("L"))
 
-                        values = re.findall(r'(\d+\.\d+)', answer)
-    
-                        if len(values) != 5:
-                            values = values[-5:]
+                    # Query the model once
+                    answer = model_instance.query(query, image)
+                    raw_answers.append(answer)
+                    
+                    # Use a default value or empty list for parsed answers
+                    parsed_answers.append([0])  # Default placeholder value
 
-                        ranges_numbers = [float(val) for val in values]
+                    # Record time taken for each query
+                    end_time = time.time()
+                    times.append((end_time - start_time) * 1000)
 
-                        if len(values) == 5:
-                            raw_answers.append(answer)
-                            parsed_answers.append(ranges_numbers)
-                            FLAG = True
-                            end_time = time.time()
-                            times.append((end_time - start_time) * 1000)
-                            if "GPT" in model_name:
-                                time.sleep(2)  # Avoid hitting rate limits!
-                        else:
-                            forced_repetitions += 1
-                            if "GPT" in model_name:
-                                time.sleep(2)  # Avoid hitting rate limits!
+                if not parsed_answers:
+                    parsed_answers = [[0] for _ in data]
 
-                mse = Evaluator2.calculate_mse(gt, parsed_answers)
-                mlae = Evaluator2.calculate_mlae(gt, parsed_answers)
-                mean = None
+                midpoints = [(sum(sublist) / 2) if len(sublist) > 1 else sublist[0] for sublist in parsed_answers]
+                gt_flat = [item for sublist in results['gt'] for item in (sublist if isinstance(sublist, list) else [sublist])]
+                midpoints_flat = (midpoints * (len(gt_flat) // len(midpoints) + 1))[:len(gt_flat)]
 
-                mlae_list.append(mlae)
+                mlae_list.append(None)  # Placeholder to maintain structure
 
                 results[model_name][f"run_{i}"] = {
                     'raw_answers': raw_answers,
                     'parsed_answers': parsed_answers,
-                    'mean': mean,
-                    'mse': mse,
-                    'mlae': mlae,
+                    'mean': None,  # Commented out
+                    'mse': None,   # Commented out
+                    'mlae': None,  # Commented out
                     'times': times,
-                    'forced_repetitions': forced_repetitions
                 }
 
-            results[model_name]['average_mlae'] = Evaluator.calculate_mean(mlae_list)
-            results[model_name]['std'] = Evaluator.calculate_std(mlae_list)
-            results[model_name]['confidence'] = 1.96*bs.bootstrap(np.array(mlae_list), stat_func=bs_stats.std).value
+            results[model_name]['average_mlae'] = None  # Commented out
+            results[model_name]['std'] = None  # Commented out
 
         self.results = results
-
         return self.results
 
-    def get_results(self):
-            """Retrieve the stored results."""
-            if self.results is None:
-                raise ValueError("No results found. Run the 'run' method first.")
-            return self.results
-
-    def save_results(self, filename):
-        """Save the results."""
+    def save_results_csv(self, filename="results.csv"):
+        """Save all results to a CSV file in the results folder."""
         if self.results is None:
             raise ValueError("No results found. Run the 'run' method first.")
+        
+        data = []
 
-        with open(filename, 'w') as json_file:
-            json.dump(self.results, json_file, indent=4) 
+        for model_name, model_data in self.results.items():
+            if model_name in ['gt', 'image_path']:
+                continue
+
+            for run_key, run_data in model_data.items():
+                if run_key.startswith("run_"):
+                    for idx, time in enumerate(run_data['times']):
+                        data.append({
+                            'model_name': model_name,
+                            'run': run_key,
+                            'image_path': self.results['image_path'][idx],
+                            'ground_truth': self.results['gt'][idx],
+                            'raw_answers': run_data['raw_answers'][idx],
+                            #'parsed_answers': run_data['parsed_answers'][idx],
+                            #'mean': run_data.get('mean'),
+                            #'mse': run_data.get('mse'),
+                            #'mlae': run_data.get('mlae'),
+                            #'time_ms': time
+                        })
+
+            data.append({
+                'model_name': model_name,
+                'run': 'average',
+                'image_path': None,
+                'ground_truth': None,
+                'raw_answers': None,
+                #'parsed_answers': None,
+                #'mean': model_data.get('average_mean'),
+                #'mse': model_data.get('average_mse'),
+                #'mlae': model_data.get('average_mlae'),
+                #'time_ms': None,
+                #'std': model_data.get('std')
+            })
 
 
+        # Ensure the output folder exists
+        output_folder = os.path.join(os.getcwd(), "EXP2-Results")
+        os.makedirs(output_folder, exist_ok=True)
+        
+        file_path = os.path.join(os.getcwd(), filename)
+        df = pd.DataFrame(data)
+        df.to_csv(file_path, index=False)
+
+        return df

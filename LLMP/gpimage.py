@@ -71,9 +71,9 @@ class GPImage:
     @staticmethod
     def figure12(framed):
         data, labels, parameters = Figure12.generate_datapoint()
-        if framed:
+        if framed == "framed":
             image = Figure12.data_to_framed_rectangles(data)
-        else:
+        elif framed == "unframed":
             image = Figure12.data_to_bars(data)
         return image, labels
     

@@ -55,7 +55,7 @@ class llama:
         batch = processor(text=text, images=image, return_tensors="pt", padding=True).to("cuda")
         
         # Run inference on the model with the preprocessed batch
-        outputs = model.generate(**batch, max_length=100)
+        outputs = model.generate(**batch, max_length=500)
         
         # Decode the generated output
         decoded_output = processor.decode(outputs[0], skip_special_tokens=True)

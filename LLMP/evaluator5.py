@@ -8,7 +8,7 @@ import pandas as pd
 import os
 from PIL import Image
 
-class Evaluator:
+class Evaluator5:
     
     def __init__(self):
         self.results = None
@@ -62,38 +62,39 @@ class Evaluator:
                     while not FLAG:
                         answer = model_instance.query(query, image)
 
-                        if answer is not None and len(answer) > 0:  # Ensure answer is not None and has length
+                        # Check if answer is None or has length
+                        if answer is not None and len(answer) > 0:
                             raw_answers.append(answer)
                             FLAG = True
                             end_time = time.time()
                             times.append((end_time - start_time) * 1000)
                         else:
                             forced_repetitions += 1
+                            # Optionally, log or print an error message for debugging
+                            print(f"Warning: Model returned None or empty answer for image {image_path}. Attempting again.")
 
-                midpoints = [0 for _ in data]  # Adjusted midpoint calculation without parsed answers
+                # Adjusted midpoint calculation without parsed answers
+                midpoints = [0 for _ in data]
 
                 gt_flat = [item for sublist in results['gt'] for item in (sublist if isinstance(sublist, list) else [sublist])]
                 midpoints_flat = (midpoints * (len(gt_flat) // len(midpoints) + 1))[:len(gt_flat)]
 
                 # Commented out mean, mse, and mlae calculations
-                # mse = Evaluator.calculate_mse(gt_flat, midpoints_flat)
-                # mlae = Evaluator.calculate_mlae(gt_flat, midpoints_flat)
-                # mean = Evaluator.calculate_mean(midpoints_flat)
+                # mse = Evaluator5.calculate_mse(gt_flat, midpoints_flat)
+                # mlae = Evaluator5.calculate_mlae(gt_flat, midpoints_flat)
+                # mean = Evaluator5.calculate_mean(midpoints_flat)
 
                 # mlae_list.append(mlae)
 
                 results[model_name][f"run_{i}"] = {
                     'raw_answers': raw_answers,
-                    # 'mean': mean,
-                    # 'mse': mse,
-                    # 'mlae': mlae,
                     'times': times,
                     'forced_repetitions': forced_repetitions
                 }
 
             # Commented out aggregated metrics
-            # results[model_name]['average_mlae'] = Evaluator.calculate_mean(mlae_list)
-            # results[model_name]['std'] = Evaluator.calculate_std(mlae_list)
+            # results[model_name]['average_mlae'] = Evaluator5.calculate_mean(mlae_list)
+            # results[model_name]['std'] = Evaluator5.calculate_std(mlae_list)
             # results[model_name]['confidence'] = 1.96 * bs.bootstrap(np.array(mlae_list), stat_func=bs_stats.std).value
             
         self.results = results
@@ -101,7 +102,7 @@ class Evaluator:
         return self.results
 
     def save_results_csv(self, filename="results.csv"):
-        """Transform all results for all tasks into a single DataFrame and save as a CSV in EXP1-Results folder."""
+        """Transform all results for all tasks into a single DataFrame and save as a CSV in EXP5-Results folder."""
         if self.results is None:
             raise ValueError("No results found. Run the 'run' method first.")
         
@@ -135,15 +136,13 @@ class Evaluator:
                 'raw_answers': None,
                 'forced_repetitions': None,
                 'time_ms': None,
-                # 'std': model_data.get('std'),
-                # 'confidence': model_data.get('confidence')
             })
 
         # Convert all collected data into a single DataFrame
         df = pd.DataFrame(data)
         
         # Define the directory path for saving results
-        results_folder = os.path.join(os.getcwd(), "EXP1-Results")
+        results_folder = os.path.join(os.getcwd(), "EXP5-Results")
         os.makedirs(results_folder, exist_ok=True)  # Ensure the results folder exists
 
         # Define the file path for saving results in the specified folder

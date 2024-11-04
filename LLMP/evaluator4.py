@@ -3,8 +3,8 @@ import re
 import time
 import numpy as np
 from sklearn.metrics import mean_squared_error, mean_absolute_error
-import bootstrapped.bootstrap as bs
-import bootstrapped.stats_functions as bs_stats
+#import bootstrapped.bootstrap as bs
+#import bootstrapped.stats_functions as bs_stats
 
 class Evaluator4:
 
@@ -132,7 +132,7 @@ class Evaluator4:
                 
             results[model_name]['average_mlae'] = Evaluator.calculate_mean(mlae_list)
             results[model_name]['std'] = Evaluator.calculate_std(mlae_list)
-            results[model_name]['confidence'] = 1.96*bs.bootstrap(mlae_list, stat_func=bs_stats.std).value
+            #results[model_name]['confidence'] = 1.96*bs.bootstrap(mlae_list, stat_func=bs_stats.std).value
         
         self.results = results
 
