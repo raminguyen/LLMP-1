@@ -162,3 +162,6 @@ LLaVA/
 #.idea/
 
 Oldfile/
+
+#exclude output files *: all output folders
+EXP/output*
