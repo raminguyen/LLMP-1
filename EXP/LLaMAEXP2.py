@@ -14,7 +14,7 @@ import numpy as np
 from sklearn.metrics import mean_absolute_error
 
 # Path to the folder containing the images
-image_folder = "/home/huuthanhvy.nguyen001/LLMP/EXP/outputexp2/images"
+image_folder = "/home/huuthanhvy.nguyen001/LLMP/EXP/outputEXP2-5000-5epoch/images" ##RENAME
 
 # Function to process the examples
 def process(examples):
@@ -44,7 +44,7 @@ def process(examples):
     return batch
 
 # Change the directory to where the JSON file is located
-os.chdir('./output/json')
+os.chdir('./outputEXP2-5000-5epoch/json') ##RENAME
 
 # Load the JSON file into a pandas DataFrame
 df = pd.read_json('combined_dataset.json')
@@ -145,7 +145,7 @@ log_file_path = f"training_logs_{name}.txt"
 training_args = TrainingArguments(
     output_dir=output_dir,
     push_to_hub=False,
-    num_train_epochs=3,
+    num_train_epochs=5,
     logging_steps=100,
     remove_unused_columns=False,
     per_device_train_batch_size=1,
@@ -196,4 +196,4 @@ trainer = Trainer(
 # Train the model with validation
 trainer.train()
 
-model.save_pretrained("finetuned_llama_EXP1")
+model.save_pretrained("finetuned_llama_EXP2_5000_5epoch")

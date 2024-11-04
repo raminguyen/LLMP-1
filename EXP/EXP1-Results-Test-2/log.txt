@@ -1,9 +1,0 @@
-position_common_scale - Elapsed time: 187.17 seconds
-position_non_aligned_scale - Elapsed time: 251.02 seconds
-length - Elapsed time: 147.71 seconds
-direction - Elapsed time: 146.00 seconds
-angle - Elapsed time: 154.71 seconds
-area - Elapsed time: 631.82 seconds
-volume - Elapsed time: 187.42 seconds
-curvature - Elapsed time: 362.91 seconds
-shading - Elapsed time: 148.92 seconds

@@ -1,0 +1,925 @@
+model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
+gpt4o,run_0,EXP1-Results/direction/direction_image_1.png,104.0,135,0.0,6023.793697357178
+gpt4o,run_0,EXP1-Results/direction/direction_image_2.png,212.0,45,0.0,5766.133069992065
+gpt4o,run_0,EXP1-Results/direction/direction_image_3.png,215.0,50,0.0,5953.326940536499
+gpt4o,run_0,EXP1-Results/direction/direction_image_4.png,68.0,35,0.0,6007.6093673706055
+gpt4o,run_0,EXP1-Results/direction/direction_image_5.png,70.0,40,0.0,6732.647180557251
+gpt4o,run_0,EXP1-Results/direction/direction_image_6.png,252.0,63,0.0,6004.79531288147
+gpt4o,run_0,EXP1-Results/direction/direction_image_7.png,34.0,60,0.0,5972.732782363892
+gpt4o,run_0,EXP1-Results/direction/direction_image_8.png,132.0,45,0.0,5654.645919799805
+gpt4o,run_0,EXP1-Results/direction/direction_image_9.png,35.0,50,0.0,5902.792453765869
+gpt4o,run_0,EXP1-Results/direction/direction_image_10.png,135.0,40,0.0,5699.318408966064
+gpt4o,run_0,EXP1-Results/direction/direction_image_11.png,95.0,180,0.0,5946.238040924072
+gpt4o,run_0,EXP1-Results/direction/direction_image_12.png,322.0,45,0.0,5966.618776321411
+gpt4o,run_0,EXP1-Results/direction/direction_image_13.png,183.0,0,0.0,5712.044715881348
+gpt4o,run_0,EXP1-Results/direction/direction_image_14.png,164.0,135,0.0,5934.853553771973
+gpt4o,run_0,EXP1-Results/direction/direction_image_15.png,274.0,180,0.0,5878.86118888855
+gpt4o,run_0,EXP1-Results/direction/direction_image_16.png,259.0,34,0.0,5775.6688594818115
+gpt4o,run_0,EXP1-Results/direction/direction_image_17.png,134.0,45,0.0,5587.329149246216
+gpt4o,run_0,EXP1-Results/direction/direction_image_18.png,290.0,210,0.0,5741.8670654296875
+gpt4o,run_0,EXP1-Results/direction/direction_image_19.png,116.0,315,0.0,5935.067176818848
+gpt4o,run_0,EXP1-Results/direction/direction_image_20.png,279.0,180,0.0,5898.684740066528
+gpt4o,run_1,EXP1-Results/direction/direction_image_1.png,104.0,300,0.0,5784.904003143311
+gpt4o,run_1,EXP1-Results/direction/direction_image_2.png,212.0,60,0.0,5802.25682258606
+gpt4o,run_1,EXP1-Results/direction/direction_image_3.png,215.0,55,0.0,5882.412433624268
+gpt4o,run_1,EXP1-Results/direction/direction_image_4.png,68.0,65,0.0,5894.962310791016
+gpt4o,run_1,EXP1-Results/direction/direction_image_5.png,70.0,45,0.0,5876.638412475586
+gpt4o,run_1,EXP1-Results/direction/direction_image_6.png,252.0,49,0.0,5851.07946395874
+gpt4o,run_1,EXP1-Results/direction/direction_image_7.png,34.0,54,0.0,5952.841520309448
+gpt4o,run_1,EXP1-Results/direction/direction_image_8.png,132.0,133,0.0,5611.807346343994
+gpt4o,run_1,EXP1-Results/direction/direction_image_9.png,35.0,65,0.0,5837.146043777466
+gpt4o,run_1,EXP1-Results/direction/direction_image_10.png,135.0,67,0.0,5553.889513015747
+gpt4o,run_1,EXP1-Results/direction/direction_image_11.png,95.0,185,0.0,5962.761640548706
+gpt4o,run_1,EXP1-Results/direction/direction_image_12.png,322.0,320,0.0,5937.177658081055
+gpt4o,run_1,EXP1-Results/direction/direction_image_13.png,183.0,90,0.0,5655.587673187256
+gpt4o,run_1,EXP1-Results/direction/direction_image_14.png,164.0,125,0.0,5855.574369430542
+gpt4o,run_1,EXP1-Results/direction/direction_image_15.png,274.0,180,0.0,6421.424388885498
+gpt4o,run_1,EXP1-Results/direction/direction_image_16.png,259.0,33,0.0,5567.06428527832
+gpt4o,run_1,EXP1-Results/direction/direction_image_17.png,134.0,45,0.0,5543.818235397339
+gpt4o,run_1,EXP1-Results/direction/direction_image_18.png,290.0,320,0.0,5541.205883026123
+gpt4o,run_1,EXP1-Results/direction/direction_image_19.png,116.0,120,0.0,5856.47177696228
+gpt4o,run_1,EXP1-Results/direction/direction_image_20.png,279.0,180,0.0,6034.693956375122
+gpt4o,run_2,EXP1-Results/direction/direction_image_1.png,104.0,45,0.0,5585.923671722412
+gpt4o,run_2,EXP1-Results/direction/direction_image_2.png,212.0,45,0.0,5842.5469398498535
+gpt4o,run_2,EXP1-Results/direction/direction_image_3.png,215.0,45,0.0,6625.847339630127
+gpt4o,run_2,EXP1-Results/direction/direction_image_4.png,68.0,30,0.0,6263.850688934326
+gpt4o,run_2,EXP1-Results/direction/direction_image_5.png,70.0,30,0.0,5953.3445835113525
+gpt4o,run_2,EXP1-Results/direction/direction_image_6.png,252.0,45,0.0,6182.365417480469
+gpt4o,run_2,EXP1-Results/direction/direction_image_7.png,34.0,134,0.0,6006.90770149231
+gpt4o,run_2,EXP1-Results/direction/direction_image_8.png,132.0,120,0.0,5627.462863922119
+gpt4o,run_2,EXP1-Results/direction/direction_image_9.png,35.0,60,0.0,6458.102703094482
+gpt4o,run_2,EXP1-Results/direction/direction_image_10.png,135.0,45,0.0,5558.42137336731
+gpt4o,run_2,EXP1-Results/direction/direction_image_11.png,95.0,270,0.0,5884.512901306152
+gpt4o,run_2,EXP1-Results/direction/direction_image_12.png,322.0,135,0.0,5992.700099945068
+gpt4o,run_2,EXP1-Results/direction/direction_image_13.png,183.0,90,0.0,5658.990383148193
+gpt4o,run_2,EXP1-Results/direction/direction_image_14.png,164.0,135,0.0,5963.664293289185
+gpt4o,run_2,EXP1-Results/direction/direction_image_15.png,274.0,180,0.0,5975.2748012542725
+gpt4o,run_2,EXP1-Results/direction/direction_image_16.png,259.0,37,0.0,5646.893262863159
+gpt4o,run_2,EXP1-Results/direction/direction_image_17.png,134.0,45,0.0,5552.260875701904
+gpt4o,run_2,EXP1-Results/direction/direction_image_18.png,290.0,225,0.0,5855.574607849121
+gpt4o,run_2,EXP1-Results/direction/direction_image_19.png,116.0,30,0.0,6282.5658321380615
+gpt4o,run_2,EXP1-Results/direction/direction_image_20.png,279.0,179,0.0,5945.430278778076
+gpt4o,average,,,,,
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_1.png,104.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+105.0",0.0,991.8406009674072
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_2.png,212.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+217.0",0.0,424.9308109283447
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_3.png,215.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+217.0",0.0,425.14777183532715
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_4.png,68.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+65.0",0.0,428.3120632171631
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_5.png,70.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+65.0",0.0,428.59649658203125
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_6.png,252.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+242.0",0.0,433.23230743408203
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_7.png,34.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+35.0",0.0,433.81571769714355
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_8.png,132.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+126.0",0.0,428.17234992980957
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_9.png,35.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+41.0",0.0,429.5175075531006
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_10.png,135.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+126.0",0.0,430.1037788391113
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_11.png,95.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+96.0",0.0,426.12671852111816
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_12.png,322.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+324.0",0.0,426.9249439239502
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_13.png,183.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+192.0",0.0,562.5185966491699
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_14.png,164.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+154.0",0.0,429.6300411224365
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_15.png,274.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+270.0",0.0,425.9161949157715
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_16.png,259.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+263.0",0.0,429.2912483215332
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_17.png,134.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+124.0",0.0,414.9956703186035
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_18.png,290.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+296.0",0.0,436.48290634155273
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_19.png,116.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+115.0",0.0,425.71473121643066
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_20.png,279.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+266.0",0.0,430.1462173461914
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_1.png,104.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+105.0",0.0,429.89444732666016
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_2.png,212.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+214.0",0.0,424.6809482574463
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_3.png,215.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+216.0",0.0,430.0854206085205
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_4.png,68.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+65.0",0.0,425.02903938293457
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_5.png,70.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+64.0",0.0,430.24754524230957
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_6.png,252.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+242.0",0.0,433.2261085510254
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_7.png,34.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+37.0",0.0,432.87205696105957
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_8.png,132.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+128.0",0.0,425.29845237731934
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_9.png,35.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+41.0",0.0,444.8704719543457
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_10.png,135.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+124.0",0.0,509.46617126464844
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_11.png,95.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+96.0",0.0,428.74765396118164
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_12.png,322.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+324.0",0.0,429.41761016845703
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_13.png,183.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+192.0",0.0,431.64873123168945
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_14.png,164.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+153.0",0.0,430.06181716918945
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_15.png,274.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+268.0",0.0,433.38632583618164
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_16.png,259.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+263.0",0.0,429.5213222503662
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_17.png,134.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+125.0",0.0,425.10247230529785
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_18.png,290.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+295.0",0.0,428.32374572753906
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_19.png,116.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+117.0",0.0,430.9954643249512
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_20.png,279.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+268.0",0.0,434.62252616882324
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_1.png,104.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+106.0",0.0,429.6441078186035
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_2.png,212.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+214.0",0.0,425.08840560913086
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_3.png,215.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+216.0",0.0,431.09583854675293
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_4.png,68.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+65.0",0.0,425.6482124328613
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_5.png,70.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+65.0",0.0,426.2218475341797
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_6.png,252.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+244.0",0.0,424.9701499938965
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_7.png,34.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+35.0",0.0,430.9706687927246
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_8.png,132.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+127.0",0.0,424.6487617492676
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_9.png,35.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+38.0",0.0,428.987979888916
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_10.png,135.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+124.0",0.0,427.8135299682617
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_11.png,95.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+100.0",0.0,429.24046516418457
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_12.png,322.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+325.0",0.0,477.18358039855957
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_13.png,183.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+192.0",0.0,421.48470878601074
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_14.png,164.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+155.0",0.0,431.4591884613037
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_15.png,274.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+273.0",0.0,425.795316696167
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_16.png,259.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+263.0",0.0,428.4965991973877
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_17.png,134.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+124.0",0.0,428.8301467895508
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_18.png,290.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+296.0",0.0,433.51197242736816
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_19.png,116.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+117.0",0.0,431.1704635620117
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_20.png,279.0,"user
+Estimate the line's direction (0-359 degrees). Number only. No explanation.
+assistant
+
+266.0",0.0,424.75342750549316
+CustomLLaMA,average,,,,,
+LLaMA,run_0,EXP1-Results/direction/direction_image_1.png,104.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+60",0.0,21522.99427986145
+LLaMA,run_0,EXP1-Results/direction/direction_image_2.png,212.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+45",0.0,7672.294616699219
+LLaMA,run_0,EXP1-Results/direction/direction_image_3.png,215.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7132.179498672485
+LLaMA,run_0,EXP1-Results/direction/direction_image_4.png,68.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7017.457485198975
+LLaMA,run_0,EXP1-Results/direction/direction_image_5.png,70.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+180",0.0,7259.420156478882
+LLaMA,run_0,EXP1-Results/direction/direction_image_6.png,252.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7096.102714538574
+LLaMA,run_0,EXP1-Results/direction/direction_image_7.png,34.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7343.342065811157
+LLaMA,run_0,EXP1-Results/direction/direction_image_8.png,132.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+110",0.0,7789.963483810425
+LLaMA,run_0,EXP1-Results/direction/direction_image_9.png,35.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,9004.845142364502
+LLaMA,run_0,EXP1-Results/direction/direction_image_10.png,135.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7598.016738891602
+LLaMA,run_0,EXP1-Results/direction/direction_image_11.png,95.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7288.3782386779785
+LLaMA,run_0,EXP1-Results/direction/direction_image_12.png,322.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7159.407377243042
+LLaMA,run_0,EXP1-Results/direction/direction_image_13.png,183.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+110",0.0,7479.300737380981
+LLaMA,run_0,EXP1-Results/direction/direction_image_14.png,164.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+120",0.0,7128.24273109436
+LLaMA,run_0,EXP1-Results/direction/direction_image_15.png,274.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7123.821020126343
+LLaMA,run_0,EXP1-Results/direction/direction_image_16.png,259.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+120",0.0,7232.525587081909
+LLaMA,run_0,EXP1-Results/direction/direction_image_17.png,134.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7754.181146621704
+LLaMA,run_0,EXP1-Results/direction/direction_image_18.png,290.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+The line's direction is 0 degrees.",0.0,7610.144853591919
+LLaMA,run_0,EXP1-Results/direction/direction_image_19.png,116.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7180.548429489136
+LLaMA,run_0,EXP1-Results/direction/direction_image_20.png,279.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+180",0.0,7190.338611602783
+LLaMA,run_1,EXP1-Results/direction/direction_image_1.png,104.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+**Step 1: Observe the line.**
+
+The line is drawn from the left side of the image to the right side.
+
+**Step 2: Determine the direction of the line.**
+
+The line is sloping downward from left to right.
+
+**Step 3: Estimate the angle of the line.**
+
+The line is sloping downward from left to right, which means it is in the third quadrant of the coordinate plane.
+
+**Step 4: Convert the angle to degrees.**
+
+The angle is between 180 and 270 degrees.
+
+**Step 5: Estimate the angle to the nearest degree.**
+
+The angle is approximately 225 degrees.
+
+**Answer:** 225",0.0,17411.33141517639
+LLaMA,run_1,EXP1-Results/direction/direction_image_2.png,212.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7192.445278167725
+LLaMA,run_1,EXP1-Results/direction/direction_image_3.png,215.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7007.417440414429
+LLaMA,run_1,EXP1-Results/direction/direction_image_4.png,68.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7430.028200149536
+LLaMA,run_1,EXP1-Results/direction/direction_image_5.png,70.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7594.876289367676
+LLaMA,run_1,EXP1-Results/direction/direction_image_6.png,252.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+180",0.0,7027.616024017334
+LLaMA,run_1,EXP1-Results/direction/direction_image_7.png,34.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7109.287261962891
+LLaMA,run_1,EXP1-Results/direction/direction_image_8.png,132.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+135",0.0,7220.72434425354
+LLaMA,run_1,EXP1-Results/direction/direction_image_9.png,35.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7011.049509048462
+LLaMA,run_1,EXP1-Results/direction/direction_image_10.png,135.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7274.996280670166
+LLaMA,run_1,EXP1-Results/direction/direction_image_11.png,95.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+110",0.0,7404.707908630371
+LLaMA,run_1,EXP1-Results/direction/direction_image_12.png,322.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+105",0.0,7422.802925109863
+LLaMA,run_1,EXP1-Results/direction/direction_image_13.png,183.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7057.140827178955
+LLaMA,run_1,EXP1-Results/direction/direction_image_14.png,164.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+The image depicts a line with an angle of approximately 45 degrees.",0.0,8301.22685432434
+LLaMA,run_1,EXP1-Results/direction/direction_image_15.png,274.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+The line is horizontal.",0.0,7469.138145446777
+LLaMA,run_1,EXP1-Results/direction/direction_image_16.png,259.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+150",0.0,7280.6055545806885
+LLaMA,run_1,EXP1-Results/direction/direction_image_17.png,134.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+0",0.0,7231.518268585205
+LLaMA,run_1,EXP1-Results/direction/direction_image_18.png,290.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+The line's direction is **-45 degrees**.",0.0,7754.801034927368
+LLaMA,run_1,EXP1-Results/direction/direction_image_19.png,116.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7506.575345993042
+LLaMA,run_1,EXP1-Results/direction/direction_image_20.png,279.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+45",0.0,7253.426790237427
+LLaMA,run_2,EXP1-Results/direction/direction_image_1.png,104.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+180",0.0,7034.858703613281
+LLaMA,run_2,EXP1-Results/direction/direction_image_2.png,212.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+150",0.0,7041.7070388793945
+LLaMA,run_2,EXP1-Results/direction/direction_image_3.png,215.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+The line's direction is 180 degrees.",0.0,7824.614524841309
+LLaMA,run_2,EXP1-Results/direction/direction_image_4.png,68.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+150",0.0,7854.572057723999
+LLaMA,run_2,EXP1-Results/direction/direction_image_5.png,70.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+The line's direction is **0 degrees**.",0.0,7648.991107940674
+LLaMA,run_2,EXP1-Results/direction/direction_image_6.png,252.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+0",0.0,7033.164024353027
+LLaMA,run_2,EXP1-Results/direction/direction_image_7.png,34.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7440.104722976685
+LLaMA,run_2,EXP1-Results/direction/direction_image_8.png,132.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+140",0.0,7460.9375
+LLaMA,run_2,EXP1-Results/direction/direction_image_9.png,35.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7093.1737422943115
+LLaMA,run_2,EXP1-Results/direction/direction_image_10.png,135.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+The line is directed at approximately 120 degrees.",0.0,7717.0703411102295
+LLaMA,run_2,EXP1-Results/direction/direction_image_11.png,95.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+The line's direction is 0 degrees.",0.0,7983.976125717163
+LLaMA,run_2,EXP1-Results/direction/direction_image_12.png,322.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+The line's direction is **44 degrees.**",0.0,7992.781162261963
+LLaMA,run_2,EXP1-Results/direction/direction_image_13.png,183.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7359.436988830566
+LLaMA,run_2,EXP1-Results/direction/direction_image_14.png,164.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7029.244661331177
+LLaMA,run_2,EXP1-Results/direction/direction_image_15.png,274.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+0",0.0,7424.8316287994385
+LLaMA,run_2,EXP1-Results/direction/direction_image_16.png,259.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+150",0.0,7280.245065689087
+LLaMA,run_2,EXP1-Results/direction/direction_image_17.png,134.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7311.457395553589
+LLaMA,run_2,EXP1-Results/direction/direction_image_18.png,290.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+The line's direction is 120 degrees.",0.0,7721.714496612549
+LLaMA,run_2,EXP1-Results/direction/direction_image_19.png,116.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+150",0.0,7486.13977432251
+LLaMA,run_2,EXP1-Results/direction/direction_image_20.png,279.0,"user
+
+Estimate the line's direction (0-359 degrees). Number only. No explanation.assistant
+
+90",0.0,7220.479488372803
+LLaMA,average,,,,,
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_1.png,104.0,"45
+",0.0,5574.105262756348
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_2.png,212.0,"45
+",0.0,5759.025096893311
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_3.png,215.0,"45
+",0.0,5527.033090591431
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_4.png,68.0,"45
+",0.0,5521.468162536621
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_5.png,70.0,"45
+",0.0,5561.6419315338135
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_6.png,252.0,"45
+",0.0,5555.253982543945
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_7.png,34.0,"45
+",0.0,5519.336938858032
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_8.png,132.0,"45
+",0.0,5549.216747283936
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_9.png,35.0,"45
+",0.0,5522.929668426514
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_10.png,135.0,"45
+",0.0,5540.28058052063
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_11.png,95.0,"45
+",0.0,5570.266008377075
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_12.png,322.0,"45
+",0.0,5528.212785720825
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_13.png,183.0,"45
+",0.0,5517.3304080963135
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_14.png,164.0,"45
+",0.0,5603.172540664673
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_15.png,274.0,"45
+",0.0,5531.071662902832
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_16.png,259.0,"45
+",0.0,5498.8954067230225
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_17.png,134.0,"45
+",0.0,5508.407354354858
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_18.png,290.0,"45
+",0.0,5514.583587646484
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_19.png,116.0,"45
+",0.0,5511.674880981445
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_20.png,279.0,"45
+",0.0,5520.8117961883545
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_1.png,104.0,"45
+",0.0,5514.899015426636
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_2.png,212.0,"45
+",0.0,5531.81266784668
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_3.png,215.0,"45
+",0.0,5516.998291015625
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_4.png,68.0,"45
+",0.0,5516.3891315460205
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_5.png,70.0,"45
+",0.0,5758.116245269775
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_6.png,252.0,"45
+",0.0,5513.855934143066
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_7.png,34.0,"45
+",0.0,5530.674457550049
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_8.png,132.0,"45
+",0.0,5518.392324447632
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_9.png,35.0,"45
+",0.0,5531.302213668823
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_10.png,135.0,"45
+",0.0,5522.0046043396
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_11.png,95.0,"45
+",0.0,5510.949611663818
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_12.png,322.0,"45
+",0.0,5511.251926422119
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_13.png,183.0,"45
+",0.0,5558.747053146362
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_14.png,164.0,"45
+",0.0,5510.794878005981
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_15.png,274.0,"45
+",0.0,5537.284851074219
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_16.png,259.0,"45
+",0.0,5513.837814331055
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_17.png,134.0,"45
+",0.0,5494.123697280884
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_18.png,290.0,"45
+",0.0,5531.094074249268
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_19.png,116.0,"45
+",0.0,5520.409822463989
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_20.png,279.0,"45
+",0.0,5516.41845703125
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_1.png,104.0,"45
+",0.0,5517.242670059204
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_2.png,212.0,"45
+",0.0,5511.401653289795
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_3.png,215.0,"45
+",0.0,5521.90089225769
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_4.png,68.0,"45
+",0.0,5523.910045623779
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_5.png,70.0,"45
+",0.0,5600.877523422241
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_6.png,252.0,"45
+",0.0,5745.1629638671875
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_7.png,34.0,"45
+",0.0,5537.6787185668945
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_8.png,132.0,"45
+",0.0,5509.799480438232
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_9.png,35.0,"45
+",0.0,5511.30223274231
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_10.png,135.0,"45
+",0.0,5513.594150543213
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_11.png,95.0,"45
+",0.0,5515.164852142334
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_12.png,322.0,"45
+",0.0,5522.489786148071
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_13.png,183.0,"45
+",0.0,5519.261360168457
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_14.png,164.0,"45
+",0.0,5544.913530349731
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_15.png,274.0,"45
+",0.0,5508.534669876099
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_16.png,259.0,"45
+",0.0,5526.155471801758
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_17.png,134.0,"45
+",0.0,5520.627737045288
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_18.png,290.0,"45
+",0.0,5535.16960144043
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_19.png,116.0,"45
+",0.0,5511.110782623291
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_20.png,279.0,"45
+",0.0,5536.066293716431
+GeminiProVision,average,,,,,
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_1.png,104.0,"180
+",0.0,5310.623645782471
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_2.png,212.0,"180
+",0.0,5318.325996398926
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_3.png,215.0,"180 
+",0.0,5344.319581985474
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_4.png,68.0,"180 
+",0.0,5267.419815063477
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_5.png,70.0,"180
+",0.0,5265.217542648315
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_6.png,252.0,"90
+",0.0,5307.278156280518
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_7.png,34.0,"180
+",0.0,5288.064241409302
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_8.png,132.0,"45
+",0.0,5290.591478347778
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_9.png,35.0,"180
+",0.0,5292.549848556519
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_10.png,135.0,"180
+",0.0,5262.357234954834
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_11.png,95.0,"180 
+",0.0,5462.641000747681
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_12.png,322.0,"180 
+",0.0,5273.246765136719
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_13.png,183.0,"265
+",0.0,5312.782049179077
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_14.png,164.0,"180 
+",0.0,5310.246467590332
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_15.png,274.0,"270 
+",0.0,5301.7261028289795
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_16.png,259.0,"180
+",0.0,5315.991640090942
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_17.png,134.0,"90
+",0.0,5245.843172073364
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_18.png,290.0,"90
+",0.0,5293.981313705444
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_19.png,116.0,"180
+",0.0,5306.017875671387
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_20.png,279.0,"270 
+",0.0,5263.12780380249
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_1.png,104.0,"180 
+",0.0,5437.067747116089
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_2.png,212.0,"180 
+",0.0,5246.925830841064
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_3.png,215.0,"90
+",0.0,5313.6146068573
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_4.png,68.0,"180
+",0.0,5298.187971115112
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_5.png,70.0,"90
+",0.0,5322.12495803833
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_6.png,252.0,"135
+",0.0,5302.253007888794
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_7.png,34.0,"180
+",0.0,5290.12131690979
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_8.png,132.0,"270
+",0.0,5322.869062423706
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_9.png,35.0,"180
+",0.0,5254.060745239258
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_10.png,135.0,"90
+",0.0,5253.362417221069
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_11.png,95.0,"135 
+",0.0,5280.420541763306
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_12.png,322.0,"180
+",0.0,5253.3745765686035
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_13.png,183.0,"45
+",0.0,5262.492418289185
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_14.png,164.0,"90 
+",0.0,5339.806795120239
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_15.png,274.0,"180 
+",0.0,5299.606800079346
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_16.png,259.0,"45
+",0.0,5272.645950317383
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_17.png,134.0,"90
+",0.0,5253.2994747161865
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_18.png,290.0,"90
+",0.0,5327.98171043396
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_19.png,116.0,"0 
+",0.0,5307.757377624512
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_20.png,279.0,"180
+",0.0,5247.039318084717
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_1.png,104.0,"90 
+",0.0,5311.88702583313
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_2.png,212.0,"180
+",0.0,5269.76466178894
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_3.png,215.0,"265 
+",0.0,5275.592803955078
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_4.png,68.0,"180
+",0.0,5286.197900772095
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_5.png,70.0,"270 
+",0.0,5712.345600128174
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_6.png,252.0,"135 
+",0.0,5255.24377822876
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_7.png,34.0,"315 
+",0.0,5288.501501083374
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_8.png,132.0,"90
+",0.0,5236.926078796387
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_9.png,35.0,"135 
+",0.0,5262.283086776733
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_10.png,135.0,"0 
+",0.0,5262.825727462769
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_11.png,95.0,"135 
+",0.0,5251.674175262451
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_12.png,322.0,"135 
+",0.0,5278.42378616333
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_13.png,183.0,"90 
+",0.0,5317.031621932983
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_14.png,164.0,"180
+",0.0,5267.230749130249
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_15.png,274.0,"270
+",0.0,5345.186710357666
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_16.png,259.0,"180 
+",0.0,5316.460847854614
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_17.png,134.0,"90
+",0.0,5468.022108078003
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_18.png,290.0,"90
+",0.0,5286.2229347229
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_19.png,116.0,"180 
+",0.0,5389.508008956909
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_20.png,279.0,135,0.0,5297.368764877319
+Gemini1_5Flash,average,,,,,

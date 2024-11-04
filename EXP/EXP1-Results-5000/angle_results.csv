@@ -1,0 +1,958 @@
+model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
+gpt4o,run_0,EXP1-Results/angle/angle_image_1.png,61.0,40,0.0,5992.968559265137
+gpt4o,run_0,EXP1-Results/angle/angle_image_2.png,39.0,30,0.0,5964.926242828369
+gpt4o,run_0,EXP1-Results/angle/angle_image_3.png,30.0,30,0.0,5939.579963684082
+gpt4o,run_0,EXP1-Results/angle/angle_image_4.png,83.0,45,0.0,5929.551362991333
+gpt4o,run_0,EXP1-Results/angle/angle_image_5.png,47.0,45,0.0,6132.651567459106
+gpt4o,run_0,EXP1-Results/angle/angle_image_6.png,54.0,35,0.0,6534.350395202637
+gpt4o,run_0,EXP1-Results/angle/angle_image_7.png,50.0,45,0.0,5672.543287277222
+gpt4o,run_0,EXP1-Results/angle/angle_image_8.png,64.0,45,0.0,5975.328683853149
+gpt4o,run_0,EXP1-Results/angle/angle_image_9.png,79.0,45,0.0,5673.949480056763
+gpt4o,run_0,EXP1-Results/angle/angle_image_10.png,60.0,45,0.0,5957.577466964722
+gpt4o,run_0,EXP1-Results/angle/angle_image_11.png,52.0,45,0.0,6146.831512451172
+gpt4o,run_0,EXP1-Results/angle/angle_image_12.png,8.0,35,0.0,6009.057998657227
+gpt4o,run_0,EXP1-Results/angle/angle_image_13.png,71.0,45,0.0,6946.336030960083
+gpt4o,run_0,EXP1-Results/angle/angle_image_14.png,58.0,45,0.0,5861.928462982178
+gpt4o,run_0,EXP1-Results/angle/angle_image_15.png,28.0,45,0.0,5688.312292098999
+gpt4o,run_0,EXP1-Results/angle/angle_image_16.png,41.0,30,0.0,5931.536436080933
+gpt4o,run_0,EXP1-Results/angle/angle_image_17.png,46.0,45,0.0,6356.259822845459
+gpt4o,run_0,EXP1-Results/angle/angle_image_18.png,25.0,30,0.0,5710.207939147949
+gpt4o,run_0,EXP1-Results/angle/angle_image_19.png,54.0,45,0.0,5849.342346191406
+gpt4o,run_0,EXP1-Results/angle/angle_image_20.png,3.0,45,0.0,5789.28017616272
+gpt4o,run_1,EXP1-Results/angle/angle_image_1.png,61.0,45,0.0,5711.149454116821
+gpt4o,run_1,EXP1-Results/angle/angle_image_2.png,39.0,45,0.0,5784.842729568481
+gpt4o,run_1,EXP1-Results/angle/angle_image_3.png,30.0,30,0.0,5853.324174880981
+gpt4o,run_1,EXP1-Results/angle/angle_image_4.png,83.0,45,0.0,5897.674083709717
+gpt4o,run_1,EXP1-Results/angle/angle_image_5.png,47.0,45,0.0,5844.989061355591
+gpt4o,run_1,EXP1-Results/angle/angle_image_6.png,54.0,45,0.0,5848.048210144043
+gpt4o,run_1,EXP1-Results/angle/angle_image_7.png,50.0,45,0.0,5848.8006591796875
+gpt4o,run_1,EXP1-Results/angle/angle_image_8.png,64.0,45,0.0,5937.838077545166
+gpt4o,run_1,EXP1-Results/angle/angle_image_9.png,79.0,45,0.0,5581.2389850616455
+gpt4o,run_1,EXP1-Results/angle/angle_image_10.png,60.0,45,0.0,5862.551689147949
+gpt4o,run_1,EXP1-Results/angle/angle_image_11.png,52.0,45,0.0,5600.58331489563
+gpt4o,run_1,EXP1-Results/angle/angle_image_12.png,8.0,45,0.0,5863.023042678833
+gpt4o,run_1,EXP1-Results/angle/angle_image_13.png,71.0,45,0.0,5854.566335678101
+gpt4o,run_1,EXP1-Results/angle/angle_image_14.png,58.0,45,0.0,5671.3268756866455
+gpt4o,run_1,EXP1-Results/angle/angle_image_15.png,28.0,30,0.0,5543.686151504517
+gpt4o,run_1,EXP1-Results/angle/angle_image_16.png,41.0,45,0.0,5859.278440475464
+gpt4o,run_1,EXP1-Results/angle/angle_image_17.png,46.0,45,0.0,5844.838619232178
+gpt4o,run_1,EXP1-Results/angle/angle_image_18.png,25.0,45,0.0,5557.517290115356
+gpt4o,run_1,EXP1-Results/angle/angle_image_19.png,54.0,45,0.0,5746.549844741821
+gpt4o,run_1,EXP1-Results/angle/angle_image_20.png,3.0,45,0.0,5602.502107620239
+gpt4o,run_2,EXP1-Results/angle/angle_image_1.png,61.0,45,0.0,6038.157939910889
+gpt4o,run_2,EXP1-Results/angle/angle_image_2.png,39.0,45,0.0,5686.300992965698
+gpt4o,run_2,EXP1-Results/angle/angle_image_3.png,30.0,45,0.0,5777.967214584351
+gpt4o,run_2,EXP1-Results/angle/angle_image_4.png,83.0,45,0.0,5874.0880489349365
+gpt4o,run_2,EXP1-Results/angle/angle_image_5.png,47.0,45,0.0,5827.213764190674
+gpt4o,run_2,EXP1-Results/angle/angle_image_6.png,54.0,30,0.0,5858.236074447632
+gpt4o,run_2,EXP1-Results/angle/angle_image_7.png,50.0,45,0.0,6272.642612457275
+gpt4o,run_2,EXP1-Results/angle/angle_image_8.png,64.0,45,0.0,6184.850692749023
+gpt4o,run_2,EXP1-Results/angle/angle_image_9.png,79.0,45,0.0,5630.824089050293
+gpt4o,run_2,EXP1-Results/angle/angle_image_10.png,60.0,45,0.0,5824.698686599731
+gpt4o,run_2,EXP1-Results/angle/angle_image_11.png,52.0,45,0.0,5521.05975151062
+gpt4o,run_2,EXP1-Results/angle/angle_image_12.png,8.0,30,0.0,5863.190174102783
+gpt4o,run_2,EXP1-Results/angle/angle_image_13.png,71.0,45,0.0,5891.740083694458
+gpt4o,run_2,EXP1-Results/angle/angle_image_14.png,58.0,45,0.0,5681.390285491943
+gpt4o,run_2,EXP1-Results/angle/angle_image_15.png,28.0,30,0.0,5576.85399055481
+gpt4o,run_2,EXP1-Results/angle/angle_image_16.png,41.0,45,0.0,5938.425540924072
+gpt4o,run_2,EXP1-Results/angle/angle_image_17.png,46.0,41,0.0,9608.810186386108
+gpt4o,run_2,EXP1-Results/angle/angle_image_18.png,25.0,30,0.0,5559.8344802856445
+gpt4o,run_2,EXP1-Results/angle/angle_image_19.png,54.0,45,0.0,5598.6528396606445
+gpt4o,run_2,EXP1-Results/angle/angle_image_20.png,3.0,45,0.0,5592.886686325073
+gpt4o,average,,,,,
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_1.png,61.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+61.0",0.0,940.1514530181885
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_2.png,39.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+36.0",0.0,429.05426025390625
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_3.png,30.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+30.0",0.0,424.7114658355713
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_4.png,83.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+77.0",0.0,425.3349304199219
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_5.png,47.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+50.0",0.0,427.90889739990234
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_6.png,54.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+50.0",0.0,424.2281913757324
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_7.png,50.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+48.0",0.0,428.6916255950928
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_8.png,64.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+62.0",0.0,424.70359802246094
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_9.png,79.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+74.0",0.0,425.7700443267822
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_10.png,60.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+57.0",0.0,423.3100414276123
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_11.png,52.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+46.0",0.0,442.4138069152832
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_12.png,8.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+10.0",0.0,428.1725883483887
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_13.png,71.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+65.0",0.0,448.75621795654297
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_14.png,58.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+62.0",0.0,442.05594062805176
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_15.png,28.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+30.0",0.0,424.6509075164795
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_16.png,41.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+37.0",0.0,431.5299987792969
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_17.png,46.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+41.0",0.0,424.45826530456543
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_18.png,25.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+26.0",0.0,427.7634620666504
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_19.png,54.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+50.0",0.0,424.2086410522461
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_20.png,3.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+6.0",0.0,427.3538589477539
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_1.png,61.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+61.0",0.0,424.32355880737305
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_2.png,39.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+36.0",0.0,424.19934272766113
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_3.png,30.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+29.0",0.0,428.88760566711426
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_4.png,83.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+79.0",0.0,427.3550510406494
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_5.png,47.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+50.0",0.0,428.50351333618164
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_6.png,54.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+49.0",0.0,424.13997650146484
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_7.png,50.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+48.0",0.0,429.0292263031006
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_8.png,64.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+64.0",0.0,441.50853157043457
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_9.png,79.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+75.0",0.0,435.90259552001953
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_10.png,60.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+56.0",0.0,424.0148067474365
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_11.png,52.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+48.0",0.0,429.08382415771484
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_12.png,8.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+10.0",0.0,441.73526763916016
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_13.png,71.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+68.0",0.0,424.4229793548584
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_14.png,58.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+63.0",0.0,427.39009857177734
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_15.png,28.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+25.0",0.0,425.7652759552002
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_16.png,41.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+36.0",0.0,476.7029285430908
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_17.png,46.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+43.0",0.0,425.6174564361572
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_18.png,25.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+24.0",0.0,430.5257797241211
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_19.png,54.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+52.0",0.0,424.24774169921875
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_20.png,3.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+3.0",0.0,423.89893531799316
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_1.png,61.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+59.0",0.0,426.6393184661865
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_2.png,39.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+36.0",0.0,424.4682788848877
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_3.png,30.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+30.0",0.0,425.6303310394287
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_4.png,83.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+78.0",0.0,424.44324493408203
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_5.png,47.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+49.0",0.0,423.3427047729492
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_6.png,54.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+50.0",0.0,422.3592281341553
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_7.png,50.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+48.0",0.0,426.68914794921875
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_8.png,64.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+61.0",0.0,424.24941062927246
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_9.png,79.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+75.0",0.0,427.1736145019531
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_10.png,60.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+55.0",0.0,424.8664379119873
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_11.png,52.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+47.0",0.0,425.9974956512451
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_12.png,8.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+9.0",0.0,426.24783515930176
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_13.png,71.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+66.0",0.0,424.5493412017822
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_14.png,58.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+63.0",0.0,433.41064453125
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_15.png,28.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+26.0",0.0,439.5294189453125
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_16.png,41.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+36.0",0.0,434.1089725494385
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_17.png,46.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+41.0",0.0,429.3041229248047
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_18.png,25.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+25.0",0.0,453.18078994750977
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_19.png,54.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+49.0",0.0,500.7963180541992
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_20.png,3.0,"user
+Estimate the angle (0-90 degrees). Number only. No explanation.
+assistant
+
+5.0",0.0,435.18543243408203
+CustomLLaMA,average,,,,,
+LLaMA,run_0,EXP1-Results/angle/angle_image_1.png,61.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+45",0.0,21082.615852355957
+LLaMA,run_0,EXP1-Results/angle/angle_image_2.png,39.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+70",0.0,7401.644229888916
+LLaMA,run_0,EXP1-Results/angle/angle_image_3.png,30.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 7 degrees.",0.0,7965.485334396362
+LLaMA,run_0,EXP1-Results/angle/angle_image_4.png,83.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7302.505970001221
+LLaMA,run_0,EXP1-Results/angle/angle_image_5.png,47.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+60",0.0,7273.425340652466
+LLaMA,run_0,EXP1-Results/angle/angle_image_6.png,54.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 60 degrees.",0.0,7993.011951446533
+LLaMA,run_0,EXP1-Results/angle/angle_image_7.png,50.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+85",0.0,7488.942623138428
+LLaMA,run_0,EXP1-Results/angle/angle_image_8.png,64.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7644.173860549927
+LLaMA,run_0,EXP1-Results/angle/angle_image_9.png,79.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+60",0.0,7241.100788116455
+LLaMA,run_0,EXP1-Results/angle/angle_image_10.png,60.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The information in the question is:
+
+* A diagram is provided, but no specific information about it is given.
+* The question asks to estimate an angle, but the angle's measure is not specified.
+* The angle is described as being between 0 and 90 degrees.
+* The question asks for a numerical answer, implying that an exact value or a range is not required.
+* No additional context or constraints are provided. 
+## Step 1
+The given diagram shows a triangle with one angle marked as 45 degrees.
+
+## Step 2
+The other two angles of the triangle must add up to 90 degrees, since the sum of the angles in a triangle is always 180 degrees.
+
+## Step 3
+Since one angle is 45 degrees, the other two angles must be 45 degrees and 90 degrees.
+
+## Step 4
+The angle that is not given is the one that is less than 45 degrees, which is 45 degrees.
+
+The final answer is: $\boxed{45}$",0.0,21859.2791557312
+LLaMA,run_0,EXP1-Results/angle/angle_image_11.png,52.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 60 degrees.",0.0,7552.490711212158
+LLaMA,run_0,EXP1-Results/angle/angle_image_12.png,8.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The answer is 45.",0.0,7412.768602371216
+LLaMA,run_0,EXP1-Results/angle/angle_image_13.png,71.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+90",0.0,7076.163053512573
+LLaMA,run_0,EXP1-Results/angle/angle_image_14.png,58.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7312.8345012664795
+LLaMA,run_0,EXP1-Results/angle/angle_image_15.png,28.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+**Step 1: Estimate the angle.**
+
+The angle is approximately 45 degrees.",0.0,8562.336206436157
+LLaMA,run_0,EXP1-Results/angle/angle_image_16.png,41.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7128.322601318359
+LLaMA,run_0,EXP1-Results/angle/angle_image_17.png,46.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+75",0.0,7106.7540645599365
+LLaMA,run_0,EXP1-Results/angle/angle_image_18.png,25.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 90 degrees.",0.0,7779.882907867432
+LLaMA,run_0,EXP1-Results/angle/angle_image_19.png,54.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7062.061309814453
+LLaMA,run_0,EXP1-Results/angle/angle_image_20.png,3.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The answer is 45.",0.0,7488.9819622039795
+LLaMA,run_1,EXP1-Results/angle/angle_image_1.png,61.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+45",0.0,7222.432851791382
+LLaMA,run_1,EXP1-Results/angle/angle_image_2.png,39.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7268.547058105469
+LLaMA,run_1,EXP1-Results/angle/angle_image_3.png,30.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+67",0.0,7101.593017578125
+LLaMA,run_1,EXP1-Results/angle/angle_image_4.png,83.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+75",0.0,7159.548997879028
+LLaMA,run_1,EXP1-Results/angle/angle_image_5.png,47.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+65",0.0,7393.316268920898
+LLaMA,run_1,EXP1-Results/angle/angle_image_6.png,54.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 90 degrees.",0.0,8000.272035598755
+LLaMA,run_1,EXP1-Results/angle/angle_image_7.png,50.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+85",0.0,7097.582817077637
+LLaMA,run_1,EXP1-Results/angle/angle_image_8.png,64.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+90",0.0,7019.466400146484
+LLaMA,run_1,EXP1-Results/angle/angle_image_9.png,79.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+90",0.0,7343.5492515563965
+LLaMA,run_1,EXP1-Results/angle/angle_image_10.png,60.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 45 degrees.",0.0,7532.8569412231445
+LLaMA,run_1,EXP1-Results/angle/angle_image_11.png,52.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The answer is 45.",0.0,7721.185207366943
+LLaMA,run_1,EXP1-Results/angle/angle_image_12.png,8.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 90 degrees.",0.0,7507.681131362915
+LLaMA,run_1,EXP1-Results/angle/angle_image_13.png,71.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+70",0.0,7361.595630645752
+LLaMA,run_1,EXP1-Results/angle/angle_image_14.png,58.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+75",0.0,7276.36456489563
+LLaMA,run_1,EXP1-Results/angle/angle_image_15.png,28.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7042.202949523926
+LLaMA,run_1,EXP1-Results/angle/angle_image_16.png,41.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+**Step 1: Estimate the angle (0-90 degrees).**
+
+*Answer*: 70",0.0,8755.436420440674
+LLaMA,run_1,EXP1-Results/angle/angle_image_17.png,46.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+**Step 1: Identify the shape of the triangle**
+
+The shape is a right triangle.
+
+**Step 2: Determine the type of angle**
+
+The angle is one of the acute angles in a right triangle.
+
+**Step 3: Estimate the angle**
+
+Since it's a right triangle, one of the acute angles is 90 degrees.",0.0,12144.250631332397
+LLaMA,run_1,EXP1-Results/angle/angle_image_18.png,25.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 70 degrees.",0.0,7549.08299446106
+LLaMA,run_1,EXP1-Results/angle/angle_image_19.png,54.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 70 degrees.",0.0,7714.281320571899
+LLaMA,run_1,EXP1-Results/angle/angle_image_20.png,3.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7622.709512710571
+LLaMA,run_2,EXP1-Results/angle/angle_image_1.png,61.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7131.369590759277
+LLaMA,run_2,EXP1-Results/angle/angle_image_2.png,39.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+**Step 1: Identify the angle**
+
+The angle is a right angle.
+
+**Step 2: Estimate the angle in degrees**
+
+The angle is approximately 90 degrees.",0.0,9543.554782867432
+LLaMA,run_2,EXP1-Results/angle/angle_image_3.png,30.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 70 degrees.",0.0,7603.808879852295
+LLaMA,run_2,EXP1-Results/angle/angle_image_4.png,83.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+75",0.0,7975.987911224365
+LLaMA,run_2,EXP1-Results/angle/angle_image_5.png,47.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7233.16216468811
+LLaMA,run_2,EXP1-Results/angle/angle_image_6.png,54.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 45 degrees.",0.0,7509.228706359863
+LLaMA,run_2,EXP1-Results/angle/angle_image_7.png,50.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7019.357681274414
+LLaMA,run_2,EXP1-Results/angle/angle_image_8.png,64.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+60",0.0,7416.004180908203
+LLaMA,run_2,EXP1-Results/angle/angle_image_9.png,79.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+65",0.0,7586.766004562378
+LLaMA,run_2,EXP1-Results/angle/angle_image_10.png,60.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+**Step 1: Estimate the angle**
+
+The angle is approximately **45 degrees**.",0.0,8490.79966545105
+LLaMA,run_2,EXP1-Results/angle/angle_image_11.png,52.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 90 degrees.",0.0,8431.228876113892
+LLaMA,run_2,EXP1-Results/angle/angle_image_12.png,8.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+45",0.0,7473.020315170288
+LLaMA,run_2,EXP1-Results/angle/angle_image_13.png,71.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+45",0.0,7312.354564666748
+LLaMA,run_2,EXP1-Results/angle/angle_image_14.png,58.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+**Step 1: Identify the angle**
+
+The angle is the angle between the two lines. It is marked by the symbol ""V"".
+
+**Step 2: Determine the angle**
+
+The angle is 45 degrees.
+
+**Step 3: Answer**
+
+45",0.0,10853.480100631714
+LLaMA,run_2,EXP1-Results/angle/angle_image_15.png,28.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+**Step 1: Identify the angle**
+
+The angle is labeled as ""<"".
+
+**Step 2: Determine the type of angle**
+
+The angle is less than 90 degrees.
+
+**Step 3: Estimate the angle**
+
+Since the angle is less than 90 degrees, the estimate is 45 degrees.",0.0,11750.138998031616
+LLaMA,run_2,EXP1-Results/angle/angle_image_16.png,41.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The angle is 90 degrees.",0.0,7619.1089153289795
+LLaMA,run_2,EXP1-Results/angle/angle_image_17.png,46.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+60",0.0,7169.824600219727
+LLaMA,run_2,EXP1-Results/angle/angle_image_18.png,25.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+The information in the question is:
+
+* A diagram is provided, featuring an arrow pointing from the bottom left to the top right.
+* The arrow is labeled with a number: 35 degrees.
+* The question asks to estimate the angle between the arrow and the horizontal line (0-90 degrees).
+* The task is to provide a numerical answer. 
+## Step 1
+The given angle is 35 degrees.
+
+## Step 2
+The angle is given as 35 degrees, which is less than 90 degrees.
+
+The final answer is: $\boxed{35}$",0.0,15438.278436660767
+LLaMA,run_2,EXP1-Results/angle/angle_image_19.png,54.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+80",0.0,7375.648975372314
+LLaMA,run_2,EXP1-Results/angle/angle_image_20.png,3.0,"user
+
+Estimate the angle (0-90 degrees). Number only. No explanation.assistant
+
+45",0.0,7001.673221588135
+LLaMA,average,,,,,
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_1.png,61.0,"45
+",0.0,5594.382524490356
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_2.png,39.0,"45
+",0.0,6918.349027633667
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_3.png,30.0,"45
+",0.0,5583.797216415405
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_4.png,83.0,"30
+",0.0,5547.272205352783
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_5.png,47.0,"45
+",0.0,5549.819231033325
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_6.png,54.0,"45
+",0.0,5564.6257400512695
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_7.png,50.0,"45
+",0.0,6208.8141441345215
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_8.png,64.0,"30
+",0.0,5542.961359024048
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_9.png,79.0,"45
+",0.0,5533.942461013794
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_10.png,60.0,"45
+",0.0,5523.592948913574
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_11.png,52.0,"45
+",0.0,5529.266119003296
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_12.png,8.0,"45
+",0.0,5537.645101547241
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_13.png,71.0,"30
+",0.0,5522.915840148926
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_14.png,58.0,"45
+",0.0,5524.550437927246
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_15.png,28.0,"45
+",0.0,5535.411596298218
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_16.png,41.0,"45
+",0.0,5522.114992141724
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_17.png,46.0,"45
+",0.0,5632.567882537842
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_18.png,25.0,"45
+",0.0,5512.329816818237
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_19.png,54.0,"45
+",0.0,5763.8702392578125
+GeminiProVision,run_0,EXP1-Results/angle/angle_image_20.png,3.0,"45
+",0.0,5927.117109298706
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_1.png,61.0,"45
+",0.0,7050.861835479736
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_2.png,39.0,"45
+",0.0,6761.195421218872
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_3.png,30.0,"45
+",0.0,6199.767351150513
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_4.png,83.0,"45
+",0.0,5557.547330856323
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_5.png,47.0,"45
+",0.0,5532.962799072266
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_6.png,54.0,"45
+",0.0,5527.1852016448975
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_7.png,50.0,"45
+",0.0,5511.881113052368
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_8.png,64.0,"30
+",0.0,5541.8901443481445
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_9.png,79.0,"45
+",0.0,5522.922515869141
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_10.png,60.0,"45
+",0.0,5524.991512298584
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_11.png,52.0,"45
+",0.0,5515.98334312439
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_12.png,8.0,"45
+",0.0,5812.2687339782715
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_13.png,71.0,"45
+",0.0,5533.968925476074
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_14.png,58.0,"45
+",0.0,5538.0847454071045
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_15.png,28.0,"45
+",0.0,5515.788316726685
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_16.png,41.0,"45
+",0.0,5546.817302703857
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_17.png,46.0,"45
+",0.0,5493.638753890991
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_18.png,25.0,"45
+",0.0,5512.686491012573
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_19.png,54.0,"45
+",0.0,5537.992715835571
+GeminiProVision,run_1,EXP1-Results/angle/angle_image_20.png,3.0,"45
+",0.0,5527.287721633911
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_1.png,61.0,"45
+",0.0,5534.928321838379
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_2.png,39.0,"45
+",0.0,5518.536806106567
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_3.png,30.0,"45
+",0.0,5514.248371124268
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_4.png,83.0,"45
+",0.0,5522.127866744995
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_5.png,47.0,"45
+",0.0,5518.346309661865
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_6.png,54.0,"45
+",0.0,5859.9255084991455
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_7.png,50.0,"45
+",0.0,5663.326263427734
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_8.png,64.0,"30
+",0.0,5517.220973968506
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_9.png,79.0,"45
+",0.0,5509.865522384644
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_10.png,60.0,"45
+",0.0,5525.209903717041
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_11.png,52.0,"45
+",0.0,5513.506174087524
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_12.png,8.0,"45
+",0.0,5521.789073944092
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_13.png,71.0,"30
+",0.0,5512.861251831055
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_14.png,58.0,"45
+",0.0,5513.8609409332275
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_15.png,28.0,"45
+",0.0,5531.617641448975
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_16.png,41.0,"45
+",0.0,5512.408494949341
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_17.png,46.0,"45
+",0.0,5509.221315383911
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_18.png,25.0,"45
+",0.0,5521.389484405518
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_19.png,54.0,"45
+",0.0,5511.728048324585
+GeminiProVision,run_2,EXP1-Results/angle/angle_image_20.png,3.0,"45
+",0.0,5523.087739944458
+GeminiProVision,average,,,,,
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_1.png,61.0,"45 
+",0.0,5288.539886474609
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_2.png,39.0,"45
+",0.0,5238.100528717041
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_3.png,30.0,45,0.0,5262.940168380737
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_4.png,83.0,"45 
+",0.0,5263.162851333618
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_5.png,47.0,"45
+",0.0,5238.173246383667
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_6.png,54.0,"45 
+",0.0,5256.888389587402
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_7.png,50.0,"45 
+",0.0,5279.2017459869385
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_8.png,64.0,"45
+",0.0,5291.996479034424
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_9.png,79.0,"60 
+",0.0,5313.823223114014
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_10.png,60.0,"45
+",0.0,5266.029834747314
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_11.png,52.0,"45 
+",0.0,5237.4022006988525
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_12.png,8.0,"45
+",0.0,5254.367113113403
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_13.png,71.0,45,0.0,5284.604549407959
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_14.png,58.0,45,0.0,5269.824504852295
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_15.png,28.0,45,0.0,5324.445962905884
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_16.png,41.0,"45
+",0.0,5242.230653762817
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_17.png,46.0,"45
+",0.0,5283.084869384766
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_18.png,25.0,"45 
+",0.0,5259.340763092041
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_19.png,54.0,"45 
+",0.0,5274.480819702148
+Gemini1_5Flash,run_0,EXP1-Results/angle/angle_image_20.png,3.0,45,0.0,5295.176029205322
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_1.png,61.0,"45
+",0.0,5300.03547668457
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_2.png,39.0,"45
+",0.0,5272.604703903198
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_3.png,30.0,"45
+",0.0,5271.730661392212
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_4.png,83.0,"45
+",0.0,5260.325908660889
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_5.png,47.0,45,0.0,5261.946678161621
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_6.png,54.0,"45 
+",0.0,5308.000802993774
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_7.png,50.0,45,0.0,5333.243846893311
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_8.png,64.0,"45
+",0.0,5277.199983596802
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_9.png,79.0,"45 
+",0.0,5359.275341033936
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_10.png,60.0,"45 
+",0.0,5253.401517868042
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_11.png,52.0,"45 
+",0.0,5246.352910995483
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_12.png,8.0,45,0.0,5287.488698959351
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_13.png,71.0,45,0.0,5241.481781005859
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_14.png,58.0,45,0.0,5288.185358047485
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_15.png,28.0,"45
+",0.0,5229.562997817993
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_16.png,41.0,"45
+",0.0,5266.631364822388
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_17.png,46.0,"45
+",0.0,5273.184061050415
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_18.png,25.0,45,0.0,5270.770311355591
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_19.png,54.0,45,0.0,5257.931470870972
+Gemini1_5Flash,run_1,EXP1-Results/angle/angle_image_20.png,3.0,45,0.0,5249.4471073150635
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_1.png,61.0,"30 
+",0.0,5268.199443817139
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_2.png,39.0,"30 
+",0.0,5285.644054412842
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_3.png,30.0,45,0.0,5225.670576095581
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_4.png,83.0,45,0.0,5243.472337722778
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_5.png,47.0,"45
+",0.0,5316.914796829224
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_6.png,54.0,"45 
+",0.0,5228.326320648193
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_7.png,50.0,"45 
+",0.0,5267.173290252686
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_8.png,64.0,"45 
+",0.0,5239.832162857056
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_9.png,79.0,"45 
+",0.0,5390.95401763916
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_10.png,60.0,"45
+",0.0,5240.682125091553
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_11.png,52.0,"45 
+",0.0,5228.406667709351
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_12.png,8.0,45,0.0,5289.3993854522705
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_13.png,71.0,45,0.0,5280.177116394043
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_14.png,58.0,45,0.0,5285.9861850738525
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_15.png,28.0,45,0.0,5237.416744232178
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_16.png,41.0,45,0.0,5297.125816345215
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_17.png,46.0,"30 
+",0.0,5240.113258361816
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_18.png,25.0,"45
+",0.0,5280.550241470337
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_19.png,54.0,"45 
+",0.0,5241.675853729248
+Gemini1_5Flash,run_2,EXP1-Results/angle/angle_image_20.png,3.0,45,0.0,5225.208759307861
+Gemini1_5Flash,average,,,,,

@@ -1,0 +1,1148 @@
+model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,30,0.0,6238.613128662109
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,30,0.0,5878.815174102783
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,30,0.0,5785.512924194336
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,28,0.0,6084.129810333252
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,30,0.0,5738.672256469727
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,30,0.0,5990.954637527466
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,30,0.0,5828.835725784302
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,30,0.0,5623.3460903167725
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,30,0.0,5899.526834487915
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,30,0.0,6013.673782348633
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,30,0.0,5921.949148178101
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,30,0.0,5869.199752807617
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,30,0.0,5581.667423248291
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,30,0.0,5870.413541793823
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,29,0.0,6041.666269302368
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,30,0.0,5662.434816360474
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,30,0.0,5608.654975891113
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,30,0.0,5969.6996212005615
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,30,0.0,5763.556241989136
+gpt4o,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,30,0.0,5771.885633468628
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,30,0.0,5885.608911514282
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,30,0.0,5877.147674560547
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,30,0.0,5637.735843658447
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,30,0.0,5623.127698898315
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,30,0.0,5636.698246002197
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,30,0.0,5906.573057174683
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,29,0.0,5564.552307128906
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,30,0.0,5659.772634506226
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,29,0.0,7051.959753036499
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,30,0.0,5857.887268066406
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,30,0.0,5869.466781616211
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,30,0.0,5649.963617324829
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,30,0.0,5565.980672836304
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,30,0.0,6613.194227218628
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,30,0.0,6446.173667907715
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,30,0.0,5820.156097412109
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,30,0.0,5769.398212432861
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,29,0.0,5858.798265457153
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,30,0.0,5642.545461654663
+gpt4o,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,30,0.0,5537.113189697266
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,28,0.0,5936.733961105347
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,30,0.0,5850.340843200684
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,30,0.0,5571.039915084839
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,30,0.0,5560.2405071258545
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,30,0.0,5700.1941204071045
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,30,0.0,5827.426195144653
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,29,0.0,5757.464408874512
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,30,0.0,5575.734615325928
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,30,0.0,5625.646352767944
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,30,0.0,6034.058094024658
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,30,0.0,5881.2689781188965
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,30,0.0,6238.6794090271
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,30,0.0,5727.925062179565
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,30,0.0,6389.472484588623
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,30,0.0,7925.446271896362
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,30,0.0,5616.7731285095215
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,30,0.0,5599.751234054565
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,29,0.0,6334.867238998413
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,30,0.0,5717.293500900269
+gpt4o,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,30,0.0,6595.463514328003
+gpt4o,average,,,,,
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,477.569580078125
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,420.7000732421875
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,416.50986671447754
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+32.0",0.0,466.31479263305664
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+38.0",0.0,426.8064498901367
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+32.0",0.0,434.7233772277832
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+26.0",0.0,424.44872856140137
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+32.0",0.0,426.180362701416
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,424.9746799468994
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,425.81796646118164
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,426.9247055053711
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,429.3851852416992
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,430.57727813720703
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+30.0",0.0,425.57311058044434
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,438.7514591217041
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,429.8717975616455
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+30.0",0.0,428.57837677001953
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,426.8827438354492
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+30.0",0.0,427.2475242614746
+CustomLLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,425.3687858581543
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,427.976131439209
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,429.58664894104004
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,426.08094215393066
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+32.0",0.0,465.069055557251
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+38.0",0.0,468.5177803039551
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+30.0",0.0,419.68750953674316
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,426.1329174041748
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+32.0",0.0,427.87885665893555
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,427.89769172668457
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,425.03905296325684
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,424.0999221801758
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,423.4635829925537
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,426.1927604675293
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+30.0",0.0,423.4728813171387
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,424.0689277648926
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,426.26094818115234
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+30.0",0.0,422.88732528686523
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,426.79357528686523
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+30.0",0.0,428.7564754486084
+CustomLLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,429.9764633178711
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,421.3743209838867
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,430.68981170654297
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,589.2162322998047
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+32.0",0.0,426.0256290435791
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+38.0",0.0,424.5152473449707
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+30.0",0.0,423.05755615234375
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+26.0",0.0,423.8719940185547
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+32.0",0.0,421.11968994140625
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,445.10722160339355
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,422.47891426086426
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,431.668758392334
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,426.72133445739746
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,428.18713188171387
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+30.0",0.0,422.6493835449219
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,423.9153861999512
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+26.0",0.0,425.6138801574707
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+30.0",0.0,423.83718490600586
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+28.0",0.0,431.44965171813965
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+30.0",0.0,423.57778549194336
+CustomLLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"user
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.
+assistant
+
+36.0",0.0,436.3100528717041
+CustomLLaMA,average,,,,,
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the block's vertical position**
+
+The block is positioned at the bottom of the vertical line.
+
+**Step 2: Convert the vertical position to a numerical value**
+
+The vertical position is 0.",0.0,10575.201511383057
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block appears to be positioned around 25 from the top.",0.0,8098.322868347168
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Identify the line**
+
+The line is a vertical line.
+
+**Step 2: Determine the length of the line**
+
+The line is 60 units long.
+
+**Step 3: Determine the position of the block**
+
+The block is placed halfway down the line.
+
+**Step 4: Calculate the vertical position**
+
+The vertical position of the block is 30.",0.0,12493.658065795898
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Vertical Position:** 25",0.0,7851.441144943237
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Observe the vertical position of the block.**
+
+The block is located at the bottom of the image.
+
+**Step 2: Estimate the vertical position.**
+
+The block is at the bottom of the image, which is at 0.
+
+**Answer:** 0",0.0,11046.941995620728
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Identify the block's position**
+
+The block is positioned vertically on the right side of the vertical line.
+
+**Step 2: Determine the vertical position**
+
+The vertical position of the block is the distance between the top of the block and the top of the vertical line.
+
+**Step 3: Calculate the vertical position**
+
+The vertical position is 20 units.
+
+**Answer:** 20",0.0,12846.109390258789
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line and a small black square. The vertical line is positioned at the left side of the image, while the small black square is located to the right of the vertical line.
+
+To estimate the block's vertical position, we need to determine the distance from the top of the image to the block.
+
+The vertical line is 60 units long, and the block is positioned 15 units below the top of the image.
+
+Therefore, the block's vertical position is 45 units from the top of the image.",0.0,15042.332649230957
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line on the left, a small black square in the center, and a white background. The vertical line is positioned at the top of the image, while the black square is located in the middle, approximately one-third of the way down from the top. The background is white.
+
+*Answer*: 30",0.0,11713.114023208618
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Identify the block's position on the y-axis.**
+
+The block is on the y-axis at y = 40.
+
+**Answer:** 40",0.0,9462.7046585083
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line with a block to its right, and the block appears to be roughly one-third of the height of the vertical line. Given that the vertical line spans from top to bottom, we can estimate the block's vertical position as follows:
+
+*   The vertical line is 60 units tall.
+*   The block is approximately one-third of the height of the vertical line, which means it is about 20 units tall.
+
+Therefore, the block's vertical position is approximately 20.",0.0,14335.915803909302
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block appears to be roughly 15 units from the top of the image.",0.0,8281.52585029602
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The vertical position of the block is approximately 33.",0.0,7947.216987609863
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Observe the vertical position of the block.**
+
+The block is located in the middle of the image.
+
+**Step 2: Estimate the block's vertical position.**
+
+The image is divided into 60 equal parts from top to bottom. The block is positioned at the 27th part.
+
+**Answer:** 27",0.0,11964.37954902649
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line with a small black square at its midpoint. The vertical line is positioned at the left side of the image, and the square is centered within it.
+
+To estimate the block's vertical position, we need to determine the proportion of the line that the square occupies. Since the square is small compared to the line, we can assume that the square's vertical position is roughly at the midpoint of the line.
+
+The line is 60 units long, and the square is approximately 10 units wide. The square's vertical position is about 30 units from the top of the line, which is roughly 50% of the line's length.
+
+*Answer*: 30",0.0,17071.882963180542
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The answer is 25.",0.0,7433.199405670166
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line and a small black square. The vertical line extends from the top to the bottom of the image, while the black square is positioned below the midpoint of the vertical line. Given that the vertical line spans the entire image, it is reasonable to assume that the block's vertical position is approximately 30.",0.0,11622.70975112915
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The final answer is 40.",0.0,7627.149343490601
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line and a small black square. The vertical line is positioned on the left side of the image, while the black square is located on the right side. The vertical line is aligned with the top edge of the image, and the black square is positioned at the bottom edge.
+
+*Answer*: 30",0.0,11518.850088119507
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line and a small square. The vertical line extends from the top to the middle of the image, and the small square is positioned below the line, roughly at the 30 mark.",0.0,9944.22459602356
+LLaMA,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Identify the vertical position of the block**
+
+The vertical position of the block is 38.",0.0,8585.107803344727
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line and a small square. The vertical line extends from the top to the bottom of the image, while the square is positioned below the center of the line.
+
+**Step 1: Determine the block's position relative to the vertical line**
+
+The block is located below the center of the vertical line.
+
+**Step 2: Estimate the block's vertical position**
+
+The block is approximately 20 units below the top of the vertical line.
+
+**Answer:** 20",0.0,14034.862756729126
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image presents a vertical line on the left side and a small black square on the right side, with the vertical line positioned at the top and the black square at the bottom. The vertical line spans from the top to the bottom of the image, while the black square is located at the very bottom.
+
+*Answer*: 30",0.0,11704.989194869995
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Analyze the image**
+
+The image shows a vertical line with a block next to it. The vertical line is positioned in the middle of the image, and the block is slightly below the center.
+
+**Step 2: Estimate the block's vertical position**
+
+The vertical line is positioned at the top of the image, and the block is slightly below the center. Therefore, the block is approximately 30 units below the top of the image.
+
+**Step 3: Answer**
+
+The block is at a vertical position of **30**.",0.0,15322.466373443604
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Identify the block's vertical position.**
+
+The block is located below the vertical line.
+
+**Step 2: Estimate the block's vertical position.**
+
+The block is about 10 units below the vertical line.
+
+**Answer:** 10",0.0,10623.191833496094
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line and a small black square. The vertical line is positioned at the top of the image, and the black square is located below it, about halfway down the image. The vertical line is aligned with the top edge of the image, while the black square is about 30 units below the top edge.",0.0,11632.075548171997
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line on the left and a small black square on the right. The vertical line is 60 units tall, and the square is approximately 1 unit tall and 1 unit wide.
+
+The vertical line is aligned with the top edge of the image, and the square is positioned about 30 units below the top edge.
+
+*Answer*: 30",0.0,12233.53910446167
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image features a line that is 40 units long, and a block that is 10 units long. Since the block is positioned at the end of the line, it is 40 units above the bottom.
+
+The final answer is: 40",0.0,10923.346757888794
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block is at 33.",0.0,7571.317434310913
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line and a small black square. The vertical line is positioned at the left side of the image, while the small black square is situated to the right of the vertical line. The vertical line appears to be aligned with the top of the image, and the small black square is positioned below it, roughly at the 40% mark from the top. Therefore, the vertical position of the block is approximately 40.",0.0,13352.859497070312
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The answer is 30.",0.0,8116.816520690918
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block is centered in the image.",0.0,8068.782329559326
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the block's vertical position (0-60, top to bottom).**
+
+The vertical position of the block is approximately 30.",0.0,9271.287202835083
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image depicts a vertical line with a block to its right. The block is positioned at a height of 30 units above the bottom edge of the line.
+
+*Answer*: 30",0.0,9734.965801239014
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The answer is: 40.",0.0,7452.507972717285
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image presents a vertical line on the left and a small black square on the right. The vertical line is positioned at the top of the image, while the black square is situated in the middle. Based on this information, we can estimate the block's vertical position as follows:
+
+*   The vertical line is at the top, indicating that the top of the image is at 0.
+*   The black square is in the middle, which suggests that it is roughly halfway between the top and the bottom of the image.
+*   Since the vertical line is at 0, the middle point would be at 30.
+
+Therefore, the estimated vertical position of the block is **30**.",0.0,17062.88480758667
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line and a block. The vertical line is 40 units long, and the block is 10 units high. The block is positioned 20 units above the top of the vertical line.
+
+The block's vertical position is 20.",0.0,11029.113292694092
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The answer is 28.",0.0,7525.6407260894775
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line and a block on a white background. The vertical line is positioned at the left side of the image, while the block is located below the center of the image. The block is small and black, and it appears to be a square shape.
+
+To estimate the block's vertical position, we can consider the following:
+
+*   The vertical line extends from the top to the bottom of the image.
+*   The block is positioned below the center of the image.
+*   The block is small and square-shaped.
+
+Based on these observations, we can estimate the block's vertical position as follows:
+
+*   The vertical line occupies about 60 units from the top to the bottom of the image.
+*   The block is positioned at a distance of approximately 30 units from the top of the image.
+
+Therefore, the block's vertical position is estimated to be around 30 units from the top of the image.",0.0,20716.966152191162
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the block's vertical position**
+
+The block is located in the middle of the image, which spans from 0 to 60.
+
+**Step 2: Determine the block's vertical position**
+
+The block is positioned at the 30 mark.
+
+**Answer:** 30",0.0,11376.970529556274
+LLaMA,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The vertical position of the block is 28.",0.0,8027.374982833862
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block is centered vertically within the rectangle.",0.0,7842.826128005981
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the block's vertical position.**
+
+The block is in the middle of the image. The image is divided into 60 units, with the top being 0 and the bottom being 60.
+
+**Step 2: Determine the block's vertical position.**
+
+Since the block is in the middle, its vertical position is 30.",0.0,12147.923231124878
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line and a small square. The vertical line is positioned on the left side of the image, while the square is located to the right of the line. The vertical line extends from the top to the bottom of the image, and the square is placed below it.
+
+To estimate the block's vertical position, we can consider the height of the vertical line and the position of the square relative to it. The vertical line spans the entire height of the image, which is 60 units. The square is positioned below the line, indicating that it is closer to the bottom of the image.
+
+Given that the vertical line represents 60 units, we can assume that the block's vertical position is also measured in terms of this scale. Since the square is below the line, its vertical position would be less than 60. However, without more specific information about the size of the square or its exact position relative to the line, it's challenging to provide an exact estimate.
+
+However, based on the provided information, we can infer that the block's vertical position is likely in the lower part of the image, but the exact measurement remains uncertain without further details.
+
+**Answer:** 50",0.0,24634.78183746338
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The vertical position of the block is 30.",0.0,7971.941947937012
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block is positioned at approximately 33.",0.0,7700.814247131348
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Identify the block's vertical position**
+
+The block is positioned at the middle of the line.
+
+**Step 2: Estimate the block's vertical position**
+
+The line is divided into two equal parts, with the block in the middle.
+
+**Step 3: Calculate the block's vertical position**
+
+Since the line is divided into two equal parts, the block is at the 30th position.
+
+**Answer:** 30",0.0,13723.285436630249
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Determine the block's vertical position.**
+
+The block's vertical position is at the bottom.
+
+**Step 2: Convert the position to a number.**
+
+The block's vertical position is 60.
+
+**Step 3: Answer the question.**
+
+The block's vertical position is 60.",0.0,11603.18660736084
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block is located at 30.",0.0,7734.3738079071045
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line with a small black square positioned 1/3 of the way down the line. Therefore, the block's vertical position is 20.",0.0,9730.639934539795
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block is positioned at approximately 45.",0.0,7630.398273468018
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line on the left side of the image and a small square on the right side of the image. The vertical line extends from the top to the bottom of the image, while the small square is positioned below the vertical line, slightly to the right.
+
+The vertical line is approximately 40 units long, and the small square is about 10 units away from the vertical line. Given that the vertical line spans the entire height of the image, we can estimate the block's vertical position as follows:
+
+*   The vertical line is 40 units long.
+*   The small square is 10 units away from the vertical line.
+
+Since the vertical line is the full height of the image, the block's vertical position can be estimated as follows:
+
+*   The vertical line is 40 units long.
+*   The small square is 10 units away from the vertical line.
+
+To find the block's vertical position, we can subtract the distance between the vertical line and the small square from the total height of the image. Since the vertical line is the full height of the image, we can assume the total height of the image is also 40 units.
+
+*   Total height of the image = 40 units
+*   Distance between the vertical line and the small square = 10 units
+
+Now, we can estimate the block's vertical position as follows:
+
+*   Block's vertical position = Total height of the image - Distance between the vertical line and the small square
+*   Block's vertical position = 40 - 10
+*   Block's vertical position = 30
+
+Therefore, the block's vertical position is approximately 30 units from the top of the image.
+
+*Answer*: 30",0.0,32282.896280288696
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Determine the scale of the diagram.** The diagram is not labeled, so it is assumed that the line is a ruler. The vertical line is 1 unit long. The block is half the size of the line.
+
+**Step 2: Determine the block's vertical position.** The block is half the size of the line, so it is 0.5 units long. The block is at the center of the line, so it is at 0.5 units. The maximum height of the diagram is 60 units, so the block is at 30 units.
+
+**Step 3: Convert the vertical position to a number.** The block is at 30 units, so the number is 30.",0.0,18057.142972946167
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image presents a vertical line and a small square on a white background. The vertical line is positioned at the left side of the image, while the small square is located at the center.
+
+**Step 1: Determine the vertical position of the vertical line.**
+
+The vertical line is positioned at the left side of the image, which corresponds to 0.
+
+**Step 2: Determine the vertical position of the small square.**
+
+The small square is positioned at the center of the image, which corresponds to 30.
+
+**Answer:** 30",0.0,15371.861934661865
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The answer is: 30.",0.0,7477.347850799561
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The block is located at 25.",0.0,7711.371898651123
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Estimate the block's vertical position**
+
+The block is located at the 40th position, vertically.",0.0,9168.8392162323
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+**Step 1: Analyze the image**
+
+The image shows a vertical line and a small square, but no numerical values or scales are provided. The vertical line is 50 units long, and the square is 10 units on each side.
+
+**Step 2: Determine the vertical position**
+
+The vertical line is the only feature that could provide a reference for the vertical position of the square. However, since there is no scale or unit length, it's impossible to determine the exact vertical position of the square.
+
+**Step 3: Provide an answer**
+
+There is not enough information to determine the vertical position of the square.",0.0,16608.240604400635
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image presents a vertical line on the left and a small black square in the center, with the square positioned above the midpoint of the vertical line. Given this information, we can estimate the block's vertical position as follows:
+
+*   The vertical line spans the entire height of the image.
+*   The square is located above the midpoint of the vertical line.
+
+Considering these observations, the block's vertical position can be estimated to be around 30, as it is positioned at the halfway point between the top and bottom of the image.",0.0,15257.959604263306
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The image shows a vertical line with a block placed to the right of it. The vertical line is positioned at the top of the image, and the block is placed below it, indicating that the block is at a lower vertical position than the line.
+
+*Answer*: 30",0.0,11096.925497055054
+LLaMA,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"user
+
+Estimate the block's vertical position (0-60, top to bottom). Number only. No explanation.assistant
+
+The vertical line is 41.5 units long, and the block is 1/3 the length of the line. 
+
+So, the block is 41.5 / 3 = 13.83 units long.
+
+Since the line is 60 units long, the block is 13.83 / 60 = 0.23 units from the top.",0.0,12393.548011779785
+LLaMA,average,,,,,
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"20
+",0.0,5586.259126663208
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"20
+",0.0,5559.868097305298
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"20
+",0.0,5533.675193786621
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"20
+",0.0,5505.852222442627
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"20
+",0.0,5537.70112991333
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"20
+",0.0,5551.7332553863525
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"20
+",0.0,5557.504892349243
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"20
+",0.0,5548.678398132324
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"20
+",0.0,5771.301031112671
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"30
+",0.0,5505.230903625488
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"20
+",0.0,5531.756639480591
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"20
+",0.0,5687.196254730225
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"20
+",0.0,5562.7875328063965
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"20
+",0.0,5738.909959793091
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"20
+",0.0,5559.926509857178
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"20
+",0.0,5631.687164306641
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"20
+",0.0,5511.724472045898
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"20
+",0.0,5515.484809875488
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"20
+",0.0,5541.9745445251465
+GeminiProVision,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"20
+",0.0,5527.170181274414
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"20
+",0.0,5514.504671096802
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"20
+",0.0,5518.48030090332
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"20
+",0.0,5527.360916137695
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"20
+",0.0,5525.936603546143
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"20
+",0.0,5818.397521972656
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"20
+",0.0,5507.349491119385
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"20
+",0.0,5616.753816604614
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"20
+",0.0,5504.341602325439
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"20
+",0.0,5523.57816696167
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"20
+",0.0,5513.700723648071
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"20
+",0.0,5510.860443115234
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"20
+",0.0,5563.711166381836
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"20
+",0.0,5511.479377746582
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"20
+",0.0,5694.136142730713
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"20
+",0.0,5515.204429626465
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"20
+",0.0,5724.879741668701
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"20
+",0.0,5523.045301437378
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"20
+",0.0,5525.986433029175
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"20
+",0.0,5594.070196151733
+GeminiProVision,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"20
+",0.0,5514.260530471802
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"20
+",0.0,5505.928754806519
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"20
+",0.0,5510.543346405029
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"20
+",0.0,5543.628692626953
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"20
+",0.0,5527.878284454346
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"20
+",0.0,5584.888458251953
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"20
+",0.0,5538.7208461761475
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"20
+",0.0,5504.710912704468
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"20
+",0.0,5538.060426712036
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"20
+",0.0,5515.161037445068
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"30
+",0.0,5525.981664657593
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"20
+",0.0,5512.8045082092285
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"20
+",0.0,6497.384309768677
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"20
+",0.0,5532.619476318359
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"20
+",0.0,5516.52455329895
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"20
+",0.0,5845.654487609863
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"20
+",0.0,5783.309698104858
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"20
+",0.0,6774.8143672943115
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"20
+",0.0,6567.4638748168945
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"20
+",0.0,6981.029748916626
+GeminiProVision,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"20
+",0.0,5779.522657394409
+GeminiProVision,average,,,,,
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"35 
+",0.0,5287.364721298218
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"40 
+",0.0,5246.752500534058
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"28 
+",0.0,5342.151880264282
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"40 
+",0.0,5275.596618652344
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"30 
+",0.0,5275.035858154297
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"30 
+",0.0,5416.506767272949
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"20 
+",0.0,5234.837055206299
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"20 
+",0.0,5213.488340377808
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"25 
+",0.0,5276.308536529541
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"50 
+",0.0,5393.568277359009
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"40 
+",0.0,5284.275054931641
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"45 
+",0.0,5260.103702545166
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"20 
+",0.0,5277.4317264556885
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"30 
+",0.0,5243.740081787109
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"30 
+",0.0,5278.0396938323975
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"40 
+",0.0,5299.352169036865
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"30 
+",0.0,5265.342712402344
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"30 
+",0.0,5278.266191482544
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"20 
+",0.0,5230.731964111328
+Gemini1_5Flash,run_0,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"30 
+",0.0,5227.523326873779
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"30 
+",0.0,5235.945224761963
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"20 
+",0.0,5276.814222335815
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"35 
+",0.0,5231.091022491455
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"30 
+",0.0,5285.543918609619
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"35 
+",0.0,5291.522979736328
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"25 
+",0.0,5260.230302810669
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"35 
+",0.0,5249.748945236206
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"30 
+",0.0,5278.2392501831055
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"20 
+",0.0,5215.584754943848
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"20 
+",0.0,5303.7238121032715
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"30 
+",0.0,5274.800539016724
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"45 
+",0.0,5298.909425735474
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"35 
+",0.0,5300.588130950928
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"20 
+",0.0,5228.905916213989
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"30 
+",0.0,5386.248350143433
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"20 
+",0.0,5271.47912979126
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"40 
+",0.0,5277.366161346436
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"30 
+",0.0,5239.653587341309
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"20 
+",0.0,5290.730714797974
+Gemini1_5Flash,run_1,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"30 
+",0.0,5242.132663726807
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_1.png,23.0,"20 
+",0.0,5282.422065734863
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_2.png,23.0,"30 
+",0.0,5244.968414306641
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_3.png,36.0,"20 
+",0.0,5274.094104766846
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_4.png,31.0,"55 
+",0.0,5262.882947921753
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_5.png,38.0,"35 
+",0.0,5465.249061584473
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_6.png,30.0,"10 
+",0.0,5273.229598999023
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_7.png,22.0,"30 
+",0.0,5249.505043029785
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_8.png,31.0,"20 
+",0.0,5242.331743240356
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_9.png,24.0,"45 
+",0.0,5249.800205230713
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_10.png,23.0,"50 
+",0.0,5247.530221939087
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_11.png,25.0,"35 
+",0.0,5263.094186782837
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_12.png,36.0,"20 
+",0.0,5397.918462753296
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_13.png,24.0,"35 
+",0.0,5242.490291595459
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_14.png,28.0,"40 
+",0.0,5231.9371700286865
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_15.png,35.0,"35 
+",0.0,5273.102521896362
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_16.png,22.0,"45 
+",0.0,5270.591497421265
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_17.png,28.0,"45 
+",0.0,5251.983165740967
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_18.png,25.0,"35 
+",0.0,5511.09766960144
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_19.png,27.0,"35 
+",0.0,5258.8958740234375
+Gemini1_5Flash,run_2,EXP1-Results/position_non_aligned_scale/position_non_aligned_scale_image_20.png,36.0,"30 
+",0.0,5234.600305557251
+Gemini1_5Flash,average,,,,,

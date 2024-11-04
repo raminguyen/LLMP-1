@@ -1,2 +1,0 @@
-area - Elapsed time: 2506.19 seconds
-volume - Elapsed time: 1623.05 seconds

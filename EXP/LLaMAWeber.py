@@ -14,7 +14,7 @@ import torch
 
 
 # Change the directory to where the JSON file is located
-os.chdir('./outputweber/json')
+os.chdir('./outputWEBER-5000/json')
 
 # Load the JSON file into a pandas DataFrame
 df = pd.read_json('combined_dataset.json')
@@ -89,7 +89,6 @@ test_data = Dataset.from_list(test_dataset)
 print(test_data)
 
 
-
 # Define the model ID and login
 model_id = "meta-llama/Llama-3.2-11B-Vision-Instruct"
 login('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')
@@ -130,7 +129,7 @@ model = get_peft_model(model, peft_config)
 
 
 # Path to the folder containing the images
-image_folder = "/home/huuthanhvy.nguyen001/LLMP/EXP/outputweber/images"
+image_folder = "/home/huuthanhvy.nguyen001/LLMP/EXP/outputWEBER-5000/images"
 
 # Function to process the examples
 def process(examples):
@@ -177,19 +176,20 @@ from huggingface_hub import login
 login('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')
 
 # Dynamically set output_dir based on the number of images
-name = "finetuned-5000-images-3-epochs-weber" # Change this number as needed
+name = "finetuned-5000-images-5-epochs-weber" # Change this number as needed
 output_dir = f"generated_images_{name}"  # E.g., "generated_images_450"
 log_file_path = f"training_logs_{name}.txt"  # Dynamic log file path
 
 # Modify TrainingArguments to include evaluation strategy
 training_args = TrainingArguments(
-    output_dir=output_dir,  # Updated name here
+    output_dir=output_dir,
     push_to_hub=False,
-    num_train_epochs=3,
+    num_train_epochs=5,
     logging_steps=100,
+    evaluation_strategy="epoch",
     remove_unused_columns=False,
     per_device_train_batch_size=1,
-    per_device_eval_batch_size=1,  # Add batch size for evaluation
+    per_device_eval_batch_size=1,
     gradient_accumulation_steps=4,
     warmup_steps=100,
     learning_rate=0.0001,
@@ -211,18 +211,20 @@ class LogMetricsCallback(TrainerCallback):
         self.validation_logs = []
 
     def on_log(self, args: TrainingArguments, state: TrainerState, control: TrainerControl, logs=None, **kwargs):
-        """
-        Logs the validation loss (eval_loss) after each logging event.
-        """
-        if logs is not None and "eval_loss" in logs:
-            # Log validation loss to file
+        # Log training loss if available
+        if "loss" in logs:
+            with open(self.log_file_path, "a") as f:
+                f.write(f"Training loss: {logs['loss']} at step {state.global_step}\n")
+                print(f"Training loss: {logs['loss']} at step {state.global_step}")
+            self.training_logs.append((state.global_step, logs["loss"]))
+        
+        # Log validation loss if available
+        if "eval_loss" in logs:
             with open(self.log_file_path, "a") as f:
                 f.write(f"Validation loss: {logs['eval_loss']} at step {state.global_step}\n")
                 print(f"Validation loss: {logs['eval_loss']} at step {state.global_step}")
-            # Store validation log in memory (optional, for further analysis)
             self.validation_logs.append((state.global_step, logs["eval_loss"]))
 
-# Initialize the custom callback with the log file path
 log_metrics_callback = LogMetricsCallback(log_file_path=log_file_path)
 
 # Ensure the output directory exists
@@ -233,15 +235,17 @@ model.tie_weights()  # Tie the weights after loading the model
 
 # Trainer setup including validation data
 trainer = Trainer(
-    model=model,  # Ensure 'model' is defined and initialized
+    model=model,
     args=training_args,
-    data_collator=process,  # Assuming 'process' is defined and appropriate
-    train_dataset=train_data,  # Assuming 'train_data' is defined
-    eval_dataset=validation_data,  # Add validation dataset
+    data_collator=process,
+    train_dataset=train_data,
+    eval_dataset=validation_data,
     callbacks=[log_metrics_callback],
 )
 
 # Train the model with validation
 trainer.train()
 
-model.save_pretrained("my_finetuned_llama_all_images_weber")
+model.save_pretrained("my_finetuned_llama_all_images_weber_5000images_5epoch")
+
+print("All set finetuning - Yeah!")

@@ -14,7 +14,7 @@ import numpy as np
 from sklearn.metrics import mean_absolute_error
 
 # Path to the folder containing the images
-image_folder = "/home/huuthanhvy.nguyen001/LLMP/EXP/output/images"
+image_folder = "/home/huuthanhvy.nguyen001/LLMP/EXP/outputEXP1/images"
 
 # Function to process the examples
 def process(examples):
@@ -44,7 +44,7 @@ def process(examples):
     return batch
 
 # Change the directory to where the JSON file is located
-os.chdir('./output/json')
+os.chdir('./outputEXP1/json')
 
 # Load the JSON file into a pandas DataFrame
 df = pd.read_json('combined_dataset.json')
@@ -125,9 +125,9 @@ processor = AutoProcessor.from_pretrained(model_id)
 
 # Define LoRA config based on QLoRA experiments
 peft_config = LoraConfig(
-    lora_alpha=32,
+    lora_alpha=64,
     lora_dropout=0.1,
-    r=32,
+    r=64,
     bias="none",
     target_modules=["q_proj", "v_proj"],
     task_type="FEATURE_EXTRACTION",
@@ -147,6 +147,7 @@ training_args = TrainingArguments(
     push_to_hub=False,
     num_train_epochs=3,
     logging_steps=100,
+    evaluation_strategy="epoch",
     remove_unused_columns=False,
     per_device_train_batch_size=1,
     per_device_eval_batch_size=1,
@@ -171,7 +172,15 @@ class LogMetricsCallback(TrainerCallback):
         self.validation_logs = []
 
     def on_log(self, args: TrainingArguments, state: TrainerState, control: TrainerControl, logs=None, **kwargs):
-        if logs is not None and "eval_loss" in logs:
+        # Log training loss if available
+        if "loss" in logs:
+            with open(self.log_file_path, "a") as f:
+                f.write(f"Training loss: {logs['loss']} at step {state.global_step}\n")
+                print(f"Training loss: {logs['loss']} at step {state.global_step}")
+            self.training_logs.append((state.global_step, logs["loss"]))
+        
+        # Log validation loss if available
+        if "eval_loss" in logs:
             with open(self.log_file_path, "a") as f:
                 f.write(f"Validation loss: {logs['eval_loss']} at step {state.global_step}\n")
                 print(f"Validation loss: {logs['eval_loss']} at step {state.global_step}")
@@ -197,3 +206,5 @@ trainer = Trainer(
 trainer.train()
 
 model.save_pretrained("finetuned_llama_EXP1")
+
+print("All set finetuning - Yeah!")

@@ -21,18 +21,29 @@ login('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')
 # Set up model instances
 model_instances = {
     "gpt4o": L.GPTModel("gpt-4o"),
-    "CustomLLaMA": L.llamafinetuned("./output/1000model/finetuned-1000-images-5-epoch"),
+    "CustomLLaMA": L.llamafinetuned("./outputEXP1-5000/json/finetuned_llama_EXP1"),
     "LLaMA": L.llama("meta-llama/Llama-3.2-11B-Vision-Instruct"),
     "GeminiProVision": L.GeminiProVision(),
     "Gemini1_5Flash": L.Gemini1_5Flash()
 }
 
 # Set up the number of images and sleep time
-num_images = 10
+num_images = 20
 timesheet = 5 # Sleep for 5 seconds between each task
 
 # Create an instance of the Runexp1 class
 experiment = L.Runexp1()
+
+print("Starting task: area")
+experiment.Runexp1(num_images=num_images, model_instances=model_instances, tasks='area')
+time.sleep(timesheet)
+
+print("Starting task: volume")
+experiment.Runexp1(num_images=num_images, model_instances=model_instances, tasks='volume')
+time.sleep(timesheet)
+
+
+"""
 
 # Run experiments for each task with sleep intervals between them
 print("Starting task: position_common_scale")
@@ -55,13 +66,7 @@ print("Starting task: angle")
 experiment.Runexp1(num_images=num_images, model_instances=model_instances, tasks='angle')
 time.sleep(timesheet)
 
-print("Starting task: area")
-experiment.Runexp1(num_images=num_images, model_instances=model_instances, tasks='area')
-time.sleep(timesheet)
 
-print("Starting task: volume")
-experiment.Runexp1(num_images=num_images, model_instances=model_instances, tasks='volume')
-time.sleep(timesheet)
 
 print("Starting task: curvature")
 experiment.Runexp1(num_images=num_images, model_instances=model_instances, tasks='curvature')
@@ -69,3 +74,4 @@ time.sleep(timesheet)
 
 print("Starting task: shading")
 experiment.Runexp1(num_images=num_images, model_instances=model_instances, tasks='shading')
+"""
