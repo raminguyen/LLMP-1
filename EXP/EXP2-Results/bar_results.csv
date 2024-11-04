@@ -1,0 +1,771 @@
+model_name,run,image_path,ground_truth,raw_answers
+gpt4o,run_0,EXP2-Results/bar/bar_image_1.png,"[1.0, 0.04, 0.3, 0.09, 0.19]","[1.0, 0.05, 0.14, 0.03, 0.09]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_2.png,"[1.0, 0.14, 0.12, 0.04, 0.34]","[1.0, 0.39, 0.37, 0.11, 0.13]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_3.png,"[1.0, 0.16, 0.07, 0.17, 0.28]","[1.0, 0.11, 0.11, 0.17, 0.13]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_4.png,"[1.0, 0.29, 0.18, 0.14, 0.05]","[23.0, 11.0, 46.0, 9.0, 11.0]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_5.png,"[1.0, 0.23, 0.11, 0.22, 0.14]","[0.17, 0.13, 1.0, 0.17, 0.13]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_6.png,"[1.0, 0.15, 0.09, 0.11, 0.25]","[1.0, 0.32, 0.07, 0.11, 0.18]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_7.png,"[1.0, 0.15, 0.05, 0.23, 0.24]","[1.0, 0.08, 0.06, 0.05, 0.0]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_8.png,"[1.0, 0.04, 0.06, 0.23, 0.32]","[1.0, 0.34, 0.26, 0.09, 0.09]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_9.png,"[1.0, 0.17, 0.26, 0.15, 0.07]","[1.0, 0.03, 0.03, 0.00, 0.00]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_10.png,"[1.0, 0.22, 0.19, 0.06, 0.17]","[29.0, 25.0, 18.0, 12.0, 16.0]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_11.png,"[1.0, 0.19, 0.13, 0.24, 0.09]","[1.0, 0.09, 0.21, 0.09, 0.11]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_12.png,"[1.0, 0.08, 0.25, 0.16, 0.1]","[1.0, 0.03, 0.04, 0.35, 0.26]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_13.png,"[1.0, 0.09, 0.11, 0.27, 0.19]","[1.0, 0.28, 0.04, 0.16, 0.52]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_14.png,"[1.0, 0.18, 0.06, 0.15, 0.24]","[1.0, 0.11, 0.14, 0.14, 0.07]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_15.png,"[1.0, 0.25, 0.09, 0.14, 0.23]","[1.0, 0.12, 0.06, 0.18, 0.25]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_16.png,"[1.0, 0.38, 0.04, 0.13, 0.05]","[31.0, 36.0, 16.0, 11.0, 6.0]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_17.png,"[1.0, 0.18, 0.11, 0.19, 0.18]","[0.35, 0.06, 0.11, 1.0, 0.26]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_18.png,"[1.0, 0.11, 0.16, 0.15, 0.24]","[1.0, 0.08, 0.11, 0.09, 0.12]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_19.png,"[1.0, 0.04, 0.19, 0.14, 0.25]","[27.0, 12.0, 9.0, 13.0, 39.0]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_20.png,"[1.0, 0.07, 0.08, 0.29, 0.22]","[1.0, 4.3, 17.4, 30.4, 17.4]"
+gpt4o,average,,,
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_1.png,"[1.0, 0.04, 0.3, 0.09, 0.19]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.04, 0.30000000000000004, 0.1, 0.19]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_2.png,"[1.0, 0.14, 0.12, 0.04, 0.34]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.15, 0.13, 0.05, 0.33]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_3.png,"[1.0, 0.16, 0.07, 0.17, 0.28]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.16, 0.08, 0.17, 0.28]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_4.png,"[1.0, 0.29, 0.18, 0.14, 0.05]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.28, 0.19, 0.14, 0.05]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_5.png,"[1.0, 0.23, 0.11, 0.22, 0.14]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.23, 0.12, 0.22, 0.14]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_6.png,"[1.0, 0.15, 0.09, 0.11, 0.25]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.15, 0.09, 0.12, 0.25]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_7.png,"[1.0, 0.15, 0.05, 0.23, 0.24]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.15, 0.05, 0.22, 0.24]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_8.png,"[1.0, 0.04, 0.06, 0.23, 0.32]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.04, 0.08, 0.23, 0.32]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_9.png,"[1.0, 0.17, 0.26, 0.15, 0.07]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.18, 0.25, 0.15, 0.07]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_10.png,"[1.0, 0.22, 0.19, 0.06, 0.17]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.22, 0.2, 0.06, 0.17]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_11.png,"[1.0, 0.19, 0.13, 0.24, 0.09]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.19, 0.14, 0.23, 0.1]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_12.png,"[1.0, 0.08, 0.25, 0.16, 0.1]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.09, 0.25, 0.16, 0.11]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_13.png,"[1.0, 0.09, 0.11, 0.27, 0.19]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.09, 0.12, 0.27, 0.19]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_14.png,"[1.0, 0.18, 0.06, 0.15, 0.24]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.19, 0.06, 0.16, 0.24]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_15.png,"[1.0, 0.25, 0.09, 0.14, 0.23]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.25, 0.1, 0.15, 0.23]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_16.png,"[1.0, 0.38, 0.04, 0.13, 0.05]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.37, 0.05, 0.14, 0.06]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_17.png,"[1.0, 0.18, 0.11, 0.19, 0.18]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.18, 0.12, 0.2, 0.19]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_18.png,"[1.0, 0.11, 0.16, 0.15, 0.24]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.12, 0.16, 0.16, 0.24]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_19.png,"[1.0, 0.04, 0.19, 0.14, 0.25]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.05, 0.19, 0.15, 0.25]"
+CustomLLaMA,run_0,EXP2-Results/bar/bar_image_20.png,"[1.0, 0.07, 0.08, 0.29, 0.22]","user
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.
+assistant
+
+[1.0, 0.08, 0.09, 0.28, 0.22]"
+CustomLLaMA,average,,,
+LLaMA,run_0,EXP2-Results/bar/bar_image_1.png,"[1.0, 0.04, 0.3, 0.09, 0.19]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+The largest bar marked with a dot is the second bar from the left, which is 39. The other four bars are 3, 10, 2, and 46, respectively. To calculate the percentage of each bar, we need to add up all the values and then divide each value by the sum.
+
+The sum of the values is 39 + 3 + 10 + 2 + 46 = 100. 
+
+Now, we can calculate the percentage of each bar:
+
+*   39: (39 / 100) * 100 = 39
+*   3: (3 / 100) * 100 = 3
+*   10: (10 / 100) * 100 = 10
+*   2: (2 / 100) * 100 = 2
+*   46: (46 / 100) * 100 = 46
+
+So, the percentages of each bar are [39, 3, 10, 2, 46]. However, since the problem states that the largest bar should be labeled as 1, we need to adjust the percentages accordingly. 
+
+To do this, we can subtract the largest value from 100 and then divide each value by the new sum. 
+
+The new sum is 100 - 39 = 61. 
+
+Now, we can calculate the new percentages:
+
+*   39: (39 / 61) * 100 = 63.93
+*   3: (3 / 61) * 100 = 4.92
+*   10: (10 / 61) * 100 = 16.39
+*   2: (2 / 61) * 100 = 3.28
+*   46: (46 / 61) * 100 = 75."
+LLaMA,run_0,EXP2-Results/bar/bar_image_2.png,"[1.0, 0.14, 0.12, 0.04, 0.34]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+**Step 1: Identify the largest bar marked with a dot in the bar chart.**
+
+The largest bar marked with a dot is the third bar from the left.
+
+**Step 2: Calculate the percentage of each bar so that all values are between 3 and 39 and add up to 100.**
+
+To find the percentage of each bar, we need to first calculate the total value of all bars. Since the largest bar is marked with a dot, we assume it represents 39. The other bars represent 3, 4, 5, and 6 respectively. 
+
+Let's calculate the total value:
+
+39 + 3 + 4 + 5 + 6 = 57
+
+Now, we need to adjust the values so that they add up to 100. We'll multiply each value by a factor that will make the sum equal to 100.
+
+(39 * x) + (3 * x) + (4 * x) + (5 * x) + (6 * x) = 100
+
+Combine like terms:
+
+(57 * x) = 100
+
+Divide both sides by 57:
+
+x = 100 / 57
+
+x = 1.75
+
+Now, multiply each value by x:
+
+(39 * 1.75) = 68.25
+(3 * 1.75) = 5.25
+(4 * 1.75) = 7
+(5 * 1.75) = 8.75
+(6 * 1.75) = 10.5
+
+Round the values to two decimal places:
+
+68.25, 5.25, 7.00, 8.75, 10.50
+
+**Step 3: Label the largest bar as 1.**
+
+The largest bar is labeled as 1.0.
+
+**Step 4"
+LLaMA,run_0,EXP2-Results/bar/bar_image_3.png,"[1.0, 0.16, 0.07, 0.17, 0.28]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+**Step 1: Identify the largest bar marked with a dot.**
+
+The largest bar marked with a dot is the fifth bar from the left.
+
+**Step 2: Calculate the percentage of each bar.**
+
+The sum of the five bars is 100.
+
+The largest bar is 39%, the second bar is 30%, the third bar is 25%, the fourth bar is 20%, and the fifth bar is 25%.
+
+**Step 3: List the values in the correct order.**
+
+[1.0, 0.00, 0.00, 0.00, 0.0]
+
+**Answer:** [1.0, 0.00, 0.00, 0.00, 0.0]"
+LLaMA,run_0,EXP2-Results/bar/bar_image_4.png,"[1.0, 0.29, 0.18, 0.14, 0.05]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+The image presents a bar chart with five bars, each representing a different value. The bars are labeled with numbers, but the values are not explicitly stated. However, we can determine the percentage of each bar by calculating the total sum of the values and then dividing each value by the total to find the percentage.
+
+The largest bar is marked with a dot, indicating that it has the highest value. To calculate the percentage of each bar, we need to first find the total sum of the values. Since the values are not provided, we will assume that the total sum is 100. This assumption allows us to calculate the percentage of each bar.
+
+The largest bar is marked with a dot, which means it has the highest value. We will label this bar as 1.0. The other four bars will be labeled as 0.00, 0.00, 0.00, and 0.0, respectively, since they have lower values.
+
+To find the percentage of each bar, we will divide each value by the total sum (100) and multiply by 100 to convert it to a percentage.
+
+The final answer is:
+
+[1.0, 0.00, 0.00, 0.00, 0.0]"
+LLaMA,run_0,EXP2-Results/bar/bar_image_5.png,"[1.0, 0.23, 0.11, 0.22, 0.14]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+The bar chart shows the following values:
+
+*   The marked bar is the tallest, with a value of 39.
+*   The second bar from the left is 33.
+*   The third bar from the left is 28.
+*   The fourth bar from the left is 25.
+*   The fifth bar from the left is 3.
+
+To calculate the percentage of each bar, we need to add up all the values and divide each value by the sum. The sum of the values is 39 + 33 + 28 + 25 + 3 = 128.
+
+Now, let's calculate the percentage of each bar:
+
+*   The marked bar: 39 / 128 = 0.3051, which is approximately 30.51%
+*   The second bar: 33 / 128 = 0.2578, which is approximately 25.78%
+*   The third bar: 28 / 128 = 0.2188, which is approximately 21.88%
+*   The fourth bar: 25 / 128 = 0.1953, which is approximately 19.53%
+*   The fifth bar: 3 / 128 = 0.0234, which is approximately 2.34%
+
+Rounding these percentages to two decimal places, we get:
+
+[1.00, 0.26, 0.22, 0.20, 0.02]
+
+This is the final answer."
+LLaMA,run_0,EXP2-Results/bar/bar_image_6.png,"[1.0, 0.15, 0.09, 0.11, 0.25]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+The bar chart shows the following values:
+
+* 39
+* 20
+* 10
+* 5
+* 1
+
+To find the largest bar marked with a dot, we can see that it is the first bar on the left with a value of 39.
+
+To calculate the percentage of each bar, we need to add up all the values and then divide each value by the total sum. The total sum is 39 + 20 + 10 + 5 + 1 = 75.
+
+Now, we can calculate the percentage of each bar:
+
+* 39: (39 / 75) * 100 = 52.0
+* 20: (20 / 75) * 100 = 26.67
+* 10: (10 / 75) * 100 = 13.33
+* 5: (5 / 75) * 100 = 6.67
+* 1: (1 / 75) * 100 = 1.33
+
+Rounding these values to two decimal places gives us:
+
+[52.00, 26.67, 13.33, 6.67, 1.33]
+
+However, we are asked to format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], which means we need to adjust the values so that the largest bar is labeled as 1.0 and the other bars are adjusted accordingly.
+
+To do this, we can multiply each value by 100 and then divide by the largest value (52.00). This will give us:
+
+[1.0, 0.00, 0.00, 0.00, 0.0]
+
+*Answer*: [1.0, 0.00, 0.00, 0."
+LLaMA,run_0,EXP2-Results/bar/bar_image_7.png,"[1.0, 0.15, 0.05, 0.23, 0.24]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+**Step 1: Identify the largest bar marked with a dot.**
+
+The largest bar marked with a dot is the second bar from the left.
+
+**Step 2: Calculate the percentage of each bar.**
+
+To calculate the percentage of each bar, we need to add up all the values and then divide each value by the sum. The sum of the values is 39.
+
+*   The first bar is 39.
+*   The second bar is 31.
+*   The third bar is 24.
+*   The fourth bar is 19.
+*   The fifth bar is 15.
+
+**Step 3: Calculate the percentage of each bar.**
+
+*   The first bar is (39/39) * 100 = 100%
+*   The second bar is (31/39) * 100 = 79.49%
+*   The third bar is (24/39) * 100 = 61.54%
+*   The fourth bar is (19/39) * 100 = 48.72%
+*   The fifth bar is (15/39) * 100 = 38.46%
+
+**Step 4: Format the answer.**
+
+The answer is [1.0, 0.79, 0.62, 0.49, 0.39]."
+LLaMA,run_0,EXP2-Results/bar/bar_image_8.png,"[1.0, 0.04, 0.06, 0.23, 0.32]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+The bar chart shows five bars of different heights, with the largest bar marked with a dot. The heights of the bars are:
+
+*   The first bar is the shortest.
+*   The second bar is taller than the first.
+*   The third bar is the tallest.
+*   The fourth bar is shorter than the third but taller than the first.
+*   The fifth bar is the shortest.
+
+To calculate the percentage of each bar, we need to determine the total value of all bars and then divide each bar's value by the total. Since the question states that all values should be between 3 and 39 and add up to 100, we can assume the total value is 100.
+
+Given the heights of the bars are not explicitly provided, we can infer the values based on their relative heights. Let's assume the heights are proportional to their lengths. The largest bar is marked with a dot, so we'll label it as 1.0. The other bars will be labeled accordingly.
+
+Assuming the heights are proportional to their lengths, the values could be:
+
+*   First bar: 3
+*   Second bar: 10
+*   Third bar: 39
+*   Fourth bar: 30
+*   Fifth bar: 18
+
+Now, let's calculate the percentages:
+
+*   First bar: (3 / 100) * 100 = 3.0
+*   Second bar: (10 / 100) * 100 = 10.0
+*   Third bar: (39 / 100) * 100 = 39.0
+*   Fourth bar: (30 / 100) * 100 = 30.0
+*   Fifth bar: (18 / 100) * 100 = 18.0
+
+However, the question states that all values should be between 3 and 39 and add up to"
+LLaMA,run_0,EXP2-Results/bar/bar_image_9.png,"[1.0, 0.17, 0.26, 0.15, 0.07]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+**Step 1: Identify the largest bar marked with a dot.**
+
+The largest bar marked with a dot is the second bar from the right.
+
+**Step 2: Calculate the percentage of each bar.**
+
+To calculate the percentage of each bar, we need to first find the total sum of all the bars. The sum of the bars is 39.
+
+*   The first bar is 9.
+*   The second bar is 12.
+*   The third bar is 7.
+*   The fourth bar is 5.
+*   The fifth bar is 7.
+
+The sum of the bars is 9 + 12 + 7 + 5 + 7 = 40.
+
+To find the percentage of each bar, we divide each bar by the total sum and multiply by 100.
+
+*   The first bar is (9 / 40) * 100 = 22.5
+*   The second bar is (12 / 40) * 100 = 30
+*   The third bar is (7 / 40) * 100 = 17.5
+*   The fourth bar is (5 / 40) * 100 = 12.5
+*   The fifth bar is (7 / 40) * 100 = 17.5
+
+**Step 3: Label the largest bar as 1.**
+
+The largest bar is the second bar, which is 30.
+
+**Step 4: List the five values starting from the marked bar, moving left to right.**
+
+[30.0, 22.5, 17.5, 12.5, 17.5]
+
+**Answer:** [30.0, 22.5, 17.5, 12.5, 17.5]"
+LLaMA,run_0,EXP2-Results/bar/bar_image_10.png,"[1.0, 0.22, 0.19, 0.06, 0.17]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+The largest bar marked with a dot is the first bar from the left. The other four bars are smaller and are marked 2, 3, 4, and 5 from left to right. To calculate the percentage of each bar, we need to determine the total value of all five bars.
+
+The total value of all five bars is 100. Since the largest bar is marked 1, we can start by setting its value to 39, which is the largest possible value. This leaves us with 61 for the remaining four bars.
+
+To find the value of the second bar, we can set it to 39 * 2/3 = 26. This leaves us with 35 for the next three bars.
+
+The third bar will be 35 * 2/3 = 23.33, the fourth bar will be 35 * 2/3 = 23.33, and the fifth bar will be 35 * 2/3 = 23.33.
+
+Now we can calculate the percentage of each bar:
+
+*   The first bar (marked 1) is 39/100 = 39.0%
+*   The second bar (marked 2) is 26/100 = 26.0%
+*   The third bar (marked 3) is 23.33/100 = 23.33%
+*   The fourth bar (marked 4) is 23.33/100 = 23.33%
+*   The fifth bar (marked 5) is 23.33/100 = 23.33%
+
+The final answer is [39.0, 26.0, 23.33, 23.33, 23.33]."
+LLaMA,run_0,EXP2-Results/bar/bar_image_11.png,"[1.0, 0.19, 0.13, 0.24, 0.09]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+**Step 1: Identify the largest bar marked with a dot in the bar chart.**
+
+The largest bar marked with a dot is the second bar from the left.
+
+**Step 2: Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100.**
+
+To calculate the percentage of each bar, we need to determine the total value of all bars and then divide each bar's value by the total to get the percentage.
+
+**Step 3: Determine the total value of all bars.**
+
+The total value of all bars is 100.
+
+**Step 4: Calculate the percentage of each bar.**
+
+The largest bar (second from the left) is 39. The other bars are 0.00, 3.00, 0.00, and 0.00.
+
+**Step 5: List the five values starting from the marked bar, moving left to right.**
+
+[1.0, 0.00, 0.00, 0.00, 0.0]
+
+**Answer:** [1.0, 0.00, 0.00, 0.00, 0.0]"
+LLaMA,run_0,EXP2-Results/bar/bar_image_12.png,"[1.0, 0.08, 0.25, 0.16, 0.1]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+**Step 1: Identify the largest bar**
+
+The largest bar is marked with a dot.
+
+**Step 2: Calculate the percentage of each bar**
+
+To calculate the percentage of each bar, we need to divide the value of each bar by the sum of all values and multiply by 100.
+
+The sum of all values is 39.
+
+*   The largest bar is 39.
+*   The second bar is 13.
+*   The third bar is 12.
+*   The fourth bar is 9.
+*   The fifth bar is 6.
+
+**Step 3: Calculate the percentage of each bar**
+
+*   The largest bar is 39 / 39 = 100%
+*   The second bar is 13 / 39 = 33.33%
+*   The third bar is 12 / 39 = 30.77%
+*   The fourth bar is 9 / 39 = 23.08%
+*   The fifth bar is 6 / 39 = 15.38%
+
+**Step 4: Format the answer**
+
+[1.0, 0.00, 0.00, 0.00, 0.0] is incorrect. The correct format is [1.0, 0.33, 0.30, 0.23, 0.15].
+
+**Answer**
+
+[1.0, 0.33, 0.30, 0.23, 0.15]"
+LLaMA,run_0,EXP2-Results/bar/bar_image_13.png,"[1.0, 0.09, 0.11, 0.27, 0.19]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+**Step 1: Identify the largest bar marked with a dot.**
+
+The largest bar marked with a dot is the third bar from the left.
+
+**Step 2: Calculate the percentage of each bar.**
+
+To calculate the percentage of each bar, we need to first find the total sum of all the bars. The sum is 39.
+
+**Step 3: Calculate the percentage of each bar.**
+
+*   The first bar: 3 / 39 = 0.0769
+*   The second bar: 10 / 39 = 0.2564
+*   The third bar: 15 / 39 = 0.3846
+*   The fourth bar: 6 / 39 = 0.1538
+*   The fifth bar: 5 / 39 = 0.1282
+
+**Step 4: Label the largest bar as 1.**
+
+The largest bar is the third bar, which has a value of 0.3846.
+
+**Step 5: Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0].**
+
+[1.0, 0.00, 0.00, 0.00, 0.0]"
+LLaMA,run_0,EXP2-Results/bar/bar_image_14.png,"[1.0, 0.18, 0.06, 0.15, 0.24]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+The largest bar marked with a dot in the bar chart is the second bar from the left. To calculate the percentage of each bar, we need to find the total value of all bars and then divide each bar's value by the total to get the percentage.
+
+The values of the bars are not explicitly given, but we can infer them from the graph. The first bar has a value of 10, the second bar has a value of 15, the third bar has a value of 20, the fourth bar has a value of 25, and the fifth bar has a value of 30.
+
+To find the total value, we add these values together: 10 + 15 + 20 + 25 + 30 = 100.
+
+Now, we can calculate the percentage of each bar:
+
+*   The first bar has a value of 10, so its percentage is (10 / 100) * 100 = 10%.
+*   The second bar has a value of 15, so its percentage is (15 / 100) * 100 = 15%.
+*   The third bar has a value of 20, so its percentage is (20 / 100) * 100 = 20%.
+*   The fourth bar has a value of 25, so its percentage is (25 / 100) * 100 = 25%.
+*   The fifth bar has a value of 30, so its percentage is (30 / 100) * 100 = 30%.
+
+Since the largest bar is the second bar, its percentage is 15%. To make all values between 3 and 39, we can adjust the percentages as follows:
+
+*   The first bar becomes 3%, the second bar remains 15%, the third bar becomes 20%, the fourth bar becomes 25%, and the fifth bar becomes 37%.
+
+Therefore, the percentages of"
+LLaMA,run_0,EXP2-Results/bar/bar_image_15.png,"[1.0, 0.25, 0.09, 0.14, 0.23]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+The largest bar marked with a dot is the first bar from the left. To calculate the percentage of each bar, we need to first find the total value of all the bars. Since the y-axis is not provided, we can't determine the exact values of the bars. However, we can still calculate the percentages based on the given information.
+
+Let's assume the value of the largest bar is x. The other bars have values y, z, w, and v, respectively. The sum of these values is 100.
+
+We can set up the equation:
+
+x + y + z + w + v = 100
+
+Since the largest bar is marked with a dot, its value is 39. We can substitute this value into the equation:
+
+39 + y + z + w + v = 100
+
+Now, we need to find the values of y, z, w, and v such that they are between 3 and 39 and add up to 100. We can try different combinations of values that satisfy these conditions.
+
+One possible solution is:
+
+y = 3, z = 0, w = 0, v = 57
+
+This gives us:
+
+39 + 3 + 0 + 0 + 57 = 100
+
+Now, we can calculate the percentages:
+
+[1.0, 0.00, 0.00, 0.00, 0.57]
+
+*Answer*: [1.0, 0.00, 0.00, 0.00, 0.57]"
+LLaMA,run_0,EXP2-Results/bar/bar_image_16.png,"[1.0, 0.38, 0.04, 0.13, 0.05]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+**Step 1: Identify the largest bar.**
+
+The largest bar is the tallest bar in the chart, which is marked with a dot.
+
+**Step 2: Calculate the percentage of each bar.**
+
+To calculate the percentage of each bar, we need to first determine the total value of all the bars. Since the question does not provide the exact values, we will assume that the values are proportional to their heights.
+
+The largest bar is 39 units high, and the second bar is 33 units high. The third bar is 25 units high, the fourth bar is 17 units high, and the fifth bar is 12 units high.
+
+**Step 3: Calculate the total value.**
+
+The total value is the sum of all the bars: 39 + 33 + 25 + 17 + 12 = 126.
+
+**Step 4: Calculate the percentage of each bar.**
+
+Now, we can calculate the percentage of each bar:
+
+*   Largest bar: 39 / 126 * 100 = 31.0%
+*   Second bar: 33 / 126 * 100 = 26.19%
+*   Third bar: 25 / 126 * 100 = 19.84%
+*   Fourth bar: 17 / 126 * 100 = 13.49%
+*   Fifth bar: 12 / 126 * 100 = 9.52%
+
+**Step 5: Label the largest bar as 1.**
+
+The largest bar is labeled as 1. The other bars are labeled in order from left to right.
+
+**Step 6: Format the answer.**
+
+The answer is formatted as [1.0, 0.00, 0.00, 0.00, 0.0].
+
+**Answer:** [31.0, 26.19, 19.84, "
+LLaMA,run_0,EXP2-Results/bar/bar_image_17.png,"[1.0, 0.18, 0.11, 0.19, 0.18]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+The largest bar marked with a dot in the bar chart is the third bar from the left. To calculate the percentage of each bar, we need to first find the total value of all bars and then divide each bar's value by the total.
+
+The values of the bars are: 4, 5, 7, 6, and 3. The total value is 4 + 5 + 7 + 6 + 3 = 25.
+
+Now, we can calculate the percentage of each bar:
+
+*   The first bar (4): (4/25) * 100 = 16%
+*   The second bar (5): (5/25) * 100 = 20%
+*   The third bar (7): (7/25) * 100 = 28%
+*   The fourth bar (6): (6/25) * 100 = 24%
+*   The fifth bar (3): (3/25) * 100 = 12%
+
+The largest bar is the third bar, which has a percentage of 28%. The percentages of the bars, starting from the marked bar and moving left to right, are: [28, 20, 16, 24, 12]."
+LLaMA,run_0,EXP2-Results/bar/bar_image_18.png,"[1.0, 0.11, 0.16, 0.15, 0.24]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+**Step 1: Identify the largest bar marked with a dot.**
+
+The largest bar marked with a dot is the second bar from the left.
+
+**Step 2: Calculate the percentage of each bar.**
+
+To calculate the percentage of each bar, we need to first find the total value of all bars. The total value is 100.
+
+Since the largest bar is the second bar, its value is 39. The other bars have values 3, 3, 3, and 3.
+
+**Step 3: Calculate the percentage of each bar.**
+
+The percentage of each bar is calculated by dividing the value of each bar by the total value and multiplying by 100.
+
+The percentage of the largest bar is (39 / 100) * 100 = 39.0.
+
+The percentage of the other bars are (3 / 100) * 100 = 3.0, (3 / 100) * 100 = 3.0, (3 / 100) * 100 = 3.0, and (3 / 100) * 100 = 3.0.
+
+**Step 4: List the five values starting from the marked bar, moving left to right.**
+
+The five values are [39.0, 3.0, 3.0, 3.0, 3.0].
+
+**Answer:** [39.0, 3.0, 3.0, 3.0, 3.0]"
+LLaMA,run_0,EXP2-Results/bar/bar_image_19.png,"[1.0, 0.04, 0.19, 0.14, 0.25]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+The bar chart shows five bars with varying heights. The largest bar is marked with a dot and has a value of 39. To find the percentage of each bar, we need to calculate the total value of all bars and then divide each bar's value by the total.
+
+The total value of all bars is 39 + 29 + 27 + 19 + 5 = 100.
+
+Now, we can calculate the percentage of each bar:
+
+*   Largest bar (39): 39 / 100 = 0.39
+*   Second bar (29): 29 / 100 = 0.29
+*   Third bar (27): 27 / 100 = 0.27
+*   Fourth bar (19): 19 / 100 = 0.19
+*   Fifth bar (5): 5 / 100 = 0.05
+
+So, the percentages of each bar are [0.39, 0.29, 0.27, 0.19, 0.05]. Since the question asks to list the values starting from the marked bar (the largest bar), we need to reorder the percentages accordingly:
+
+[0.39, 0.29, 0.27, 0.19, 0.05]
+
+However, since the question asks to list the values starting from the marked bar (the largest bar), we need to reorder the percentages accordingly:
+
+[0.39, 0.29, 0.27, 0.19, 0.05]
+
+This is the correct answer."
+LLaMA,run_0,EXP2-Results/bar/bar_image_20.png,"[1.0, 0.07, 0.08, 0.29, 0.22]","user
+
+Find the largest bar marked with a dot in the bar chart. Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. Label the largest bar as 1. List the five values starting from the marked bar, moving left to right. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. No explanation needed.assistant
+
+The largest bar marked with a dot in the bar chart is the first bar from the left. To calculate the percentage of each bar, we need to find the total value of all the bars and then divide each bar's value by the total value.
+
+The heights of the bars are 39, 14, 10, 24, and 25. The total value is 39 + 14 + 10 + 24 + 25 = 112.
+
+Now, we can calculate the percentage of each bar:
+
+*   The first bar (39) is 39/112 * 100 = 35.0
+*   The second bar (14) is 14/112 * 100 = 12.5
+*   The third bar (10) is 10/112 * 100 = 8.93
+*   The fourth bar (24) is 24/112 * 100 = 21.43
+*   The fifth bar (25) is 25/112 * 100 = 22.32
+
+However, we need to adjust these values so that they add up to 100. To do this, we can subtract the sum of the given percentages from 100:
+
+100 - 35.0 - 12.5 - 8.93 - 21.43 - 22.32 = 0.00
+
+Since the sum of the given percentages is less than 100, we need to adjust the values so that they add up to 100. We can do this by increasing the values of the last two bars.
+
+*   The first bar (39) remains the same at 35.0
+*   The second bar (14) remains the same at 12.5
+*   The third bar (10) remains the same at 8.93
+*   The fourth bar (24) remains the same"
+LLaMA,average,,,
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_1.png,"[1.0, 0.04, 0.3, 0.09, 0.19]","[1.0, 0.29, 0.22, 0.22, 0.27]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_2.png,"[1.0, 0.14, 0.12, 0.04, 0.34]","[1.0, 0.0, 0.0, 0.0, 0.0]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_3.png,"[1.0, 0.16, 0.07, 0.17, 0.28]","[1.0, 0.39, 0.26, 0.16, 0.13]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_4.png,"[1.0, 0.29, 0.18, 0.14, 0.05]","[1.0, 0.39, 0.23, 0.15, 0.08]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_5.png,"[1.0, 0.23, 0.11, 0.22, 0.14]","[1.0, 0.0, 0.0, 0.0, 0.0]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_6.png,"[1.0, 0.15, 0.09, 0.11, 0.25]","[1.0, 0.39, 0.26, 0.13, 0.08]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_7.png,"[1.0, 0.15, 0.05, 0.23, 0.24]","[1.0, 0.0, 0.0, 0.0, 0.0]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_8.png,"[1.0, 0.04, 0.06, 0.23, 0.32]","[1.0, 0.39, 0.26, 0.13, 0.08]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_9.png,"[1.0, 0.17, 0.26, 0.15, 0.07]","[1.0, 0.33, 0.22, 0.15, 0.11]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_10.png,"[1.0, 0.22, 0.19, 0.06, 0.17]","[1.0, 0.39, 0.26, 0.13, 0.08]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_11.png,"[1.0, 0.19, 0.13, 0.24, 0.09]","[1.0, 0.0, 0.0, 0.0, 0.0]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_12.png,"[1.0, 0.08, 0.25, 0.16, 0.1]","[1.0, 0.0, 0.0, 0.0, 0.0]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_13.png,"[1.0, 0.09, 0.11, 0.27, 0.19]","[1.0, 0.32, 0.26, 0.22, 0.2]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_14.png,"[1.0, 0.18, 0.06, 0.15, 0.24]","[1.0, 0.36, 0.24, 0.18, 0.22]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_15.png,"[1.0, 0.25, 0.09, 0.14, 0.23]","[1.0, 0.39, 0.26, 0.13, 0.22]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_16.png,"[1.0, 0.38, 0.04, 0.13, 0.05]","[1.0, 0.0, 0.0, 0.0, 0.0]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_17.png,"[1.0, 0.18, 0.11, 0.19, 0.18]","[1.0, 0.39, 0.26, 0.13, 0.08]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_18.png,"[1.0, 0.11, 0.16, 0.15, 0.24]","[1.0, 0.33, 0.22, 0.17, 0.13]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_19.png,"[1.0, 0.04, 0.19, 0.14, 0.25]","[1.0, 0.0, 0.0, 0.0, 0.0]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_20.png,"[1.0, 0.07, 0.08, 0.29, 0.22]","[1.0, 0.0, 0.0, 0.0, 0.0]
+"
+GeminiProVision,average,,,
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_1.png,"[1.0, 0.04, 0.3, 0.09, 0.19]","[1.0, 0.38, 0.19, 0.11, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_2.png,"[1.0, 0.14, 0.12, 0.04, 0.34]","[1.0, 0.32, 0.25, 0.12, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_3.png,"[1.0, 0.16, 0.07, 0.17, 0.28]","[1.0, 0.15, 0.07, 0.06, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_4.png,"[1.0, 0.29, 0.18, 0.14, 0.05]","[1.0, 0.57, 0.36, 0.35, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_5.png,"[1.0, 0.23, 0.11, 0.22, 0.14]","[1.0, 0.29, 0.17, 0.11, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_6.png,"[1.0, 0.15, 0.09, 0.11, 0.25]","[1.0, 0.38, 0.29, 0.25, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_7.png,"[1.0, 0.15, 0.05, 0.23, 0.24]","[1.0, 0.38, 0.24, 0.14, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_8.png,"[1.0, 0.04, 0.06, 0.23, 0.32]","[1.0, 0.36, 0.13, 0.07, 0.00] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_9.png,"[1.0, 0.17, 0.26, 0.15, 0.07]","[1.0, 0.18, 0.08, 0.03, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_10.png,"[1.0, 0.22, 0.19, 0.06, 0.17]","[1.0, 0.38, 0.22, 0.13, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_11.png,"[1.0, 0.19, 0.13, 0.24, 0.09]","[1.0, 0.36, 0.27, 0.18, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_12.png,"[1.0, 0.08, 0.25, 0.16, 0.1]","[1.0, 0.39, 0.03, 0.03, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_13.png,"[1.0, 0.09, 0.11, 0.27, 0.19]","[1.0, 0.33, 0.11, 0.03, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_14.png,"[1.0, 0.18, 0.06, 0.15, 0.24]","[1.0, 0.57, 0.18, 0.09, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_15.png,"[1.0, 0.25, 0.09, 0.14, 0.23]","[1.0, 0.37, 0.21, 0.19, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_16.png,"[1.0, 0.38, 0.04, 0.13, 0.05]","[1.0, 0.71, 0.43, 0.26, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_17.png,"[1.0, 0.18, 0.11, 0.19, 0.18]","[1.0, 0.38, 0.22, 0.17, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_18.png,"[1.0, 0.11, 0.16, 0.15, 0.24]","[1.0, 0.35, 0.17, 0.12, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_19.png,"[1.0, 0.04, 0.19, 0.14, 0.25]","[1.0, 0.26, 0.17, 0.09, 0.0] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_20.png,"[1.0, 0.07, 0.08, 0.29, 0.22]","[1.0, 0.7, 0.4, 0.3, 0.0] 
+"
+Gemini1_5Flash,average,,,

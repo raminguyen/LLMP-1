@@ -1,0 +1,895 @@
+model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
+gpt4o,run_0,EXP5-Results/10/10_image_1.png,1.0,20,0.0,5873.534202575684
+gpt4o,run_0,EXP5-Results/10/10_image_2.png,9.0,15,0.0,6654.565095901489
+gpt4o,run_0,EXP5-Results/10/10_image_3.png,7.0,26,0.0,5984.962940216064
+gpt4o,run_0,EXP5-Results/10/10_image_4.png,5.0,20,0.0,5846.886873245239
+gpt4o,run_0,EXP5-Results/10/10_image_5.png,4.0,26,0.0,5938.334226608276
+gpt4o,run_0,EXP5-Results/10/10_image_6.png,5.0,27,0.0,6109.549045562744
+gpt4o,run_0,EXP5-Results/10/10_image_7.png,3.0,15,0.0,5996.186971664429
+gpt4o,run_0,EXP5-Results/10/10_image_8.png,10.0,23,0.0,6087.353944778442
+gpt4o,run_0,EXP5-Results/10/10_image_9.png,7.0,12,0.0,5896.777153015137
+gpt4o,run_0,EXP5-Results/10/10_image_10.png,6.0,20,0.0,5703.470945358276
+gpt4o,run_0,EXP5-Results/10/10_image_11.png,4.0,12,0.0,7065.215110778809
+gpt4o,run_0,EXP5-Results/10/10_image_12.png,7.0,20,0.0,6025.619983673096
+gpt4o,run_0,EXP5-Results/10/10_image_13.png,1.0,10,0.0,6758.283615112305
+gpt4o,run_0,EXP5-Results/10/10_image_14.png,8.0,20,0.0,5732.810974121094
+gpt4o,run_0,EXP5-Results/10/10_image_15.png,5.0,18,0.0,6267.210960388184
+gpt4o,run_0,EXP5-Results/10/10_image_16.png,2.0,20,0.0,5887.577772140503
+gpt4o,run_0,EXP5-Results/10/10_image_17.png,5.0,20,0.0,5700.156450271606
+gpt4o,run_0,EXP5-Results/10/10_image_18.png,5.0,10,0.0,5727.3242473602295
+gpt4o,run_0,EXP5-Results/10/10_image_19.png,8.0,14,0.0,6303.231716156006
+gpt4o,run_0,EXP5-Results/10/10_image_20.png,2.0,8,0.0,6092.108964920044
+gpt4o,run_1,EXP5-Results/10/10_image_1.png,1.0,16,0.0,5642.277717590332
+gpt4o,run_1,EXP5-Results/10/10_image_2.png,9.0,11,0.0,6824.501276016235
+gpt4o,run_1,EXP5-Results/10/10_image_3.png,7.0,24,0.0,6029.831409454346
+gpt4o,run_1,EXP5-Results/10/10_image_4.png,5.0,17,0.0,5609.940767288208
+gpt4o,run_1,EXP5-Results/10/10_image_5.png,4.0,8,0.0,6597.0165729522705
+gpt4o,run_1,EXP5-Results/10/10_image_6.png,5.0,20,0.0,6015.52414894104
+gpt4o,run_1,EXP5-Results/10/10_image_7.png,3.0,8,0.0,5973.10471534729
+gpt4o,run_1,EXP5-Results/10/10_image_8.png,10.0,22,0.0,5850.566387176514
+gpt4o,run_1,EXP5-Results/10/10_image_9.png,7.0,38,0.0,5744.606494903564
+gpt4o,run_1,EXP5-Results/10/10_image_10.png,6.0,13,0.0,5623.463153839111
+gpt4o,run_1,EXP5-Results/10/10_image_11.png,4.0,14,0.0,9136.70539855957
+gpt4o,run_1,EXP5-Results/10/10_image_12.png,7.0,50,0.0,5923.146963119507
+gpt4o,run_1,EXP5-Results/10/10_image_13.png,1.0,10,0.0,5929.752349853516
+gpt4o,run_1,EXP5-Results/10/10_image_14.png,8.0,20,0.0,6135.801553726196
+gpt4o,run_1,EXP5-Results/10/10_image_15.png,5.0,15,0.0,5617.475986480713
+gpt4o,run_1,EXP5-Results/10/10_image_16.png,2.0,17,0.0,5793.649196624756
+gpt4o,run_1,EXP5-Results/10/10_image_17.png,5.0,14,0.0,5675.051927566528
+gpt4o,run_1,EXP5-Results/10/10_image_18.png,5.0,18,0.0,5864.034414291382
+gpt4o,run_1,EXP5-Results/10/10_image_19.png,8.0,13,0.0,6272.679805755615
+gpt4o,run_1,EXP5-Results/10/10_image_20.png,2.0,5,0.0,5823.458671569824
+gpt4o,run_2,EXP5-Results/10/10_image_1.png,1.0,12,0.0,6072.934150695801
+gpt4o,run_2,EXP5-Results/10/10_image_2.png,9.0,20,0.0,6175.171136856079
+gpt4o,run_2,EXP5-Results/10/10_image_3.png,7.0,25,0.0,8001.528024673462
+gpt4o,run_2,EXP5-Results/10/10_image_4.png,5.0,8,0.0,5556.835651397705
+gpt4o,run_2,EXP5-Results/10/10_image_5.png,4.0,9,0.0,6148.5419273376465
+gpt4o,run_2,EXP5-Results/10/10_image_6.png,5.0,20,0.0,5920.548915863037
+gpt4o,run_2,EXP5-Results/10/10_image_7.png,3.0,5,0.0,6707.534074783325
+gpt4o,run_2,EXP5-Results/10/10_image_8.png,10.0,15,0.0,6649.076223373413
+gpt4o,run_2,EXP5-Results/10/10_image_9.png,7.0,45,0.0,7607.582569122314
+gpt4o,run_2,EXP5-Results/10/10_image_10.png,6.0,12,0.0,5619.709014892578
+gpt4o,run_2,EXP5-Results/10/10_image_11.png,4.0,15,0.0,5978.014230728149
+gpt4o,run_2,EXP5-Results/10/10_image_12.png,7.0,44,0.0,6227.455377578735
+gpt4o,run_2,EXP5-Results/10/10_image_13.png,1.0,15,0.0,5972.635984420776
+gpt4o,run_2,EXP5-Results/10/10_image_14.png,8.0,15,0.0,5607.393026351929
+gpt4o,run_2,EXP5-Results/10/10_image_15.png,5.0,15,0.0,5609.950542449951
+gpt4o,run_2,EXP5-Results/10/10_image_16.png,2.0,24,0.0,5713.490962982178
+gpt4o,run_2,EXP5-Results/10/10_image_17.png,5.0,20,0.0,5733.326435089111
+gpt4o,run_2,EXP5-Results/10/10_image_18.png,5.0,11,0.0,5626.970529556274
+gpt4o,run_2,EXP5-Results/10/10_image_19.png,8.0,15,0.0,6562.582492828369
+gpt4o,run_2,EXP5-Results/10/10_image_20.png,2.0,9,0.0,5719.077587127686
+gpt4o,average,,,,,
+CustomLLaMA,run_0,EXP5-Results/10/10_image_1.png,1.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,2765.3486728668213
+CustomLLaMA,run_0,EXP5-Results/10/10_image_2.png,9.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+15",0.0,334.8817825317383
+CustomLLaMA,run_0,EXP5-Results/10/10_image_3.png,7.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,335.19554138183594
+CustomLLaMA,run_0,EXP5-Results/10/10_image_4.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+8",0.0,333.7419033050537
+CustomLLaMA,run_0,EXP5-Results/10/10_image_5.png,4.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+6",0.0,332.93771743774414
+CustomLLaMA,run_0,EXP5-Results/10/10_image_6.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+8",0.0,343.21141242980957
+CustomLLaMA,run_0,EXP5-Results/10/10_image_7.png,3.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+6",0.0,330.84964752197266
+CustomLLaMA,run_0,EXP5-Results/10/10_image_8.png,10.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,337.10527420043945
+CustomLLaMA,run_0,EXP5-Results/10/10_image_9.png,7.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,335.1166248321533
+CustomLLaMA,run_0,EXP5-Results/10/10_image_10.png,6.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,340.4548168182373
+CustomLLaMA,run_0,EXP5-Results/10/10_image_11.png,4.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+7",0.0,335.51669120788574
+CustomLLaMA,run_0,EXP5-Results/10/10_image_12.png,7.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,338.1772041320801
+CustomLLaMA,run_0,EXP5-Results/10/10_image_13.png,1.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,331.7866325378418
+CustomLLaMA,run_0,EXP5-Results/10/10_image_14.png,8.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,337.4936580657959
+CustomLLaMA,run_0,EXP5-Results/10/10_image_15.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+8",0.0,334.0260982513428
+CustomLLaMA,run_0,EXP5-Results/10/10_image_16.png,2.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,334.26833152770996
+CustomLLaMA,run_0,EXP5-Results/10/10_image_17.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,336.9266986846924
+CustomLLaMA,run_0,EXP5-Results/10/10_image_18.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+8",0.0,333.3265781402588
+CustomLLaMA,run_0,EXP5-Results/10/10_image_19.png,8.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,335.67166328430176
+CustomLLaMA,run_0,EXP5-Results/10/10_image_20.png,2.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,345.8240032196045
+CustomLLaMA,run_1,EXP5-Results/10/10_image_1.png,1.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,345.45373916625977
+CustomLLaMA,run_1,EXP5-Results/10/10_image_2.png,9.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+15",0.0,327.9397487640381
+CustomLLaMA,run_1,EXP5-Results/10/10_image_3.png,7.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,338.6404514312744
+CustomLLaMA,run_1,EXP5-Results/10/10_image_4.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+8",0.0,331.0079574584961
+CustomLLaMA,run_1,EXP5-Results/10/10_image_5.png,4.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+6",0.0,336.8418216705322
+CustomLLaMA,run_1,EXP5-Results/10/10_image_6.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+8",0.0,330.8873176574707
+CustomLLaMA,run_1,EXP5-Results/10/10_image_7.png,3.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+6",0.0,333.465576171875
+CustomLLaMA,run_1,EXP5-Results/10/10_image_8.png,10.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,337.799072265625
+CustomLLaMA,run_1,EXP5-Results/10/10_image_9.png,7.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,333.172082901001
+CustomLLaMA,run_1,EXP5-Results/10/10_image_10.png,6.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,330.75404167175293
+CustomLLaMA,run_1,EXP5-Results/10/10_image_11.png,4.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+7",0.0,333.6961269378662
+CustomLLaMA,run_1,EXP5-Results/10/10_image_12.png,7.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,336.1015319824219
+CustomLLaMA,run_1,EXP5-Results/10/10_image_13.png,1.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,332.6394557952881
+CustomLLaMA,run_1,EXP5-Results/10/10_image_14.png,8.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,331.6049575805664
+CustomLLaMA,run_1,EXP5-Results/10/10_image_15.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,331.97808265686035
+CustomLLaMA,run_1,EXP5-Results/10/10_image_16.png,2.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,336.95197105407715
+CustomLLaMA,run_1,EXP5-Results/10/10_image_17.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,331.38108253479004
+CustomLLaMA,run_1,EXP5-Results/10/10_image_18.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+8",0.0,332.58819580078125
+CustomLLaMA,run_1,EXP5-Results/10/10_image_19.png,8.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,333.14037322998047
+CustomLLaMA,run_1,EXP5-Results/10/10_image_20.png,2.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,327.60000228881836
+CustomLLaMA,run_2,EXP5-Results/10/10_image_1.png,1.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,330.28364181518555
+CustomLLaMA,run_2,EXP5-Results/10/10_image_2.png,9.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+15",0.0,337.155818939209
+CustomLLaMA,run_2,EXP5-Results/10/10_image_3.png,7.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,336.2302780151367
+CustomLLaMA,run_2,EXP5-Results/10/10_image_4.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+8",0.0,334.41758155822754
+CustomLLaMA,run_2,EXP5-Results/10/10_image_5.png,4.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+7",0.0,335.6046676635742
+CustomLLaMA,run_2,EXP5-Results/10/10_image_6.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+8",0.0,339.58959579467773
+CustomLLaMA,run_2,EXP5-Results/10/10_image_7.png,3.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+6",0.0,339.0624523162842
+CustomLLaMA,run_2,EXP5-Results/10/10_image_8.png,10.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,389.1477584838867
+CustomLLaMA,run_2,EXP5-Results/10/10_image_9.png,7.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,355.14307022094727
+CustomLLaMA,run_2,EXP5-Results/10/10_image_10.png,6.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,343.84703636169434
+CustomLLaMA,run_2,EXP5-Results/10/10_image_11.png,4.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+7",0.0,350.11744499206543
+CustomLLaMA,run_2,EXP5-Results/10/10_image_12.png,7.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,330.55710792541504
+CustomLLaMA,run_2,EXP5-Results/10/10_image_13.png,1.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,334.7811698913574
+CustomLLaMA,run_2,EXP5-Results/10/10_image_14.png,8.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,333.64295959472656
+CustomLLaMA,run_2,EXP5-Results/10/10_image_15.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,332.60059356689453
+CustomLLaMA,run_2,EXP5-Results/10/10_image_16.png,2.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,341.89391136169434
+CustomLLaMA,run_2,EXP5-Results/10/10_image_17.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+9",0.0,340.9237861633301
+CustomLLaMA,run_2,EXP5-Results/10/10_image_18.png,5.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+8",0.0,336.26437187194824
+CustomLLaMA,run_2,EXP5-Results/10/10_image_19.png,8.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+10",0.0,336.05027198791504
+CustomLLaMA,run_2,EXP5-Results/10/10_image_20.png,2.0,"user
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.
+assistant
+
+5",0.0,335.8578681945801
+CustomLLaMA,average,,,,,
+LLaMA,run_0,EXP5-Results/10/10_image_1.png,1.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+12",0.0,8314.449548721313
+LLaMA,run_0,EXP5-Results/10/10_image_2.png,9.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+28",0.0,7499.448776245117
+LLaMA,run_0,EXP5-Results/10/10_image_3.png,7.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7499.862432479858
+LLaMA,run_0,EXP5-Results/10/10_image_4.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7742.479085922241
+LLaMA,run_0,EXP5-Results/10/10_image_5.png,4.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7925.694227218628
+LLaMA,run_0,EXP5-Results/10/10_image_6.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+16",0.0,7555.9728145599365
+LLaMA,run_0,EXP5-Results/10/10_image_7.png,3.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7690.122604370117
+LLaMA,run_0,EXP5-Results/10/10_image_8.png,10.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+Approximately 13",0.0,8050.464868545532
+LLaMA,run_0,EXP5-Results/10/10_image_9.png,7.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+16",0.0,7800.576686859131
+LLaMA,run_0,EXP5-Results/10/10_image_10.png,6.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+17",0.0,7637.260675430298
+LLaMA,run_0,EXP5-Results/10/10_image_11.png,4.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+Approximately 5.",0.0,7762.503385543823
+LLaMA,run_0,EXP5-Results/10/10_image_12.png,7.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+22",0.0,7468.301296234131
+LLaMA,run_0,EXP5-Results/10/10_image_13.png,1.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7687.569379806519
+LLaMA,run_0,EXP5-Results/10/10_image_14.png,8.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7937.924861907959
+LLaMA,run_0,EXP5-Results/10/10_image_15.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+17",0.0,7561.93733215332
+LLaMA,run_0,EXP5-Results/10/10_image_16.png,2.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7509.282827377319
+LLaMA,run_0,EXP5-Results/10/10_image_17.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+Approximately 32",0.0,7883.295774459839
+LLaMA,run_0,EXP5-Results/10/10_image_18.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+13",0.0,7689.547061920166
+LLaMA,run_0,EXP5-Results/10/10_image_19.png,8.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,8484.801769256592
+LLaMA,run_0,EXP5-Results/10/10_image_20.png,2.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7600.248336791992
+LLaMA,run_1,EXP5-Results/10/10_image_1.png,1.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7628.35693359375
+LLaMA,run_1,EXP5-Results/10/10_image_2.png,9.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+22",0.0,7759.85312461853
+LLaMA,run_1,EXP5-Results/10/10_image_3.png,7.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7582.19575881958
+LLaMA,run_1,EXP5-Results/10/10_image_4.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+17",0.0,7531.103610992432
+LLaMA,run_1,EXP5-Results/10/10_image_5.png,4.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7489.869594573975
+LLaMA,run_1,EXP5-Results/10/10_image_6.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7612.626314163208
+LLaMA,run_1,EXP5-Results/10/10_image_7.png,3.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+12",0.0,7628.434658050537
+LLaMA,run_1,EXP5-Results/10/10_image_8.png,10.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+The final answer is 12.",0.0,12090.122938156128
+LLaMA,run_1,EXP5-Results/10/10_image_9.png,7.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+19",0.0,7548.859596252441
+LLaMA,run_1,EXP5-Results/10/10_image_10.png,6.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7731.315612792969
+LLaMA,run_1,EXP5-Results/10/10_image_11.png,4.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+Approximately 5 dots were added to the initial 10 dots.",0.0,8386.093378067017
+LLaMA,run_1,EXP5-Results/10/10_image_12.png,7.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+21",0.0,7946.877717971802
+LLaMA,run_1,EXP5-Results/10/10_image_13.png,1.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+8",0.0,7662.7607345581055
+LLaMA,run_1,EXP5-Results/10/10_image_14.png,8.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7538.144111633301
+LLaMA,run_1,EXP5-Results/10/10_image_15.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+19",0.0,7491.779327392578
+LLaMA,run_1,EXP5-Results/10/10_image_16.png,2.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7445.756435394287
+LLaMA,run_1,EXP5-Results/10/10_image_17.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+The final answer is 5.",0.0,8244.811296463013
+LLaMA,run_1,EXP5-Results/10/10_image_18.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7618.665456771851
+LLaMA,run_1,EXP5-Results/10/10_image_19.png,8.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7562.697887420654
+LLaMA,run_1,EXP5-Results/10/10_image_20.png,2.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7496.971368789673
+LLaMA,run_2,EXP5-Results/10/10_image_1.png,1.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+13",0.0,7945.129871368408
+LLaMA,run_2,EXP5-Results/10/10_image_2.png,9.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+24",0.0,7647.8095054626465
+LLaMA,run_2,EXP5-Results/10/10_image_3.png,7.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7365.1556968688965
+LLaMA,run_2,EXP5-Results/10/10_image_4.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7528.616428375244
+LLaMA,run_2,EXP5-Results/10/10_image_5.png,4.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7724.7161865234375
+LLaMA,run_2,EXP5-Results/10/10_image_6.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+19",0.0,7987.741231918335
+LLaMA,run_2,EXP5-Results/10/10_image_7.png,3.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+Approximately 18.",0.0,7760.570764541626
+LLaMA,run_2,EXP5-Results/10/10_image_8.png,10.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+21",0.0,7375.81205368042
+LLaMA,run_2,EXP5-Results/10/10_image_9.png,7.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+17",0.0,7506.420373916626
+LLaMA,run_2,EXP5-Results/10/10_image_10.png,6.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7772.281169891357
+LLaMA,run_2,EXP5-Results/10/10_image_11.png,4.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7471.3990688323975
+LLaMA,run_2,EXP5-Results/10/10_image_12.png,7.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+22",0.0,7459.627389907837
+LLaMA,run_2,EXP5-Results/10/10_image_13.png,1.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7414.878845214844
+LLaMA,run_2,EXP5-Results/10/10_image_14.png,8.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7686.24210357666
+LLaMA,run_2,EXP5-Results/10/10_image_15.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+17",0.0,7724.123001098633
+LLaMA,run_2,EXP5-Results/10/10_image_16.png,2.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7497.324705123901
+LLaMA,run_2,EXP5-Results/10/10_image_17.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+Approximately 12 dots.",0.0,7829.092502593994
+LLaMA,run_2,EXP5-Results/10/10_image_18.png,5.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+14",0.0,7664.722204208374
+LLaMA,run_2,EXP5-Results/10/10_image_19.png,8.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+15",0.0,7635.660171508789
+LLaMA,run_2,EXP5-Results/10/10_image_20.png,2.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. No explanation and only number.assistant
+
+12",0.0,7651.942491531372
+LLaMA,average,,,,,
+GeminiProVision,run_0,EXP5-Results/10/10_image_1.png,1.0,"100
+",0.0,5601.070880889893
+GeminiProVision,run_0,EXP5-Results/10/10_image_2.png,9.0,"100
+",0.0,5538.835525512695
+GeminiProVision,run_0,EXP5-Results/10/10_image_3.png,7.0,"100
+",0.0,5546.600341796875
+GeminiProVision,run_0,EXP5-Results/10/10_image_4.png,5.0,"100
+",0.0,5524.541139602661
+GeminiProVision,run_0,EXP5-Results/10/10_image_5.png,4.0,"1000
+",0.0,5554.334402084351
+GeminiProVision,run_0,EXP5-Results/10/10_image_6.png,5.0,"100
+",0.0,5531.803131103516
+GeminiProVision,run_0,EXP5-Results/10/10_image_7.png,3.0,"100
+",0.0,5536.784648895264
+GeminiProVision,run_0,EXP5-Results/10/10_image_8.png,10.0,"100
+",0.0,5536.319971084595
+GeminiProVision,run_0,EXP5-Results/10/10_image_9.png,7.0,"100
+",0.0,5566.38503074646
+GeminiProVision,run_0,EXP5-Results/10/10_image_10.png,6.0,"100
+",0.0,5535.850286483765
+GeminiProVision,run_0,EXP5-Results/10/10_image_11.png,4.0,"100
+",0.0,5540.5402183532715
+GeminiProVision,run_0,EXP5-Results/10/10_image_12.png,7.0,"100
+",0.0,5537.403345108032
+GeminiProVision,run_0,EXP5-Results/10/10_image_13.png,1.0,"100
+",0.0,5820.869922637939
+GeminiProVision,run_0,EXP5-Results/10/10_image_14.png,8.0,"100
+",0.0,5530.53092956543
+GeminiProVision,run_0,EXP5-Results/10/10_image_15.png,5.0,"100
+",0.0,5526.346921920776
+GeminiProVision,run_0,EXP5-Results/10/10_image_16.png,2.0,"100
+",0.0,5535.116195678711
+GeminiProVision,run_0,EXP5-Results/10/10_image_17.png,5.0,"100
+",0.0,5530.126571655273
+GeminiProVision,run_0,EXP5-Results/10/10_image_18.png,5.0,"100
+",0.0,5552.168369293213
+GeminiProVision,run_0,EXP5-Results/10/10_image_19.png,8.0,"100
+",0.0,5552.022933959961
+GeminiProVision,run_0,EXP5-Results/10/10_image_20.png,2.0,"100
+",0.0,5522.011041641235
+GeminiProVision,run_1,EXP5-Results/10/10_image_1.png,1.0,"100
+",0.0,5761.55948638916
+GeminiProVision,run_1,EXP5-Results/10/10_image_2.png,9.0,"100
+",0.0,5537.144184112549
+GeminiProVision,run_1,EXP5-Results/10/10_image_3.png,7.0,"100
+",0.0,5527.427196502686
+GeminiProVision,run_1,EXP5-Results/10/10_image_4.png,5.0,"100
+",0.0,5541.7351722717285
+GeminiProVision,run_1,EXP5-Results/10/10_image_5.png,4.0,"100
+",0.0,5809.598922729492
+GeminiProVision,run_1,EXP5-Results/10/10_image_6.png,5.0,"100
+",0.0,5528.187990188599
+GeminiProVision,run_1,EXP5-Results/10/10_image_7.png,3.0,"100
+",0.0,5526.906251907349
+GeminiProVision,run_1,EXP5-Results/10/10_image_8.png,10.0,"1000
+",0.0,5561.408758163452
+GeminiProVision,run_1,EXP5-Results/10/10_image_9.png,7.0,"100
+",0.0,5553.399562835693
+GeminiProVision,run_1,EXP5-Results/10/10_image_10.png,6.0,"1000
+",0.0,5570.829391479492
+GeminiProVision,run_1,EXP5-Results/10/10_image_11.png,4.0,"100
+",0.0,5552.029609680176
+GeminiProVision,run_1,EXP5-Results/10/10_image_12.png,7.0,"100
+",0.0,5537.994146347046
+GeminiProVision,run_1,EXP5-Results/10/10_image_13.png,1.0,"100
+",0.0,5543.635606765747
+GeminiProVision,run_1,EXP5-Results/10/10_image_14.png,8.0,"100
+",0.0,5547.442674636841
+GeminiProVision,run_1,EXP5-Results/10/10_image_15.png,5.0,"100
+",0.0,5545.489549636841
+GeminiProVision,run_1,EXP5-Results/10/10_image_16.png,2.0,"100
+",0.0,5536.4978313446045
+GeminiProVision,run_1,EXP5-Results/10/10_image_17.png,5.0,"100
+",0.0,5543.435335159302
+GeminiProVision,run_1,EXP5-Results/10/10_image_18.png,5.0,"100
+",0.0,5544.448137283325
+GeminiProVision,run_1,EXP5-Results/10/10_image_19.png,8.0,"1000
+",0.0,5564.432382583618
+GeminiProVision,run_1,EXP5-Results/10/10_image_20.png,2.0,"100
+",0.0,5520.597696304321
+GeminiProVision,run_2,EXP5-Results/10/10_image_1.png,1.0,"100
+",0.0,5545.081377029419
+GeminiProVision,run_2,EXP5-Results/10/10_image_2.png,9.0,"100
+",0.0,5522.904396057129
+GeminiProVision,run_2,EXP5-Results/10/10_image_3.png,7.0,"100
+",0.0,5539.302825927734
+GeminiProVision,run_2,EXP5-Results/10/10_image_4.png,5.0,"100
+",0.0,5523.366928100586
+GeminiProVision,run_2,EXP5-Results/10/10_image_5.png,4.0,"100
+",0.0,7386.5838050842285
+GeminiProVision,run_2,EXP5-Results/10/10_image_6.png,5.0,"100
+",0.0,5545.6085205078125
+GeminiProVision,run_2,EXP5-Results/10/10_image_7.png,3.0,"100
+",0.0,5594.2957401275635
+GeminiProVision,run_2,EXP5-Results/10/10_image_8.png,10.0,"100
+",0.0,5538.724660873413
+GeminiProVision,run_2,EXP5-Results/10/10_image_9.png,7.0,"100
+",0.0,5536.86261177063
+GeminiProVision,run_2,EXP5-Results/10/10_image_10.png,6.0,"1000
+",0.0,5569.929838180542
+GeminiProVision,run_2,EXP5-Results/10/10_image_11.png,4.0,"1000
+",0.0,5608.0002784729
+GeminiProVision,run_2,EXP5-Results/10/10_image_12.png,7.0,"100
+",0.0,5535.283327102661
+GeminiProVision,run_2,EXP5-Results/10/10_image_13.png,1.0,"100
+",0.0,5541.259050369263
+GeminiProVision,run_2,EXP5-Results/10/10_image_14.png,8.0,"100
+",0.0,5548.299074172974
+GeminiProVision,run_2,EXP5-Results/10/10_image_15.png,5.0,"100
+",0.0,5538.165330886841
+GeminiProVision,run_2,EXP5-Results/10/10_image_16.png,2.0,"100
+",0.0,5547.441482543945
+GeminiProVision,run_2,EXP5-Results/10/10_image_17.png,5.0,"100
+",0.0,5537.216901779175
+GeminiProVision,run_2,EXP5-Results/10/10_image_18.png,5.0,"100
+",0.0,5541.130304336548
+GeminiProVision,run_2,EXP5-Results/10/10_image_19.png,8.0,"1000
+",0.0,5550.490856170654
+GeminiProVision,run_2,EXP5-Results/10/10_image_20.png,2.0,"200
+",0.0,5529.095649719238
+GeminiProVision,average,,,,,
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_1.png,1.0,"16 
+",0.0,5250.011205673218
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_2.png,9.0,"90 
+",0.0,5245.520353317261
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_3.png,7.0,"20 
+",0.0,5268.882751464844
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_4.png,5.0,"133 
+",0.0,5276.346921920776
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_5.png,4.0,"30 
+",0.0,5239.2578125
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_6.png,5.0,"24 
+",0.0,5284.266710281372
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_7.png,3.0,"159 
+",0.0,5261.248350143433
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_8.png,10.0,"19 
+",0.0,5291.87273979187
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_9.png,7.0,"70 
+",0.0,5258.937120437622
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_10.png,6.0,100,0.0,5330.80792427063
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_11.png,4.0,"40 
+",0.0,5259.130001068115
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_12.png,7.0,"70
+",0.0,5283.42080116272
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_13.png,1.0,"90 
+",0.0,5258.188962936401
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_14.png,8.0,"40 
+",0.0,5259.565591812134
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_15.png,5.0,"70 
+",0.0,5320.98388671875
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_16.png,2.0,"24 
+",0.0,5256.65020942688
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_17.png,5.0,"16 
+",0.0,5242.441415786743
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_18.png,5.0,490,0.0,5317.840099334717
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_19.png,8.0,"160 
+",0.0,5275.217771530151
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_20.png,2.0,100,0.0,5232.271909713745
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_1.png,1.0,"111 
+",0.0,5391.564130783081
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_2.png,9.0,100,0.0,5264.835357666016
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_3.png,7.0,"110 
+",0.0,5277.062892913818
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_4.png,5.0,100,0.0,5332.963705062866
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_5.png,4.0,100,0.0,5258.720397949219
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_6.png,5.0,"60 
+",0.0,5516.887664794922
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_7.png,3.0,"90 
+",0.0,5272.940158843994
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_8.png,10.0,150,0.0,5307.517051696777
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_9.png,7.0,"50 
+",0.0,5254.366159439087
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_10.png,6.0,"29 
+",0.0,5260.648012161255
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_11.png,4.0,"30 
+",0.0,5264.694452285767
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_12.png,7.0,"199 
+",0.0,5288.763761520386
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_13.png,1.0,"140 
+",0.0,5269.316673278809
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_14.png,8.0,"68 
+",0.0,5261.704206466675
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_15.png,5.0,"90 
+",0.0,5288.079738616943
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_16.png,2.0,"20 
+",0.0,5256.310701370239
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_17.png,5.0,"30 
+",0.0,5478.632926940918
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_18.png,5.0,"29
+",0.0,5284.3992710113525
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_19.png,8.0,"60
+",0.0,5272.027969360352
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_20.png,2.0,"70 
+",0.0,5262.897729873657
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_1.png,1.0,"90 
+",0.0,5245.187044143677
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_2.png,9.0,22,0.0,5245.740652084351
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_3.png,7.0,"25 
+",0.0,5269.615650177002
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_4.png,5.0,"55 
+",0.0,5264.955997467041
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_5.png,4.0,"26 
+",0.0,5519.304037094116
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_6.png,5.0,"38 
+",0.0,5250.375747680664
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_7.png,3.0,"90 
+",0.0,5300.639390945435
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_8.png,10.0,"55 
+",0.0,5286.255836486816
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_9.png,7.0,200,0.0,5256.260633468628
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_10.png,6.0,"25 
+",0.0,5276.899576187134
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_11.png,4.0,"33
+",0.0,5279.078483581543
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_12.png,7.0,"110 
+",0.0,5281.009197235107
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_13.png,1.0,"10 
+",0.0,5255.755662918091
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_14.png,8.0,"120 
+",0.0,5261.676788330078
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_15.png,5.0,"35 
+",0.0,5267.008304595947
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_16.png,2.0,60,0.0,5301.32269859314
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_17.png,5.0,111,0.0,5265.159606933594
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_18.png,5.0,"1000 
+",0.0,5283.750772476196
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_19.png,8.0,"340
+",0.0,5290.658235549927
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_20.png,2.0,"24 
+",0.0,5370.532751083374
+Gemini1_5Flash,average,,,,,
