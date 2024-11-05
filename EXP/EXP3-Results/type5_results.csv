@@ -1,0 +1,976 @@
+model_name,run,image_path,ground_truth,raw_answers,forced_repetitions
+gpt4o,run_0,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,0.6,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_2.png,0.3125,0.5,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,0.6,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,0.5,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,0.5,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,0.5,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,0.5,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,0.25,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,0.5,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,0.5,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_11.png,0.5625,0.5,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,0.5,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,0.6,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,0.33,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,0.4,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,0.5,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,0.33,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,0.8,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,0.5,0
+gpt4o,run_0,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,0.7,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_2.png,0.3125,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,0.6,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,0.75,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,0.4,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_11.png,0.5625,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,0.7,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,0.3,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,0.5,0
+gpt4o,run_1,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,0.6,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_2.png,0.3125,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,0.4,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,0.8,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_11.png,0.5625,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,0.6,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,0.6,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,0.25,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,0.2,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,0.5,0
+gpt4o,run_2,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,0.8,0
+gpt4o,average,,,,0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.39]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_2.png,0.3125,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.31]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.39]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.56]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.55]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.67]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+1.0",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.32]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.56]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.8200000000000001]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_11.png,0.5625,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.58]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.32]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.56]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.8200000000000001]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.26]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.48]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.68]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.21]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.26]",0
+CustomLLaMA,run_0,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.81]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.39]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_2.png,0.3125,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.31]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.39]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.56]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.67]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.67]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+1.0",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.32]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.56]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.8200000000000001]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_11.png,0.5625,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.58]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.32]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.56]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.8200000000000001]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.26]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.48]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.68]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.21]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.26]",0
+CustomLLaMA,run_1,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+0.81",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.39]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_2.png,0.3125,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.31]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.39]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.56]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.55]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.67]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.8]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.32]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.56]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.8200000000000001]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_11.png,0.5625,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.58]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.32]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.56]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.8200000000000001]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.26]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.48]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.68]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.21]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+[0.26]",0
+CustomLLaMA,run_2,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"user
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.
+assistant
+
+0.81",0
+CustomLLaMA,average,,,,0
+LLaMA,run_0,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is 0.33.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_2.png,0.3125,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The shorter segment's length is approximately 0.43 times the length of the taller segment.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.67.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.67.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.38.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.5.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.75.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.38.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_11.png,0.5625,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is 0.5.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is 0.33.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+**Step 1: Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1.**
+
+The shorter segment is approximately 2/5 of the height of the taller segment.
+
+**Step 2: Convert the ratio to a decimal.**
+
+2/5 = 0.4
+
+**Step 3: Provide the answer.**
+
+0.4",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The shorter segment is about 0.33 times the length of the taller segment.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+**Step 1: Observe the segments in the bar chart.**
+
+*   The shorter segment is approximately one-fifth the length of the taller segment.
+
+**Step 2: Estimate the ratio of the shorter segment's length to the taller segment's length.**
+
+*   The ratio is approximately 0.2.
+
+**Step 3: Express the ratio as a number on a scale from 0 to 1.**
+
+*   The ratio is 0.2.
+
+**Answer:** 0.2",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.26.",0
+LLaMA,run_0,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.29.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_2.png,0.3125,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is 0.6.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The shorter segment is approximately 0.33 times the length of the taller segment.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.5.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is 0.375.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.6.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.25.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+**Step 1: Identify the segments in the bar chart.**
+
+The two segments are the shorter segment and the taller segment.
+
+**Step 2: Compare the lengths of the two segments.**
+
+The shorter segment is about 3/4 the length of the taller segment.
+
+**Step 3: Calculate the ratio of the shorter segment's length to the taller segment's length.**
+
+The ratio is 3/4 or 0.75.
+
+**Answer:** 0.75",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_11.png,0.5625,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The shorter segment is 2/5 and the taller segment is 3/5. Therefore, the ratio of the shorter segment's length to the taller segment's length is 2/3.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.38.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is 0.33.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The shorter segment is approximately 1/4 of the length of the taller segment. The ratio is 0.25.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.25.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.38.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The shorter segment of the left bar is approximately 0.25 times the length of the taller segment.",0
+LLaMA,run_1,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+**Step 1: Identify the segments in the left bar of the mixed divided stacked bar chart.**
+
+The two marked segments are the top and bottom segments of the left bar.
+
+**Step 2: Estimate the ratio of the shorter segment's length to the taller segment's length.**
+
+The shorter segment is approximately one-fifth the length of the taller segment.
+
+**Step 3: Convert the ratio to a number between 0 and 1.**
+
+The ratio is approximately 0.2.
+
+**Answer:** 0.2",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+**Step 1: Analyze the image**
+
+The image shows two segments in the bar chart. The shorter segment is on the left, and the taller segment is on the right.
+
+**Step 2: Estimate the ratio of the shorter segment's length to the taller segment's length**
+
+*   The shorter segment is about one-third the length of the taller segment.
+
+**Step 3: Express the ratio as a number**
+
+*   The ratio of the shorter segment's length to the taller segment's length is 1/3 or approximately 0.33.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_2.png,0.3125,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The shorter segment is approximately 1/3 the length of the taller segment. Therefore, the ratio is 1/3 or 0.33.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The shorter segment's length is approximately 0.25 times the length of the taller segment.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.44.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+**Ratio:** 0.5",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.36.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is 0.25.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.35.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The shorter segment's length is approximately 1/3 the length of the taller segment. The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.27.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_11.png,0.5625,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.67.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+**Step 1: Estimate the lengths of the two marked segments**
+
+*   The shorter segment is approximately 2/3 of the length of the taller segment.
+
+**Step 2: Calculate the ratio of the shorter segment's length to the taller segment's length**
+
+*   The ratio is approximately 2/3 or 0.67.
+
+**Step 3: Convert the ratio to a scale from 0 to 1**
+
+*   The ratio is approximately 0.67.
+
+**Answer:** 0.67",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.5.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.33.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+**Step 1: Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length.**
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.5.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.43.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.29.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The shorter segment is approximately 0.3 times the length of the taller segment.",0
+LLaMA,run_2,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"user
+
+In the left bar of the mixed divided stacked bar chart, compare the lengths of the two marked segments. Estimate the ratio of the shorter segment's length to the taller segment's length on a scale from 0 to 1, where 1 indicates equal length. Provide only the ratio as a number. No explanation.assistant
+
+The ratio of the shorter segment's length to the taller segment's length is approximately 0.29.",0
+LLaMA,average,,,,0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_2.png,0.3125,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"0.2
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_11.png,0.5625,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"0.25
+",0
+GeminiProVision,run_0,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_2.png,0.3125,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"0.8
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"0.5
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_11.png,0.5625,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"0.25
+",0
+GeminiProVision,run_1,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_2.png,0.3125,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_11.png,0.5625,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"0.25
+",0
+GeminiProVision,run_2,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"0.25
+",0
+GeminiProVision,average,,,,0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"0.5 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_2.png,0.3125,"0.6 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"0.6 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"0.5 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"0.65 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"0.33 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"0.65 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"0.4 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"0.55 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"0.5 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_11.png,0.5625,"0.65 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"0.6 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"0.33 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"0.6
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"0.45 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"0.33 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"0.63 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"0.6 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"0.4 
+",0
+Gemini1_5Flash,run_0,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"0.4 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"0.6 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_2.png,0.3125,"0.33 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"0.4 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"0.38 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"0.4 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"0.4 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"0.3 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"0.4 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"0.6 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"0.4 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_11.png,0.5625,"0.4 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"0.4 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"0.6 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"0.6 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"0.5 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"0.35 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"0.5 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"0.6 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"0.4 
+",0
+Gemini1_5Flash,run_1,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"0.65 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_1.png,0.39285714285714285,"0.4 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_2.png,0.3125,"0.7 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_3.png,0.39285714285714285,"0.67 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_4.png,0.5454545454545454,"0.65 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_5.png,0.5454545454545454,"0.45 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_6.png,0.6818181818181818,"0.75 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_7.png,0.8333333333333334,"0.6 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_8.png,0.32142857142857145,"0.6 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_9.png,0.5789473684210527,"0.65 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_10.png,0.8461538461538461,"0.6 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_11.png,0.5625,"0.4 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_12.png,0.3157894736842105,"0.5 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_13.png,0.47368421052631576,"0.5 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_14.png,0.8181818181818182,"0.33
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_15.png,0.2608695652173913,"0.5 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_16.png,0.5652173913043478,"0.55 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_17.png,0.6956521739130435,"0.65 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_18.png,0.21428571428571427,"0.65 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_19.png,0.2608695652173913,"0.25 
+",0
+Gemini1_5Flash,run_2,EXP3-Results/type5/type5_image_20.png,0.8421052631578947,"0.65 
+",0
+Gemini1_5Flash,average,,,,0

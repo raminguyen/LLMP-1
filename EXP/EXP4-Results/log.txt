@@ -1,0 +1,2 @@
+framed - Elapsed time: 2231.04 seconds
+unframed - Elapsed time: 1686.91 seconds

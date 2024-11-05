@@ -1,5 +1,0 @@
-type1 - Elapsed time: 1717.45 seconds
-type2 - Elapsed time: 1843.31 seconds
-type3 - Elapsed time: 1715.26 seconds
-type4 - Elapsed time: 1788.34 seconds
-type5 - Elapsed time: 1906.32 seconds
