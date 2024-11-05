@@ -7,7 +7,7 @@ import os
 from PIL import Image
 import LLMP as L
 
-class Evaluator4:
+class Evaluator3:
 
     def __init__(self):
         self.results = None
@@ -135,7 +135,7 @@ class Evaluator4:
             })
 
         # Ensure the output folder exists
-        output_folder = os.path.join(os.getcwd(), "EXP4-Results")
+        output_folder = os.path.join(os.getcwd(), "EXP3-Results")
         os.makedirs(output_folder, exist_ok=True)
         
         file_path = os.path.join(output_folder, filename)
