@@ -1,4 +1,0 @@
-Training loss: 8.9688 at step 100
-Training loss: 0.8948 at step 200
-Training loss: 0.7569 at step 300
-Training loss: 0.6952 at step 400

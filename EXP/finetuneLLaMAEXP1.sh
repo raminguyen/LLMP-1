@@ -9,7 +9,7 @@
 #
 #
 # set name of job
-#SBATCH --job-name=LLMP
+#SBATCH --job-name=finetuning-EXP1-5000-10epochs
 #
 # set the number of processors/tasks needed
 ##SBATCH -n 4
@@ -82,7 +82,7 @@ echo `date`
 
 conda activate sbatch2
 
-python LLaMAEXP1-5epoch.py #RENAME
+python finetuneLLaMAEXP1.py #RENAME
 
 # Diagnostic/Logging Information
 echo "Finish Run"

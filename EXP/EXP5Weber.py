@@ -22,13 +22,13 @@ login('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')
 # Set up model instances
 model_instances = {
     "gpt4o": L.GPTModel("gpt-4o"),
-    "CustomLLaMA": L.llamafinetuned("./outputWEBER/json/my_finetuned_llama_all_images_weber"),
+    "CustomLLaMA": L.llamafinetuned("./outputWEBER-10000/json/my_finetuned_llama_all_images_weber"),
     "LLaMA": L.llama("meta-llama/Llama-3.2-11B-Vision-Instruct"),
     "GeminiProVision": L.GeminiProVision(),
     "Gemini1_5Flash":L.Gemini1_5Flash()
 }
 
-# Set up the number of images and sleep time
+# Set up the numbßer of images and sleep time
 num_images = 20
 timesheet = 5 # Sleep for 5 seconds between each task
 
