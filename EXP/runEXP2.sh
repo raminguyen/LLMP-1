@@ -9,7 +9,7 @@
 #
 #
 # set name of job
-#SBATCH --job-name=LLMP
+#SBATCH --job-name=finetuning-EXP2-5000-20epochs
 #
 # set the number of processors/tasks needed
 ##SBATCH -n 4

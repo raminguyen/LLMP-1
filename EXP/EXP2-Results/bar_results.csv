@@ -1,0 +1,71 @@
+model_name,run,image_path,ground_truth,raw_answers
+gpt4o,run_0,EXP2-Results/bar/bar_image_1.png,"[1.0, 0.8055556, 0.19444445, 0.11111111, 0.6666667]","[1.0, 0.67, 0.85, 0.54, 0.38]"
+gpt4o,run_0,EXP2-Results/bar/bar_image_2.png,"[1.0, 0.51724136, 0.7586207, 0.27586207, 0.8965517]","[1.0, 0.74, 0.67, 0.51, 0.49]"
+gpt4o,average,,,
+LLaMA,run_0,EXP2-Results/bar/bar_image_1.png,"[1.0, 0.8055556, 0.19444445, 0.11111111, 0.6666667]","user
+
+First, make a list of five values where each value is between 3 and 39, and all values add up to 100. Next, divide each value in the list by the largest value, so the largest becomes 1.0. Place the largest value (1.0) as the first item in the list. Then, arrange the other values by moving left to right along the bar chart starting from the bar marked 1.0. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the normalized percentage of each bar. No explanation needed.assistant
+
+**Step 1: Identify the five values between 3 and 39 that add up to 100.**
+
+To find these values, we need to solve a linear equation where the sum of the five values equals 100.
+
+Let's denote the five values as x1, x2, x3, x4, and x5.
+
+The equation is: x1 + x2 + x3 + x4 + x5 = 100
+
+We need to find integer values for x1, x2, x3, x4, and x5 that satisfy this equation and are between 3 and 39.
+
+One possible solution is: x1 = 3, x2 = 17, x3 = 20, x4 = 30, x5 = 30.
+
+**Step 2: Divide each value by the largest value.**
+
+The largest value is 30. Dividing each value by 30 gives:
+
+x1 = 3 / 30 = 0.1
+x2 = 17 / 30 = 0.57
+x3 = 20 / 30 = 0.67
+x4 = 30 / 30 = 1.0
+x5 = 30 / 30 = 1.0
+
+**Step 3: Arrange the values in order from left to right.**
+
+The ordered list is: [0.1, 0.57, 0.67, 1.0, 1.0]
+
+**Answer:**
+
+[1.0, 0.00, 0.00, 0.00, 0.0]"
+LLaMA,run_0,EXP2-Results/bar/bar_image_2.png,"[1.0, 0.51724136, 0.7586207, 0.27586207, 0.8965517]","user
+
+First, make a list of five values where each value is between 3 and 39, and all values add up to 100. Next, divide each value in the list by the largest value, so the largest becomes 1.0. Place the largest value (1.0) as the first item in the list. Then, arrange the other values by moving left to right along the bar chart starting from the bar marked 1.0. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the normalized percentage of each bar. No explanation needed.assistant
+
+**Step 1: Generate five values between 3 and 39 that add up to 100.**
+
+*   12, 21, 22, 24, 21
+
+**Step 2: Divide each value by the largest value, which is 24.**
+
+*   12/24 = 0.5
+*   21/24 = 0.875
+*   22/24 = 0.9167
+*   24/24 = 1.0
+*   21/24 = 0.875
+
+**Step 3: Arrange the values from left to right along the bar chart starting from the bar marked 1.0.**
+
+*   [1.0, 0.875, 0.9167, 0.5, 0.875]
+
+**Answer:**
+
+[1.0, 0.875, 0.9167, 0.5, 0.875]"
+LLaMA,average,,,
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_1.png,"[1.0, 0.8055556, 0.19444445, 0.11111111, 0.6666667]","[1.0, 0.78, 0.6, 0.44, 0.18]
+"
+GeminiProVision,run_0,EXP2-Results/bar/bar_image_2.png,"[1.0, 0.51724136, 0.7586207, 0.27586207, 0.8965517]","[1.0, 0.78, 0.66, 0.54, 0.42]
+"
+GeminiProVision,average,,,
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_1.png,"[1.0, 0.8055556, 0.19444445, 0.11111111, 0.6666667]","[1.0, 0.51, 0.26, 0.18, 0.05] 
+"
+Gemini1_5Flash,run_0,EXP2-Results/bar/bar_image_2.png,"[1.0, 0.51724136, 0.7586207, 0.27586207, 0.8965517]","[1.0, 0.6, 0.4, 0.2, 0.1] 
+"
+Gemini1_5Flash,average,,,

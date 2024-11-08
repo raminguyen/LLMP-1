@@ -1,0 +1,75 @@
+model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
+gpt4o,run_0,EXP5-Results/10/10_image_1.png,6.0,9,0.0,6056.8132400512695
+gpt4o,run_0,EXP5-Results/10/10_image_2.png,6.0,8,0.0,6227.250814437866
+gpt4o,run_1,EXP5-Results/10/10_image_1.png,6.0,7,0.0,5521.809816360474
+gpt4o,run_1,EXP5-Results/10/10_image_2.png,6.0,5,0.0,5904.203414916992
+gpt4o,run_2,EXP5-Results/10/10_image_1.png,6.0,5,0.0,5553.405046463013
+gpt4o,run_2,EXP5-Results/10/10_image_2.png,6.0,4,0.0,6052.586078643799
+gpt4o,average,,,,,
+LLaMA,run_0,EXP5-Results/10/10_image_1.png,6.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a pattern of dots that appear to be increasing in number from left to right and top to bottom. The initial 10 dots are in the top-left corner, and the pattern continues to the right and down.
+
+*Answer*: 7",0.0,35028.78665924072
+LLaMA,run_0,EXP5-Results/10/10_image_2.png,6.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image depicts a pattern of dots, with the initial 10 dots on the left side and additional dots added to the right side. To estimate the number of dots added, we can count the dots on the right side.
+
+There are 4 rows of dots on the right side, with 3 dots in each row. This gives us a total of 4 x 3 = 12 dots on the right side.
+
+Since there were initially 10 dots on the left side, we can add the 12 dots on the right side to get a total of 10 + 12 = 22 dots.
+
+The final answer is: 12",0.0,39076.99632644653
+LLaMA,run_1,EXP5-Results/10/10_image_1.png,6.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a graph with 10 dots, and the number of additional dots added is 9.",0.0,34067.13390350342
+LLaMA,run_1,EXP5-Results/10/10_image_2.png,6.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 6.",0.0,30994.752645492554
+LLaMA,run_2,EXP5-Results/10/10_image_1.png,6.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image depicts a series of dots on a white background, with the initial 10 dots forming a square shape. The dots are evenly spaced and appear to be randomly distributed within the square. Upon closer inspection, it becomes apparent that additional dots have been added to the original 10, resulting in a total of 19 dots. The new dots are scattered throughout the square, with some located near the edges and others in the center.
+
+*Answer*: 9",0.0,36778.162717819214
+LLaMA,run_2,EXP5-Results/10/10_image_2.png,6.0,"user
+
+Please estimate how many dots were added to the initial 10 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a pattern of dots that starts with 10 dots and adds 2 dots in each subsequent row, with the number of rows increasing by 1 in each step. The pattern starts with 10 dots in the first row, then adds 2 dots in the second row, making a total of 12 dots. In the third row, it adds 3 dots, making a total of 15 dots. In the fourth row, it adds 4 dots, making a total of 19 dots. In the fifth row, it adds 5 dots, making a total of 24 dots. In the sixth row, it adds 6 dots, making a total of 30 dots. In the seventh row, it adds 7 dots, making a total of 37 dots. In the eighth row, it adds 8 dots, making a total of 45 dots. In the ninth row, it adds 9 dots, making a total of 54 dots. In the tenth row, it adds 10 dots, making a total of 64 dots. In the eleventh row, it adds 11 dots, making a total of 75 dots. In the twelfth row, it adds 12 dots, making a total of 87 dots. In the thirteenth row, it adds 13 dots, making a total of 100 dots. In the fourteenth row, it adds 14 dots, making a total of 114 dots. In the fifteenth row, it adds 15 dots, making a total of 129 dots. In the sixteenth row, it adds 16 dots, making a total of 145 dots. In the seventeenth row, it adds 17 dots, making a total of 162 dots. In the eighteenth row, it adds 18 dots, making a total of 180 dots. In the nineteenth row, it adds 19 dots, making a total of 199 dots. In the twentieth row, it adds 20 dots, making a total of 219 dots. In the twenty-first row, it adds 21 dots, making a total of 240 dots. In the twenty-second row, it adds 22 dots, making a total of 262 dots. In the twenty",0.0,62301.54895782471
+LLaMA,average,,,,,
+GeminiProVision,run_0,EXP5-Results/10/10_image_1.png,6.0,"2
+",0.0,5627.764463424683
+GeminiProVision,run_0,EXP5-Results/10/10_image_2.png,6.0,"4
+",0.0,5517.427444458008
+GeminiProVision,run_1,EXP5-Results/10/10_image_1.png,6.0,"4
+",0.0,5524.089097976685
+GeminiProVision,run_1,EXP5-Results/10/10_image_2.png,6.0,"7
+",0.0,5535.242795944214
+GeminiProVision,run_2,EXP5-Results/10/10_image_1.png,6.0,"7
+",0.0,5514.13631439209
+GeminiProVision,run_2,EXP5-Results/10/10_image_2.png,6.0,"4
+",0.0,5523.303270339966
+GeminiProVision,average,,,,,
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_1.png,6.0,"6 
+",0.0,5290.725469589233
+Gemini1_5Flash,run_0,EXP5-Results/10/10_image_2.png,6.0,"7 
+",0.0,5260.874509811401
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_1.png,6.0,"7 
+",0.0,5311.555862426758
+Gemini1_5Flash,run_1,EXP5-Results/10/10_image_2.png,6.0,"5 
+",0.0,5273.035526275635
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_1.png,6.0,"9 
+",0.0,5289.213180541992
+Gemini1_5Flash,run_2,EXP5-Results/10/10_image_2.png,6.0,"7 
+",0.0,5241.005420684814
+Gemini1_5Flash,average,,,,,

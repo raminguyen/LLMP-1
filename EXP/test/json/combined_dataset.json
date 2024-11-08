@@ -1,0 +1,50 @@
+[
+    {
+        "id": "a3e6f0a7-77df-438f-ac08-4db84be61b50",
+        "image": "a3e6f0a7-77df-438f-ac08-4db84be61b50.jpg",
+        "question": "First, make a list of five values where each value is between 3 and 39, and all values add up to 100. Next, divide each value in the list by the largest value, so the largest becomes 1.0. Place the largest value (1.0) as the first item in the list. Then, arrange the other values by going counter-clockwise around the pie starting from the slice marked 1.0. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the normalized percentage of each slice. No explanation needed.",
+        "value": [
+            1.0,
+            0.32,
+            0.68,
+            0.24,
+            0.46
+        ]
+    },
+    {
+        "id": "e9b51ee0-3f41-4831-a90f-d39def87c7e6",
+        "image": "e9b51ee0-3f41-4831-a90f-d39def87c7e6.jpg",
+        "question": "First, make a list of five values where each value is between 3 and 39, and all values add up to 100. Next, divide each value in the list by the largest value, so the largest becomes 1.0. Place the largest value (1.0) as the first item in the list. Then, arrange the other values by going counter-clockwise around the pie starting from the slice marked 1.0. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the normalized percentage of each slice. No explanation needed.",
+        "value": [
+            1.0,
+            0.29,
+            0.65,
+            0.21,
+            0.79
+        ]
+    },
+    {
+        "id": "8944ee13-0337-4392-a92a-2b17ca79f2ab",
+        "image": "8944ee13-0337-4392-a92a-2b17ca79f2ab.jpg",
+        "question": "First, make a list of five values where each value is between 3 and 39, and all values add up to 100. Next, divide each value in the list by the largest value, so the largest becomes 1.0. Place the largest value (1.0) as the first item in the list. Then, arrange the other values by moving left to right along the bar chart starting from the bar marked 1.0. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the normalized percentage of each bar. No explanation needed.",
+        "value": [
+            1.0,
+            0.8,
+            0.29,
+            0.6,
+            0.17
+        ]
+    },
+    {
+        "id": "e1e37c2a-e777-4de4-8958-69072165e282",
+        "image": "e1e37c2a-e777-4de4-8958-69072165e282.jpg",
+        "question": "First, make a list of five values where each value is between 3 and 39, and all values add up to 100. Next, divide each value in the list by the largest value, so the largest becomes 1.0. Place the largest value (1.0) as the first item in the list. Then, arrange the other values by moving left to right along the bar chart starting from the bar marked 1.0. Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the normalized percentage of each bar. No explanation needed.",
+        "value": [
+            1.0,
+            0.87,
+            0.77,
+            0.43,
+            0.27
+        ]
+    }
+]

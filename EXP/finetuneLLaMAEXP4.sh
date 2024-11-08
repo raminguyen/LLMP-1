@@ -9,7 +9,7 @@
 #
 #
 # set name of job
-#SBATCH --job-name=LLMP
+#SBATCH --job-name=finetuning-EXP4-5000-10epochs
 #
 # set the number of processors/tasks needed
 ##SBATCH -n 4
@@ -31,7 +31,7 @@
 ##SBATCH --account=<deptname|lastname>
 
 # set max wallclock time  DD-HH:MM:SS
-#SBATCH --time=00-30:00:00
+#SBATCH --time=02-30:00:00
 
 # set a memory request
 #SBATCH --mem=128gb
@@ -82,9 +82,10 @@ echo `date`
 
 conda activate sbatch2
 
-python LLaMAEXP4.py
+python finetuneLLaMAEXP4.py
 
 # Diagnostic/Logging Information
 echo "Finish Run"
 echo "end time is `date`"
+
 
