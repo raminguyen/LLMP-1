@@ -169,3 +169,5 @@ EXP/finetuning-*
 
 *.err
 *.out
+
+EXP/EXPs-5000-3pochs/finetune/
