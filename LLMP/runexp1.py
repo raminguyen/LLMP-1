@@ -8,27 +8,27 @@ class Runexp1:
     def __init__(self):
         # Define the tasks and queries here
         self.tasks = [
-            #"position_common_scale",
-            #"position_non_aligned_scale",
-            #"length",
-            #"direction",
-            #"angle",
+            "position_common_scale",
+            "position_non_aligned_scale",
+            "length",
+            "direction",
+            "angle",
             "area",
             "volume",
-            #"curvature",
-            #"shading"
+            "curvature",
+            "shading"
         ]
         
         self.queries = {
-            #"position_common_scale": "Estimate the block's vertical position (range: 0-60, top to bottom). Number only. No explanation.",
-            #"position_non_aligned_scale": "Estimate the block's vertical position (range: 0-60, top to bottom). Number only. No explanation.",
-            #"length": "Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.",
-            #"direction": "Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.",
-            #"angle": "Estimate the angle (range: 0-90 degrees). Number only. No explanation.",
+            "position_common_scale": "Estimate the block's vertical position (range: 0-60, top to bottom). Number only. No explanation.",
+            "position_non_aligned_scale": "Estimate the block's vertical position (range: 0-60, top to bottom). Number only. No explanation.",
+            "length": "Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.",
+            "direction": "Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.",
+            "angle": "Estimate the angle (range: 0-90 degrees). Number only. No explanation.",
             "area": "Estimate the area of a circle, ensuring your answer falls within the range of 3.14 to 5026.55 square units. Assume the circle fits within a 100x100 pixel image. Provide only the numeric value, no explanation.",
-            "volume": "Estimate the volume of a cube, with your answer restricted to the range of 1 to 8000 cubic units. Assume the cube fits within a 100x100 pixel image. Provide only the numeric value, no explanation."
-            #"curvature": "Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.",
-            #"shading": "Estimate shading density (range: 0-100). Number only. No explanation."
+            "volume": "Estimate the volume of a cube, with your answer restricted to the range of 1 to 8000 cubic units. Assume the cube fits within a 100x100 pixel image. Provide only the numeric value, no explanation.",
+            "curvature": "Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.",
+            "shading": "Estimate shading density (range: 0-100). Number only. No explanation."
 }
 
 

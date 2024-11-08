@@ -14,9 +14,9 @@ class Runexp5:
         ]
         
         self.queries = {
-            "10": "Please estimate how many dots were added to the initial 10 dots. No explanation and only number.",
-            "100": "Please estimate how many dots were added to the initial 100 dots. No explanation and only number..",
-            "1000": "Please estimate how many dots were added to the initial 1000 dots. No explanation and only number."
+            "10": "Please estimate how many dots were added to the initial 10 dots. Answer range 1 to 10. Number only. No explanation.",
+            "100": "Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.",
+            "1000": "Please estimate how many dots were added to the initial 1000 dots. Answer range 1 to 10. Number only. No explanation."
         }
 
         # Set the folder for saving results

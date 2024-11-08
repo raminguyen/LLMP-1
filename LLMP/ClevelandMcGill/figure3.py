@@ -1,15 +1,20 @@
+import numpy as np
 import os
 import skimage.draw
 import sys
-import numpy as np
 
 sys.path.append('../')
-from LLMP.util import Util
+
 
 class Figure3:
 
   SIZE = (100, 100)
 
+
+  @staticmethod
+  def generate_datapoint():
+    '''
+    '''
 
     # from codementum.org/cleveland-mcgill/
     #
@@ -22,82 +27,59 @@ class Figure3:
     #  - none greater than 39
     #  - differences greater than .1
     #
-  
+    def randomize_data():
+      max = 36;
+      min = 3;
+      diff = 0.1;
 
-  def generate_datapoint():
-      '''
-      Generate data according to Cleveland84:
-      - 5 numbers that add to 100
-      - None less than 3, none greater than 39
-      - Differences greater than 0.1
-      '''
+      d = []
 
-      def randomize_data():
-          max_val = 39
-          min_val = 3
-
-          d = []
-          while len(d) < 5:
-              randomnumber = np.ceil(np.random.random() * max_val + min_val)
-              found = False
-              for i in range(len(d)):
-                  if not ensure_difference(d, randomnumber):
-                      found = True
-                      break
-
-              if not found:
-                  d.append(randomnumber)
-
-          return d
-
-      def ensure_difference(A, c):
-          # Ensure the difference between elements is greater than 0.1
-          for i in range(len(A)):
-              if abs(A[i] - c) < 0.1:
-                  return False
-          return True
-
-      # Generate data and adjust to ensure the sum is exactly 100
-      sum_val = -1
-      while sum_val != 100:
-          data = randomize_data()
-          sum_val = sum(data)
-
-          # Adjust the last element if the sum isn't exactly 100
-          if sum_val != 100:
-              diff = 100 - sum_val
-              if 3 <= data[-1] + diff <= 39:
-                  data[-1] += diff
-                  sum_val = sum(data)
-              else:
-                  sum_val = -1  # Retry if adjustment goes out of bounds
-
-      total_sum = sum(data)
-      labels = np.array([val / total_sum for val in data], dtype=np.float32)
-
-      # Set the largest value as 1 without affecting others
-      max_label_index = np.argmax(labels)
-      labels[max_label_index] = 1.0
-
-      # Roll labels so the largest value (now exactly 1) is first
-      labels = np.roll(labels, 5 - max_label_index)
-
-      # Print the generated labels for debugging
-      print("Generated Labels:", labels)
-
-      return data, list(labels)
+      while len(d) < 5:
+        randomnumber=np.ceil(np.random.random()*36 + 3);
+        found=False;
+        for i in range(len(d)):
+          if not ensure_difference(d, randomnumber):
+            found = True
+            break
+            
+        if not found:
+          d.append(randomnumber)
 
 
-      #
-      #
-      # ATTENTION, HERE WE NEED TO ORDER THE LABELS ACCORDING
-      # OUR CONVENTION
-      #
-      # NOW, THE MARKED ELEMENT IS AT POSITION 0 BUT ONLY IN THE
-      # LABELS. THIS MEANS WE CAN NOW GO LEFT TO RIGHT (ROLLING) IN THE BARCHART
-      # STARTING FROM THE MARKED ONE. AND SIMILARLY, IN THE PIE CHART WE CAN GO
-      # COUNTER-CLOCKWISE STARTING FROM THE MARKED ONE.
-    
+      return d;
+
+
+    def ensure_difference(A, c):
+      result = True;
+      for i in range(len(A)):
+        if c > (A[i] - 3) and c < (A[i] + 3):
+          result = False
+
+      return result
+
+    sum = -1
+    while(sum != 100):
+      data = randomize_data()
+      sum = data[0] + data[1] + data[2] + data[3] + data[4]
+
+    labels = np.zeros((5), dtype=np.float32)
+    for i,d in enumerate(data):
+      labels[i] = d/float(np.max(data))
+
+    #
+    #
+    # ATTENTION, HERE WE NEED TO ORDER THE LABELS ACCORDING
+    # OUR CONVENTION 
+    #
+    # NOW, THE MARKED ELEMENT IS AT POSITION 0 BUT ONLY IN THE
+    # LABELS. THIS MEANS WE CAN NOW GO LEFT TO RIGHT (ROLLING) IN THE BARCHART
+    # STARTING FROM THE MARKED ONE. AND SIMILARLY, IN THE PIE CHART WE CAN GO
+    # COUNTER-CLOCKWISE STARTING FROM THE MARKED ONE.
+    #
+    labels = np.roll(labels, 5-np.where(labels==1)[0])
+
+    return data, list(labels)
+
 
   @staticmethod
   def data_to_barchart(data):
@@ -136,8 +118,8 @@ class Figure3:
 
     piechart = np.zeros((100,100), dtype=bool)
     RADIUS = 30
-    rr,cc = skimage.draw.circle_perimeter(50,50,RADIUS)
-    piechart[rr,cc] = 1
+    # rr,cc = skimage.draw.circle_perimeter(50,50,RADIUS)
+    # piechart[rr,cc] = 1
     random_direction = np.random.randint(360)
     theta = -(np.pi / 180.0) * random_direction
     END = (LENGTH - RADIUS * np.cos(theta), LENGTH - RADIUS * np.sin(theta))

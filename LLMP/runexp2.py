@@ -11,20 +11,19 @@ class Runexp2:
         
         self.queries = {
             "pie": (
-                "Find the largest slice marked with a dot in the pie chart. "
-                "Calculate the percentage of each slice, so all values are between 3 and 39 and add up to 100. "
-                "Label the largest slice as 1. "
-                "List the five values starting from the marked slice, moving counter-clockwise. "
-                "Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each slice. "
-                "No explanation needed."
+                "First, make a list of five values where each value is between 3 and 39, and all values add up to 100. "
+                "Next, divide each value in the list by the largest value, so the largest becomes 1.0. "
+                "Place the largest value (1.0) as the first item in the list. "
+                "Then, arrange the other values by going counter-clockwise around the pie starting from the slice marked 1.0. "
+                "Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the normalized percentage of each slice. No explanation needed."
             ),
+            
             "bar": (
-                "Find the largest bar marked with a dot in the bar chart. "
-                "Calculate the percentage of each bar, so all values are between 3 and 39 and add up to 100. "
-                "Label the largest bar as 1. "
-                "List the five values starting from the marked bar, moving left to right. "
-                "Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the percentage of each bar. "
-                "No explanation needed."
+                "First, make a list of five values where each value is between 3 and 39, and all values add up to 100. "
+                "Next, divide each value in the list by the largest value, so the largest becomes 1.0. "
+                "Place the largest value (1.0) as the first item in the list. "
+                "Then, arrange the other values by moving left to right along the bar chart starting from the bar marked 1.0. "
+                "Format the answer as [1.0, 0.00, 0.00, 0.00, 0.0], where each number is the normalized percentage of each bar. No explanation needed."
             )
         }
 
