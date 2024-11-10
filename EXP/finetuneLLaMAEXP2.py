@@ -17,7 +17,7 @@ from pytorch_lightning.loggers import CSVLogger
 # Paths
 
 # Define the base directory once
-BASE_DIR = '/home/huuthanhvy.nguyen001/tmp/LLMP/EXP/finetuning-EXP2-5000-5epochs' 
+BASE_DIR = '/home/huuthanhvy.nguyen001/tmp/LLMP/EXP/finetuning-EXP2-5000-5epochs-prompt' 
 
 # Use BASE_DIR to define the other paths
 DATA_DIR = os.path.join(BASE_DIR, 'json')

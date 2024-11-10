@@ -1,827 +1,827 @@
 model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
-CustomLLaMA,run_0,EXP1-Results/length/length_image_1.png,49.0,"user
+CustomLLaMA,run_0,EXP1-Results/length/length_image_1.png,15.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,946.2840557098389
-CustomLLaMA,run_0,EXP1-Results/length/length_image_2.png,27.0,"user
+0.20",0.0,962.8949165344238
+CustomLLaMA,run_0,EXP1-Results/length/length_image_2.png,8.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-28.0",0.0,427.43563652038574
-CustomLLaMA,run_0,EXP1-Results/length/length_image_3.png,3.0,"user
+0.0",0.0,417.5684452056885
+CustomLLaMA,run_0,EXP1-Results/length/length_image_3.png,48.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-2.0",0.0,425.0166416168213
-CustomLLaMA,run_0,EXP1-Results/length/length_image_4.png,47.0,"user
+0.58",0.0,429.06928062438965
+CustomLLaMA,run_0,EXP1-Results/length/length_image_4.png,44.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,423.92468452453613
-CustomLLaMA,run_0,EXP1-Results/length/length_image_5.png,57.0,"user
+0.47",0.0,421.6117858886719
+CustomLLaMA,run_0,EXP1-Results/length/length_image_5.png,16.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,427.08301544189453
-CustomLLaMA,run_0,EXP1-Results/length/length_image_6.png,24.0,"user
+0.0",0.0,421.7824935913086
+CustomLLaMA,run_0,EXP1-Results/length/length_image_6.png,27.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,424.3927001953125
-CustomLLaMA,run_0,EXP1-Results/length/length_image_7.png,14.0,"user
+0.32",0.0,420.3977584838867
+CustomLLaMA,run_0,EXP1-Results/length/length_image_7.png,40.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-13.0",0.0,423.8617420196533
-CustomLLaMA,run_0,EXP1-Results/length/length_image_8.png,16.0,"user
+42.0",0.0,425.9617328643799
+CustomLLaMA,run_0,EXP1-Results/length/length_image_8.png,18.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-16.0",0.0,423.5837459564209
-CustomLLaMA,run_0,EXP1-Results/length/length_image_9.png,17.0,"user
+0.0",0.0,458.23192596435547
+CustomLLaMA,run_0,EXP1-Results/length/length_image_9.png,56.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-18.0",0.0,425.8887767791748
-CustomLLaMA,run_0,EXP1-Results/length/length_image_10.png,56.0,"user
+0.59",0.0,429.1832447052002
+CustomLLaMA,run_0,EXP1-Results/length/length_image_10.png,19.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,420.45140266418457
-CustomLLaMA,run_0,EXP1-Results/length/length_image_11.png,45.0,"user
+0.0",0.0,425.3547191619873
+CustomLLaMA,run_0,EXP1-Results/length/length_image_11.png,4.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,436.7239475250244
-CustomLLaMA,run_0,EXP1-Results/length/length_image_12.png,56.0,"user
+0.0",0.0,417.80781745910645
+CustomLLaMA,run_0,EXP1-Results/length/length_image_12.png,31.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,423.50053787231445
+0.36",0.0,435.4135990142822
 CustomLLaMA,run_0,EXP1-Results/length/length_image_13.png,50.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,434.6628189086914
-CustomLLaMA,run_0,EXP1-Results/length/length_image_14.png,56.0,"user
+0.59",0.0,419.6958541870117
+CustomLLaMA,run_0,EXP1-Results/length/length_image_14.png,42.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,421.68736457824707
-CustomLLaMA,run_0,EXP1-Results/length/length_image_15.png,18.0,"user
+0.47",0.0,422.9130744934082
+CustomLLaMA,run_0,EXP1-Results/length/length_image_15.png,11.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-18.0",0.0,421.80776596069336
-CustomLLaMA,run_0,EXP1-Results/length/length_image_16.png,53.0,"user
+0.0",0.0,420.58873176574707
+CustomLLaMA,run_0,EXP1-Results/length/length_image_16.png,34.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,440.4451847076416
-CustomLLaMA,run_0,EXP1-Results/length/length_image_17.png,46.0,"user
+42.0",0.0,424.3772029876709
+CustomLLaMA,run_0,EXP1-Results/length/length_image_17.png,5.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,425.11820793151855
+0.0",0.0,423.73204231262207
 CustomLLaMA,run_0,EXP1-Results/length/length_image_18.png,38.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-40.0",0.0,474.5779037475586
-CustomLLaMA,run_0,EXP1-Results/length/length_image_19.png,4.0,"user
+43.0",0.0,418.5595512390137
+CustomLLaMA,run_0,EXP1-Results/length/length_image_19.png,55.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-3.0",0.0,423.7239360809326
-CustomLLaMA,run_0,EXP1-Results/length/length_image_20.png,5.0,"user
+0.57",0.0,424.4346618652344
+CustomLLaMA,run_0,EXP1-Results/length/length_image_20.png,57.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-4.0",0.0,431.5340518951416
-CustomLLaMA,run_0,EXP1-Results/length/length_image_21.png,53.0,"user
+0.52",0.0,418.6239242553711
+CustomLLaMA,run_0,EXP1-Results/length/length_image_21.png,12.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,426.9716739654541
-CustomLLaMA,run_0,EXP1-Results/length/length_image_22.png,45.0,"user
+0.0",0.0,419.35229301452637
+CustomLLaMA,run_0,EXP1-Results/length/length_image_22.png,3.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,424.668550491333
-CustomLLaMA,run_0,EXP1-Results/length/length_image_23.png,22.0,"user
+0.0",0.0,418.9786911010742
+CustomLLaMA,run_0,EXP1-Results/length/length_image_23.png,18.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,434.2496395111084
-CustomLLaMA,run_0,EXP1-Results/length/length_image_24.png,33.0,"user
+0.23",0.0,420.32432556152344
+CustomLLaMA,run_0,EXP1-Results/length/length_image_24.png,21.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,425.9202480316162
-CustomLLaMA,run_0,EXP1-Results/length/length_image_25.png,24.0,"user
+0.25",0.0,426.5594482421875
+CustomLLaMA,run_0,EXP1-Results/length/length_image_25.png,51.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,431.4858913421631
-CustomLLaMA,run_0,EXP1-Results/length/length_image_26.png,19.0,"user
+0.49",0.0,418.15805435180664
+CustomLLaMA,run_0,EXP1-Results/length/length_image_26.png,6.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-20.0",0.0,422.4669933319092
-CustomLLaMA,run_0,EXP1-Results/length/length_image_27.png,41.0,"user
+0.0",0.0,419.37708854675293
+CustomLLaMA,run_0,EXP1-Results/length/length_image_27.png,34.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-42.0",0.0,428.14111709594727
-CustomLLaMA,run_0,EXP1-Results/length/length_image_28.png,55.0,"user
+42.0",0.0,432.192325592041
+CustomLLaMA,run_0,EXP1-Results/length/length_image_28.png,5.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,423.99024963378906
-CustomLLaMA,run_0,EXP1-Results/length/length_image_29.png,60.0,"user
+0.0",0.0,419.8014736175537
+CustomLLaMA,run_0,EXP1-Results/length/length_image_29.png,44.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,428.05933952331543
-CustomLLaMA,run_0,EXP1-Results/length/length_image_30.png,3.0,"user
+0.49",0.0,428.5449981689453
+CustomLLaMA,run_0,EXP1-Results/length/length_image_30.png,48.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-2.0",0.0,425.23956298828125
-CustomLLaMA,run_0,EXP1-Results/length/length_image_31.png,56.0,"user
+0.59",0.0,481.9314479827881
+CustomLLaMA,run_0,EXP1-Results/length/length_image_31.png,55.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,428.09033393859863
-CustomLLaMA,run_0,EXP1-Results/length/length_image_32.png,37.0,"user
+0.59",0.0,427.6440143585205
+CustomLLaMA,run_0,EXP1-Results/length/length_image_32.png,1.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-40.0",0.0,429.58736419677734
-CustomLLaMA,run_0,EXP1-Results/length/length_image_33.png,53.0,"user
+0.0",0.0,417.4215793609619
+CustomLLaMA,run_0,EXP1-Results/length/length_image_33.png,56.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,424.49259757995605
-CustomLLaMA,run_0,EXP1-Results/length/length_image_34.png,29.0,"user
+0.57",0.0,425.4271984100342
+CustomLLaMA,run_0,EXP1-Results/length/length_image_34.png,14.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,433.91871452331543
-CustomLLaMA,run_0,EXP1-Results/length/length_image_35.png,6.0,"user
+0.0",0.0,418.8220500946045
+CustomLLaMA,run_0,EXP1-Results/length/length_image_35.png,38.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-8.0",0.0,615.8268451690674
-CustomLLaMA,run_0,EXP1-Results/length/length_image_36.png,54.0,"user
+42.0",0.0,421.88024520874023
+CustomLLaMA,run_0,EXP1-Results/length/length_image_36.png,56.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,429.9919605255127
-CustomLLaMA,run_0,EXP1-Results/length/length_image_37.png,34.0,"user
+0.0",0.0,439.96429443359375
+CustomLLaMA,run_0,EXP1-Results/length/length_image_37.png,13.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,424.7579574584961
-CustomLLaMA,run_0,EXP1-Results/length/length_image_38.png,1.0,"user
+0.0",0.0,426.26118659973145
+CustomLLaMA,run_0,EXP1-Results/length/length_image_38.png,23.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-1.0",0.0,427.66880989074707
-CustomLLaMA,run_0,EXP1-Results/length/length_image_39.png,28.0,"user
+0.30",0.0,422.27673530578613
+CustomLLaMA,run_0,EXP1-Results/length/length_image_39.png,44.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-30.0",0.0,422.3453998565674
-CustomLLaMA,run_0,EXP1-Results/length/length_image_40.png,42.0,"user
+0.52",0.0,425.182580947876
+CustomLLaMA,run_0,EXP1-Results/length/length_image_40.png,29.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-42.0",0.0,431.28108978271484
-CustomLLaMA,run_0,EXP1-Results/length/length_image_41.png,60.0,"user
+36.0",0.0,425.08578300476074
+CustomLLaMA,run_0,EXP1-Results/length/length_image_41.png,19.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,423.38061332702637
-CustomLLaMA,run_0,EXP1-Results/length/length_image_42.png,9.0,"user
+0.0",0.0,421.63610458374023
+CustomLLaMA,run_0,EXP1-Results/length/length_image_42.png,28.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,424.2887496948242
-CustomLLaMA,run_0,EXP1-Results/length/length_image_43.png,10.0,"user
+36.0",0.0,430.6347370147705
+CustomLLaMA,run_0,EXP1-Results/length/length_image_43.png,60.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,430.16862869262695
-CustomLLaMA,run_0,EXP1-Results/length/length_image_44.png,17.0,"user
+0.0",0.0,492.1298027038574
+CustomLLaMA,run_0,EXP1-Results/length/length_image_44.png,16.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-16.0",0.0,424.23224449157715
-CustomLLaMA,run_0,EXP1-Results/length/length_image_45.png,23.0,"user
+0.0",0.0,451.66707038879395
+CustomLLaMA,run_0,EXP1-Results/length/length_image_45.png,39.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,429.63290214538574
-CustomLLaMA,run_0,EXP1-Results/length/length_image_46.png,51.0,"user
+43.0",0.0,428.64418029785156
+CustomLLaMA,run_0,EXP1-Results/length/length_image_46.png,1.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,421.99230194091797
-CustomLLaMA,run_0,EXP1-Results/length/length_image_47.png,12.0,"user
+0.0",0.0,428.3714294433594
+CustomLLaMA,run_0,EXP1-Results/length/length_image_47.png,49.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,429.09693717956543
-CustomLLaMA,run_0,EXP1-Results/length/length_image_48.png,27.0,"user
+0.58",0.0,418.3804988861084
+CustomLLaMA,run_0,EXP1-Results/length/length_image_48.png,2.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-28.0",0.0,426.6467094421387
-CustomLLaMA,run_0,EXP1-Results/length/length_image_49.png,11.0,"user
+0.0",0.0,420.29476165771484
+CustomLLaMA,run_0,EXP1-Results/length/length_image_49.png,1.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,428.04527282714844
-CustomLLaMA,run_0,EXP1-Results/length/length_image_50.png,29.0,"user
+0.0",0.0,426.97978019714355
+CustomLLaMA,run_0,EXP1-Results/length/length_image_50.png,8.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,426.485538482666
-CustomLLaMA,run_0,EXP1-Results/length/length_image_51.png,9.0,"user
+0.0",0.0,422.2896099090576
+CustomLLaMA,run_0,EXP1-Results/length/length_image_51.png,23.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,421.6907024383545
-CustomLLaMA,run_0,EXP1-Results/length/length_image_52.png,31.0,"user
+0.30",0.0,420.85933685302734
+CustomLLaMA,run_0,EXP1-Results/length/length_image_52.png,36.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,416.8572425842285
-CustomLLaMA,run_0,EXP1-Results/length/length_image_53.png,25.0,"user
+37.0",0.0,424.0102767944336
+CustomLLaMA,run_0,EXP1-Results/length/length_image_53.png,29.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-26.0",0.0,424.78227615356445
-CustomLLaMA,run_0,EXP1-Results/length/length_image_54.png,1.0,"user
+0.37",0.0,446.06614112854004
+CustomLLaMA,run_0,EXP1-Results/length/length_image_54.png,48.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-1.0",0.0,428.164005279541
-CustomLLaMA,run_0,EXP1-Results/length/length_image_55.png,9.0,"user
+0.53.57",0.0,510.7448101043701
+CustomLLaMA,run_0,EXP1-Results/length/length_image_55.png,10.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,424.5941638946533
-CustomLLaMA,run_1,EXP1-Results/length/length_image_1.png,49.0,"user
+0.0",0.0,430.32193183898926
+CustomLLaMA,run_1,EXP1-Results/length/length_image_1.png,15.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,423.16603660583496
-CustomLLaMA,run_1,EXP1-Results/length/length_image_2.png,27.0,"user
+0.0",0.0,416.51082038879395
+CustomLLaMA,run_1,EXP1-Results/length/length_image_2.png,8.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-30.0",0.0,429.20494079589844
-CustomLLaMA,run_1,EXP1-Results/length/length_image_3.png,3.0,"user
+0.0",0.0,417.574405670166
+CustomLLaMA,run_1,EXP1-Results/length/length_image_3.png,48.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-2.0",0.0,429.53038215637207
-CustomLLaMA,run_1,EXP1-Results/length/length_image_4.png,47.0,"user
+0.49",0.0,418.06840896606445
+CustomLLaMA,run_1,EXP1-Results/length/length_image_4.png,44.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,426.49006843566895
-CustomLLaMA,run_1,EXP1-Results/length/length_image_5.png,57.0,"user
+0.49",0.0,436.7327690124512
+CustomLLaMA,run_1,EXP1-Results/length/length_image_5.png,16.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,424.71885681152344
-CustomLLaMA,run_1,EXP1-Results/length/length_image_6.png,24.0,"user
+0.0",0.0,424.7918128967285
+CustomLLaMA,run_1,EXP1-Results/length/length_image_6.png,27.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,434.39364433288574
-CustomLLaMA,run_1,EXP1-Results/length/length_image_7.png,14.0,"user
+0.31",0.0,416.93949699401855
+CustomLLaMA,run_1,EXP1-Results/length/length_image_7.png,40.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-13.0",0.0,454.2524814605713
-CustomLLaMA,run_1,EXP1-Results/length/length_image_8.png,16.0,"user
+0.47",0.0,422.8973388671875
+CustomLLaMA,run_1,EXP1-Results/length/length_image_8.png,18.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-16.0",0.0,420.4132556915283
-CustomLLaMA,run_1,EXP1-Results/length/length_image_9.png,17.0,"user
+0.0",0.0,432.7549934387207
+CustomLLaMA,run_1,EXP1-Results/length/length_image_9.png,56.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-18.0",0.0,421.8332767486572
-CustomLLaMA,run_1,EXP1-Results/length/length_image_10.png,56.0,"user
+0.58",0.0,418.99943351745605
+CustomLLaMA,run_1,EXP1-Results/length/length_image_10.png,19.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,428.32136154174805
-CustomLLaMA,run_1,EXP1-Results/length/length_image_11.png,45.0,"user
+0.0",0.0,422.1234321594238
+CustomLLaMA,run_1,EXP1-Results/length/length_image_11.png,4.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,423.10214042663574
-CustomLLaMA,run_1,EXP1-Results/length/length_image_12.png,56.0,"user
+0.0",0.0,431.7662715911865
+CustomLLaMA,run_1,EXP1-Results/length/length_image_12.png,31.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,426.1751174926758
+34.0",0.0,422.26624488830566
 CustomLLaMA,run_1,EXP1-Results/length/length_image_13.png,50.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,427.42466926574707
-CustomLLaMA,run_1,EXP1-Results/length/length_image_14.png,56.0,"user
+0.49",0.0,425.00901222229004
+CustomLLaMA,run_1,EXP1-Results/length/length_image_14.png,42.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,423.02918434143066
-CustomLLaMA,run_1,EXP1-Results/length/length_image_15.png,18.0,"user
+0.43",0.0,425.91214179992676
+CustomLLaMA,run_1,EXP1-Results/length/length_image_15.png,11.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-18.0",0.0,429.6739101409912
-CustomLLaMA,run_1,EXP1-Results/length/length_image_16.png,53.0,"user
+0.0",0.0,418.2894229888916
+CustomLLaMA,run_1,EXP1-Results/length/length_image_16.png,34.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,422.4681854248047
-CustomLLaMA,run_1,EXP1-Results/length/length_image_17.png,46.0,"user
+0.36",0.0,420.29857635498047
+CustomLLaMA,run_1,EXP1-Results/length/length_image_17.png,5.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,433.1774711608887
+0.0",0.0,419.51656341552734
 CustomLLaMA,run_1,EXP1-Results/length/length_image_18.png,38.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-40.0",0.0,424.67665672302246
-CustomLLaMA,run_1,EXP1-Results/length/length_image_19.png,4.0,"user
+42.0",0.0,418.8961982727051
+CustomLLaMA,run_1,EXP1-Results/length/length_image_19.png,55.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-3.0",0.0,433.7136745452881
-CustomLLaMA,run_1,EXP1-Results/length/length_image_20.png,5.0,"user
+0.58",0.0,434.3264102935791
+CustomLLaMA,run_1,EXP1-Results/length/length_image_20.png,57.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-4.0",0.0,423.8307476043701
-CustomLLaMA,run_1,EXP1-Results/length/length_image_21.png,53.0,"user
+0.0",0.0,429.88061904907227
+CustomLLaMA,run_1,EXP1-Results/length/length_image_21.png,12.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,422.1773147583008
-CustomLLaMA,run_1,EXP1-Results/length/length_image_22.png,45.0,"user
+0.0",0.0,445.33848762512207
+CustomLLaMA,run_1,EXP1-Results/length/length_image_22.png,3.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,434.2224597930908
-CustomLLaMA,run_1,EXP1-Results/length/length_image_23.png,22.0,"user
+0.0",0.0,413.8145446777344
+CustomLLaMA,run_1,EXP1-Results/length/length_image_23.png,18.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,423.51555824279785
-CustomLLaMA,run_1,EXP1-Results/length/length_image_24.png,33.0,"user
+0.0",0.0,426.6824722290039
+CustomLLaMA,run_1,EXP1-Results/length/length_image_24.png,21.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,433.8951110839844
-CustomLLaMA,run_1,EXP1-Results/length/length_image_25.png,24.0,"user
+0.26",0.0,420.9921360015869
+CustomLLaMA,run_1,EXP1-Results/length/length_image_25.png,51.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,423.67053031921387
-CustomLLaMA,run_1,EXP1-Results/length/length_image_26.png,19.0,"user
+0.49",0.0,424.09634590148926
+CustomLLaMA,run_1,EXP1-Results/length/length_image_26.png,6.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-20.0",0.0,436.1238479614258
-CustomLLaMA,run_1,EXP1-Results/length/length_image_27.png,41.0,"user
+0.0",0.0,432.45434761047363
+CustomLLaMA,run_1,EXP1-Results/length/length_image_27.png,34.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-42.0",0.0,426.0258674621582
-CustomLLaMA,run_1,EXP1-Results/length/length_image_28.png,55.0,"user
+37.0",0.0,420.56727409362793
+CustomLLaMA,run_1,EXP1-Results/length/length_image_28.png,5.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,426.6657829284668
-CustomLLaMA,run_1,EXP1-Results/length/length_image_29.png,60.0,"user
+0.0",0.0,424.18551445007324
+CustomLLaMA,run_1,EXP1-Results/length/length_image_29.png,44.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,436.4664554595947
-CustomLLaMA,run_1,EXP1-Results/length/length_image_30.png,3.0,"user
+0.49",0.0,420.48120498657227
+CustomLLaMA,run_1,EXP1-Results/length/length_image_30.png,48.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-2.0",0.0,415.33851623535156
-CustomLLaMA,run_1,EXP1-Results/length/length_image_31.png,56.0,"user
+0.49",0.0,418.7469482421875
+CustomLLaMA,run_1,EXP1-Results/length/length_image_31.png,55.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,457.55934715270996
-CustomLLaMA,run_1,EXP1-Results/length/length_image_32.png,37.0,"user
+0.58",0.0,425.74143409729004
+CustomLLaMA,run_1,EXP1-Results/length/length_image_32.png,1.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-40.0",0.0,422.64318466186523
-CustomLLaMA,run_1,EXP1-Results/length/length_image_33.png,53.0,"user
+0.0",0.0,423.25592041015625
+CustomLLaMA,run_1,EXP1-Results/length/length_image_33.png,56.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,430.7236671447754
-CustomLLaMA,run_1,EXP1-Results/length/length_image_34.png,29.0,"user
+0.58",0.0,419.1904067993164
+CustomLLaMA,run_1,EXP1-Results/length/length_image_34.png,14.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,422.62768745422363
-CustomLLaMA,run_1,EXP1-Results/length/length_image_35.png,6.0,"user
+0.0",0.0,425.7841110229492
+CustomLLaMA,run_1,EXP1-Results/length/length_image_35.png,38.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-8.0",0.0,426.0284900665283
-CustomLLaMA,run_1,EXP1-Results/length/length_image_36.png,54.0,"user
+0.41",0.0,419.82388496398926
+CustomLLaMA,run_1,EXP1-Results/length/length_image_36.png,56.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,425.9803295135498
-CustomLLaMA,run_1,EXP1-Results/length/length_image_37.png,34.0,"user
+0.58",0.0,419.9986457824707
+CustomLLaMA,run_1,EXP1-Results/length/length_image_37.png,13.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-34.0",0.0,425.94122886657715
-CustomLLaMA,run_1,EXP1-Results/length/length_image_38.png,1.0,"user
+0.0",0.0,420.7141399383545
+CustomLLaMA,run_1,EXP1-Results/length/length_image_38.png,23.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-1.0",0.0,425.2045154571533
-CustomLLaMA,run_1,EXP1-Results/length/length_image_39.png,28.0,"user
+0.29",0.0,419.8317527770996
+CustomLLaMA,run_1,EXP1-Results/length/length_image_39.png,44.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-30.0",0.0,422.42431640625
-CustomLLaMA,run_1,EXP1-Results/length/length_image_40.png,42.0,"user
+47.0",0.0,422.1198558807373
+CustomLLaMA,run_1,EXP1-Results/length/length_image_40.png,29.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-44.0",0.0,426.1631965637207
-CustomLLaMA,run_1,EXP1-Results/length/length_image_41.png,60.0,"user
+0.37",0.0,418.20359230041504
+CustomLLaMA,run_1,EXP1-Results/length/length_image_41.png,19.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,422.5330352783203
-CustomLLaMA,run_1,EXP1-Results/length/length_image_42.png,9.0,"user
+0.0",0.0,421.37622833251953
+CustomLLaMA,run_1,EXP1-Results/length/length_image_42.png,28.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,428.922176361084
-CustomLLaMA,run_1,EXP1-Results/length/length_image_43.png,10.0,"user
+37.0",0.0,438.7688636779785
+CustomLLaMA,run_1,EXP1-Results/length/length_image_43.png,60.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-13.0",0.0,424.1528511047363
-CustomLLaMA,run_1,EXP1-Results/length/length_image_44.png,17.0,"user
+0.51",0.0,425.66943168640137
+CustomLLaMA,run_1,EXP1-Results/length/length_image_44.png,16.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-18.0",0.0,430.511474609375
-CustomLLaMA,run_1,EXP1-Results/length/length_image_45.png,23.0,"user
+0.0",0.0,474.95341300964355
+CustomLLaMA,run_1,EXP1-Results/length/length_image_45.png,39.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,426.11193656921387
-CustomLLaMA,run_1,EXP1-Results/length/length_image_46.png,51.0,"user
+44.0",0.0,411.25941276550293
+CustomLLaMA,run_1,EXP1-Results/length/length_image_46.png,1.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-50.0",0.0,422.79863357543945
-CustomLLaMA,run_1,EXP1-Results/length/length_image_47.png,12.0,"user
+0.0",0.0,421.1421012878418
+CustomLLaMA,run_1,EXP1-Results/length/length_image_47.png,49.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,430.3474426269531
-CustomLLaMA,run_1,EXP1-Results/length/length_image_48.png,27.0,"user
+0.47",0.0,418.98155212402344
+CustomLLaMA,run_1,EXP1-Results/length/length_image_48.png,2.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-30.0",0.0,421.3418960571289
-CustomLLaMA,run_1,EXP1-Results/length/length_image_49.png,11.0,"user
+0.0",0.0,422.49274253845215
+CustomLLaMA,run_1,EXP1-Results/length/length_image_49.png,1.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,427.6461601257324
-CustomLLaMA,run_1,EXP1-Results/length/length_image_50.png,29.0,"user
+0.0",0.0,417.67144203186035
+CustomLLaMA,run_1,EXP1-Results/length/length_image_50.png,8.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,428.47466468811035
-CustomLLaMA,run_1,EXP1-Results/length/length_image_51.png,9.0,"user
+0.0",0.0,421.99206352233887
+CustomLLaMA,run_1,EXP1-Results/length/length_image_51.png,23.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,427.26659774780273
-CustomLLaMA,run_1,EXP1-Results/length/length_image_52.png,31.0,"user
+0.32",0.0,437.79945373535156
+CustomLLaMA,run_1,EXP1-Results/length/length_image_52.png,36.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,471.17042541503906
-CustomLLaMA,run_1,EXP1-Results/length/length_image_53.png,25.0,"user
+40.0",0.0,424.4110584259033
+CustomLLaMA,run_1,EXP1-Results/length/length_image_53.png,29.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-26.0",0.0,424.0224361419678
-CustomLLaMA,run_1,EXP1-Results/length/length_image_54.png,1.0,"user
+0.31",0.0,422.0731258392334
+CustomLLaMA,run_1,EXP1-Results/length/length_image_54.png,48.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-1.0",0.0,428.9994239807129
-CustomLLaMA,run_1,EXP1-Results/length/length_image_55.png,9.0,"user
+0.49",0.0,420.9628105163574
+CustomLLaMA,run_1,EXP1-Results/length/length_image_55.png,10.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,420.6972122192383
-CustomLLaMA,run_2,EXP1-Results/length/length_image_1.png,49.0,"user
+0.0",0.0,420.4835891723633
+CustomLLaMA,run_2,EXP1-Results/length/length_image_1.png,15.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-50.0",0.0,428.7095069885254
-CustomLLaMA,run_2,EXP1-Results/length/length_image_2.png,27.0,"user
+0.0",0.0,416.20492935180664
+CustomLLaMA,run_2,EXP1-Results/length/length_image_2.png,8.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-28.0",0.0,425.49633979797363
-CustomLLaMA,run_2,EXP1-Results/length/length_image_3.png,3.0,"user
+0.0",0.0,431.3168525695801
+CustomLLaMA,run_2,EXP1-Results/length/length_image_3.png,48.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-2.0",0.0,429.0657043457031
-CustomLLaMA,run_2,EXP1-Results/length/length_image_4.png,47.0,"user
+0.57",0.0,421.42462730407715
+CustomLLaMA,run_2,EXP1-Results/length/length_image_4.png,44.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,427.54268646240234
-CustomLLaMA,run_2,EXP1-Results/length/length_image_5.png,57.0,"user
+0.46",0.0,425.5812168121338
+CustomLLaMA,run_2,EXP1-Results/length/length_image_5.png,16.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,421.56004905700684
-CustomLLaMA,run_2,EXP1-Results/length/length_image_6.png,24.0,"user
+0.0",0.0,427.020788192749
+CustomLLaMA,run_2,EXP1-Results/length/length_image_6.png,27.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,430.0038814544678
-CustomLLaMA,run_2,EXP1-Results/length/length_image_7.png,14.0,"user
+0.36",0.0,420.0325012207031
+CustomLLaMA,run_2,EXP1-Results/length/length_image_7.png,40.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-13.0",0.0,425.3840446472168
-CustomLLaMA,run_2,EXP1-Results/length/length_image_8.png,16.0,"user
+46.0",0.0,420.9117889404297
+CustomLLaMA,run_2,EXP1-Results/length/length_image_8.png,18.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-16.0",0.0,432.0387840270996
-CustomLLaMA,run_2,EXP1-Results/length/length_image_9.png,17.0,"user
+0.23",0.0,421.2837219238281
+CustomLLaMA,run_2,EXP1-Results/length/length_image_9.png,56.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-20.0",0.0,419.8269844055176
-CustomLLaMA,run_2,EXP1-Results/length/length_image_10.png,56.0,"user
+0.0",0.0,421.3597774505615
+CustomLLaMA,run_2,EXP1-Results/length/length_image_10.png,19.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,435.57190895080566
-CustomLLaMA,run_2,EXP1-Results/length/length_image_11.png,45.0,"user
+0.23",0.0,421.07129096984863
+CustomLLaMA,run_2,EXP1-Results/length/length_image_11.png,4.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,421.95940017700195
-CustomLLaMA,run_2,EXP1-Results/length/length_image_12.png,56.0,"user
+0.0",0.0,471.24528884887695
+CustomLLaMA,run_2,EXP1-Results/length/length_image_12.png,31.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,428.70187759399414
+36.0",0.0,423.2773780822754
 CustomLLaMA,run_2,EXP1-Results/length/length_image_13.png,50.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,425.70996284484863
-CustomLLaMA,run_2,EXP1-Results/length/length_image_14.png,56.0,"user
+0.49",0.0,421.4465618133545
+CustomLLaMA,run_2,EXP1-Results/length/length_image_14.png,42.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,565.697431564331
-CustomLLaMA,run_2,EXP1-Results/length/length_image_15.png,18.0,"user
+0.49",0.0,538.1805896759033
+CustomLLaMA,run_2,EXP1-Results/length/length_image_15.png,11.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-18.0",0.0,416.31603240966797
-CustomLLaMA,run_2,EXP1-Results/length/length_image_16.png,53.0,"user
+0.0",0.0,455.8842182159424
+CustomLLaMA,run_2,EXP1-Results/length/length_image_16.png,34.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,425.02522468566895
-CustomLLaMA,run_2,EXP1-Results/length/length_image_17.png,46.0,"user
+41.0",0.0,426.9518852233887
+CustomLLaMA,run_2,EXP1-Results/length/length_image_17.png,5.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,424.69096183776855
+0.0",0.0,420.73583602905273
 CustomLLaMA,run_2,EXP1-Results/length/length_image_18.png,38.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-40.0",0.0,420.86219787597656
-CustomLLaMA,run_2,EXP1-Results/length/length_image_19.png,4.0,"user
+42.0",0.0,428.8012981414795
+CustomLLaMA,run_2,EXP1-Results/length/length_image_19.png,55.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-3.0",0.0,454.09464836120605
-CustomLLaMA,run_2,EXP1-Results/length/length_image_20.png,5.0,"user
+0.58",0.0,416.6381359100342
+CustomLLaMA,run_2,EXP1-Results/length/length_image_20.png,57.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-4.0",0.0,429.57043647766113
-CustomLLaMA,run_2,EXP1-Results/length/length_image_21.png,53.0,"user
+0.49",0.0,422.95002937316895
+CustomLLaMA,run_2,EXP1-Results/length/length_image_21.png,12.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,425.16279220581055
-CustomLLaMA,run_2,EXP1-Results/length/length_image_22.png,45.0,"user
+0.0",0.0,419.28815841674805
+CustomLLaMA,run_2,EXP1-Results/length/length_image_22.png,3.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,421.0691452026367
-CustomLLaMA,run_2,EXP1-Results/length/length_image_23.png,22.0,"user
+0.0",0.0,425.6093502044678
+CustomLLaMA,run_2,EXP1-Results/length/length_image_23.png,18.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,425.57215690612793
-CustomLLaMA,run_2,EXP1-Results/length/length_image_24.png,33.0,"user
+0.22",0.0,421.3297367095947
+CustomLLaMA,run_2,EXP1-Results/length/length_image_24.png,21.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,430.50479888916016
-CustomLLaMA,run_2,EXP1-Results/length/length_image_25.png,24.0,"user
+0.30",0.0,419.5578098297119
+CustomLLaMA,run_2,EXP1-Results/length/length_image_25.png,51.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,425.6563186645508
-CustomLLaMA,run_2,EXP1-Results/length/length_image_26.png,19.0,"user
+0.47",0.0,421.71573638916016
+CustomLLaMA,run_2,EXP1-Results/length/length_image_26.png,6.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-20.0",0.0,429.48389053344727
-CustomLLaMA,run_2,EXP1-Results/length/length_image_27.png,41.0,"user
+0.0",0.0,421.53263092041016
+CustomLLaMA,run_2,EXP1-Results/length/length_image_27.png,34.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-44.0",0.0,423.04134368896484
-CustomLLaMA,run_2,EXP1-Results/length/length_image_28.png,55.0,"user
+0.37",0.0,425.32896995544434
+CustomLLaMA,run_2,EXP1-Results/length/length_image_28.png,5.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,428.5619258880615
-CustomLLaMA,run_2,EXP1-Results/length/length_image_29.png,60.0,"user
+0.0",0.0,426.21684074401855
+CustomLLaMA,run_2,EXP1-Results/length/length_image_29.png,44.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,425.16469955444336
-CustomLLaMA,run_2,EXP1-Results/length/length_image_30.png,3.0,"user
+0.48",0.0,418.14231872558594
+CustomLLaMA,run_2,EXP1-Results/length/length_image_30.png,48.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-2.0",0.0,424.3624210357666
-CustomLLaMA,run_2,EXP1-Results/length/length_image_31.png,56.0,"user
+0.52",0.0,422.4264621734619
+CustomLLaMA,run_2,EXP1-Results/length/length_image_31.png,55.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,421.01573944091797
-CustomLLaMA,run_2,EXP1-Results/length/length_image_32.png,37.0,"user
+0.56",0.0,422.4426746368408
+CustomLLaMA,run_2,EXP1-Results/length/length_image_32.png,1.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-40.0",0.0,431.92315101623535
-CustomLLaMA,run_2,EXP1-Results/length/length_image_33.png,53.0,"user
+0.0",0.0,431.7798614501953
+CustomLLaMA,run_2,EXP1-Results/length/length_image_33.png,56.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,423.07043075561523
-CustomLLaMA,run_2,EXP1-Results/length/length_image_34.png,29.0,"user
+0.58",0.0,424.29399490356445
+CustomLLaMA,run_2,EXP1-Results/length/length_image_34.png,14.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,429.8381805419922
-CustomLLaMA,run_2,EXP1-Results/length/length_image_35.png,6.0,"user
+0.0",0.0,427.7966022491455
+CustomLLaMA,run_2,EXP1-Results/length/length_image_35.png,38.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-7.0",0.0,423.39611053466797
-CustomLLaMA,run_2,EXP1-Results/length/length_image_36.png,54.0,"user
+42.0",0.0,461.63344383239746
+CustomLLaMA,run_2,EXP1-Results/length/length_image_36.png,56.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,422.8403568267822
-CustomLLaMA,run_2,EXP1-Results/length/length_image_37.png,34.0,"user
+0.55",0.0,427.5634288787842
+CustomLLaMA,run_2,EXP1-Results/length/length_image_37.png,13.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,430.39584159851074
-CustomLLaMA,run_2,EXP1-Results/length/length_image_38.png,1.0,"user
+0.0",0.0,421.94604873657227
+CustomLLaMA,run_2,EXP1-Results/length/length_image_38.png,23.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-1.0",0.0,425.6420135498047
-CustomLLaMA,run_2,EXP1-Results/length/length_image_39.png,28.0,"user
+0.30",0.0,418.5030460357666
+CustomLLaMA,run_2,EXP1-Results/length/length_image_39.png,44.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,425.6410598754883
-CustomLLaMA,run_2,EXP1-Results/length/length_image_40.png,42.0,"user
+0.45",0.0,425.9805679321289
+CustomLLaMA,run_2,EXP1-Results/length/length_image_40.png,29.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-42.0",0.0,422.57142066955566
-CustomLLaMA,run_2,EXP1-Results/length/length_image_41.png,60.0,"user
+0.36",0.0,418.0459976196289
+CustomLLaMA,run_2,EXP1-Results/length/length_image_41.png,19.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-52.0",0.0,425.13084411621094
-CustomLLaMA,run_2,EXP1-Results/length/length_image_42.png,9.0,"user
+0.0",0.0,422.3501682281494
+CustomLLaMA,run_2,EXP1-Results/length/length_image_42.png,28.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,447.2360610961914
-CustomLLaMA,run_2,EXP1-Results/length/length_image_43.png,10.0,"user
+37.0",0.0,416.5356159210205
+CustomLLaMA,run_2,EXP1-Results/length/length_image_43.png,60.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,420.0570583343506
-CustomLLaMA,run_2,EXP1-Results/length/length_image_44.png,17.0,"user
+0.58",0.0,416.7037010192871
+CustomLLaMA,run_2,EXP1-Results/length/length_image_44.png,16.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-18.0",0.0,498.05474281311035
-CustomLLaMA,run_2,EXP1-Results/length/length_image_45.png,23.0,"user
+0.0",0.0,418.23554039001465
+CustomLLaMA,run_2,EXP1-Results/length/length_image_45.png,39.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-22.0",0.0,426.84268951416016
-CustomLLaMA,run_2,EXP1-Results/length/length_image_46.png,51.0,"user
+0.41",0.0,425.48060417175293
+CustomLLaMA,run_2,EXP1-Results/length/length_image_46.png,1.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-48.0",0.0,441.27607345581055
-CustomLLaMA,run_2,EXP1-Results/length/length_image_47.png,12.0,"user
+0.0",0.0,427.81972885131836
+CustomLLaMA,run_2,EXP1-Results/length/length_image_47.png,49.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,423.71344566345215
-CustomLLaMA,run_2,EXP1-Results/length/length_image_48.png,27.0,"user
+0.58",0.0,417.0536994934082
+CustomLLaMA,run_2,EXP1-Results/length/length_image_48.png,2.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-30.0",0.0,423.1758117675781
-CustomLLaMA,run_2,EXP1-Results/length/length_image_49.png,11.0,"user
+0.0",0.0,428.2975196838379
+CustomLLaMA,run_2,EXP1-Results/length/length_image_49.png,1.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,426.30743980407715
-CustomLLaMA,run_2,EXP1-Results/length/length_image_50.png,29.0,"user
+0.0",0.0,424.44729804992676
+CustomLLaMA,run_2,EXP1-Results/length/length_image_50.png,8.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,430.79233169555664
-CustomLLaMA,run_2,EXP1-Results/length/length_image_51.png,9.0,"user
+0.0",0.0,418.2307720184326
+CustomLLaMA,run_2,EXP1-Results/length/length_image_51.png,23.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,424.8478412628174
-CustomLLaMA,run_2,EXP1-Results/length/length_image_52.png,31.0,"user
+0.30",0.0,426.0094165802002
+CustomLLaMA,run_2,EXP1-Results/length/length_image_52.png,36.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-32.0",0.0,426.93161964416504
-CustomLLaMA,run_2,EXP1-Results/length/length_image_53.png,25.0,"user
+40.0",0.0,424.94750022888184
+CustomLLaMA,run_2,EXP1-Results/length/length_image_53.png,29.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-26.0",0.0,425.8697032928467
-CustomLLaMA,run_2,EXP1-Results/length/length_image_54.png,1.0,"user
+0.36",0.0,416.32580757141113
+CustomLLaMA,run_2,EXP1-Results/length/length_image_54.png,48.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-1.0",0.0,423.048734664917
-CustomLLaMA,run_2,EXP1-Results/length/length_image_55.png,9.0,"user
+0.49",0.0,416.64886474609375
+CustomLLaMA,run_2,EXP1-Results/length/length_image_55.png,10.0,"user
 Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
 assistant
 
-12.0",0.0,432.2049617767334
+0.0",0.0,428.7269115447998
 CustomLLaMA,average,,,,,

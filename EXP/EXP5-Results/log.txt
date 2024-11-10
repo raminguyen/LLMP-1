@@ -1,3 +1,0 @@
-10 - Elapsed time: 338.52 seconds
-100 - Elapsed time: 290.23 seconds
-1000 - Elapsed time: 299.01 seconds

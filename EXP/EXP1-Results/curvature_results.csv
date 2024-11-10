@@ -1,827 +1,907 @@
 model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_1.png,0.006,"user
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_1.png,0.001,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.004",0.0,950.5295753479004
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_2.png,0.057,"user
+0.0",0.0,957.8285217285156
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_2.png,0.021,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.068",0.0,451.6746997833252
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_3.png,0.019,"user
+0._REF",0.0,430.462121963501
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_3.png,0.029,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.02",0.0,434.2668056488037
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_4.png,0.002,"user
+://.://.002",0.0,511.8598937988281
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_4.png,0.084,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.004",0.0,437.59965896606445
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_5.png,0.022,"user
+068",0.0,335.74628829956055
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_5.png,0.029,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.027",0.0,428.3099174499512
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_6.png,0.082,"user
+://.://assistant
+
+://.://000000000000000001",0.0,960.2389335632324
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_6.png,0.076,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.083",0.0,428.2646179199219
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_7.png,0.072,"user
+72.://",0.0,419.7087287902832
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_7.png,0.087,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.072",0.0,432.39450454711914
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_8.png,0.074,"user
+81.://",0.0,419.94714736938477
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_8.png,0.022,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.076",0.0,427.27184295654297
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_9.png,0.01,"user
+://.://000000000000000001",0.0,689.3041133880615
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_9.png,0.046,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.008",0.0,430.6952953338623
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_10.png,0.064,"user
+://.://.000000000000000001",0.0,736.217737197876
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_10.png,0.074,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.067",0.0,424.32498931884766
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_11.png,0.003,"user
+61.://",0.0,478.72447967529297
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_11.png,0.068,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.006",0.0,431.6098690032959
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_12.png,0.06,"user
+64.://",0.0,413.4645462036133
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_12.png,0.078,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.069",0.0,428.9124011993408
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_13.png,0.031,"user
+://.://www.000000000000000001",0.0,779.4070243835449
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_13.png,0.012,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.039",0.0,425.875186920166
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_14.png,0.038,"user
+0.0",0.0,419.1434383392334
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_14.png,0.076,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,429.2867183685303
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_15.png,0.023,"user
+061.://",0.0,427.33216285705566
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_15.png,0.044,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.028",0.0,431.34379386901855
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_16.png,0.067,"user
+://.://000000000000000002",0.0,700.0277042388916
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_16.png,0.036,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.072",0.0,429.43549156188965
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_17.png,0.011,"user
+://.://000000000000000001",0.0,958.082914352417
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_17.png,0.087,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.008",0.0,432.46912956237793
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_18.png,0.039,"user
+86.://",0.0,420.05157470703125
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_18.png,0.0,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,433.9747428894043
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_19.png,0.008,"user
+0.0",0.0,426.79858207702637
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_19.png,0.047,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.008",0.0,428.5085201263428
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_20.png,0.034,"user
+0.://",0.0,425.3661632537842
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_20.png,0.081,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.039",0.0,434.6194267272949
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_21.png,0.004,"user
+82.://",0.0,423.73132705688477
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_21.png,0.003,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.007",0.0,424.90220069885254
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_22.png,0.04,"user
+0.0",0.0,425.2817630767822
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_22.png,0.05,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,426.5110492706299
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_23.png,0.011,"user
+://.://assistant
+
+0.046",0.0,696.1073875427246
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_23.png,0.027,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.008",0.0,429.9507141113281
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_24.png,0.047,"user
+://.://assistant
+
+://.://.019",0.0,787.0573997497559
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_24.png,0.069,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.049",0.0,429.01158332824707
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_25.png,0.008,"user
+68.://",0.0,421.75793647766113
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_25.png,0.077,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.008",0.0,457.8702449798584
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_26.png,0.063,"user
+://.://.037",0.0,515.9375667572021
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_26.png,0.052,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.064",0.0,450.9601593017578
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_27.png,0.048,"user
+://.://000000000000000001",0.0,962.3985290527344
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_27.png,0.086,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.049",0.0,495.7871437072754
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_28.png,0.032,"user
+77.://",0.0,427.9294013977051
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_28.png,0.003,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.038",0.0,424.7279167175293
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_29.png,0.069,"user
+0.0",0.0,423.7639904022217
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_29.png,0.019,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.074",0.0,434.27491188049316
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_30.png,0.039,"user
+://.://000000000000000001",0.0,703.5262584686279
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_30.png,0.076,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.038",0.0,432.91711807250977
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_31.png,0.026,"user
+://.://000000000000000001",0.0,693.4776306152344
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_31.png,0.003,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,430.13668060302734
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_32.png,0.046,"user
+0.0",0.0,421.28586769104004
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_32.png,0.066,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.041",0.0,425.12989044189453
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_33.png,0.041,"user
+://.://.037",0.0,507.854700088501
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_33.png,0.039,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.047",0.0,430.6774139404297
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_34.png,0.046,"user
+://.://assistant
+
+://.://assistant
+
+://.://assistant
+
+0.037",0.0,1242.582082748413
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_34.png,0.036,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.041",0.0,426.62620544433594
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_35.png,0.061,"user
+://.://000000000000000002",0.0,687.7496242523193
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_35.png,0.012,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.068",0.0,425.65250396728516
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_36.png,0.054,"user
+://.://000000000000000001",0.0,698.3096599578857
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_36.png,0.058,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.061",0.0,427.11400985717773
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_37.png,0.077,"user
+://.://000000000000000001",0.0,694.3137645721436
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_37.png,0.027,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.074.0",0.0,518.7153816223145
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_38.png,0.054,"user
+://.://assistant
+
+://.://000000000000000001",0.0,961.174726486206
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_38.png,0.019,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.061",0.0,426.724910736084
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_39.png,0.024,"user
+_REF.://",0.0,421.0672378540039
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_39.png,0.082,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,428.71689796447754
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_40.png,0.088,"user
+64.://",0.0,423.184871673584
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_40.png,0.081,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.084",0.0,520.6103324890137
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_41.png,0.028,"user
+0675.://",0.0,474.37000274658203
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_41.png,0.051,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.034",0.0,455.6097984313965
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_42.png,0.064,"user
+://.://assistant
+
+://.://.61",0.0,1068.458080291748
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_42.png,0.071,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.064",0.0,430.57775497436523
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_43.png,0.048,"user
+65.://",0.0,438.49825859069824
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_43.png,0.058,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.049",0.0,429.0356636047363
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_44.png,0.086,"user
+://.://.037",0.0,518.5022354125977
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_44.png,0.088,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.084",0.0,436.3977909088135
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_45.png,0.059,"user
+72.://",0.0,422.8959083557129
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_45.png,0.002,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.067",0.0,427.80232429504395
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_46.png,0.077,"user
+0.0",0.0,420.67480087280273
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_46.png,0.011,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.074",0.0,425.13060569763184
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_47.png,0.074,"user
+://.://000000000000000002",0.0,698.3475685119629
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_47.png,0.047,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.076",0.0,438.6012554168701
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_48.png,0.028,"user
+0.042",0.0,688.626766204834
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_48.png,0.012,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,441.0426616668701
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_49.png,0.03,"user
+0.0",0.0,438.11774253845215
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_49.png,0.047,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,425.85277557373047
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_50.png,0.012,"user
+0.52",0.0,420.24827003479004
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_50.png,0.027,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.011",0.0,426.96619033813477
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_51.png,0.088,"user
+://.://000000000000000001",0.0,692.9090023040771
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_51.png,0.078,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.083",0.0,428.13992500305176
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_52.png,0.086,"user
+081.://",0.0,423.6299991607666
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_52.png,0.018,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.082",0.0,431.37145042419434
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_53.png,0.012,"user
+://.://assistant
+
+0.0",0.0,684.3726634979248
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_53.png,0.084,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.012",0.0,429.7668933868408
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_54.png,0.004,"user
+64.://",0.0,421.3087558746338
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_54.png,0.058,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.007",0.0,431.5640926361084
-CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_55.png,0.043,"user
+://.://.067",0.0,508.8939666748047
+CustomLLaMA,run_0,EXP1-Results/curvature/curvature_image_55.png,0.013,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.041",0.0,426.3763427734375
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_1.png,0.006,"user
+://.://000000000000000002",0.0,687.9656314849854
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_1.png,0.001,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.004",0.0,494.86374855041504
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_2.png,0.057,"user
+0.0",0.0,422.81651496887207
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_2.png,0.021,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.063",0.0,426.4819622039795
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_3.png,0.019,"user
+://.://000000000000000002",0.0,694.7638988494873
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_3.png,0.029,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.022",0.0,431.08057975769043
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_4.png,0.002,"user
+://.://.018000000000000002",0.0,739.4096851348877
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_4.png,0.084,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.006",0.0,427.3197650909424
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_5.png,0.022,"user
+0675.://",0.0,519.0057754516602
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_5.png,0.029,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.027",0.0,433.4862232208252
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_6.png,0.082,"user
+://.://000000000000000001",0.0,713.618278503418
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_6.png,0.076,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.083",0.0,425.0178337097168
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_7.png,0.072,"user
+82.://",0.0,555.1986694335938
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_7.png,0.087,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.072",0.0,427.31451988220215
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_8.png,0.074,"user
+76.://",0.0,423.1584072113037
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_8.png,0.022,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.077",0.0,427.3815155029297
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_9.png,0.01,"user
+://.://.000000000000000001",0.0,733.8097095489502
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_9.png,0.046,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.007",0.0,566.1172866821289
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_10.png,0.064,"user
+://.://assistant
+
+://.://000000000000000002",0.0,962.0006084442139
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_10.png,0.074,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.068",0.0,435.467004776001
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_11.png,0.003,"user
+62.://",0.0,418.26653480529785
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_11.png,0.068,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.004",0.0,429.0618896484375
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_12.png,0.06,"user
+62.://",0.0,419.24357414245605
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_12.png,0.078,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.064",0.0,428.53236198425293
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_13.png,0.031,"user
+078.07200000000000001",0.0,653.7041664123535
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_13.png,0.012,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.038",0.0,429.93712425231934
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_14.png,0.038,"user
+_REF.://",0.0,429.96716499328613
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_14.png,0.076,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.039",0.0,429.86345291137695
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_15.png,0.023,"user
+://.://000000000000000001",0.0,698.0447769165039
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_15.png,0.044,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.03",0.0,442.2307014465332
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_16.png,0.067,"user
+0.049",0.0,699.2437839508057
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_16.png,0.036,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.072",0.0,421.8158721923828
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_17.png,0.011,"user
+://.://assistant
+
+://.://002",0.0,748.6884593963623
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_17.png,0.087,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.007",0.0,438.262939453125
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_18.png,0.039,"user
+0675.://",0.0,470.51024436950684
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_18.png,0.0,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,439.2664432525635
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_19.png,0.008,"user
+0.0",0.0,421.3595390319824
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_19.png,0.047,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.008",0.0,430.0425052642822
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_20.png,0.034,"user
+0.62",0.0,694.2973136901855
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_20.png,0.081,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,429.60309982299805
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_21.png,0.004,"user
+://.://000000000000000001",0.0,711.9543552398682
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_21.png,0.003,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.006",0.0,468.7085151672363
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_22.png,0.04,"user
+0.0",0.0,445.5106258392334
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_22.png,0.05,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,428.678035736084
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_23.png,0.011,"user
+://.://assistant
+
+://.://000000000000000002",0.0,989.9091720581055
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_23.png,0.027,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.007",0.0,422.41883277893066
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_24.png,0.047,"user
+://.://000000000000000001",0.0,692.1312808990479
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_24.png,0.069,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.049",0.0,428.6794662475586
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_25.png,0.008,"user
+069.://",0.0,422.6818084716797
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_25.png,0.077,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.008",0.0,426.3114929199219
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_26.png,0.063,"user
+://.://000000000000000001",0.0,691.8835639953613
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_26.png,0.052,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.064",0.0,434.37790870666504
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_27.png,0.048,"user
+://.://.000000000000000001",0.0,732.0578098297119
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_27.png,0.086,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.048",0.0,434.08989906311035
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_28.png,0.032,"user
+078.://",0.0,420.4831123352051
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_28.png,0.003,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.038",0.0,426.11145973205566
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_29.png,0.069,"user
+0.0",0.0,430.97591400146484
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_29.png,0.019,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.068",0.0,429.4133186340332
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_30.png,0.039,"user
+://.://000000000000000001",0.0,694.4506168365479
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_30.png,0.076,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,431.1249256134033
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_31.png,0.026,"user
+://.://www.1234567898",0.0,688.6072158813477
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_31.png,0.003,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.029",0.0,427.03819274902344
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_32.png,0.046,"user
+0.0",0.0,418.37191581726074
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_32.png,0.066,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,605.3881645202637
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_33.png,0.041,"user
+://.://000000000000000002",0.0,694.7641372680664
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_33.png,0.039,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,435.1346492767334
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_34.png,0.046,"user
+://.://.019000000000000002",0.0,742.9366111755371
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_34.png,0.036,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.041",0.0,434.0970516204834
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_35.png,0.061,"user
+://.://assistant
+
+://.://000000000000000002",0.0,970.2081680297852
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_35.png,0.012,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.064",0.0,425.7769584655762
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_36.png,0.054,"user
+0.0",0.0,697.7460384368896
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_36.png,0.058,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.061",0.0,437.5326633453369
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_37.png,0.077,"user
+://.://assistant
+
+://.://.037",0.0,787.2636318206787
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_37.png,0.027,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.074.0",0.0,543.2472229003906
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_38.png,0.054,"user
+://.://assistant
+
+://.://assistant
+
+://.://000000000000000001",0.0,1494.34494972229
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_38.png,0.019,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.06",0.0,439.2390251159668
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_39.png,0.024,"user
+0.://",0.0,418.9283847808838
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_39.png,0.082,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,421.40889167785645
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_40.png,0.088,"user
+064.://",0.0,423.52890968322754
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_40.png,0.081,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.084",0.0,436.46883964538574
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_41.png,0.028,"user
+71.://",0.0,423.37894439697266
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_41.png,0.051,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,437.5307559967041
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_42.png,0.064,"user
+://.://.037",0.0,508.91613960266113
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_42.png,0.071,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.066",0.0,433.95113945007324
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_43.png,0.048,"user
+://.://000000000000000001",0.0,704.1599750518799
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_43.png,0.058,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.049",0.0,428.10583114624023
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_44.png,0.086,"user
+56.://",0.0,425.2641201019287
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_44.png,0.088,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.084",0.0,425.56262016296387
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_45.png,0.059,"user
+83.://",0.0,427.1209239959717
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_45.png,0.002,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.064",0.0,427.31571197509766
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_46.png,0.077,"user
+0.0",0.0,419.8136329650879
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_46.png,0.011,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.074.0",0.0,534.1753959655762
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_47.png,0.074,"user
+://._REFLEXION",0.0,515.570878982544
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_47.png,0.047,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.076",0.0,424.56650733947754
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_48.png,0.028,"user
+://.://000000000000000001",0.0,691.4606094360352
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_48.png,0.012,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.034",0.0,434.25440788269043
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_49.png,0.03,"user
+_REF.://000000000000000001",0.0,957.003116607666
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_49.png,0.047,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,436.42711639404297
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_50.png,0.012,"user
+://.://assistant
+
+://.://000000000000000001",0.0,956.5372467041016
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_50.png,0.027,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.012",0.0,432.2502613067627
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_51.png,0.088,"user
+://.://000000000000000001",0.0,707.2842121124268
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_51.png,0.078,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.082",0.0,427.0601272583008
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_52.png,0.086,"user
+65.://",0.0,454.67615127563477
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_52.png,0.018,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.082",0.0,431.1480522155762
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_53.png,0.012,"user
+://.://.000000000000000001",0.0,748.3439445495605
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_53.png,0.084,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.011",0.0,440.81664085388184
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_54.png,0.004,"user
+84.://",0.0,424.8168468475342
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_54.png,0.058,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.006",0.0,428.6825656890869
-CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_55.png,0.043,"user
+://.://.019000000000000002",0.0,735.7544898986816
+CustomLLaMA,run_1,EXP1-Results/curvature/curvature_image_55.png,0.013,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.048",0.0,430.8667182922363
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_1.png,0.006,"user
+://.://000000000000000001",0.0,692.784309387207
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_1.png,0.001,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.004",0.0,431.4076900482178
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_2.png,0.057,"user
+0.0",0.0,427.7763366699219
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_2.png,0.021,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.067",0.0,438.16423416137695
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_3.png,0.019,"user
+://.://000000000000000001",0.0,685.0943565368652
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_3.png,0.029,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.023",0.0,480.33928871154785
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_4.png,0.002,"user
+://.://000000000000000001",0.0,698.986291885376
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_4.png,0.084,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.004",0.0,433.5601329803467
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_5.png,0.022,"user
+086.81",0.0,440.1664733886719
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_5.png,0.029,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.027",0.0,424.58271980285645
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_6.png,0.082,"user
+://.://000000000000000001",0.0,689.997673034668
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_6.png,0.076,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.082",0.0,435.2724552154541
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_7.png,0.072,"user
+62.://",0.0,426.82623863220215
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_7.png,0.087,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.072",0.0,428.4322261810303
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_8.png,0.074,"user
+0775.://",0.0,482.0060729980469
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_8.png,0.022,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.076",0.0,427.96802520751953
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_9.png,0.01,"user
+://.://assistant
+
+_REF: 0.://",0.0,1090.9535884857178
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_9.png,0.046,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.008",0.0,428.73287200927734
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_10.png,0.064,"user
+://.://assistant
+
+://.://002",0.0,732.4094772338867
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_10.png,0.074,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.068",0.0,423.34532737731934
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_11.png,0.003,"user
+63.://",0.0,428.7848472595215
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_11.png,0.068,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.004",0.0,426.5148639678955
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_12.png,0.06,"user
+62.://",0.0,753.828763961792
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_12.png,0.078,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.064",0.0,425.6737232208252
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_13.png,0.031,"user
+://.://assistant
+
+://.://000000000000000001",0.0,1118.1867122650146
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_13.png,0.012,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.039",0.0,430.5291175842285
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_14.png,0.038,"user
+0.009000000000000001",0.0,647.6895809173584
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_14.png,0.076,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,426.9380569458008
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_15.png,0.023,"user
+081.://",0.0,425.03952980041504
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_15.png,0.044,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.03",0.0,429.3558597564697
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_16.png,0.067,"user
+://.://assistant
+
+://.://000000000000000002",0.0,1225.6157398223877
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_16.png,0.036,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.07",0.0,555.5129051208496
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_17.png,0.011,"user
+://.://assistant
+
+://.://000000000000000002",0.0,953.5486698150635
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_17.png,0.087,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.011",0.0,430.38392066955566
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_18.png,0.039,"user
+67.://",0.0,428.39598655700684
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_18.png,0.0,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.038",0.0,435.7330799102783
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_19.png,0.008,"user
+0.0",0.0,426.9125461578369
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_19.png,0.047,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.008",0.0,427.4764060974121
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_20.png,0.034,"user
+://.://.037",0.0,509.1822147369385
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_20.png,0.081,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.039",0.0,434.8721504211426
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_21.png,0.004,"user
+62.://",0.0,418.34545135498047
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_21.png,0.003,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.006",0.0,429.9650192260742
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_22.png,0.04,"user
+0.0",0.0,422.40047454833984
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_22.png,0.05,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.04",0.0,432.53397941589355
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_23.png,0.011,"user
+://.://assistant
+
+://.://assistant
+
+0.56",0.0,1236.9177341461182
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_23.png,0.027,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.011",0.0,431.246280670166
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_24.png,0.047,"user
+://.://assistant
+
+://.://assistant
+
+://.://000000000000000002",0.0,1228.5339832305908
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_24.png,0.069,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.049",0.0,438.6763572692871
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_25.png,0.008,"user
+067.://",0.0,431.8578243255615
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_25.png,0.077,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.008",0.0,431.32662773132324
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_26.png,0.063,"user
+0675.://",0.0,494.1258430480957
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_26.png,0.052,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.064",0.0,422.3909378051758
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_27.png,0.048,"user
+://.://.047",0.0,551.5861511230469
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_27.png,0.086,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.049",0.0,428.06053161621094
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_28.png,0.032,"user
+84.://",0.0,431.3981533050537
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_28.png,0.003,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.038",0.0,433.2735538482666
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_29.png,0.069,"user
+0.0",0.0,424.99256134033203
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_29.png,0.019,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.072",0.0,425.3990650177002
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_30.png,0.039,"user
+://.://.000000000000000001",0.0,731.9579124450684
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_30.png,0.076,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.038",0.0,426.6369342803955
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_31.png,0.026,"user
+62.://",0.0,437.1533393859863
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_31.png,0.003,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,426.94687843322754
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_32.png,0.046,"user
+0.0",0.0,421.8285083770752
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_32.png,0.066,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,428.3456802368164
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_33.png,0.041,"user
+62.://",0.0,423.43592643737793
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_33.png,0.039,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,426.0067939758301
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_34.png,0.046,"user
+://.://000000000000000002",0.0,685.7395172119141
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_34.png,0.036,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,426.72085762023926
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_35.png,0.061,"user
+0.://",0.0,427.20699310302734
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_35.png,0.012,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.068",0.0,428.0741214752197
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_36.png,0.054,"user
+://.://000000000000000002",0.0,689.8071765899658
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_36.png,0.058,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.062",0.0,424.8182773590088
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_37.png,0.077,"user
+://.://.018000000000000001",0.0,728.3420562744141
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_37.png,0.027,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.074.0",0.0,521.005392074585
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_38.png,0.054,"user
+://.://000000000000000001",0.0,688.5337829589844
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_38.png,0.019,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.061",0.0,424.0553379058838
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_39.png,0.024,"user
+://.://000000000000000001",0.0,696.5799331665039
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_39.png,0.082,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,428.0283451080322
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_40.png,0.088,"user
+067.067",0.0,423.5241413116455
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_40.png,0.081,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.083",0.0,427.94346809387207
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_41.png,0.028,"user
+62.067",0.0,423.6636161804199
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_41.png,0.051,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,425.4624843597412
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_42.png,0.064,"user
+://.://.002",0.0,508.87084007263184
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_42.png,0.071,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.068",0.0,429.1415214538574
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_43.png,0.048,"user
+61.://",0.0,422.9879379272461
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_43.png,0.058,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.048",0.0,433.98189544677734
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_44.png,0.086,"user
+64.://",0.0,460.0956439971924
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_44.png,0.088,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.082",0.0,430.6511878967285
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_45.png,0.059,"user
+77.://",0.0,445.85323333740234
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_45.png,0.002,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.063",0.0,431.4894676208496
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_46.png,0.077,"user
+0.0",0.0,425.3053665161133
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_46.png,0.011,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.074.0",0.0,524.207592010498
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_47.png,0.074,"user
+0.asm",0.0,427.93941497802734
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_47.png,0.047,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
+
+://.://assistant
 
-0.077",0.0,489.02344703674316
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_48.png,0.028,"user
+://.://000000000000000001",0.0,956.688404083252
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_48.png,0.012,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.03",0.0,480.4964065551758
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_49.png,0.03,"user
+://.://000000000000000001",0.0,686.2838268280029
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_49.png,0.047,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.037",0.0,422.79505729675293
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_50.png,0.012,"user
+://.://.018000000000000002",0.0,724.5779037475586
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_50.png,0.027,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.011",0.0,430.4628372192383
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_51.png,0.088,"user
+://.://000000000000000001",0.0,691.0948753356934
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_51.png,0.078,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.083",0.0,432.0366382598877
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_52.png,0.086,"user
+0675.://",0.0,473.5124111175537
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_52.png,0.018,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.083",0.0,425.9309768676758
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_53.png,0.012,"user
+://.://000000000000000001",0.0,698.2302665710449
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_53.png,0.084,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.011",0.0,427.05225944519043
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_54.png,0.004,"user
+://.://.019000000000000002",0.0,737.4317646026611
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_54.png,0.058,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.006",0.0,425.44054985046387
-CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_55.png,0.043,"user
+64.://",0.0,424.55410957336426
+CustomLLaMA,run_2,EXP1-Results/curvature/curvature_image_55.png,0.013,"user
 Estimate the line curvature (range: 0.000 to 0.088) of a Bezier curve constrained within a 100x100 pixel space. Provide only the numeric curvature value (up to 3 decimal places), no explanation.
 assistant
 
-0.04",0.0,421.3881492614746
+_REF.://",0.0,422.926664352417
 CustomLLaMA,average,,,,,

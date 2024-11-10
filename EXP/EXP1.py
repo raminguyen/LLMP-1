@@ -21,7 +21,7 @@ login('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')
 # Set up model instances
 model_instances = {
     #"gpt4o": L.GPTModel("gpt-4o"), 
-    "CustomLLaMA": L.llamafinetuned("./EXPs-5000-3pochs/finetune/outputEXP1-5000-3poch/json/finetuned_llama_EXP1"),
+    "CustomLLaMA": L.llamafinetuned("./finetuning-EXP1-100-10epochs-0.001-test/fine_tuned_model"),
     #"LLaMA": L.llama("meta-llama/Llama-3.2-11B-Vision-Instruct"),
     #"GeminiProVision": L.GeminiProVision(),
     #"Gemini1_5Flash": L.Gemini1_5Flash()

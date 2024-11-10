@@ -1,827 +1,829 @@
 model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_1.png,15.0,"user
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_1.png,89.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-15.0",0.0,996.7300891876221
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_2.png,61.0,"user
+77.://",0.0,984.7745895385742
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_2.png,50.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-55.0",0.0,417.16718673706055
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_3.png,13.0,"user
+41.0",0.0,419.8031425476074
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_3.png,38.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-14.0",0.0,433.35556983947754
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_4.png,80.0,"user
+32.0",0.0,425.2028465270996
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_4.png,76.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-69.0",0.0,422.0895767211914
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_5.png,87.0,"user
+67.://",0.0,427.72650718688965
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_5.png,56.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-82.0",0.0,423.45213890075684
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_6.png,77.0,"user
+40.0",0.0,425.3861904144287
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_6.png,83.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-70.0",0.0,425.22382736206055
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_7.png,65.0,"user
+67.://",0.0,417.661190032959
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_7.png,21.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-63.0",0.0,423.0201244354248
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_8.png,24.0,"user
+0.0",0.0,420.88937759399414
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_8.png,74.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-31.0",0.0,432.4049949645996
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_9.png,52.0,"user
+48.://",0.0,605.635404586792
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_9.png,11.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-44.0",0.0,430.4003715515137
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_10.png,78.0,"user
+0.0",0.0,428.18641662597656
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_10.png,48.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-79.0",0.0,424.21722412109375
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_11.png,8.0,"user
+0.62",0.0,425.9827136993408
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_11.png,87.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-14.0",0.0,422.8854179382324
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_12.png,55.0,"user
+78.://",0.0,440.54126739501953
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_12.png,83.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-50.0",0.0,424.8671531677246
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_13.png,68.0,"user
+72.://",0.0,468.75
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_13.png,12.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-65.0",0.0,432.3601722717285
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_14.png,44.0,"user
+18.0",0.0,425.77648162841797
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_14.png,40.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-43.0",0.0,422.0414161682129
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_15.png,55.0,"user
+32.0",0.0,418.06674003601074
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_15.png,73.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-51.0",0.0,422.85847663879395
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_16.png,36.0,"user
+78.://",0.0,420.50862312316895
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_16.png,27.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-38.0",0.0,430.22775650024414
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_17.png,72.0,"user
+22.0",0.0,418.0281162261963
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_17.png,11.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-73.0",0.0,435.64796447753906
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_18.png,12.0,"user
+0.0",0.0,426.2063503265381
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_18.png,45.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-12.0",0.0,429.15987968444824
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_19.png,19.0,"user
+31.0",0.0,426.7265796661377
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_19.png,61.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-21.0",0.0,427.80280113220215
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_20.png,42.0,"user
+56.://",0.0,419.51918601989746
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_20.png,90.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-41.0",0.0,429.24976348876953
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_21.png,16.0,"user
+72.://",0.0,425.20761489868164
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_21.png,84.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-20.0",0.0,423.0537414550781
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_22.png,86.0,"user
+72.://",0.0,426.03302001953125
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_22.png,90.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-77.0",0.0,439.8634433746338
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_23.png,86.0,"user
+67.://",0.0,428.77864837646484
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_23.png,9.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-84.0",0.0,443.6979293823242
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_24.png,52.0,"user
+0.0",0.0,423.50125312805176
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_24.png,29.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-51.0",0.0,420.3634262084961
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_25.png,32.0,"user
+0.22",0.0,417.71388053894043
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_25.png,85.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-31.0",0.0,424.7562885284424
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_26.png,26.0,"user
+79.://",0.0,418.3487892150879
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_26.png,79.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-27.0",0.0,430.53650856018066
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_27.png,79.0,"user
+62.://",0.0,428.5879135131836
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_27.png,82.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-72.0",0.0,423.1894016265869
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_28.png,78.0,"user
+ Angeles.://.037",0.0,521.6042995452881
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_28.png,54.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-69.0",0.0,425.98986625671387
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_29.png,1.0,"user
+41.://",0.0,417.7732467651367
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_29.png,39.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-3.0",0.0,426.32031440734863
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_30.png,47.0,"user
+40.://",0.0,428.3156394958496
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_30.png,44.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-46.0",0.0,424.0720272064209
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_31.png,18.0,"user
+36.0",0.0,423.7205982208252
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_31.png,69.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-20.0",0.0,426.16724967956543
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_32.png,38.0,"user
+42.://",0.0,434.94153022766113
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_32.png,50.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-35.0",0.0,424.53598976135254
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_33.png,24.0,"user
+41.://",0.0,435.0578784942627
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_33.png,9.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-25.0",0.0,422.58381843566895
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_34.png,68.0,"user
+0.0",0.0,480.9901714324951
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_34.png,66.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-59.0",0.0,427.8066158294678
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_35.png,70.0,"user
+48.0",0.0,423.92992973327637
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_35.png,23.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-69.0",0.0,427.445650100708
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_36.png,9.0,"user
+22.0",0.0,422.9447841644287
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_36.png,71.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-12.0",0.0,428.83920669555664
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_37.png,89.0,"user
+65.://",0.0,428.95054817199707
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_37.png,29.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-75.0",0.0,430.361270904541
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_38.png,79.0,"user
+23.0",0.0,417.75012016296387
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_38.png,47.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-72.0",0.0,592.510461807251
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_39.png,53.0,"user
+37.0",0.0,428.90381813049316
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_39.png,47.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-50.0",0.0,429.3100833892822
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_40.png,69.0,"user
+48.://",0.0,419.0990924835205
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_40.png,72.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-65.0",0.0,426.09572410583496
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_41.png,57.0,"user
+0.75",0.0,429.75735664367676
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_41.png,8.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-55.0",0.0,426.58305168151855
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_42.png,45.0,"user
+0.0",0.0,434.6888065338135
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_42.png,4.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-48.0",0.0,432.8727722167969
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_43.png,5.0,"user
+0.0",0.0,420.1204776763916
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_43.png,70.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-9.0",0.0,422.63197898864746
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_44.png,4.0,"user
+56.://",0.0,419.8639392852783
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_44.png,18.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-1.0",0.0,437.000036239624
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_45.png,85.0,"user
+0.0",0.0,426.22852325439453
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_45.png,81.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-79.0",0.0,434.1626167297363
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_46.png,27.0,"user
+75.://",0.0,426.6531467437744
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_46.png,47.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-30.0",0.0,461.590051651001
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_47.png,77.0,"user
+33.0",0.0,417.76299476623535
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_47.png,52.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-70.0",0.0,425.0955581665039
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_48.png,42.0,"user
+36.://",0.0,423.4926700592041
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_48.png,58.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-48.0",0.0,430.21345138549805
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_49.png,35.0,"user
+56.://",0.0,430.5272102355957
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_49.png,50.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-36.0",0.0,423.9792823791504
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_50.png,85.0,"user
+41.://",0.0,416.8100357055664
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_50.png,67.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-80.0",0.0,430.7570457458496
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_51.png,13.0,"user
+67.://",0.0,422.9557514190674
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_51.png,5.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-12.0",0.0,435.5449676513672
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_52.png,74.0,"user
+0.0",0.0,420.579195022583
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_52.png,18.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-69.0",0.0,425.1680374145508
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_53.png,74.0,"user
+0.18",0.0,439.3200874328613
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_53.png,76.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-69.0",0.0,431.166410446167
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_54.png,52.0,"user
+77.://",0.0,426.03492736816406
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_54.png,49.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-54.0",0.0,427.48427391052246
-CustomLLaMA,run_0,EXP1-Results/angle/angle_image_55.png,42.0,"user
+42.://",0.0,421.41056060791016
+CustomLLaMA,run_0,EXP1-Results/angle/angle_image_55.png,53.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-38.0",0.0,434.8456859588623
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_1.png,15.0,"user
+48.://",0.0,447.451114654541
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_1.png,89.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-16.0",0.0,424.2551326751709
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_2.png,61.0,"user
+81.://",0.0,443.71581077575684
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_2.png,50.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-56.0",0.0,423.1998920440674
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_3.png,13.0,"user
+38.0",0.0,414.40486907958984
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_3.png,38.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-15.0",0.0,435.7151985168457
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_4.png,80.0,"user
+33.0",0.0,414.7629737854004
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_4.png,76.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-69.0",0.0,427.01125144958496
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_5.png,87.0,"user
+67.://",0.0,421.56457901000977
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_5.png,56.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-83.0",0.0,430.8745861053467
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_6.png,77.0,"user
+41.0",0.0,421.1924076080322
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_6.png,83.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-70.0",0.0,425.31895637512207
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_7.png,65.0,"user
+77.://",0.0,423.31528663635254
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_7.png,21.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-64.0",0.0,427.4299144744873
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_8.png,24.0,"user
+0.0",0.0,427.61874198913574
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_8.png,74.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-32.0",0.0,433.8524341583252
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_9.png,52.0,"user
+56.://",0.0,427.08849906921387
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_9.png,11.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-44.0",0.0,426.8927574157715
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_10.png,78.0,"user
+0.0",0.0,418.9414978027344
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_10.png,48.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-78.0",0.0,425.22406578063965
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_11.png,8.0,"user
+56.0",0.0,420.70794105529785
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_11.png,87.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-13.0",0.0,426.6228675842285
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_12.png,55.0,"user
+75.://",0.0,418.03789138793945
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_12.png,83.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-51.0",0.0,443.1445598602295
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_13.png,68.0,"user
+82.://",0.0,423.5513210296631
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_13.png,12.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-68.0",0.0,516.4172649383545
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_14.png,44.0,"user
+16.0",0.0,425.7791042327881
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_14.png,40.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-43.0",0.0,455.0964832305908
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_15.png,55.0,"user
+36.0",0.0,418.43128204345703
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_15.png,73.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-52.0",0.0,425.3714084625244
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_16.png,36.0,"user
+79.://",0.0,425.3385066986084
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_16.png,27.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-39.0",0.0,432.9366683959961
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_17.png,72.0,"user
+20.0",0.0,432.33585357666016
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_17.png,11.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-72.0",0.0,424.8018264770508
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_18.png,12.0,"user
+0.0",0.0,429.40378189086914
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_18.png,45.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-12.0",0.0,429.887056350708
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_19.png,19.0,"user
+33.://",0.0,427.74176597595215
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_19.png,61.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-21.0",0.0,424.75152015686035
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_20.png,42.0,"user
+63.://",0.0,418.81823539733887
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_20.png,90.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-41.0",0.0,427.1862506866455
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_21.png,16.0,"user
+72.://",0.0,424.79515075683594
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_21.png,84.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-18.0",0.0,428.7846088409424
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_22.png,86.0,"user
+82.://",0.0,430.2246570587158
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_22.png,90.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-77.0",0.0,423.9845275878906
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_23.png,86.0,"user
+64.://",0.0,427.33144760131836
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_23.png,9.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-82.0",0.0,424.8065948486328
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_24.png,52.0,"user
+0.0",0.0,441.61295890808105
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_24.png,29.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-53.0",0.0,423.4194755554199
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_25.png,32.0,"user
+22.0",0.0,444.5219039916992
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_25.png,85.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-30.0",0.0,431.20765686035156
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_26.png,26.0,"user
+68. Angeles, J",0.0,541.4254665374756
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_26.png,79.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-25.0",0.0,426.2075424194336
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_27.png,79.0,"user
+63.://",0.0,422.0905303955078
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_27.png,82.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-71.0",0.0,425.0824451446533
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_28.png,78.0,"user
+://.://assistant
+
+://.0.0",0.0,774.3370532989502
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_28.png,54.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-68.0",0.0,426.93376541137695
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_29.png,1.0,"user
+48.://",0.0,429.03876304626465
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_29.png,39.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-1.0",0.0,428.4331798553467
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_30.png,47.0,"user
+38.0",0.0,427.6013374328613
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_30.png,44.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-46.0",0.0,427.0796775817871
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_31.png,18.0,"user
+38.0",0.0,424.04961585998535
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_31.png,69.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-20.0",0.0,425.14491081237793
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_32.png,38.0,"user
+38. Angeles, R",0.0,506.95013999938965
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_32.png,50.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-35.0",0.0,425.08769035339355
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_33.png,24.0,"user
+42.0",0.0,425.0831604003906
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_33.png,9.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-25.0",0.0,426.8012046813965
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_34.png,68.0,"user
+0.0",0.0,431.6530227661133
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_34.png,66.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-58.0",0.0,436.88440322875977
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_35.png,70.0,"user
+46.://",0.0,427.3087978363037
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_35.png,23.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-68.0",0.0,445.31822204589844
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_36.png,9.0,"user
+0.22",0.0,435.29653549194336
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_36.png,71.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-13.0",0.0,475.2800464630127
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_37.png,89.0,"user
+62.://",0.0,425.20785331726074
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_37.png,29.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-78.0",0.0,430.4530620574951
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_38.png,79.0,"user
+23.0",0.0,419.47460174560547
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_38.png,47.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-72.0",0.0,426.88989639282227
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_39.png,53.0,"user
+35.0",0.0,493.790864944458
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_39.png,47.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-48.0",0.0,431.3485622406006
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_40.png,69.0,"user
+33.://",0.0,472.3985195159912
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_40.png,72.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-63.0",0.0,425.8608818054199
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_41.png,57.0,"user
+0. Angeles, A.0",0.0,597.8548526763916
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_41.png,8.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-55.0",0.0,428.78222465515137
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_42.png,45.0,"user
+0.0",0.0,422.7931499481201
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_42.png,4.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-46.0",0.0,434.9627494812012
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_43.png,5.0,"user
+0.0",0.0,420.63426971435547
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_43.png,70.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-10.0",0.0,422.28078842163086
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_44.png,4.0,"user
+56.://",0.0,435.84156036376953
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_44.png,18.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-2.0",0.0,432.5146675109863
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_45.png,85.0,"user
+0.14",0.0,443.08972358703613
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_45.png,81.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-81.0",0.0,427.46663093566895
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_46.png,27.0,"user
+56.://",0.0,438.1237030029297
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_46.png,47.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-31.0",0.0,429.912805557251
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_47.png,77.0,"user
+30.0",0.0,427.11687088012695
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_47.png,52.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-69.0",0.0,424.222469329834
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_48.png,42.0,"user
+38.0",0.0,421.73242568969727
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_48.png,58.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-44.0",0.0,429.41904067993164
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_49.png,35.0,"user
+63. Angeles, A",0.0,513.892650604248
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_49.png,50.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-35.0",0.0,425.51207542419434
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_50.png,85.0,"user
+56.0",0.0,422.03378677368164
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_50.png,67.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-80.0",0.0,427.48093605041504
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_51.png,13.0,"user
+67.://",0.0,421.85044288635254
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_51.png,5.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-11.0",0.0,429.9933910369873
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_52.png,74.0,"user
+0.0",0.0,426.0392189025879
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_52.png,18.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-69.0",0.0,427.825927734375
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_53.png,74.0,"user
+22.0",0.0,437.90221214294434
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_53.png,76.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-68.0",0.0,426.60069465637207
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_54.png,52.0,"user
+75. Angeles",0.0,419.5845127105713
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_54.png,49.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-54.0",0.0,427.2019863128662
-CustomLLaMA,run_1,EXP1-Results/angle/angle_image_55.png,42.0,"user
+38.0",0.0,421.2765693664551
+CustomLLaMA,run_1,EXP1-Results/angle/angle_image_55.png,53.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-39.0",0.0,435.77098846435547
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_1.png,15.0,"user
+56.://",0.0,423.54536056518555
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_1.png,89.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-15.0",0.0,422.3933219909668
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_2.png,61.0,"user
+75.://",0.0,421.97561264038086
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_2.png,50.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-55.0",0.0,431.3013553619385
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_3.png,13.0,"user
+38.0",0.0,422.2836494445801
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_3.png,38.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-14.0",0.0,440.61970710754395
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_4.png,80.0,"user
+35.0",0.0,417.76323318481445
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_4.png,76.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-70.0",0.0,452.6650905609131
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_5.png,87.0,"user
+65.://",0.0,439.59927558898926
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_5.png,56.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-82.0",0.0,422.43337631225586
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_6.png,77.0,"user
+41.0",0.0,426.29027366638184
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_6.png,83.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-70.0",0.0,424.6790409088135
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_7.png,65.0,"user
+62.://",0.0,423.85220527648926
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_7.png,21.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-62.0",0.0,426.41377449035645
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_8.png,24.0,"user
+0.0",0.0,418.0331230163574
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_8.png,74.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-31.0",0.0,426.4247417449951
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_9.png,52.0,"user
+41.://",0.0,419.41118240356445
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_9.png,11.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-44.0",0.0,434.093713760376
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_10.png,78.0,"user
+0.0",0.0,423.48694801330566
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_10.png,48.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-79.0",0.0,422.95336723327637
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_11.png,8.0,"user
+56. Angeles, A",0.0,520.500898361206
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_11.png,87.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-14.0",0.0,428.12371253967285
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_12.png,55.0,"user
+77.://",0.0,430.42492866516113
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_12.png,83.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-50.0",0.0,426.7001152038574
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_13.png,68.0,"user
+72.://",0.0,463.08183670043945
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_13.png,12.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-66.0",0.0,424.3741035461426
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_14.png,44.0,"user
+0.0",0.0,432.81102180480957
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_14.png,40.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-43.0",0.0,426.8181324005127
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_15.png,55.0,"user
+32.0",0.0,420.15814781188965
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_15.png,73.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-51.0",0.0,423.0000972747803
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_16.png,36.0,"user
+67.://",0.0,420.1986789703369
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_16.png,27.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-39.0",0.0,436.7382526397705
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_17.png,72.0,"user
+22.0",0.0,418.11633110046387
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_17.png,11.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-75.0",0.0,424.1950511932373
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_18.png,12.0,"user
+20.0",0.0,421.8573570251465
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_18.png,45.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-10.0",0.0,577.0106315612793
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_19.png,19.0,"user
+36.0",0.0,422.4660396575928
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_19.png,61.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-20.0",0.0,442.39234924316406
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_20.png,42.0,"user
+72.://",0.0,438.1887912750244
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_20.png,90.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-41.0",0.0,430.1455020904541
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_21.png,16.0,"user
+82.://",0.0,419.62432861328125
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_21.png,84.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-19.0",0.0,425.8296489715576
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_22.png,86.0,"user
+81.://",0.0,420.7167625427246
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_22.png,90.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-73.0",0.0,435.78505516052246
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_23.png,86.0,"user
+75.://",0.0,419.9807643890381
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_23.png,9.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-84.0",0.0,427.36268043518066
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_24.png,52.0,"user
+0.0",0.0,432.8887462615967
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_24.png,29.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-50.0",0.0,424.21674728393555
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_25.png,32.0,"user
+31.0",0.0,423.2454299926758
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_25.png,85.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-30.0",0.0,454.6365737915039
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_26.png,26.0,"user
+62.://",0.0,419.37971115112305
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_26.png,79.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-26.0",0.0,430.28783798217773
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_27.png,79.0,"user
+63.://",0.0,421.2813377380371
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_27.png,82.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-71.0",0.0,420.12929916381836
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_28.png,78.0,"user
+://.://00000000000000001",0.0,687.455415725708
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_28.png,54.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-69.0",0.0,430.4499626159668
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_29.png,1.0,"user
+48.://",0.0,422.9848384857178
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_29.png,39.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-3.0",0.0,424.73673820495605
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_30.png,47.0,"user
+42.://",0.0,418.2896614074707
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_30.png,44.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-46.0",0.0,421.72884941101074
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_31.png,18.0,"user
+41.0",0.0,420.17102241516113
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_31.png,69.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-20.0",0.0,429.4390678405762
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_32.png,38.0,"user
+51.://",0.0,422.56665229797363
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_32.png,50.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-37.0",0.0,424.6211051940918
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_33.png,24.0,"user
+41. Angeles, D",0.0,511.43813133239746
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_33.png,9.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-25.0",0.0,424.6697425842285
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_34.png,68.0,"user
+0.0",0.0,421.18287086486816
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_34.png,66.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-59.0",0.0,425.63390731811523
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_35.png,70.0,"user
+48.://",0.0,421.170711517334
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_35.png,23.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-69.0",0.0,427.7815818786621
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_36.png,9.0,"user
+20.0",0.0,432.4185848236084
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_36.png,71.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-11.0",0.0,437.1359348297119
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_37.png,89.0,"user
+60.://",0.0,416.3956642150879
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_37.png,29.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-77.0",0.0,422.43075370788574
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_38.png,79.0,"user
+22.0",0.0,426.42760276794434
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_38.png,47.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-72.0",0.0,429.734468460083
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_39.png,53.0,"user
+41.0",0.0,417.5763130187988
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_39.png,47.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-49.0",0.0,435.6081485748291
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_40.png,69.0,"user
+37.://",0.0,429.02517318725586
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_40.png,72.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-64.0",0.0,423.6302375793457
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_41.png,57.0,"user
+0.0",0.0,422.7416515350342
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_41.png,8.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-55.0",0.0,426.3296127319336
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_42.png,45.0,"user
+0.0",0.0,422.1992492675781
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_42.png,4.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-47.0",0.0,430.2232265472412
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_43.png,5.0,"user
+0.0",0.0,422.96481132507324
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_43.png,70.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-10.0",0.0,428.4646511077881
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_44.png,4.0,"user
+48.://",0.0,424.0880012512207
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_44.png,18.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-2.0",0.0,425.31895637512207
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_45.png,85.0,"user
+0.16",0.0,425.9951114654541
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_45.png,81.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-79.0",0.0,426.3441562652588
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_46.png,27.0,"user
+79.://",0.0,424.00598526000977
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_46.png,47.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-29.0",0.0,426.7394542694092
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_47.png,77.0,"user
+38.0",0.0,425.95744132995605
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_47.png,52.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-72.0",0.0,429.97193336486816
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_48.png,42.0,"user
+38.://",0.0,417.9108142852783
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_48.png,58.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-47.0",0.0,431.51330947875977
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_49.png,35.0,"user
+63.://",0.0,419.42811012268066
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_49.png,50.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-38.0",0.0,422.40333557128906
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_50.png,85.0,"user
+42.0",0.0,423.1758117675781
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_50.png,67.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-79.0",0.0,431.43606185913086
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_51.png,13.0,"user
+67.://",0.0,423.3827590942383
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_51.png,5.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-11.0",0.0,423.9323139190674
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_52.png,74.0,"user
+0.0",0.0,439.24450874328613
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_52.png,18.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-71.0",0.0,430.2091598510742
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_53.png,74.0,"user
+0.16",0.0,417.8752899169922
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_53.png,76.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-68.0",0.0,426.9869327545166
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_54.png,52.0,"user
+77.://",0.0,425.04191398620605
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_54.png,49.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-54.0",0.0,427.4725914001465
-CustomLLaMA,run_2,EXP1-Results/angle/angle_image_55.png,42.0,"user
+38.0",0.0,421.1421012878418
+CustomLLaMA,run_2,EXP1-Results/angle/angle_image_55.png,53.0,"user
 Estimate the angle (range: 0-90 degrees). Number only. No explanation.
 assistant
 
-37.0",0.0,423.95782470703125
+48.0",0.0,421.6301441192627
 CustomLLaMA,average,,,,,

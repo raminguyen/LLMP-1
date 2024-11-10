@@ -9,7 +9,7 @@
 #
 #
 # set name of job
-#SBATCH --job-name=finetuning-EXP2-5000-5epochs
+#SBATCH --job-name=finetuning-EXP2-5000-5epochs-prompt
 #
 # set the number of processors/tasks needed
 ##SBATCH -n 4
@@ -28,20 +28,19 @@
 # for scavenger users, use this format:
 ##SBATCH --account=pi_first.last
 # for contributing users, use this format:
-##SBATCH --account=<deptname|lastname>
+#SBATCH --account=haehn
 
-# set max wallclock time  DD-HH:MM:SS
-#SBATCH --time=02-30:00:00
+#SBATCH --qos=haehn_unlim
 
 # set a memory request
 #SBATCH --mem=128gb
 
 # Set filenames for stdout and stderr.  %j can be used
 # for the jobid.
-# see "filename patterns" section of the sbatch man page for
 # additional options
 #SBATCH --error=%x-%j.err
 #SBATCH --output=%x-%j.out
+#SBATCH --time=15-00:00:00  # Set to 30 days or adjust as needed
 
 
 # set the partition where the job will run.  Multiple partitions can

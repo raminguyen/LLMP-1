@@ -1,827 +1,827 @@
 model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_1.png,84.0,"user
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_1.png,34.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-81.0",0.0,964.0522003173828
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_2.png,54.0,"user
+0.42",0.0,966.9342041015625
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_2.png,23.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-54.0",0.0,492.2645092010498
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_3.png,99.0,"user
+0.0",0.0,422.4836826324463
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_3.png,92.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-100.0",0.0,427.8831481933594
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_4.png,65.0,"user
+86.://",0.0,423.5260486602783
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_4.png,33.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-64.0",0.0,425.84896087646484
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_5.png,83.0,"user
+0.42",0.0,422.3001003265381
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_5.png,15.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-82.0",0.0,417.47093200683594
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_6.png,16.0,"user
+0.0",0.0,428.89857292175293
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_6.png,11.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-24.0",0.0,433.408260345459
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_7.png,63.0,"user
+0.0",0.0,427.6587963104248
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_7.png,59.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,441.19906425476074
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_8.png,34.0,"user
+0.62",0.0,417.6454544067383
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_8.png,17.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-34.0",0.0,430.6361675262451
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_9.png,32.0,"user
+0.0",0.0,422.17445373535156
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_9.png,84.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-31.0",0.0,430.6457042694092
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_10.png,35.0,"user
+77.://",0.0,426.6355037689209
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_10.png,87.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,430.2215576171875
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_11.png,53.0,"user
+91.://",0.0,421.56100273132324
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_11.png,37.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-49.0",0.0,429.89230155944824
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_12.png,53.0,"user
+0.42",0.0,427.66284942626953
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_12.png,62.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-49.0",0.0,429.3360710144043
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_13.png,23.0,"user
+0.62",0.0,419.41094398498535
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_13.png,9.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-29.0",0.0,423.6266613006592
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_14.png,90.0,"user
+0.0",0.0,423.5215187072754
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_14.png,36.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-90.0",0.0,423.2673645019531
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_15.png,63.0,"user
+0.42",0.0,596.595048904419
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_15.png,97.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,430.9506416320801
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_16.png,11.0,"user
+0.97",0.0,419.41356658935547
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_16.png,74.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-19.0",0.0,430.5095672607422
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_17.png,3.0,"user
+76.81",0.0,462.2492790222168
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_17.png,2.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-3.0",0.0,427.13046073913574
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_18.png,95.0,"user
+0.0",0.0,428.6530017852783
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_18.png,5.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,428.3335208892822
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_19.png,81.0,"user
+0.0",0.0,461.15851402282715
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_19.png,73.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-81.0",0.0,428.15470695495605
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_20.png,94.0,"user
+76.86",0.0,419.01421546936035
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_20.png,5.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,427.7150630950928
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_21.png,46.0,"user
+0.0",0.0,430.27663230895996
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_21.png,12.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,423.63905906677246
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_22.png,22.0,"user
+0.0",0.0,423.1247901916504
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_22.png,54.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-30.0",0.0,425.72593688964844
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_23.png,34.0,"user
+0.61",0.0,428.7700653076172
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_23.png,42.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-34.0",0.0,437.786340713501
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_24.png,62.0,"user
+0.53.57",0.0,519.9990272521973
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_24.png,73.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-56.0",0.0,431.24866485595703
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_25.png,77.0,"user
+0.84",0.0,419.81005668640137
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_25.png,74.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-79.0",0.0,460.8769416809082
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_26.png,61.0,"user
+77.://",0.0,420.0618267059326
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_26.png,40.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,430.23204803466797
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_27.png,40.0,"user
+0.42",0.0,419.1470146179199
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_27.png,2.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,431.25438690185547
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_28.png,61.0,"user
+0.0",0.0,427.7613162994385
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_28.png,46.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,428.66992950439453
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_29.png,71.0,"user
+0.48",0.0,422.5766658782959
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_29.png,17.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-69.0",0.0,430.1929473876953
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_30.png,67.0,"user
+0.0",0.0,425.5502223968506
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_30.png,39.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-64.0",0.0,574.3746757507324
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_31.png,94.0,"user
+0.42",0.0,420.4690456390381
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_31.png,11.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,425.6908893585205
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_32.png,89.0,"user
+0.0",0.0,426.2058734893799
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_32.png,33.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-91.0",0.0,428.372859954834
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_33.png,83.0,"user
+0.0",0.0,426.9688129425049
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_33.png,55.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-84.0",0.0,426.555871963501
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_34.png,54.0,"user
+0.62",0.0,428.2097816467285
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_34.png,52.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-54.0",0.0,427.135705947876
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_35.png,14.0,"user
+0.62",0.0,420.8049774169922
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_35.png,99.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-18.0",0.0,424.46064949035645
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_36.png,66.0,"user
+0.0",0.0,426.2712001800537
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_36.png,1.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-64.0",0.0,429.09812927246094
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_37.png,81.0,"user
+0.0",0.0,429.89516258239746
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_37.png,85.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-79.0",0.0,432.4817657470703
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_38.png,35.0,"user
+81.://",0.0,427.1736145019531
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_38.png,75.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,429.0735721588135
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_39.png,95.0,"user
+0.83",0.0,426.3801574707031
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_39.png,43.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,429.5921325683594
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_40.png,45.0,"user
+0.42",0.0,460.1137638092041
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_40.png,25.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,427.72650718688965
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_41.png,5.0,"user
+0.0",0.0,432.50393867492676
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_41.png,8.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-13.0",0.0,426.6369342803955
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_42.png,32.0,"user
+0.0",0.0,428.6842346191406
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_42.png,52.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-33.0",0.0,424.9427318572998
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_43.png,99.0,"user
+0.62",0.0,422.1224784851074
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_43.png,13.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-100.0",0.0,429.8741817474365
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_44.png,98.0,"user
+0.0",0.0,418.26677322387695
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_44.png,95.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-98.0",0.0,426.6681671142578
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_45.png,52.0,"user
+0.96",0.0,423.1076240539551
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_45.png,44.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-54.0",0.0,430.4635524749756
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_46.png,8.0,"user
+0.56",0.0,424.82566833496094
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_46.png,18.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-8.0",0.0,466.6018486022949
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_47.png,36.0,"user
+0.0",0.0,427.3498058319092
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_47.png,75.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,430.98950386047363
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_48.png,15.0,"user
+76.://",0.0,423.60877990722656
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_48.png,95.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-19.0",0.0,437.47568130493164
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_49.png,48.0,"user
+0.97",0.0,417.47117042541504
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_49.png,97.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,423.38085174560547
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_50.png,19.0,"user
+0.97",0.0,420.56894302368164
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_50.png,65.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-19.0",0.0,431.87856674194336
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_51.png,8.0,"user
+0.81",0.0,422.37019538879395
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_51.png,82.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-8.0",0.0,431.0412406921387
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_52.png,31.0,"user
+88.81",0.0,420.93753814697266
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_52.png,58.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-33.0",0.0,425.4915714263916
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_53.png,62.0,"user
+0.62",0.0,426.6681671142578
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_53.png,94.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,429.60190773010254
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_54.png,89.0,"user
+85.://",0.0,421.262264251709
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_54.png,6.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-89.0",0.0,429.06904220581055
-CustomLLaMA,run_0,EXP1-Results/shading/shading_image_55.png,85.0,"user
+0.0",0.0,424.32403564453125
+CustomLLaMA,run_0,EXP1-Results/shading/shading_image_55.png,54.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-84.0",0.0,424.3776798248291
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_1.png,84.0,"user
+60.://",0.0,426.6698360443115
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_1.png,34.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-81.0",0.0,426.6936779022217
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_2.png,54.0,"user
+0.42",0.0,427.6103973388672
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_2.png,23.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-54.0",0.0,426.4874458312988
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_3.png,99.0,"user
+0.0",0.0,420.63283920288086
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_3.png,92.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-99.0",0.0,427.3407459259033
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_4.png,65.0,"user
+84. Angeles, A, 84",0.0,641.6409015655518
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_4.png,33.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-64.0",0.0,426.10716819763184
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_5.png,83.0,"user
+0.42",0.0,431.22339248657227
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_5.png,15.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-84.0",0.0,427.0508289337158
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_6.png,16.0,"user
+0.0",0.0,421.15211486816406
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_6.png,11.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-24.0",0.0,431.9427013397217
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_7.png,63.0,"user
+0.0",0.0,435.283899307251
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_7.png,59.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,430.9713840484619
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_8.png,34.0,"user
+0.62",0.0,461.92169189453125
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_8.png,17.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-34.0",0.0,430.39512634277344
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_9.png,32.0,"user
+0.0",0.0,420.93777656555176
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_9.png,84.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-33.0",0.0,427.20770835876465
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_10.png,35.0,"user
+91.://",0.0,425.6608486175537
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_10.png,87.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,425.4915714263916
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_11.png,53.0,"user
+76.://",0.0,424.2980480194092
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_11.png,37.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-49.0",0.0,422.34206199645996
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_12.png,53.0,"user
+0.42",0.0,423.3713150024414
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_12.png,62.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-49.0",0.0,425.54736137390137
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_13.png,23.0,"user
+62.://",0.0,427.11949348449707
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_13.png,9.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-29.0",0.0,424.4496822357178
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_14.png,90.0,"user
+0.0",0.0,424.5264530181885
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_14.png,36.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-90.0",0.0,433.72130393981934
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_15.png,63.0,"user
+0.42",0.0,421.1282730102539
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_15.png,97.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,430.76372146606445
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_16.png,11.0,"user
+0.97",0.0,418.5905456542969
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_16.png,74.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-19.0",0.0,424.4523048400879
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_17.png,3.0,"user
+62.://",0.0,422.7614402770996
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_17.png,2.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-3.0",0.0,424.08037185668945
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_18.png,95.0,"user
+0.0",0.0,428.93075942993164
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_18.png,5.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,425.00782012939453
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_19.png,81.0,"user
+0.0",0.0,422.849178314209
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_19.png,73.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-79.0",0.0,426.9752502441406
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_20.png,94.0,"user
+81.://",0.0,416.42117500305176
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_20.png,5.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,429.31485176086426
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_21.png,46.0,"user
+0.0",0.0,424.60083961486816
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_21.png,12.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,425.079345703125
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_22.png,22.0,"user
+0.0",0.0,419.9659824371338
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_22.png,54.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-30.0",0.0,431.48088455200195
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_23.png,34.0,"user
+0.60",0.0,425.55928230285645
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_23.png,42.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-34.0",0.0,425.63939094543457
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_24.png,62.0,"user
+0.43",0.0,427.5946617126465
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_24.png,73.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,428.9419651031494
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_25.png,77.0,"user
+0.75",0.0,430.8812618255615
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_25.png,74.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-76.0",0.0,420.64809799194336
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_26.png,61.0,"user
+77.://",0.0,417.1867370605469
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_26.png,40.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,430.2666187286377
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_27.png,40.0,"user
+0.42",0.0,420.14384269714355
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_27.png,2.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,427.687406539917
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_28.png,61.0,"user
+0.0",0.0,429.668664932251
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_28.png,46.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,430.2220344543457
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_29.png,71.0,"user
+0.62",0.0,426.36656761169434
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_29.png,17.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-69.0",0.0,427.9167652130127
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_30.png,67.0,"user
+0.0",0.0,427.3498058319092
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_30.png,39.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-64.0",0.0,422.3294258117676
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_31.png,94.0,"user
+0.62",0.0,415.4636859893799
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_31.png,11.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,418.9186096191406
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_32.png,89.0,"user
+0.0",0.0,420.243501663208
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_32.png,33.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-89.0",0.0,434.2377185821533
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_33.png,83.0,"user
+0.43",0.0,428.36666107177734
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_33.png,55.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-84.0",0.0,428.26008796691895
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_34.png,54.0,"user
+0.63",0.0,420.7594394683838
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_34.png,52.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-49.0",0.0,437.4701976776123
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_35.png,14.0,"user
+0.57",0.0,426.54895782470703
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_35.png,99.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-19.0",0.0,434.9210262298584
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_36.png,66.0,"user
+0.0",0.0,419.40832138061523
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_36.png,1.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-64.0",0.0,430.93419075012207
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_37.png,81.0,"user
+0.0",0.0,429.9001693725586
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_37.png,85.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-81.0",0.0,431.2939643859863
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_38.png,35.0,"user
+0.85",0.0,425.3525733947754
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_38.png,75.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,457.019567489624
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_39.png,95.0,"user
+0.81",0.0,417.2253608703613
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_39.png,43.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,427.45518684387207
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_40.png,45.0,"user
+0.50",0.0,422.4262237548828
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_40.png,25.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,427.28495597839355
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_41.png,5.0,"user
+0.0",0.0,421.339750289917
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_41.png,8.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-11.0",0.0,426.023006439209
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_42.png,32.0,"user
+0.0",0.0,418.5523986816406
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_42.png,52.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-33.0",0.0,431.22124671936035
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_43.png,99.0,"user
+0.60",0.0,428.59554290771484
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_43.png,13.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-99.0",0.0,437.5450611114502
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_44.png,98.0,"user
+0.0",0.0,422.50823974609375
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_44.png,95.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-98.0",0.0,424.135684967041
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_45.png,52.0,"user
+0.91",0.0,604.576587677002
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_45.png,44.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-54.0",0.0,426.5170097351074
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_46.png,8.0,"user
+0.42",0.0,427.75654792785645
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_46.png,18.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-8.0",0.0,428.07483673095703
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_47.png,36.0,"user
+0.0",0.0,423.45309257507324
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_47.png,75.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,429.5933246612549
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_48.png,15.0,"user
+0.84",0.0,417.4935817718506
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_48.png,95.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-19.0",0.0,426.87487602233887
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_49.png,48.0,"user
+0.86",0.0,419.44241523742676
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_49.png,97.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,421.09179496765137
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_50.png,19.0,"user
+0.97",0.0,420.8340644836426
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_50.png,65.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-19.0",0.0,425.33063888549805
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_51.png,8.0,"user
+62.://",0.0,428.96533012390137
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_51.png,82.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-8.0",0.0,430.6199550628662
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_52.png,31.0,"user
+75. Diego",0.0,430.64355850219727
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_52.png,58.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-33.0",0.0,434.88264083862305
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_53.png,62.0,"user
+0.62",0.0,418.0712699890137
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_53.png,94.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-56.0",0.0,430.2849769592285
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_54.png,89.0,"user
+91.://",0.0,425.9469509124756
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_54.png,6.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-89.0",0.0,426.14150047302246
-CustomLLaMA,run_1,EXP1-Results/shading/shading_image_55.png,85.0,"user
+0.0",0.0,430.18603324890137
+CustomLLaMA,run_1,EXP1-Results/shading/shading_image_55.png,54.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-84.0",0.0,433.51268768310547
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_1.png,84.0,"user
+0.57",0.0,419.85535621643066
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_1.png,34.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-81.0",0.0,425.9800910949707
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_2.png,54.0,"user
+0.0",0.0,420.4738140106201
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_2.png,23.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-54.0",0.0,432.1439266204834
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_3.png,99.0,"user
+0.0",0.0,422.9273796081543
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_3.png,92.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-100.0",0.0,441.9209957122803
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_4.png,65.0,"user
+86.0",0.0,425.19354820251465
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_4.png,33.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-64.0",0.0,452.83055305480957
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_5.png,83.0,"user
+0.42",0.0,418.8838005065918
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_5.png,15.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-84.0",0.0,443.009614944458
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_6.png,16.0,"user
+0.0",0.0,425.7543087005615
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_6.png,11.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-24.0",0.0,433.7120056152344
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_7.png,63.0,"user
+0.0",0.0,418.6289310455322
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_7.png,59.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,423.9223003387451
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_8.png,34.0,"user
+0.62",0.0,420.5484390258789
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_8.png,17.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-34.0",0.0,428.4405708312988
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_9.png,32.0,"user
+0.0",0.0,428.18689346313477
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_9.png,84.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-33.0",0.0,423.2215881347656
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_10.png,35.0,"user
+76.0",0.0,431.0481548309326
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_10.png,87.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,425.6112575531006
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_11.png,53.0,"user
+0.81",0.0,419.7261333465576
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_11.png,37.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-49.0",0.0,422.88756370544434
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_12.png,53.0,"user
+0.41",0.0,421.80562019348145
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_12.png,62.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-49.0",0.0,427.05655097961426
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_13.png,23.0,"user
+0.62",0.0,421.60940170288086
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_13.png,9.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-29.0",0.0,431.15830421447754
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_14.png,90.0,"user
+0.0",0.0,429.2643070220947
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_14.png,36.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-90.0",0.0,427.1433353424072
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_15.png,63.0,"user
+0.43",0.0,422.6202964782715
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_15.png,97.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,425.71163177490234
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_16.png,11.0,"user
+0.97",0.0,418.28131675720215
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_16.png,74.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-19.0",0.0,423.7363338470459
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_17.png,3.0,"user
+85.://",0.0,421.736478805542
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_17.png,2.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-3.0",0.0,434.36479568481445
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_18.png,95.0,"user
+0.0",0.0,422.58238792419434
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_18.png,5.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,427.45447158813477
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_19.png,81.0,"user
+0.0",0.0,425.40597915649414
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_19.png,73.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-81.0",0.0,573.406457901001
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_20.png,94.0,"user
+85.://",0.0,419.4300174713135
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_20.png,5.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,426.8465042114258
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_21.png,46.0,"user
+0.0",0.0,416.2166118621826
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_21.png,12.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,420.7570552825928
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_22.png,22.0,"user
+0.0",0.0,419.51608657836914
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_22.png,54.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-29.0",0.0,432.92951583862305
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_23.png,34.0,"user
+56.0",0.0,423.8455295562744
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_23.png,42.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-34.0",0.0,424.35312271118164
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_24.png,62.0,"user
+0.43",0.0,425.1222610473633
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_24.png,73.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-56.0",0.0,429.516077041626
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_25.png,77.0,"user
+0.81",0.0,419.5282459259033
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_25.png,74.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-76.0",0.0,436.52963638305664
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_26.png,61.0,"user
+62.0",0.0,422.9292869567871
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_26.png,40.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,427.5166988372803
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_27.png,40.0,"user
+0.56",0.0,426.18680000305176
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_27.png,2.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,422.73664474487305
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_28.png,61.0,"user
+0.0",0.0,424.1211414337158
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_28.png,46.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,433.69412422180176
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_29.png,71.0,"user
+0.60",0.0,416.2323474884033
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_29.png,17.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-69.0",0.0,425.3218173980713
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_30.png,67.0,"user
+0.0",0.0,417.53363609313965
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_30.png,39.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-64.0",0.0,424.29351806640625
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_31.png,94.0,"user
+0.42",0.0,420.6855297088623
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_31.png,11.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,422.6546287536621
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_32.png,89.0,"user
+0.0",0.0,417.25897789001465
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_32.png,33.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-91.0",0.0,429.5222759246826
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_33.png,83.0,"user
+0.29",0.0,423.07019233703613
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_33.png,55.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-84.0",0.0,427.5040626525879
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_34.png,54.0,"user
+0.62",0.0,424.41773414611816
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_34.png,52.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-54.0",0.0,427.6151657104492
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_35.png,14.0,"user
+0.51",0.0,424.8664379119873
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_35.png,99.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-19.0",0.0,427.26731300354004
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_36.png,66.0,"user
+0.0",0.0,418.93529891967773
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_36.png,1.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-64.0",0.0,433.55751037597656
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_37.png,81.0,"user
+0.0",0.0,419.39806938171387
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_37.png,85.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-81.0",0.0,417.1593189239502
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_38.png,35.0,"user
+86.://",0.0,425.3265857696533
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_38.png,75.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,424.5114326477051
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_39.png,95.0,"user
+76.://",0.0,418.3495044708252
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_39.png,43.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-94.0",0.0,425.3733158111572
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_40.png,45.0,"user
+0.62",0.0,422.98269271850586
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_40.png,25.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,422.3523139953613
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_41.png,5.0,"user
+0.0",0.0,426.177978515625
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_41.png,8.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-3.0",0.0,427.19173431396484
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_42.png,32.0,"user
+0.0",0.0,417.97733306884766
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_42.png,52.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-33.0",0.0,427.9963970184326
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_43.png,99.0,"user
+60.0",0.0,439.1458034515381
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_43.png,13.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-99.0",0.0,423.62284660339355
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_44.png,98.0,"user
+0.0",0.0,424.3800640106201
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_44.png,95.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-98.0",0.0,425.5383014678955
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_45.png,52.0,"user
+0.98",0.0,417.1323776245117
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_45.png,44.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-54.0",0.0,427.57606506347656
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_46.png,8.0,"user
+0.30",0.0,440.11759757995605
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_46.png,18.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-8.0",0.0,425.49824714660645
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_47.png,36.0,"user
+0.0",0.0,425.01163482666016
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_47.png,75.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,431.5803050994873
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_48.png,15.0,"user
+81.://",0.0,418.26367378234863
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_48.png,95.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-19.0",0.0,433.9902400970459
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_49.png,48.0,"user
+0.86",0.0,421.63538932800293
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_49.png,97.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-38.0",0.0,432.5711727142334
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_50.png,19.0,"user
+0.98",0.0,421.7667579650879
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_50.png,65.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-19.0",0.0,423.39468002319336
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_51.png,8.0,"user
+75.://",0.0,425.187349319458
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_51.png,82.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-10.0",0.0,422.15681076049805
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_52.png,31.0,"user
+81.://",0.0,419.8873043060303
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_52.png,58.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-33.0",0.0,430.835485458374
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_53.png,62.0,"user
+62.0",0.0,422.405481338501
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_53.png,94.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-57.0",0.0,425.49681663513184
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_54.png,89.0,"user
+0.84",0.0,424.5131015777588
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_54.png,6.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-91.0",0.0,427.4754524230957
-CustomLLaMA,run_2,EXP1-Results/shading/shading_image_55.png,85.0,"user
+0.0",0.0,426.2411594390869
+CustomLLaMA,run_2,EXP1-Results/shading/shading_image_55.png,54.0,"user
 Estimate shading density (range: 0-100). Number only. No explanation.
 assistant
 
-84.0",0.0,423.9943027496338
+0.57",0.0,428.6661148071289
 CustomLLaMA,average,,,,,

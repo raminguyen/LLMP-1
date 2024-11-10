@@ -12,12 +12,11 @@ from pytorch_lightning.loggers import TensorBoardLogger
 from huggingface_hub import login
 from pytorch_lightning.loggers import CSVLogger
 
-
 # -------- Configuration Section --------
 # Paths
 
 # Define the base directory once
-BASE_DIR = '/home/huuthanhvy.nguyen001/tmp/LLMP/EXP/finetuning-EXP1-5000-10epochs-backup' 
+BASE_DIR = './finetuning-EXP1-5000-5epochs' 
 
 # Use BASE_DIR to define the other paths
 DATA_DIR = os.path.join(BASE_DIR, 'json')
@@ -28,7 +27,7 @@ LOG_DIR = BASE_DIR  # Directory to save TensorBoard logs
 
 # Training parameters
 BATCH_SIZE = 1
-LEARNING_RATE = 0.0001
+LEARNING_RATE = 0.0001 
 WEIGHT_DECAY = 0.01
 MAX_EPOCHS = 10
 GRADIENT_ACCUMULATION = 8

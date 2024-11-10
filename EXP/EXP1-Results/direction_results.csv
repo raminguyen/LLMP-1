@@ -1,827 +1,827 @@
 model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_1.png,291.0,"user
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_1.png,274.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-297.0",0.0,954.9975395202637
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_2.png,150.0,"user
+0.275",0.0,958.9893817901611
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_2.png,283.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-156.0",0.0,427.48141288757324
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_3.png,169.0,"user
+0.274",0.0,416.40162467956543
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_3.png,263.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-168.0",0.0,426.8190860748291
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_4.png,60.0,"user
+0.274",0.0,424.09348487854004
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_4.png,43.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-58.0",0.0,423.95997047424316
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_5.png,287.0,"user
+0.35",0.0,421.4968681335449
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_5.png,65.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-294.0",0.0,431.28490447998047
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_6.png,247.0,"user
+0.274",0.0,418.03956031799316
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_6.png,206.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-239.0",0.0,428.4708499908447
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_7.png,269.0,"user
+0.242",0.0,422.6863384246826
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_7.png,48.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-269.0",0.0,428.6811351776123
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_8.png,39.0,"user
+0.275",0.0,421.63991928100586
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_8.png,150.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-43.0",0.0,423.1677055358887
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_9.png,236.0,"user
+0.168",0.0,426.44739151000977
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_9.png,348.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-220.0",0.0,425.2758026123047
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_10.png,329.0,"user
+0.://",0.0,422.3480224609375
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_10.png,208.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-324.0",0.0,434.59200859069824
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_11.png,244.0,"user
+0.229",0.0,426.12361907958984
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_11.png,350.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-238.0",0.0,425.1370429992676
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_12.png,111.0,"user
+0.0",0.0,419.4014072418213
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_12.png,2.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-105.0",0.0,427.0589351654053
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_13.png,182.0,"user
+0.0",0.0,425.9982109069824
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_13.png,264.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-191.0",0.0,411.9677543640137
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_14.png,83.0,"user
+0.242",0.0,455.5673599243164
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_14.png,29.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-92.0",0.0,423.37536811828613
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_15.png,84.0,"user
+0.30",0.0,428.4703731536865
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_15.png,308.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-89.0",0.0,422.5289821624756
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_16.png,239.0,"user
+0.274",0.0,414.88170623779297
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_16.png,219.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-238.0",0.0,432.68656730651855
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_17.png,355.0,"user
+0.272",0.0,417.5102710723877
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_17.png,109.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-3.0",0.0,431.0307502746582
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_18.png,88.0,"user
+0.255",0.0,424.98302459716797
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_18.png,105.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-2.0",0.0,420.8652973175049
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_19.png,48.0,"user
+0.130000000000000004",0.0,645.268440246582
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_19.png,300.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-51.0",0.0,444.5962905883789
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_20.png,0.0,"user
+0.274",0.0,428.269624710083
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_20.png,69.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-359.0",0.0,464.385986328125
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_21.png,349.0,"user
+0.274",0.0,422.13940620422363
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_21.png,286.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-348.0",0.0,454.50687408447266
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_22.png,322.0,"user
+0.274",0.0,421.07081413269043
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_22.png,230.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-323.0",0.0,431.66637420654297
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_23.png,241.0,"user
+0.206",0.0,427.0308017730713
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_23.png,312.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-237.0",0.0,434.9336624145508
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_24.png,312.0,"user
+0.275",0.0,420.50647735595703
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_24.png,282.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-319.0",0.0,426.8803596496582
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_25.png,63.0,"user
+0.242",0.0,417.4656867980957
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_25.png,58.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-70.0",0.0,422.5895404815674
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_26.png,113.0,"user
+0.272",0.0,419.9812412261963
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_26.png,161.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-108.0",0.0,424.0460395812988
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_27.png,143.0,"user
+0.229",0.0,417.13976860046387
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_27.png,185.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-134.0",0.0,428.2951354980469
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_28.png,229.0,"user
+0.://",0.0,424.0231513977051
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_28.png,63.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-224.0",0.0,531.6784381866455
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_29.png,319.0,"user
+0.275",0.0,425.92310905456543
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_29.png,17.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-320.0",0.0,427.8564453125
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_30.png,309.0,"user
+0.14",0.0,416.5217876434326
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_30.png,352.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-320.0",0.0,427.5035858154297
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_31.png,118.0,"user
+0.0",0.0,420.13096809387207
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_31.png,320.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-115.0",0.0,425.2810478210449
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_32.png,270.0,"user
+0.340",0.0,422.1961498260498
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_32.png,126.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-268.0",0.0,433.8269233703613
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_33.png,11.0,"user
+0.116",0.0,426.01799964904785
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_33.png,176.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-13.0",0.0,425.60362815856934
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_34.png,81.0,"user
+0.167",0.0,428.3425807952881
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_34.png,46.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-78.0",0.0,428.8794994354248
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_35.png,356.0,"user
+0.41",0.0,671.3967323303223
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_35.png,214.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-3.0",0.0,424.1213798522949
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_36.png,269.0,"user
+0.18900000000000001",0.0,673.1019020080566
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_36.png,285.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-268.0",0.0,425.0366687774658
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_37.png,160.0,"user
+0.275",0.0,427.9296398162842
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_37.png,47.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-155.0",0.0,428.8642406463623
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_38.png,345.0,"user
+0.324",0.0,421.2331771850586
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_38.png,185.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-346.0",0.0,421.389102935791
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_39.png,112.0,"user
+0.167",0.0,423.22349548339844
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_39.png,90.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-106.0",0.0,424.2663383483887
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_40.png,134.0,"user
+0.98",0.0,420.27759552001953
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_40.png,86.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-124.0",0.0,428.8356304168701
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_41.png,283.0,"user
+0.274",0.0,421.18144035339355
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_41.png,12.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-283.0",0.0,453.136682510376
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_42.png,319.0,"user
+0.0",0.0,431.2243461608887
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_42.png,138.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-320.0",0.0,440.6709671020508
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_43.png,188.0,"user
+0.13000000000000001",0.0,647.1378803253174
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_43.png,347.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-190.0",0.0,427.17480659484863
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_44.png,49.0,"user
+0.0",0.0,425.3823757171631
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_44.png,286.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-51.0",0.0,419.70086097717285
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_45.png,326.0,"user
+0.274",0.0,411.04960441589355
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_45.png,82.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-323.0",0.0,422.252893447876
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_46.png,214.0,"user
+0.274",0.0,433.20178985595703
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_46.png,221.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-217.0",0.0,429.33177947998047
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_47.png,59.0,"user
+0.225",0.0,416.93902015686035
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_47.png,25.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-58.0",0.0,423.9990711212158
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_48.png,18.0,"user
+0.33",0.0,423.3720302581787
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_48.png,230.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-18.0",0.0,425.0040054321289
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_49.png,79.0,"user
+0.225",0.0,421.983003616333
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_49.png,178.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-78.0",0.0,421.6578006744385
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_50.png,355.0,"user
+0.198",0.0,423.1734275817871
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_50.png,330.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-1.0",0.0,426.0139465332031
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_51.png,87.0,"user
+0.340",0.0,416.94116592407227
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_51.png,268.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-2.0",0.0,428.21788787841797
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_52.png,182.0,"user
+0.274",0.0,425.33183097839355
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_52.png,243.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-190.0",0.0,427.55699157714844
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_53.png,119.0,"user
+0.274",0.0,425.3959655761719
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_53.png,202.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-116.0",0.0,427.8604984283447
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_54.png,106.0,"user
+0.212",0.0,432.8298568725586
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_54.png,49.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-105.0",0.0,423.5522747039795
-CustomLLaMA,run_0,EXP1-Results/direction/direction_image_55.png,21.0,"user
+0.294",0.0,425.10080337524414
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_55.png,316.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-23.0",0.0,431.6987991333008
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_1.png,291.0,"user
+0.282",0.0,430.73511123657227
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_1.png,274.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-296.0",0.0,421.4153289794922
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_2.png,150.0,"user
+0.253333.274",0.0,565.4478073120117
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_2.png,283.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-157.0",0.0,428.6811351776123
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_3.png,169.0,"user
+0.169",0.0,417.1600341796875
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_3.png,263.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-168.0",0.0,427.4413585662842
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_4.png,60.0,"user
+0.274",0.0,422.5144386291504
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_4.png,43.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-58.0",0.0,428.56454849243164
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_5.png,287.0,"user
+0.44",0.0,419.2051887512207
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_5.png,65.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-297.0",0.0,432.36422538757324
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_6.png,247.0,"user
+0.275",0.0,425.1077175140381
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_6.png,206.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-237.0",0.0,427.36148834228516
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_7.png,269.0,"user
+0.206",0.0,421.33045196533203
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_7.png,48.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-270.0",0.0,432.145357131958
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_8.png,39.0,"user
+0.317",0.0,436.6321563720703
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_8.png,150.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-44.0",0.0,426.2263774871826
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_9.png,236.0,"user
+0.18900000000000001",0.0,640.0730609893799
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_9.png,348.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-221.0",0.0,427.11544036865234
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_10.png,329.0,"user
+0.0",0.0,418.81346702575684
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_10.png,208.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-324.0",0.0,442.42215156555176
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_11.png,244.0,"user
+0.206",0.0,416.38731956481934
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_11.png,350.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-238.0",0.0,427.9005527496338
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_12.png,111.0,"user
+0.0",0.0,424.47781562805176
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_12.png,2.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-106.0",0.0,427.39033699035645
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_13.png,182.0,"user
+0.0",0.0,424.47662353515625
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_13.png,264.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-192.0",0.0,425.7466793060303
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_14.png,83.0,"user
+0.272",0.0,419.7533130645752
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_14.png,29.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-95.0",0.0,432.97505378723145
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_15.png,84.0,"user
+0.29",0.0,422.5306510925293
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_15.png,308.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-88.0",0.0,425.01211166381836
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_16.png,239.0,"user
+0.317",0.0,420.26329040527344
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_16.png,219.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-237.0",0.0,425.281286239624
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_17.png,355.0,"user
+0.275",0.0,421.65279388427734
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_17.png,109.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-6.0",0.0,429.2263984680176
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_18.png,88.0,"user
+0.275",0.0,421.3395118713379
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_18.png,105.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-2.0",0.0,437.4101161956787
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_19.png,48.0,"user
+0.130000000000000004",0.0,640.568733215332
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_19.png,300.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-51.0",0.0,420.2892780303955
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_20.png,0.0,"user
+0.275",0.0,429.81815338134766
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_20.png,69.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-359.0",0.0,427.0913600921631
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_21.png,349.0,"user
+0.275",0.0,427.3669719696045
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_21.png,286.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-347.0",0.0,423.21085929870605
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_22.png,322.0,"user
+0.288",0.0,432.13605880737305
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_22.png,230.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-323.0",0.0,425.36115646362305
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_23.png,241.0,"user
+0.168",0.0,450.52576065063477
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_23.png,312.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-239.0",0.0,430.4037094116211
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_24.png,312.0,"user
+0.340",0.0,432.8320026397705
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_24.png,282.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-319.0",0.0,423.534631729126
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_25.png,63.0,"user
+0.135",0.0,419.2662239074707
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_25.png,58.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-71.0",0.0,424.0436553955078
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_26.png,113.0,"user
+0.38",0.0,423.6741065979004
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_26.png,161.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-108.0",0.0,422.4214553833008
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_27.png,143.0,"user
+0.169",0.0,416.98598861694336
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_27.png,185.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-134.0",0.0,433.1669807434082
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_28.png,229.0,"user
+0.://",0.0,423.4786033630371
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_28.png,63.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-221.0",0.0,427.3695945739746
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_29.png,319.0,"user
+0.275",0.0,423.4793186187744
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_29.png,17.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-321.0",0.0,424.1340160369873
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_30.png,309.0,"user
+0.14",0.0,434.0240955352783
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_30.png,352.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-319.0",0.0,422.9428768157959
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_31.png,118.0,"user
+0.0",0.0,421.37956619262695
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_31.png,320.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-115.0",0.0,425.89569091796875
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_32.png,270.0,"user
+0.350",0.0,424.2691993713379
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_32.png,126.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-270.0",0.0,443.64428520202637
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_33.png,11.0,"user
+0.1306810000",0.0,555.0851821899414
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_33.png,176.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-14.0",0.0,423.2029914855957
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_34.png,81.0,"user
+0.18900000000000001",0.0,647.2768783569336
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_34.png,46.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-78.0",0.0,439.68915939331055
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_35.png,356.0,"user
+0.44",0.0,416.5363311767578
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_35.png,214.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-3.0",0.0,425.8544445037842
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_36.png,269.0,"user
+0.212",0.0,417.90270805358887
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_36.png,285.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-269.0",0.0,428.74598503112793
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_37.png,160.0,"user
+0.287",0.0,426.16987228393555
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_37.png,47.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-154.0",0.0,427.3219108581543
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_38.png,345.0,"user
+0.322",0.0,419.248104095459
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_38.png,185.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-343.0",0.0,422.35803604125977
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_39.png,112.0,"user
+0.169",0.0,420.80211639404297
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_39.png,90.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-105.0",0.0,424.2706298828125
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_40.png,134.0,"user
+0.0",0.0,417.9978370666504
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_40.png,86.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-124.0",0.0,424.17407035827637
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_41.png,283.0,"user
+0.274",0.0,417.89841651916504
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_41.png,12.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-284.0",0.0,431.4618110656738
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_42.png,319.0,"user
+0.0",0.0,419.1112518310547
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_42.png,138.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-321.0",0.0,422.5912094116211
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_43.png,188.0,"user
+0.13000000000000001",0.0,647.6309299468994
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_43.png,347.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-189.0",0.0,429.1203022003174
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_44.png,49.0,"user
+0.0",0.0,452.89087295532227
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_44.png,286.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-52.0",0.0,428.94506454467773
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_45.png,326.0,"user
+0.275",0.0,451.4632225036621
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_45.png,82.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-321.0",0.0,425.16446113586426
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_46.png,214.0,"user
+0.274",0.0,441.01405143737793
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_46.png,221.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-21.0",0.0,426.2351989746094
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_47.png,59.0,"user
+0.169",0.0,421.60534858703613
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_47.png,25.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-58.0",0.0,427.59108543395996
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_48.png,18.0,"user
+0.0",0.0,432.4188232421875
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_48.png,230.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-17.0",0.0,431.7350387573242
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_49.png,79.0,"user
+0.229",0.0,421.8289852142334
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_49.png,178.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-76.0",0.0,426.8643856048584
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_50.png,355.0,"user
+0.134",0.0,424.574613571167
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_50.png,330.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-5.0",0.0,433.61568450927734
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_51.png,87.0,"user
+0.352",0.0,419.15225982666016
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_51.png,268.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-2.0",0.0,422.82843589782715
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_52.png,182.0,"user
+0.288",0.0,430.6650161743164
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_52.png,243.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-190.0",0.0,433.6419105529785
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_53.png,119.0,"user
+0.228",0.0,417.13452339172363
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_53.png,202.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-117.0",0.0,423.7082004547119
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_54.png,106.0,"user
+0.229",0.0,419.46911811828613
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_54.png,49.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-106.0",0.0,432.9993724822998
-CustomLLaMA,run_1,EXP1-Results/direction/direction_image_55.png,21.0,"user
+0.305",0.0,419.8439121246338
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_55.png,316.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-23.0",0.0,455.26599884033203
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_1.png,291.0,"user
+0.352",0.0,423.06971549987793
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_1.png,274.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-297.0",0.0,428.6372661590576
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_2.png,150.0,"user
+0.241",0.0,425.08625984191895
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_2.png,283.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-138.0",0.0,470.86119651794434
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_3.png,169.0,"user
+0.274",0.0,417.3586368560791
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_3.png,263.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-167.0",0.0,426.85556411743164
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_4.png,60.0,"user
+0.228",0.0,554.5639991760254
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_4.png,43.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-58.0",0.0,426.96142196655273
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_5.png,287.0,"user
+0.274",0.0,481.98533058166504
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_5.png,65.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-294.0",0.0,425.2278804779053
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_6.png,247.0,"user
+0.0",0.0,421.4160442352295
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_6.png,206.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-240.0",0.0,427.9906749725342
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_7.png,269.0,"user
+0.228",0.0,417.8938865661621
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_7.png,48.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-269.0",0.0,424.7090816497803
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_8.png,39.0,"user
+0.275",0.0,418.6584949493408
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_8.png,150.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-43.0",0.0,428.9567470550537
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_9.png,236.0,"user
+0.18900000000000001",0.0,645.0996398925781
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_9.png,348.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-221.0",0.0,416.9032573699951
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_10.png,329.0,"user
+0.0",0.0,429.0018081665039
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_10.png,208.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-323.0",0.0,426.2678623199463
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_11.png,244.0,"user
+0.275",0.0,427.5786876678467
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_11.png,350.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-240.0",0.0,428.2360076904297
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_12.png,111.0,"user
+0.0",0.0,438.54713439941406
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_12.png,2.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-106.0",0.0,424.28040504455566
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_13.png,182.0,"user
+0.0",0.0,416.795015335083
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_13.png,264.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-192.0",0.0,428.1964302062988
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_14.png,83.0,"user
+0.212",0.0,419.54827308654785
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_14.png,29.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-89.0",0.0,421.536922454834
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_15.png,84.0,"user
+0.30",0.0,426.98168754577637
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_15.png,308.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-86.0",0.0,427.45351791381836
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_16.png,239.0,"user
+0.274",0.0,427.7913570404053
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_16.png,219.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-238.0",0.0,425.4891872406006
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_17.png,355.0,"user
+0.206",0.0,420.762300491333
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_17.png,109.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-6.0",0.0,529.72412109375
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_18.png,88.0,"user
+0.274",0.0,422.5187301635742
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_18.png,105.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-1.0",0.0,442.5489902496338
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_19.png,48.0,"user
+0.129",0.0,429.7444820404053
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_19.png,300.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-52.0",0.0,429.7001361846924
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_20.png,0.0,"user
+0.275",0.0,416.6114330291748
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_20.png,69.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-360.0",0.0,432.2385787963867
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_21.png,349.0,"user
+0.287",0.0,416.63599014282227
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_21.png,286.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-347.0",0.0,423.32983016967773
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_22.png,322.0,"user
+0.275",0.0,422.74975776672363
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_22.png,230.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-320.0",0.0,439.2120838165283
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_23.png,241.0,"user
+0.274",0.0,426.5000820159912
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_23.png,312.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-238.0",0.0,431.8969249725342
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_24.png,312.0,"user
+0.324",0.0,424.5882034301758
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_24.png,282.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-319.0",0.0,425.0619411468506
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_25.png,63.0,"user
+0.129",0.0,417.27375984191895
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_25.png,58.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-70.0",0.0,424.94702339172363
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_26.png,113.0,"user
+0.274",0.0,424.4656562805176
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_26.png,161.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-108.0",0.0,430.94539642333984
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_27.png,143.0,"user
+0.274",0.0,425.25243759155273
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_27.png,185.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-133.0",0.0,428.00450325012207
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_28.png,229.0,"user
+0.176",0.0,420.5784797668457
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_28.png,63.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-221.0",0.0,424.56817626953125
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_29.png,319.0,"user
+0.282",0.0,420.1483726501465
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_29.png,17.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-320.0",0.0,427.2165298461914
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_30.png,309.0,"user
+0.0",0.0,423.31790924072266
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_30.png,352.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-320.0",0.0,424.511194229126
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_31.png,118.0,"user
+0.0",0.0,418.2567596435547
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_31.png,320.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-115.0",0.0,425.4896640777588
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_32.png,270.0,"user
+0.324",0.0,416.8813228607178
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_32.png,126.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-269.0",0.0,425.7926940917969
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_33.png,11.0,"user
+0.116",0.0,426.33652687072754
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_33.png,176.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-13.0",0.0,425.7333278656006
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_34.png,81.0,"user
+0.18900000000000001",0.0,669.5327758789062
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_34.png,46.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-77.0",0.0,436.4354610443115
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_35.png,356.0,"user
+0.274",0.0,426.31030082702637
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_35.png,214.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-3.0",0.0,427.39200592041016
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_36.png,269.0,"user
+0.287",0.0,421.53048515319824
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_36.png,285.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-269.0",0.0,422.4700927734375
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_37.png,160.0,"user
+0.275",0.0,421.1280345916748
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_37.png,47.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-154.0",0.0,429.72302436828613
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_38.png,345.0,"user
+0.274",0.0,420.79949378967285
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_38.png,185.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-346.0",0.0,430.07612228393555
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_39.png,112.0,"user
+0._REF",0.0,424.3350028991699
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_39.png,90.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-105.0",0.0,427.8571605682373
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_40.png,134.0,"user
+0.275",0.0,422.32751846313477
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_40.png,86.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-124.0",0.0,431.6396713256836
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_41.png,283.0,"user
+0.0",0.0,424.47948455810547
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_41.png,12.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-282.0",0.0,425.9324073791504
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_42.png,319.0,"user
+0.0",0.0,433.2311153411865
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_42.png,138.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-321.0",0.0,430.92942237854004
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_43.png,188.0,"user
+0.116",0.0,418.56861114501953
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_43.png,347.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-188.0",0.0,423.5875606536865
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_44.png,49.0,"user
+0.0",0.0,422.1343994140625
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_44.png,286.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-53.0",0.0,428.09438705444336
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_45.png,326.0,"user
+0.274",0.0,431.5907955169678
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_45.png,82.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-320.0",0.0,452.27932929992676
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_46.png,214.0,"user
+0.275",0.0,423.5966205596924
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_46.png,221.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-21.0",0.0,427.0603656768799
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_47.png,59.0,"user
+0.287",0.0,416.17345809936523
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_47.png,25.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-58.0",0.0,409.67249870300293
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_48.png,18.0,"user
+0.14",0.0,420.7725524902344
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_48.png,230.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-17.0",0.0,426.8169403076172
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_49.png,79.0,"user
+0.203",0.0,419.9385643005371
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_49.png,178.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-78.0",0.0,432.2469234466553
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_50.png,355.0,"user
+0.://",0.0,423.15149307250977
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_50.png,330.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-3.0",0.0,425.2007007598877
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_51.png,87.0,"user
+0.352",0.0,427.3111820220947
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_51.png,268.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-1.0",0.0,425.6470203399658
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_52.png,182.0,"user
+0.274",0.0,416.96953773498535
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_52.png,243.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-191.0",0.0,429.271936416626
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_53.png,119.0,"user
+0.274",0.0,426.3570308685303
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_53.png,202.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-118.0",0.0,427.66261100769043
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_54.png,106.0,"user
+0.176",0.0,425.1668453216553
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_54.png,49.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-105.0",0.0,427.5944232940674
-CustomLLaMA,run_2,EXP1-Results/direction/direction_image_55.png,21.0,"user
+0.352",0.0,422.4851131439209
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_55.png,316.0,"user
 Estimate the line's direction (range: 0-359 degrees). Number only. No explanation.
 assistant
 
-21.0",0.0,422.92070388793945
+0.272",0.0,426.1019229888916
 CustomLLaMA,average,,,,,
