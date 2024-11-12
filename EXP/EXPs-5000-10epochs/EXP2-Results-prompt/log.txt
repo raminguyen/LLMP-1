@@ -1,0 +1,2 @@
+bar - Elapsed time: 162.54 seconds
+pie - Elapsed time: 163.25 seconds
