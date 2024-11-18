@@ -9,7 +9,7 @@
 #
 #
 # set name of job
-#SBATCH --job-name=EXP5-10000images-3epochs
+#SBATCH --job-name=EXP5
 #
 # set the number of processors/tasks needed
 ##SBATCH -n 4

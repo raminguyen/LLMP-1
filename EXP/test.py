@@ -2,58 +2,33 @@ import sys
 import os
 import torch
 from dotenv import load_dotenv
+import time
+from huggingface_hub import login
+
+# Add LLMP path
 sys.path.append('../')
 import LLMP as L
 
+# Load environment variables
 load_dotenv()
+
+# Clear GPU cache
 torch.cuda.empty_cache()
 
-# Import LLMP after ensuring the path is correct
-import LLMP as L
-
 # Hugging Face login using the token
-from huggingface_hub import login
 login('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')
 
-model_instances = {
-   #"gpt4o": L.GPTModel("gpt-4o"),
-    "CustomLLaMA": L.llamafinetuned("/home/huuthanhvy.nguyen001/LLMP/EXP/my_finetuned_llama_7200_images"),
+model = {
+    "gpt4o": L.GPTModel("gpt-4o"), 
+    #"CustomLLaMA": L.llamafinetuned("./finetuning-EXP1-100-10epochs-0.001-test/fine_tuned_model"),
     #"LLaMA": L.llama("meta-llama/Llama-3.2-11B-Vision-Instruct"),
-    #"GeminiProVision": L.GeminiProVision(),
-    #"Gemini1_5Flash": L.Gemini1_5Flash()
+    "GeminiProVision": L.GeminiProVision(),
+    "Gemini1_5Flash": L.Gemini1_5Flash()
 }
 
-# Run the evaluator
-e = L.Evaluator()
-
-import time
-
-# Define the query
-bestquery = """
-What is the exact acute angle degree? Give your answer as a specific number.
-No extra explanation is required.
-
-"""
-
-# Generate images
-images = [L.GPImage.figure1('angle') for i in range(10)]
-
-# Start time measurement
-start_time = time.time()
-
-# Run the evaluator
-result = e.run(images, bestquery, model_instances)
-
-# End time measurement
-end_time = time.time()
-
-# Calculate elapsed time
-elapsed_time = end_time - start_time
-print(f"Elapsed time: {elapsed_time} seconds")
-
-# Save results to JSON file
-e.save_results('RESULTS/test.json')
-
-# Save elapsed time to a text file
-with open('RESULTS/test', 'w') as f:
-    f.write(f"Elapsed time for running the query: {elapsed_time} seconds\n")
+# Example of checking for model-specific method
+try:
+    trainable_params = model.get_trainable_params()  # Hypothetical method
+    print(f"{model_name}: {trainable_params:,} trainable parameters")
+except AttributeError:
+    print(f"{model_name}: Model does not support parameter inspection.")

@@ -9,7 +9,7 @@
 #
 #
 # set name of job
-#SBATCH --job-name=LLMP
+#SBATCH --job-name=EXP3
 #
 # set the number of processors/tasks needed
 ##SBATCH -n 4

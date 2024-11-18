@@ -1,0 +1,827 @@
+model_name,run,image_path,ground_truth,raw_answers,forced_repetitions
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_1.png,"[55, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_2.png,"[58, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_3.png,"[59, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 50.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_4.png,"[57, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_5.png,"[51, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_6.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_7.png,"[56, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_8.png,"[54, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 55.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_9.png,"[59, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_10.png,"[51, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 56.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_11.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_12.png,"[60, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_13.png,"[58, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 57.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_14.png,"[49, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[51.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_15.png,"[51, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_16.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_17.png,"[55, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 51.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_18.png,"[56, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_19.png,"[60, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 55.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_20.png,"[50, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_21.png,"[57, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 55.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_22.png,"[59, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 50.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_23.png,"[52, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_24.png,"[55, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_25.png,"[58, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_26.png,"[60, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 56.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_27.png,"[56, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_28.png,"[58, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 51.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_29.png,"[54, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 54.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_30.png,"[57, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 59.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_31.png,"[51, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 51.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_32.png,"[57, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_33.png,"[54, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_34.png,"[59, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 55.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_35.png,"[59, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_36.png,"[57, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_37.png,"[56, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_38.png,"[58, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_39.png,"[58, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_40.png,"[59, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_41.png,"[55, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_42.png,"[59, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_43.png,"[55, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_44.png,"[56, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 51.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_45.png,"[49, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 59.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_46.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_47.png,"[55, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 57.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_48.png,"[49, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[51.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_49.png,"[52, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_50.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 54.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_51.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 59.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_52.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_53.png,"[50, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 59.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_54.png,"[58, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 54.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_55.png,"[55, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 54.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_1.png,"[55, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_2.png,"[58, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_3.png,"[59, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 50.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_4.png,"[57, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_5.png,"[51, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_6.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_7.png,"[56, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_8.png,"[54, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 55.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_9.png,"[59, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_10.png,"[51, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 56.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_11.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_12.png,"[60, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_13.png,"[58, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 57.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_14.png,"[49, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[51.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_15.png,"[51, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_16.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_17.png,"[55, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 51.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_18.png,"[56, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_19.png,"[60, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 55.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_20.png,"[50, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_21.png,"[57, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 55.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_22.png,"[59, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 50.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_23.png,"[52, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_24.png,"[55, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 54.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_25.png,"[58, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_26.png,"[60, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 56.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_27.png,"[56, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_28.png,"[58, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 51.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_29.png,"[54, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 54.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_30.png,"[57, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 59.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_31.png,"[51, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 51.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_32.png,"[57, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_33.png,"[54, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_34.png,"[59, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 55.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_35.png,"[59, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_36.png,"[57, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_37.png,"[56, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_38.png,"[58, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_39.png,"[58, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_40.png,"[59, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_41.png,"[55, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_42.png,"[59, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_43.png,"[55, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_44.png,"[56, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 51.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_45.png,"[49, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 59.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_46.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_47.png,"[55, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 57.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_48.png,"[49, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[51.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_49.png,"[52, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_50.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 54.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_51.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 59.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_52.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_53.png,"[50, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 59.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_54.png,"[58, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 54.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_55.png,"[55, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 54.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_1.png,"[55, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_2.png,"[58, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_3.png,"[59, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 50.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_4.png,"[57, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_5.png,"[51, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_6.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_7.png,"[56, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_8.png,"[54, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 55.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_9.png,"[59, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_10.png,"[51, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 56.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_11.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_12.png,"[60, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_13.png,"[58, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 57.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_14.png,"[49, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[51.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_15.png,"[51, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_16.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_17.png,"[55, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 51.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_18.png,"[56, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_19.png,"[60, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 55.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_20.png,"[50, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_21.png,"[57, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 55.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_22.png,"[59, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 50.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_23.png,"[52, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_24.png,"[55, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_25.png,"[58, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_26.png,"[60, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 56.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_27.png,"[56, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_28.png,"[58, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 51.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_29.png,"[54, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 54.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_30.png,"[57, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 59.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_31.png,"[51, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 51.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_32.png,"[57, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_33.png,"[54, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_34.png,"[59, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 55.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_35.png,"[59, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_36.png,"[57, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_37.png,"[56, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_38.png,"[58, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_39.png,"[58, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_40.png,"[59, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_41.png,"[55, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_42.png,"[59, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_43.png,"[55, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_44.png,"[56, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 51.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_45.png,"[49, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 59.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_46.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_47.png,"[55, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 57.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_48.png,"[49, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[51.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_49.png,"[52, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_50.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 54.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_51.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 59.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_52.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_53.png,"[50, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 59.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_54.png,"[58, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 54.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_55.png,"[55, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 54.0]",0
+CustomLLaMA,average,,,,0

@@ -9,7 +9,7 @@
 #
 #
 # set name of job
-#SBATCH --job-name=finetuning-EXP2-5000-20epochs
+#SBATCH --job-name=EXP2
 #
 # set the number of processors/tasks needed
 ##SBATCH -n 4

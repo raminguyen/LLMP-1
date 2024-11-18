@@ -18,18 +18,18 @@ torch.cuda.empty_cache()
 # Hugging Face login using the token
 login('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')
 
-# Set up model instances
-model_instances = {
-    #"gpt4o": L.GPTModel("gpt-4o"), 
-    "CustomLLaMA": L.llamafinetuned("./finetuning-EXP1-100-10epochs-0.001-test/fine_tuned_model"),
-    #"LLaMA": L.llama("meta-llama/Llama-3.2-11B-Vision-Instruct"),
-    #"GeminiProVision": L.GeminiProVision(),
-    #"Gemini1_5Flash": L.Gemini1_5Flash()
-}
-
 # Set up the number of images and sleep time
 num_images = 55
-timesheet = 5 # Sleep for 5 seconds between each task
+timesheet = 10 # Sleep for 5 seconds between each task
+
+# Set up model instances 
+model_instances = {
+    "gpt4o": L.GPTModel("gpt-4o"), 
+    "CustomLLaMA": L.llamafinetuned("./EXPs-5000-10epochs/EXP1-Results/finetuning-EXP1-5000-10epochs/fine_tuned_model"),
+    "LLaMA": L.llama("meta-llama/Llama-3.2-11B-Vision-Instruct"),
+    "GeminiProVision": L.GeminiProVision(),
+    "Gemini1_5Flash": L.Gemini1_5Flash()
+}
 
 # Create an instance of the Runexp1 class
 experiment = L.Runexp1()

@@ -16,7 +16,7 @@ from pytorch_lightning.loggers import CSVLogger
 # Paths
 
 # Define the base directory once
-BASE_DIR = './finetuning-EXP1-5000-5epochs' 
+BASE_DIR = './finetuning-EXP1-5000-10epochs-lora' 
 
 # Use BASE_DIR to define the other paths
 DATA_DIR = os.path.join(BASE_DIR, 'json')
@@ -108,9 +108,9 @@ class VisionTextModel(pl.LightningModule):
         )
         
         peft_config = LoraConfig(
-            lora_alpha=64,
+            lora_alpha=128,
             lora_dropout=0.1,
-            r=64,
+            r=256,
             bias="none",
             target_modules=["q_proj", "v_proj"],
             task_type="FEATURE_EXTRACTION",
@@ -132,6 +132,11 @@ class VisionTextModel(pl.LightningModule):
         outputs = self(**batch)
         loss = outputs.loss
         self.log("train_loss", loss, on_step=True, on_epoch=True, prog_bar=True, logger=True)
+
+        # Check GPU usage periodically (e.g., every 100 batches)
+        if batch_idx % 100 == 0:
+            check_gpu_usage()
+            
         return loss
 
     def validation_step(self, batch, batch_idx):
@@ -191,6 +196,15 @@ trainer = pl.Trainer(
 
     logger=[tensorboard_logger, csv_logger]
 )
+
+import subprocess
+
+def check_gpu_usage():
+    result = subprocess.run(['nvidia-smi'], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    print(result.stdout)
+
+# Example usage:
+check_gpu_usage()  # Call this function at any point to print GPU usage
 
 # Train the model
 trainer.fit(model, datamodule=data_module)
