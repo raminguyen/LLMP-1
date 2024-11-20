@@ -1,0 +1,2932 @@
+model_name,run,image_path,ground_truth,raw_answers,forced_repetitions
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","[55, 50]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","[59, 54]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","[50, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","[55, 50]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","[53, 57]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","[60, 54]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","[55, 50]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","[54, 56]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","[56, 52]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","[50, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","[55, 58]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","[55, 57]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","[55, 57]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","[54, 58]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","[56, 51]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","[55, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","[52, 59]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","[50, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","[56, 52]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","[50, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","[58, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","[50, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","[53, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","[50, 58]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","[60, 50]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","[58, 50]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","[55, 58]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","[53, 56]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","[55, 51]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","[57, 50]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","[50, 56]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","[60, 53]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","[50, 58]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","[50, 58]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","[53, 56]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","[50, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","[53, 58]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","[50, 58]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","[50, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","[58, 52]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","[53, 58]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","[57, 51]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","[54, 52]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","[58, 50]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","[55, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","[55, 57]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","[60, 50]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","[54, 54]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","[50, 55]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","[50, 54]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","[58, 50]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","[54, 58]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","[50, 58]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","[54, 57]",0
+gpt4o,run_0,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","[60, 54]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","[56, 51]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","[60, 52]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","[55, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","[60, 50]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","[50, 55]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","[60, 50]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","[55, 50]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","[54, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","[55, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","[53, 57]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","[50, 57]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","[55, 55]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","[50, 55]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","[55, 57]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","[55, 50]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","[54, 56]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","[52, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","[50, 55]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","[58, 52]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","[50, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","[60, 55]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","[55, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","[50, 55]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","[50, 55]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","[58, 50]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","[58, 52]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","[55, 53]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","[53, 57]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","[54, 56]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","[60, 50]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","[50, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","[60, 49]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","[50, 56]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","[49, 55]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","[56, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","[54, 57]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","[52, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","[50, 55]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","[50, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","[60, 49]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","[55, 50]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","[58, 52]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","[55, 57]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","[60, 49]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","[55, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","[52, 57]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","[60, 54]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","[50, 55]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","[57, 54]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","[55, 52]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","[60, 50]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","[52, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","[50, 58]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","[52, 56]",0
+gpt4o,run_1,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","[60, 50]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","[54, 52]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","[60, 52]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","[50, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","[58, 51]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","[50, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","[55, 50]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","[60, 49]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","[54, 56]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","[55, 52]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","[50, 55]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","[55, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","[54, 54]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","[55, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","[55, 57]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","[53, 51]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","[55, 55]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","[52, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","[55, 52]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","[54, 51]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","[51, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","[54, 55]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","[55, 55]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","[50, 60]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","[50, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","[60, 50]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","[60, 50]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","[50, 55]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","[53, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","[55, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","[57, 51]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","[50, 55]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","[60, 53]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","[50, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","[50, 57]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","[54, 57]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","[55, 60]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","[53, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","[55, 60]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","[50, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","[60, 50]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","[53, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","[55, 52]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","[55, 57]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","[60, 53]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","[55, 55]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","[55, 50]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","[60, 54]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","[50, 55]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","[54, 56]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","[56, 51]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","[60, 55]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","[50, 55]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","[50, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","[55, 58]",0
+gpt4o,run_2,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","[60, 55]",0
+gpt4o,average,,,,0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 51.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 59.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 59.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 55.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 56.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 54.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[51.0, 54.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 55.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 56.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 54.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 57.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 51.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 59.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 59.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 51.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 51.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 59.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 56.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 59.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 50.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 54.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 57.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 57.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 51.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 56.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 54.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 52.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 53.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 55.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_0,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 54.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 51.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 59.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 59.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 55.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 56.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 54.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[51.0, 54.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 55.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 56.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 57.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 51.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 59.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 59.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 51.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 59.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 56.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 59.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 50.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 54.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 57.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 54.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 57.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 51.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 56.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 54.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 52.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 53.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 55.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_1,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 54.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 51.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 59.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 59.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 55.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 56.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 54.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[51.0, 54.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 55.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 56.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 54.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 57.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 51.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 59.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 59.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 51.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[53.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 59.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 56.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 59.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 50.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 54.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 57.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 54.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[59.0, 51.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 56.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 55.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[57.0, 60.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[55.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[58.0, 52.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[56.0, 53.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[52.0, 55.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[54.0, 58.0]",0
+CustomLLaMA,run_2,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","user
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]
+assistant
+
+[60.0, 54.0]",0
+CustomLLaMA,average,,,,0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 46].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [50, 50].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Analyze the image**
+
+*   The image consists of two black bars, one on the left and one on the right, with a gray background. Both bars are of equal length and appear to be the same length.
+
+**Step 2: Estimate the lengths**
+
+*   The length of the bar on the left appears to be approximately 60 pixels long.
+*   The length of the bar on the right appears to be approximately 49 pixels long.
+
+**Step 3: Combine the estimates**
+
+*   The lengths of the two bars are [60, 49].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the length of the first bar.**
+
+The first bar is longer than the second bar, so it should be closer to 60 pixels.
+
+**Step 2: Estimate the length of the second bar.**
+
+The second bar is shorter than the first bar, so it should be closer to 49 pixels.
+
+**Answer:** [56, 52]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [52, 57].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 45].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [52, 58]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [53, 57].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 56].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 55].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image shows two bars, one slightly longer than the other. The shorter bar is approximately 55 pixels long, and the longer bar is approximately 60 pixels long.",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are [56, 54].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Determine the length of the bar on the left.**
+
+*   The left bar is slightly longer than the right bar.
+*   The left bar is 55 pixels long.
+*   The right bar is 49 pixels long.
+
+**Step 2: Determine the length of the bar on the right.**
+
+*   The right bar is slightly shorter than the left bar.
+*   The right bar is 49 pixels long.
+*   The left bar is 55 pixels long.
+
+**Step 3: Determine the lengths of the two bars.**
+
+*   The lengths of the two bars are [49, 55].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are 55 and 57 pixels.",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [52, 54]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [50, 50].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [54, 57]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 56].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Observe the image**
+
+The image depicts two bars of the same width. They are both approximately 1/3 the length of the image.
+
+**Step 2: Determine the length of the image**
+
+The image is 300 pixels wide and 200 pixels tall. The total number of pixels in the image is 300 * 200 = 60,000.
+
+**Step 3: Calculate the length of the bars**
+
+The image is 200 pixels tall. The bars are 1/3 the height of the image. So the bars are 200 / 3 = 66.67 pixels tall.
+
+**Step 4: Calculate the length of the bars**
+
+The bars are 1/3 the length of the image. So the bars are 60,000 / 3 = 20,000 pixels long.
+
+**Step 5: Calculate the length of the bars**
+
+The bars are 66.67 pixels tall and 20,000 pixels long. So the bars are 20,000 / 66.67 = 30 pixels wide.
+
+**Step 6: Calculate the length of the bars**
+
+The bars are 30 pixels wide and 66.67 pixels tall. So the bars are 30 * 66.67 = 2000 pixels.
+
+**Step 7: Calculate the length of the bars**
+
+The bars are 2000 pixels long. The answer is [2000, 2000].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 55].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are approximately [54, 52].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are [53, 57].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [50, 50]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 56].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [52, 54].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [55, 45].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [50, 55].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 58].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 55].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [54, 56]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image displays two black bars. The longer bar is approximately 56 pixels long, and the shorter bar is approximately 53 pixels long.",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [51, 54].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are [53, 56].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [52, 56].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [53, 55]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image depicts two black bars, with the first bar being slightly longer than the second. The first bar is approximately 54 pixels long, while the second bar is approximately 53 pixels long.",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 58].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [50, 58].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [53, 57].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [51, 55].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image shows two black bars. The first bar is longer than the second bar. The first bar is between 49 and 60 pixels long, and the second bar is between 49 and 60 pixels long.
+
+[59, 51]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [53, 54]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image depicts two bars of equal length. The left bar appears to be slightly longer than the right bar. Both lengths fall between 49 and 60 pixels.
+
+[58, 50]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 56].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The two bars in the image are of equal length and fall between 49 and 60 pixels. Based on the given image, the lengths of the two bars are:
+
+[55, 55]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image shows two bars of equal length. The first bar is 49 pixels long and the second bar is 58 pixels long.",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [55, 50]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are 50 and 55 pixels.",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [54, 55]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the length of the first bar**
+
+*   The first bar is longer than the second bar.
+*   The first bar is shorter than the second bar.
+*   The first bar is 54 pixels long.
+
+**Step 2: Estimate the length of the second bar**
+
+*   The second bar is shorter than the first bar.
+*   The second bar is longer than the first bar.
+*   The second bar is 55 pixels long.",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [55, 53].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 56].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [53, 54].",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Analyze the image**
+
+The image shows two black bars, one longer than the other, with a white background. The bars are oriented vertically, and their lengths are not explicitly labeled.
+
+**Step 2: Estimate the lengths of the bars**
+
+The shorter bar appears to be approximately 50 pixels long, and the longer bar appears to be approximately 60 pixels long.
+
+**Step 3: Provide the answer**
+
+[50, 60]",0
+LLaMA,run_0,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [54, 56].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 55].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [55, 50]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are [54, 55].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the lengths of the two bars without framing.**
+
+**Step 2: The lengths of the two bars are [55, 49].**",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 50].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [51, 55].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The information in the image is:
+
+* Two bars are presented.
+* The lengths of the bars are to be estimated without using a ruler or any other measuring tool.
+* The lengths should fall between 49 and 60 pixels.
+* No additional information or context is provided. 
+## Step 1
+The image shows two bars of different lengths.
+
+## Step 2
+To estimate the lengths, we can compare them to each other. The bar on the left is slightly longer than the bar on the right.
+
+## Step 3
+Both lengths should fall between 49 and 60 pixels.
+
+## Step 4
+Based on the comparison, the longer bar is approximately 56 pixels, and the shorter bar is approximately 54 pixels.
+
+The final answer is: $\boxed{\left[ 56, \  54\right]}$",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [53, 55].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the lengths of the two bars without framing.**
+
+*   The first bar is approximately 54 pixels long.
+*   The second bar is approximately 55 pixels long.
+
+**Answer:** [54, 55]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 55].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are [54, 56].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image depicts two black bars, one on the left and one on the right. The bar on the left is longer than the bar on the right. The bar on the left is 60 pixels long, and the bar on the right is 49 pixels long.",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 56].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Analyze the image**
+
+The image is a simple black and white image with two black bars. The bars are of different lengths.
+
+**Step 2: Determine the lengths**
+
+The bar on the left is longer than the bar on the right. The length of the left bar is approximately 60 pixels, and the length of the right bar is approximately 49 pixels.
+
+**Step 3: Answer**
+
+[60, 49]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 55].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image shows two black bars on a white background. The first bar is 49 pixels long, and the second bar is 60 pixels long.",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [52, 58].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 56].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the length of the first bar**
+
+The first bar is longer than the second bar. It should be between 49 and 60 pixels.
+
+**Step 2: Estimate the length of the second bar**
+
+The second bar is shorter than the first bar. It should be between 49 and 60 pixels.
+
+**Step 3: Calculate the difference between the two bars**
+
+The difference between the two bars should be between 1 and 11 pixels.
+
+**Step 4: Calculate the sum of the two bars**
+
+The sum of the two bars should be between 98 and 120 pixels.
+
+**Step 5: Calculate the ratio of the two bars**
+
+The ratio of the two bars should be between 1:1 and 2:1.
+
+**Step 6: Calculate the average of the two bars**
+
+The average of the two bars should be between 49.5 and 60 pixels.
+
+**Step 7: Calculate the median of the two bars**
+
+The median of the two bars should be between 49.5 and 60 pixels.
+
+**Step 8: Calculate the mode of the two bars**
+
+The mode of the two bars should be between 49.5 and 60 pixels.
+
+**Step 9: Calculate the range of the two bars**
+
+The range of the two bars should be between 0 and 11 pixels.
+
+**Step 10: Calculate the interquartile range of the two bars**
+
+The interquartile range of the two bars should be between 0 and 11 pixels.
+
+**Step 11: Calculate the standard deviation of the two bars**
+
+The standard deviation of the two bars should be between 0 and 5.5 pixels.
+
+**Step 12: Calculate the variance of the two bars**
+
+The variance of the two bars should be between 0 and 30.25 pixels.
+
+**Step 13: Calculate the skewness of the two bars**
+
+The skewness of the two bars should be between -1 and 1.
+
+**Step 14: Calculate the kurtosis of the two bars**
+
+The kurtosis of the two bars should be between -3 and 3.
+
+**Step 15: Calculate the correlation coefficient of",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 56].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [51, 52].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 56].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the lengths of the two bars.**
+
+*   The first bar is approximately 55 pixels long.
+*   The second bar is approximately 56 pixels long.
+
+**Step 2: Format the answer.**
+
+[55, 56]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Analyze the image.**
+
+The image is a square with two black bars in the center. The left bar is shorter than the right bar. The top and bottom of the image are gray.
+
+**Step 2: Identify the image.**
+
+The image is a logo for the game *Minecraft*. 
+
+**Step 3: Estimate the lengths of the two bars.**
+
+The left bar is 51 pixels long, and the right bar is 57 pixels long.
+
+**Answer:** [51, 57]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [52, 57].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [55, 45]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Identify the lengths of the bars in the image.**
+
+*   The length of the left bar is 59 pixels.
+*   The length of the right bar is 57 pixels.
+
+**Step 2: Answer the question.**
+
+*   [59, 57]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are 55 and 58 pixels.",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image depicts two black bars against a white background. The first bar is 49 pixels long, and the second bar is 55 pixels long.",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [54, 54]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [52, 58].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The first bar is 55 pixels long, and the second bar is 49 pixels long.",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 58].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [52, 56].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image shows two bars, each with a length of 55 pixels.",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 53].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Identify the lengths of the two bars.**
+
+*   The length of the left bar is 50 pixels.
+*   The length of the right bar is 57 pixels.
+
+**Step 2: Compare the lengths to the given range.**
+
+*   Both lengths fall between 49 and 60 pixels.
+
+**Step 3: Provide the answer in the requested format.**
+
+*   [50, 57]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the lengths of the two bars without framing.**
+
+The first bar is approximately 55 pixels long, and the second bar is approximately 60 pixels long.
+
+**Step 2: Provide the answer in the required format.**
+
+[55, 60]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 56].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [54, 52].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are 55 and 57 pixels.",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Analyze the image**
+
+The image shows two black bars on a white background. The top bar is larger than the bottom one. 
+
+**Step 2: Estimate the length of the top bar**
+
+The top bar is longer than the bottom one, so it's likely that its length is closer to 60 pixels.
+
+**Step 3: Estimate the length of the bottom bar**
+
+The bottom bar is shorter than the top one, so it's likely that its length is closer to 49 pixels.
+
+**Answer**
+
+[59, 49]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are 53 and 57 pixels.",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image shows two black bars on a white background. The bar on the left is longer than the bar on the right. The length of the bar on the left is 55 pixels, and the length of the bar on the right is 50 pixels.",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [50, 55].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Identify the length of the first bar**
+
+The first bar is approximately 1/3 of the total width of the image.
+
+**Step 2: Identify the length of the second bar**
+
+The second bar is approximately 2/3 of the total width of the image.
+
+**Step 3: Calculate the length of the first bar**
+
+First bar = 1/3 * 60 = 20 pixels
+
+**Step 4: Calculate the length of the second bar**
+
+Second bar = 2/3 * 60 = 40 pixels
+
+**Step 5: Format the answer**
+
+[20, 40]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 45].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image shows two bars that are of equal length. The first bar is slightly shorter than the second bar. The first bar is approximately 50 pixels long, and the second bar is approximately 60 pixels long.",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 55].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [53, 57].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [53, 55]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [53, 57].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the length of the first bar**
+
+*   The first bar is shorter than the second bar.
+*   The first bar is about 1.5 times the length of the second bar.
+*   The second bar is about 2.5 times the length of the first bar.
+
+**Step 2: Calculate the length of the first bar**
+
+*   Let's assume the length of the second bar is x.
+*   The length of the first bar is 1.5x.
+*   The length of the second bar is 2.5x.
+*   We know that the length of the second bar is between 49 and 60 pixels.
+*   We can set up the inequality: 49 < x < 60
+*   The first bar is shorter than the second bar, so 1.5x < 2.5x
+*   Solving the inequality, we get 49 < x < 60 and 49/3 < 1.5x < 60/3
+*   The length of the first bar is between 49/3 and 60/3
+
+**Step 3: Calculate the length of the second bar**
+
+*   The length of the second bar is between 49 and 60 pixels.
+*   The length of the second bar is 2.5 times the length of the first bar.
+*   So, the length of the second bar is between 2.5 * (49/3) and 2.5 * (60/3)
+
+**Step 4: Calculate the length of the first bar and the second bar**
+
+*   The length of the first bar is between 49/3 and 60/3.
+*   The length of the second bar is between 2.5 * (49/3) and 2.5 * (60/3)
+*   The length of the first bar is between 16.33 and 20.
+*   The length of the second bar is between 49 and 50.
+
+**Answer:** [16.33, 49]",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 55].",0
+LLaMA,run_1,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [50, 51]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [54, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 53].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Analyze the image**
+
+The image shows two bars with a gray background.
+
+**Step 2: Estimate the lengths of the bars**
+
+The left bar is longer than the right bar.
+
+**Step 3: Determine the lengths of the bars**
+
+The left bar is approximately 55 pixels long and the right bar is approximately 50 pixels long.
+
+**Step 4: Answer**
+
+[55, 50]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [54, 48]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 56].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [55, 45]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [54, 55]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The two bars are approximately 55 and 57 pixels long.",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Determine the length of the left bar.**
+
+The left bar is 1 unit long.
+
+**Step 2: Determine the length of the right bar.**
+
+The right bar is 1.5 units long.
+
+**Step 3: Convert the lengths to pixels.**
+
+The left bar is 49 pixels long.
+
+The right bar is 60 pixels long.
+
+**Step 4: Format the answer.**
+
+[49, 60]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [50, 55]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [50, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are [55, 57].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image shows two bars with the same length. The first bar is 52 pixels long, and the second bar is 58 pixels long.",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [53, 57].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [51, 58].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the length of the bar on the left**
+
+The bar on the left is approximately 55 pixels long.
+
+**Step 2: Estimate the length of the bar on the right**
+
+The bar on the right is approximately 50 pixels long.
+
+**Step 3: Combine the lengths**
+
+Combine the two lengths: [55, 50].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are 56 and 54 pixels.",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the length of the first bar.**
+
+*   The first bar is shorter than the second bar.
+*   The first bar is approximately 50 pixels long.
+
+**Step 2: Estimate the length of the second bar.**
+
+*   The second bar is longer than the first bar.
+*   The second bar is approximately 55 pixels long.
+
+**Answer:** [50, 55]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image presents two black bars on a white background, with the left bar being slightly longer than the right bar. The left bar measures approximately 55 pixels in length, while the right bar measures approximately 50 pixels in length.",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [50, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [50, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the lengths of the two bars.**
+
+The first bar is about 55 pixels long, and the second bar is about 50 pixels long.
+
+**Step 2: Provide the answer in the required format.**
+
+[55, 50]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image presents two bars, one on the left and one on the right, with the right bar being slightly shorter than the left. The left bar appears to be approximately 55 pixels long, while the right bar is around 50 pixels long.
+
+*Answer*: [55, 50]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [53, 55]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 57].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The lengths of the two bars are [54, 56] pixels.",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [50, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [54, 53]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the length of the first bar.**
+
+
+The first bar is slightly longer than the second bar. The length of the first bar is approximately 55 pixels.
+
+
+**Step 2: Estimate the length of the second bar.**
+
+
+The second bar is slightly shorter than the first bar. The length of the second bar is approximately 50 pixels.
+
+
+**Answer:** [55, 50]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 49].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the lengths of the two bars without framing.**
+
+*   The first bar is 49 pixels long.
+*   The second bar is 57 pixels long.
+
+**Answer:** [49, 57]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [52, 57].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [51, 57].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 58].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [51, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [50, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [50, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [50, 55]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [53, 57].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image depicts two black bars against a white background. The first bar is approximately 58 pixels in length, and the second bar is approximately 52 pixels in length.",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Analyze the image**
+
+The image shows two bars of equal length.
+
+**Step 2: Estimate the length of the bars**
+
+The image shows two bars with equal length, so the length of each bar is the same.
+
+**Step 3: Calculate the average length**
+
+To calculate the average length, we need to add the lengths of the two bars and divide by 2.
+
+**Step 4: Calculate the average length**
+
+Average length = (49 + 60) / 2 = 54.5
+
+**Step 5: Round the average length**
+
+Rounded average length = 55
+
+**Step 6: Answer**
+
+[55, 55]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the length of the first bar.**
+
+The first bar is longer than the second bar.
+
+**Step 2: Estimate the length of the second bar.**
+
+The second bar is shorter than the first bar.
+
+**Step 3: Calculate the difference between the lengths of the two bars.**
+
+The difference is 10 pixels.
+
+**Step 4: Calculate the average length of the two bars.**
+
+The average is 54.5 pixels.
+
+**Step 5: Round the average to the nearest whole number.**
+
+The average is 55 pixels.
+
+**Step 6: Estimate the lengths of the two bars.**
+
+The first bar is 55 pixels and the second bar is 45 pixels.
+
+**Step 7: Write the final answer.**
+
+[55, 45]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Identify the bars**
+
+The first bar is 49 pixels long and the second bar is 60 pixels long.
+
+**Step 2: Calculate the difference between the two bars**
+
+60 - 49 = 11
+
+**Step 3: Determine the ratio of the difference to the longer bar**
+
+11 / 60 = 0.1833
+
+**Step 4: Calculate the ratio of the shorter bar to the longer bar**
+
+49 / 60 = 0.8167
+
+**Step 5: Calculate the ratio of the shorter bar to the longer bar**
+
+0.8167 / 0.1833 = 4.45
+
+**Step 6: Calculate the length of the shorter bar**
+
+49 / 4.45 = 11.02
+
+**Step 7: Calculate the length of the longer bar**
+
+60 / 4.45 = 13.53
+
+**Step 8: Round the lengths to the nearest whole number**
+
+11.02 ≈ 11
+13.53 ≈ 13
+
+**Answer:** [11, 13]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [53, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The image depicts two bars, one on the left and one on the right. The bar on the left is slightly taller than the bar on the right. The bar on the left is 60 pixels tall, and the bar on the right is 49 pixels tall.",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the lengths of the two bars without framing.**
+
+*   The length of the first bar is approximately 52 pixels.
+*   The length of the second bar is approximately 58 pixels.
+
+**Step 2: Format the answer as [xx, xx].**
+
+*   [52, 58]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+**Step 1: Estimate the lengths of the two bars.**
+
+*   The first bar is approximately 50 pixels long.
+*   The second bar is approximately 55 pixels long.
+
+**Step 2: Provide the answer in the required format.**
+
+[50, 55]",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 45].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [54, 57].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [53, 57].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is [55, 55].",0
+LLaMA,run_2,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","user
+
+Estimate the lengths of the two bars without framing. Both lengths should fall between 49 and 60 pixels. No explanation. Format of the answer [xx, xx]assistant
+
+The answer is: [55, 50]",0
+LLaMA,average,,,,0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","[55, 50]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","[55, 50]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","[55, 52]
+",0
+GeminiProVision,run_0,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","[55, 50]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","[55, 50]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","[55, 50]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","[55, 50]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","[55, 50]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","[55, 52]
+",0
+GeminiProVision,run_1,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","[55, 50]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","[55, 50]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","[55, 50]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","[55, 52]
+",0
+GeminiProVision,run_2,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","[55, 52]
+",0
+GeminiProVision,average,,,,0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","[53, 57]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","[53, 57]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","[53, 57]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","[53, 57]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","[53, 53]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","[53, 56]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","[55, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","[53, 56]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","[54, 56]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","[54, 54]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","[52, 55]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","[54, 56]
+",0
+Gemini1_5Flash,run_0,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","[54, 57]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","[53, 57]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","[54, 52]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","[53, 56]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","[55, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","[53, 57]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","[54, 52]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","[55, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","[54, 56]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","[54, 54]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","[52, 55]
+",0
+Gemini1_5Flash,run_1,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_1.png,"[53, 50]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_2.png,"[59, 52]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_3.png,"[53, 60]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_4.png,"[60, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_5.png,"[54, 59]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_6.png,"[57, 51]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_7.png,"[57, 51]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_8.png,"[57, 59]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_9.png,"[55, 49]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_10.png,"[51, 52]","[54, 57]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_11.png,"[59, 55]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_12.png,"[58, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_13.png,"[54, 52]","[53, 53]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_14.png,"[51, 57]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_15.png,"[49, 54]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_16.png,"[54, 53]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_17.png,"[55, 54]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_18.png,"[56, 50]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_19.png,"[56, 50]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_20.png,"[49, 58]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_21.png,"[57, 50]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_22.png,"[49, 52]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_23.png,"[50, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_24.png,"[52, 56]","[54, 56]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_25.png,"[59, 56]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_26.png,"[60, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_27.png,"[58, 59]","[53, 56]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_28.png,"[50, 57]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_29.png,"[60, 58]","[54, 57]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_30.png,"[54, 51]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_31.png,"[55, 60]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_32.png,"[59, 50]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_33.png,"[50, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_34.png,"[51, 58]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_35.png,"[54, 55]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_36.png,"[52, 59]","[55, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_37.png,"[55, 60]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_38.png,"[53, 56]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_39.png,"[50, 60]","[54, 57]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_40.png,"[51, 49]","[53, 53]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_41.png,"[60, 53]","[55, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_42.png,"[51, 56]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_43.png,"[59, 60]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_44.png,"[56, 51]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_45.png,"[59, 57]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_46.png,"[58, 49]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_47.png,"[60, 55]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_48.png,"[55, 53]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_49.png,"[56, 60]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_50.png,"[53, 50]","[54, 54]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_51.png,"[56, 51]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_52.png,"[56, 52]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_53.png,"[50, 53]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_54.png,"[51, 58]","[52, 55]
+",0
+Gemini1_5Flash,run_2,EXP4-Results/unframed/unframed_image_55.png,"[60, 55]","[52, 55]
+",0
+Gemini1_5Flash,average,,,,0

@@ -1,0 +1,3146 @@
+model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
+gpt4o,run_0,EXP1-Results/direction/direction_image_1.png,125.0,120 degrees.,0.0,5875.942945480347
+gpt4o,run_0,EXP1-Results/direction/direction_image_2.png,315.0,310 degrees,0.0,6286.108732223511
+gpt4o,run_0,EXP1-Results/direction/direction_image_3.png,274.0,270 degrees,0.0,5941.7829513549805
+gpt4o,run_0,EXP1-Results/direction/direction_image_4.png,357.0,90 degrees,0.0,6239.443302154541
+gpt4o,run_0,EXP1-Results/direction/direction_image_5.png,225.0,120 degrees.,0.0,6122.902631759644
+gpt4o,run_0,EXP1-Results/direction/direction_image_6.png,119.0,30 degrees,0.0,7435.866594314575
+gpt4o,run_0,EXP1-Results/direction/direction_image_7.png,323.0,300 degrees,0.0,7122.73645401001
+gpt4o,run_0,EXP1-Results/direction/direction_image_8.png,320.0,320 degrees,0.0,6294.941186904907
+gpt4o,run_0,EXP1-Results/direction/direction_image_9.png,138.0,135 degrees.,0.0,5780.112266540527
+gpt4o,run_0,EXP1-Results/direction/direction_image_10.png,63.0,45 degrees,0.0,6428.987741470337
+gpt4o,run_0,EXP1-Results/direction/direction_image_11.png,33.0,130 degrees.,0.0,6163.08069229126
+gpt4o,run_0,EXP1-Results/direction/direction_image_12.png,81.0,60 degrees,0.0,6132.36403465271
+gpt4o,run_0,EXP1-Results/direction/direction_image_13.png,134.0,45 degrees,0.0,6248.857259750366
+gpt4o,run_0,EXP1-Results/direction/direction_image_14.png,221.0,30 degrees,0.0,5917.824029922485
+gpt4o,run_0,EXP1-Results/direction/direction_image_15.png,33.0,45 degrees,0.0,6462.045192718506
+gpt4o,run_0,EXP1-Results/direction/direction_image_16.png,255.0,30 degrees,0.0,6047.510862350464
+gpt4o,run_0,EXP1-Results/direction/direction_image_17.png,305.0,315 degrees,0.0,5850.614309310913
+gpt4o,run_0,EXP1-Results/direction/direction_image_18.png,189.0,95 degrees,0.0,5913.195610046387
+gpt4o,run_0,EXP1-Results/direction/direction_image_19.png,300.0,225 degrees,0.0,5931.771993637085
+gpt4o,run_0,EXP1-Results/direction/direction_image_20.png,57.0,45 degrees,0.0,7193.3722496032715
+gpt4o,run_0,EXP1-Results/direction/direction_image_21.png,46.0,45 degrees.,0.0,6174.552202224731
+gpt4o,run_0,EXP1-Results/direction/direction_image_22.png,103.0,30 degrees,0.0,6764.427423477173
+gpt4o,run_0,EXP1-Results/direction/direction_image_23.png,70.0,45 degrees,0.0,6212.023019790649
+gpt4o,run_0,EXP1-Results/direction/direction_image_24.png,112.0,30 degrees,0.0,5914.363145828247
+gpt4o,run_0,EXP1-Results/direction/direction_image_25.png,322.0,135 degrees,0.0,5606.1670780181885
+gpt4o,run_0,EXP1-Results/direction/direction_image_26.png,105.0,45 degrees,0.0,5891.868352890015
+gpt4o,run_0,EXP1-Results/direction/direction_image_27.png,20.0,45 degrees,0.0,5951.707601547241
+gpt4o,run_0,EXP1-Results/direction/direction_image_28.png,147.0,130 degrees.,0.0,5921.220064163208
+gpt4o,run_0,EXP1-Results/direction/direction_image_29.png,128.0,60 degrees,0.0,6082.287788391113
+gpt4o,run_0,EXP1-Results/direction/direction_image_30.png,191.0,135 degrees.,0.0,6305.180549621582
+gpt4o,run_0,EXP1-Results/direction/direction_image_31.png,260.0,20 degrees,0.0,6498.58546257019
+gpt4o,run_0,EXP1-Results/direction/direction_image_32.png,6.0,90 degrees,0.0,5778.512239456177
+gpt4o,run_0,EXP1-Results/direction/direction_image_33.png,282.0,200 degrees,0.0,6443.578243255615
+gpt4o,run_0,EXP1-Results/direction/direction_image_34.png,112.0,45 degrees,0.0,5850.6951332092285
+gpt4o,run_0,EXP1-Results/direction/direction_image_35.png,88.0,90 degrees,0.0,5943.788051605225
+gpt4o,run_0,EXP1-Results/direction/direction_image_36.png,350.0,270 degrees,0.0,6001.902103424072
+gpt4o,run_0,EXP1-Results/direction/direction_image_37.png,64.0,45 degrees.,0.0,6587.965250015259
+gpt4o,run_0,EXP1-Results/direction/direction_image_38.png,145.0,45 degrees,0.0,6001.17826461792
+gpt4o,run_0,EXP1-Results/direction/direction_image_39.png,217.0,60 degrees,0.0,5900.814056396484
+gpt4o,run_0,EXP1-Results/direction/direction_image_40.png,55.0,120 degrees.,0.0,7262.27879524231
+gpt4o,run_0,EXP1-Results/direction/direction_image_41.png,21.0,125 degrees.,0.0,5852.001190185547
+gpt4o,run_0,EXP1-Results/direction/direction_image_42.png,342.0,225 degrees,0.0,6180.4656982421875
+gpt4o,run_0,EXP1-Results/direction/direction_image_43.png,326.0,210 degrees,0.0,6003.720998764038
+gpt4o,run_0,EXP1-Results/direction/direction_image_44.png,111.0,45 degrees.,0.0,6138.295412063599
+gpt4o,run_0,EXP1-Results/direction/direction_image_45.png,313.0,225 degrees.,0.0,5972.082138061523
+gpt4o,run_0,EXP1-Results/direction/direction_image_46.png,129.0,45 degrees,0.0,6104.471921920776
+gpt4o,run_0,EXP1-Results/direction/direction_image_47.png,167.0,225 degrees.,0.0,5943.753719329834
+gpt4o,run_0,EXP1-Results/direction/direction_image_48.png,323.0,135 degrees.,0.0,5769.920587539673
+gpt4o,run_0,EXP1-Results/direction/direction_image_49.png,284.0,225,0.0,6397.451639175415
+gpt4o,run_0,EXP1-Results/direction/direction_image_50.png,80.0,45 degrees,0.0,5964.062690734863
+gpt4o,run_0,EXP1-Results/direction/direction_image_51.png,43.0,60 degrees,0.0,6300.948858261108
+gpt4o,run_0,EXP1-Results/direction/direction_image_52.png,3.0,180 degrees,0.0,5915.208339691162
+gpt4o,run_0,EXP1-Results/direction/direction_image_53.png,172.0,150 degrees,0.0,6301.108598709106
+gpt4o,run_0,EXP1-Results/direction/direction_image_54.png,192.0,60 degrees,0.0,6365.72003364563
+gpt4o,run_0,EXP1-Results/direction/direction_image_55.png,347.0,135 degrees,0.0,5949.01442527771
+gpt4o,run_1,EXP1-Results/direction/direction_image_1.png,125.0,120 degrees,0.0,5835.464954376221
+gpt4o,run_1,EXP1-Results/direction/direction_image_2.png,315.0,300 degrees.,0.0,7791.477680206299
+gpt4o,run_1,EXP1-Results/direction/direction_image_3.png,274.0,270 degrees,0.0,5974.125862121582
+gpt4o,run_1,EXP1-Results/direction/direction_image_4.png,357.0,90 degrees.,0.0,6374.36056137085
+gpt4o,run_1,EXP1-Results/direction/direction_image_5.png,225.0,135 degrees.,0.0,6010.976791381836
+gpt4o,run_1,EXP1-Results/direction/direction_image_6.png,119.0,120 degrees,0.0,5891.662359237671
+gpt4o,run_1,EXP1-Results/direction/direction_image_7.png,323.0,120 degrees.,0.0,6222.395420074463
+gpt4o,run_1,EXP1-Results/direction/direction_image_8.png,320.0,315 degrees,0.0,6109.667778015137
+gpt4o,run_1,EXP1-Results/direction/direction_image_9.png,138.0,140 degrees.,0.0,5930.420160293579
+gpt4o,run_1,EXP1-Results/direction/direction_image_10.png,63.0,45 degrees,0.0,5978.02996635437
+gpt4o,run_1,EXP1-Results/direction/direction_image_11.png,33.0,45 degrees,0.0,5985.074043273926
+gpt4o,run_1,EXP1-Results/direction/direction_image_12.png,81.0,45 degrees.,0.0,6147.360324859619
+gpt4o,run_1,EXP1-Results/direction/direction_image_13.png,134.0,135 degrees.,0.0,6073.02188873291
+gpt4o,run_1,EXP1-Results/direction/direction_image_14.png,221.0,60 degrees.,0.0,5804.807662963867
+gpt4o,run_1,EXP1-Results/direction/direction_image_15.png,33.0,45 degrees,0.0,5837.40758895874
+gpt4o,run_1,EXP1-Results/direction/direction_image_16.png,255.0,45 degrees,0.0,6545.104026794434
+gpt4o,run_1,EXP1-Results/direction/direction_image_17.png,305.0,250 degrees,0.0,5662.162065505981
+gpt4o,run_1,EXP1-Results/direction/direction_image_18.png,189.0,150 degrees.,0.0,6030.582904815674
+gpt4o,run_1,EXP1-Results/direction/direction_image_19.png,300.0,130 degrees,0.0,5942.331790924072
+gpt4o,run_1,EXP1-Results/direction/direction_image_20.png,57.0,45 degrees,0.0,6105.343341827393
+gpt4o,run_1,EXP1-Results/direction/direction_image_21.png,46.0,120 degrees.,0.0,6316.48850440979
+gpt4o,run_1,EXP1-Results/direction/direction_image_22.png,103.0,45 degrees,0.0,5988.049030303955
+gpt4o,run_1,EXP1-Results/direction/direction_image_23.png,70.0,75 degrees.,0.0,6165.050268173218
+gpt4o,run_1,EXP1-Results/direction/direction_image_24.png,112.0,45 degrees.,0.0,6183.6230754852295
+gpt4o,run_1,EXP1-Results/direction/direction_image_25.png,322.0,120 degrees.,0.0,5692.6679611206055
+gpt4o,run_1,EXP1-Results/direction/direction_image_26.png,105.0,45 degrees,0.0,5916.821718215942
+gpt4o,run_1,EXP1-Results/direction/direction_image_27.png,20.0,135 degrees.,0.0,6539.594888687134
+gpt4o,run_1,EXP1-Results/direction/direction_image_28.png,147.0,120 degrees.,0.0,6008.576393127441
+gpt4o,run_1,EXP1-Results/direction/direction_image_29.png,128.0,45 degrees,0.0,6014.343500137329
+gpt4o,run_1,EXP1-Results/direction/direction_image_30.png,191.0,120 degrees,0.0,6256.587028503418
+gpt4o,run_1,EXP1-Results/direction/direction_image_31.png,260.0,45 degrees,0.0,5923.293590545654
+gpt4o,run_1,EXP1-Results/direction/direction_image_32.png,6.0,0 degrees,0.0,6932.010889053345
+gpt4o,run_1,EXP1-Results/direction/direction_image_33.png,282.0,240 degrees.,0.0,5909.310579299927
+gpt4o,run_1,EXP1-Results/direction/direction_image_34.png,112.0,Approximately 60 degrees.,0.0,5906.347036361694
+gpt4o,run_1,EXP1-Results/direction/direction_image_35.png,88.0,90 degrees,0.0,5991.966485977173
+gpt4o,run_1,EXP1-Results/direction/direction_image_36.png,350.0,120 degrees.,0.0,6097.4791049957275
+gpt4o,run_1,EXP1-Results/direction/direction_image_37.png,64.0,45 degrees,0.0,6167.232513427734
+gpt4o,run_1,EXP1-Results/direction/direction_image_38.png,145.0,45 degrees,0.0,6706.483840942383
+gpt4o,run_1,EXP1-Results/direction/direction_image_39.png,217.0,45 degrees.,0.0,6473.626375198364
+gpt4o,run_1,EXP1-Results/direction/direction_image_40.png,55.0,45 degrees,0.0,6682.690858840942
+gpt4o,run_1,EXP1-Results/direction/direction_image_41.png,21.0,45 degrees,0.0,5815.105438232422
+gpt4o,run_1,EXP1-Results/direction/direction_image_42.png,342.0,210 degrees.,0.0,6030.493497848511
+gpt4o,run_1,EXP1-Results/direction/direction_image_43.png,326.0,130 degrees.,0.0,9298.953294754028
+gpt4o,run_1,EXP1-Results/direction/direction_image_44.png,111.0,120 degrees.,0.0,8295.460224151611
+gpt4o,run_1,EXP1-Results/direction/direction_image_45.png,313.0,150 degrees,0.0,5959.839105606079
+gpt4o,run_1,EXP1-Results/direction/direction_image_46.png,129.0,120 degrees,0.0,27331.92729949951
+gpt4o,run_1,EXP1-Results/direction/direction_image_47.png,167.0,225 degrees.,0.0,6230.148792266846
+gpt4o,run_1,EXP1-Results/direction/direction_image_48.png,323.0,100 degrees,0.0,6576.723337173462
+gpt4o,run_1,EXP1-Results/direction/direction_image_49.png,284.0,45 degrees,0.0,5866.853475570679
+gpt4o,run_1,EXP1-Results/direction/direction_image_50.png,80.0,110 degrees.,0.0,5876.013994216919
+gpt4o,run_1,EXP1-Results/direction/direction_image_51.png,43.0,45 degrees,0.0,6186.166763305664
+gpt4o,run_1,EXP1-Results/direction/direction_image_52.png,3.0,90 degrees,0.0,5980.603456497192
+gpt4o,run_1,EXP1-Results/direction/direction_image_53.png,172.0,270 degrees,0.0,5895.864963531494
+gpt4o,run_1,EXP1-Results/direction/direction_image_54.png,192.0,130 degrees.,0.0,6002.906799316406
+gpt4o,run_1,EXP1-Results/direction/direction_image_55.png,347.0,45 degrees,0.0,6327.121734619141
+gpt4o,run_2,EXP1-Results/direction/direction_image_1.png,125.0,120 degrees,0.0,6022.635698318481
+gpt4o,run_2,EXP1-Results/direction/direction_image_2.png,315.0,315 degrees,0.0,5923.5217571258545
+gpt4o,run_2,EXP1-Results/direction/direction_image_3.png,274.0,270 degrees,0.0,5923.343896865845
+gpt4o,run_2,EXP1-Results/direction/direction_image_4.png,357.0,90 degrees,0.0,5956.285238265991
+gpt4o,run_2,EXP1-Results/direction/direction_image_5.png,225.0,135 degrees,0.0,6198.072671890259
+gpt4o,run_2,EXP1-Results/direction/direction_image_6.png,119.0,70 degrees,0.0,6105.731725692749
+gpt4o,run_2,EXP1-Results/direction/direction_image_7.png,323.0,120 degrees.,0.0,9702.158689498901
+gpt4o,run_2,EXP1-Results/direction/direction_image_8.png,320.0,315 degrees,0.0,6021.834850311279
+gpt4o,run_2,EXP1-Results/direction/direction_image_9.png,138.0,45 degrees,0.0,6641.824722290039
+gpt4o,run_2,EXP1-Results/direction/direction_image_10.png,63.0,45 degrees.,0.0,6283.126354217529
+gpt4o,run_2,EXP1-Results/direction/direction_image_11.png,33.0,45 degrees,0.0,6024.458885192871
+gpt4o,run_2,EXP1-Results/direction/direction_image_12.png,81.0,110 degrees.,0.0,5971.613645553589
+gpt4o,run_2,EXP1-Results/direction/direction_image_13.png,134.0,135 degrees,0.0,7160.1386070251465
+gpt4o,run_2,EXP1-Results/direction/direction_image_14.png,221.0,45 degrees.,0.0,6017.412424087524
+gpt4o,run_2,EXP1-Results/direction/direction_image_15.png,33.0,60 degrees,0.0,5862.658739089966
+gpt4o,run_2,EXP1-Results/direction/direction_image_16.png,255.0,30 degrees,0.0,6135.084629058838
+gpt4o,run_2,EXP1-Results/direction/direction_image_17.png,305.0,220 degrees.,0.0,5786.7419719696045
+gpt4o,run_2,EXP1-Results/direction/direction_image_18.png,189.0,105 degrees.,0.0,6095.806360244751
+gpt4o,run_2,EXP1-Results/direction/direction_image_19.png,300.0,300 degrees,0.0,6400.975227355957
+gpt4o,run_2,EXP1-Results/direction/direction_image_20.png,57.0,60 degrees.,0.0,6046.809911727905
+gpt4o,run_2,EXP1-Results/direction/direction_image_21.png,46.0,45 degrees,0.0,6226.782321929932
+gpt4o,run_2,EXP1-Results/direction/direction_image_22.png,103.0,160 degrees,0.0,6047.88064956665
+gpt4o,run_2,EXP1-Results/direction/direction_image_23.png,70.0,45 degrees,0.0,5891.013860702515
+gpt4o,run_2,EXP1-Results/direction/direction_image_24.png,112.0,45 degrees,0.0,5928.3287525177
+gpt4o,run_2,EXP1-Results/direction/direction_image_25.png,322.0,130 degrees,0.0,5788.254022598267
+gpt4o,run_2,EXP1-Results/direction/direction_image_26.png,105.0,115 degrees,0.0,6207.378149032593
+gpt4o,run_2,EXP1-Results/direction/direction_image_27.png,20.0,60 degrees,0.0,6094.988822937012
+gpt4o,run_2,EXP1-Results/direction/direction_image_28.png,147.0,30 degrees,0.0,5995.586156845093
+gpt4o,run_2,EXP1-Results/direction/direction_image_29.png,128.0,135 degrees,0.0,5934.096813201904
+gpt4o,run_2,EXP1-Results/direction/direction_image_30.png,191.0,120 degrees,0.0,5854.812145233154
+gpt4o,run_2,EXP1-Results/direction/direction_image_31.png,260.0,20 degrees,0.0,6372.375249862671
+gpt4o,run_2,EXP1-Results/direction/direction_image_32.png,6.0,0 degrees,0.0,6335.040092468262
+gpt4o,run_2,EXP1-Results/direction/direction_image_33.png,282.0,300 degrees.,0.0,5908.029079437256
+gpt4o,run_2,EXP1-Results/direction/direction_image_34.png,112.0,120 degrees,0.0,5858.237743377686
+gpt4o,run_2,EXP1-Results/direction/direction_image_35.png,88.0,90 degrees,0.0,6024.91021156311
+gpt4o,run_2,EXP1-Results/direction/direction_image_36.png,350.0,100 degrees,0.0,6193.482160568237
+gpt4o,run_2,EXP1-Results/direction/direction_image_37.png,64.0,45 degrees,0.0,6242.141485214233
+gpt4o,run_2,EXP1-Results/direction/direction_image_38.png,145.0,120 degrees.,0.0,5859.537839889526
+gpt4o,run_2,EXP1-Results/direction/direction_image_39.png,217.0,45 degrees,0.0,6298.291206359863
+gpt4o,run_2,EXP1-Results/direction/direction_image_40.png,55.0,60 degrees,0.0,6337.430477142334
+gpt4o,run_2,EXP1-Results/direction/direction_image_41.png,21.0,150 degrees,0.0,5715.750694274902
+gpt4o,run_2,EXP1-Results/direction/direction_image_42.png,342.0,225 degrees,0.0,6178.0335903167725
+gpt4o,run_2,EXP1-Results/direction/direction_image_43.png,326.0,225 degrees,0.0,6034.011125564575
+gpt4o,run_2,EXP1-Results/direction/direction_image_44.png,111.0,45 degrees,0.0,5846.320390701294
+gpt4o,run_2,EXP1-Results/direction/direction_image_45.png,313.0,130 degrees,0.0,6214.302062988281
+gpt4o,run_2,EXP1-Results/direction/direction_image_46.png,129.0,45 degrees.,0.0,6438.141107559204
+gpt4o,run_2,EXP1-Results/direction/direction_image_47.png,167.0,240 degrees,0.0,6168.780565261841
+gpt4o,run_2,EXP1-Results/direction/direction_image_48.png,323.0,130 degrees,0.0,6505.327463150024
+gpt4o,run_2,EXP1-Results/direction/direction_image_49.png,284.0,30 degrees,0.0,5916.676759719849
+gpt4o,run_2,EXP1-Results/direction/direction_image_50.png,80.0,45 degrees,0.0,5826.188087463379
+gpt4o,run_2,EXP1-Results/direction/direction_image_51.png,43.0,45 degrees,0.0,6100.101709365845
+gpt4o,run_2,EXP1-Results/direction/direction_image_52.png,3.0,90 degrees.,0.0,6060.332775115967
+gpt4o,run_2,EXP1-Results/direction/direction_image_53.png,172.0,140 degrees,0.0,6074.197053909302
+gpt4o,run_2,EXP1-Results/direction/direction_image_54.png,192.0,135 degrees,0.0,12319.160223007202
+gpt4o,run_2,EXP1-Results/direction/direction_image_55.png,347.0,120 degrees,0.0,5878.9026737213135
+gpt4o,average,,,,,
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_1.png,125.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+125.0",0.0,2990.229368209839
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_2.png,315.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+333.0",0.0,427.8726577758789
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_3.png,274.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+266.0",0.0,432.5265884399414
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_4.png,357.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+5.0",0.0,429.2435646057129
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_5.png,225.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+44.0",0.0,435.577392578125
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_6.png,119.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+125.0",0.0,432.73258209228516
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_7.png,323.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+332.0",0.0,424.96299743652344
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_8.png,320.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+333.0",0.0,426.2964725494385
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_9.png,138.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+323.0",0.0,424.06296730041504
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_10.png,63.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+56.0",0.0,427.379846572876
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_11.png,33.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+26.0",0.0,427.63471603393555
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_12.png,81.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+284.0",0.0,423.870325088501
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_13.png,134.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+132.0",0.0,429.3532371520996
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_14.png,221.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,427.5364875793457
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_15.png,33.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+28.0",0.0,430.96446990966797
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_16.png,255.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+253.0",0.0,434.0834617614746
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_17.png,305.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+317.0",0.0,455.72352409362793
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_18.png,189.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+199.0",0.0,427.5400638580322
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_19.png,300.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+313.0",0.0,427.7188777923584
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_20.png,57.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+46.0",0.0,425.4598617553711
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_21.png,46.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+46.0",0.0,422.96481132507324
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_22.png,103.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+97.0",0.0,422.99699783325195
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_23.png,70.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+74.0",0.0,424.8692989349365
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_24.png,112.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+105.0",0.0,437.5495910644531
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_25.png,322.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+335.0",0.0,423.3543872833252
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_26.png,105.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+86.0",0.0,426.8488883972168
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_27.png,20.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+15.0",0.0,427.2336959838867
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_28.png,147.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+153.0",0.0,425.19569396972656
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_29.png,128.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+126.0",0.0,421.71382904052734
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_30.png,191.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+199.0",0.0,423.70057106018066
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_31.png,260.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+266.0",0.0,428.7121295928955
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_32.png,6.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+13.0",0.0,424.0427017211914
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_33.png,282.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+275.0",0.0,427.7148246765137
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_34.png,112.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+103.0",0.0,423.8903522491455
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_35.png,88.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+284.0",0.0,425.59361457824707
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_36.png,350.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+349.0",0.0,435.2428913116455
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_37.png,64.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+55.0",0.0,429.69274520874023
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_38.png,145.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+153.0",0.0,426.1131286621094
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_39.png,217.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+43.0",0.0,431.8068027496338
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_40.png,55.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,416.2333011627197
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_41.png,21.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+15.0",0.0,441.55263900756836
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_42.png,342.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+342.0",0.0,427.92534828186035
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_43.png,326.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+335.0",0.0,423.875093460083
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_44.png,111.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+103.0",0.0,424.65972900390625
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_45.png,313.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+319.0",0.0,425.86493492126465
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_46.png,129.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+126.0",0.0,426.33581161499023
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_47.png,167.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+355.0",0.0,430.62639236450195
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_48.png,323.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+331.0",0.0,423.6023426055908
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_49.png,284.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+1.0",0.0,425.9481430053711
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_50.png,80.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+84.0",0.0,426.9909858703613
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_51.png,43.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+46.0",0.0,426.0745048522949
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_52.png,3.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+5.0",0.0,425.9636402130127
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_53.png,172.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+352.0",0.0,432.9080581665039
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_54.png,192.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+199.0",0.0,442.98839569091797
+CustomLLaMA,run_0,EXP1-Results/direction/direction_image_55.png,347.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+348.0",0.0,431.73861503601074
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_1.png,125.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+126.0",0.0,445.6031322479248
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_2.png,315.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+321.0",0.0,440.0031566619873
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_3.png,274.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+265.0",0.0,441.93267822265625
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_4.png,357.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+2.0",0.0,443.7439441680908
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_5.png,225.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+43.0",0.0,443.8819885253906
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_6.png,119.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+125.0",0.0,447.4978446960449
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_7.png,323.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+332.0",0.0,475.70085525512695
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_8.png,320.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+332.0",0.0,452.1455764770508
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_9.png,138.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+322.0",0.0,425.4176616668701
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_10.png,63.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,425.7991313934326
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_11.png,33.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+28.0",0.0,432.8603744506836
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_12.png,81.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+276.0",0.0,426.2399673461914
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_13.png,134.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+132.0",0.0,423.323392868042
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_14.png,221.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+43.0",0.0,542.8988933563232
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_15.png,33.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+26.0",0.0,426.0218143463135
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_16.png,255.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+252.0",0.0,424.2062568664551
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_17.png,305.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+314.0",0.0,426.7587661743164
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_18.png,189.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+194.0",0.0,425.97341537475586
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_19.png,300.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+313.0",0.0,427.5822639465332
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_20.png,57.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,424.0448474884033
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_21.png,46.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,431.0634136199951
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_22.png,103.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+97.0",0.0,424.06439781188965
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_23.png,70.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+73.0",0.0,434.2172145843506
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_24.png,112.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+103.0",0.0,427.048921585083
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_25.png,322.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+333.0",0.0,425.748348236084
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_26.png,105.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+73.0",0.0,434.6351623535156
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_27.png,20.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+16.0",0.0,576.0388374328613
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_28.png,147.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+153.0",0.0,419.68655586242676
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_29.png,128.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+127.0",0.0,444.02194023132324
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_30.png,191.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+199.0",0.0,468.57237815856934
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_31.png,260.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+263.0",0.0,423.53200912475586
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_32.png,6.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+14.0",0.0,426.1054992675781
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_33.png,282.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+275.0",0.0,426.9406795501709
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_34.png,112.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+103.0",0.0,427.1976947784424
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_35.png,88.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+285.0",0.0,424.1824150085449
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_36.png,350.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+349.0",0.0,429.3856620788574
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_37.png,64.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,427.3335933685303
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_38.png,145.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+153.0",0.0,423.77591133117676
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_39.png,217.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+42.0",0.0,425.8122444152832
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_40.png,55.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,425.6875514984131
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_41.png,21.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+19.0",0.0,428.4324645996094
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_42.png,342.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+344.0",0.0,424.7612953186035
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_43.png,326.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+333.0",0.0,444.5066452026367
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_44.png,111.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+103.0",0.0,450.39820671081543
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_45.png,313.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+319.0",0.0,432.8646659851074
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_46.png,129.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+126.0",0.0,431.2937259674072
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_47.png,167.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+356.0",0.0,438.5955333709717
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_48.png,323.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+332.0",0.0,443.9246654510498
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_49.png,284.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+1.0",0.0,442.108154296875
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_50.png,80.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+279.0",0.0,452.03375816345215
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_51.png,43.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,446.01964950561523
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_52.png,3.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+2.0",0.0,437.77942657470703
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_53.png,172.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+352.0",0.0,422.1186637878418
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_54.png,192.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+199.0",0.0,432.3554039001465
+CustomLLaMA,run_1,EXP1-Results/direction/direction_image_55.png,347.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+351.0",0.0,435.76717376708984
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_1.png,125.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+132.0",0.0,438.3382797241211
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_2.png,315.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+321.0",0.0,430.41324615478516
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_3.png,274.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+265.0",0.0,424.9856472015381
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_4.png,357.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+5.0",0.0,422.15681076049805
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_5.png,225.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,425.5564212799072
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_6.png,119.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+125.0",0.0,433.61973762512207
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_7.png,323.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+333.0",0.0,423.75874519348145
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_8.png,320.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+332.0",0.0,430.2666187286377
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_9.png,138.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+323.0",0.0,425.75550079345703
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_10.png,63.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,424.03244972229004
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_11.png,33.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+26.0",0.0,425.16398429870605
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_12.png,81.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+275.0",0.0,423.9833354949951
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_13.png,134.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+127.0",0.0,435.3823661804199
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_14.png,221.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+43.0",0.0,424.0570068359375
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_15.png,33.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+28.0",0.0,424.4341850280762
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_16.png,255.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+252.0",0.0,425.0023365020752
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_17.png,305.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+319.0",0.0,428.9562702178955
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_18.png,189.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+196.0",0.0,420.8037853240967
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_19.png,300.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+319.0",0.0,464.8289680480957
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_20.png,57.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,419.82579231262207
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_21.png,46.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,424.0083694458008
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_22.png,103.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+95.0",0.0,427.7224540710449
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_23.png,70.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+76.0",0.0,423.7935543060303
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_24.png,112.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+103.0",0.0,425.4181385040283
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_25.png,322.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+333.0",0.0,424.07703399658203
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_26.png,105.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+73.0",0.0,427.20746994018555
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_27.png,20.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+21.0",0.0,430.36508560180664
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_28.png,147.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+153.0",0.0,425.02522468566895
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_29.png,128.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+125.0",0.0,429.0750026702881
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_30.png,191.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+201.0",0.0,423.9511489868164
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_31.png,260.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+266.0",0.0,431.9028854370117
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_32.png,6.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+12.0",0.0,426.19991302490234
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_33.png,282.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+273.0",0.0,425.3532886505127
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_34.png,112.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+102.0",0.0,424.3507385253906
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_35.png,88.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+284.0",0.0,425.39405822753906
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_36.png,350.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+349.0",0.0,413.4819507598877
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_37.png,64.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,423.53129386901855
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_38.png,145.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+154.0",0.0,431.28252029418945
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_39.png,217.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+43.0",0.0,423.61903190612793
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_40.png,55.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+45.0",0.0,431.3836097717285
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_41.png,21.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+21.0",0.0,426.3451099395752
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_42.png,342.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+344.0",0.0,433.6731433868408
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_43.png,326.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+333.0",0.0,440.4745101928711
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_44.png,111.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+105.0",0.0,425.9650707244873
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_45.png,313.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+321.0",0.0,430.74798583984375
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_46.png,129.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+126.0",0.0,425.0483512878418
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_47.png,167.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+351.0",0.0,433.7913990020752
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_48.png,323.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+335.0",0.0,424.2990016937256
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_49.png,284.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+284.0",0.0,531.5487384796143
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_50.png,80.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+276.0",0.0,424.5591163635254
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_51.png,43.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+46.0",0.0,442.610502243042
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_52.png,3.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+3.0",0.0,437.8232955932617
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_53.png,172.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+352.0",0.0,428.72166633605957
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_54.png,192.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+201.0",0.0,446.9172954559326
+CustomLLaMA,run_2,EXP1-Results/direction/direction_image_55.png,347.0,"user
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.
+assistant
+
+345.0",0.0,440.0162696838379
+CustomLLaMA,average,,,,,
+LLaMA,run_0,EXP1-Results/direction/direction_image_1.png,125.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is pointing from the top left to the bottom right of the dot. The dot is at the top left corner of the image.
+
+**Step 2: Determine the angle in the range 0 - 359 degrees.**
+
+The line is pointing from the top left to the bottom right, so the angle is approximately 45 degrees.",0.0,14891.159772872925
+LLaMA,run_0,EXP1-Results/direction/direction_image_2.png,315.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing at approximately 10 degrees.",0.0,8440.900802612305
+LLaMA,run_0,EXP1-Results/direction/direction_image_3.png,274.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is horizontal. It is 90 degrees.",0.0,7821.17772102356
+LLaMA,run_0,EXP1-Results/direction/direction_image_4.png,357.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the angle of the line.**
+
+*   The line is pointing to the right, which is equivalent to 90 degrees.
+
+**Step 2: Answer**
+
+The angle of the line relative to the starting dot is 90 degrees.",0.0,11098.703622817993
+LLaMA,run_0,EXP1-Results/direction/direction_image_5.png,225.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the angle of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+**Step 2: The line is directed at an angle of 45 degrees.**",0.0,11159.792184829712
+LLaMA,run_0,EXP1-Results/direction/direction_image_6.png,119.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line**
+
+*   The line is at an angle of approximately 45 degrees relative to the starting dot.
+
+**Step 2: Convert the angle to a range of 0 - 359 degrees**
+
+*   The angle is in the first quadrant, so the range is 0 - 90 degrees.
+*   The angle is approximately 45 degrees.
+
+**Step 3: Determine the direction**
+
+*   The direction is northeast.",0.0,15036.160469055176
+LLaMA,run_0,EXP1-Results/direction/direction_image_7.png,323.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the direction of the line.**
+
+*   The line is sloping downwards from left to right.
+
+**Step 2: Estimate the angle.**
+
+*   The line is roughly at a 45-degree angle.",0.0,11370.660543441772
+LLaMA,run_0,EXP1-Results/direction/direction_image_8.png,320.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is at an angle of approximately 10 degrees.",0.0,8005.399942398071
+LLaMA,run_0,EXP1-Results/direction/direction_image_9.png,138.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is directed at an angle of approximately **45 degrees** relative to the starting dot.",0.0,10380.595445632935
+LLaMA,run_0,EXP1-Results/direction/direction_image_10.png,63.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is at an angle of approximately 70 degrees relative to the starting dot.",0.0,8284.480571746826
+LLaMA,run_0,EXP1-Results/direction/direction_image_11.png,33.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the line and the starting dot.**
+
+The line extends from the starting dot to the right.
+
+**Step 2: Estimate the direction of the line relative to the starting dot.**
+
+The line extends approximately 45 degrees from the starting dot.
+
+**Step 3: Convert the direction to a range of 0 - 359 degrees.**
+
+The direction is approximately 45 degrees.",0.0,13944.33307647705
+LLaMA,run_0,EXP1-Results/direction/direction_image_12.png,81.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is approximately 180 degrees relative to the starting dot.",0.0,8014.635324478149
+LLaMA,run_0,EXP1-Results/direction/direction_image_13.png,134.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line**
+
+The line appears to be angled to the right of the starting dot.
+
+**Step 2: Convert the angle to degrees**
+
+The line is approximately 45 degrees relative to the starting dot.",0.0,11462.244033813477
+LLaMA,run_0,EXP1-Results/direction/direction_image_14.png,221.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the starting dot and the line**
+
+The starting dot is located at the top of the image, and the line extends from the dot.
+
+**Step 2: Estimate the direction of the line**
+
+The line extends towards the bottom-right corner of the image.
+
+**Step 3: Determine the angle of the line**
+
+Since the line extends from the top of the image to the bottom-right corner, it forms an angle with the horizontal axis. The angle is approximately 45 degrees.
+
+**Answer:** 45 degrees",0.0,15458.084106445312
+LLaMA,run_0,EXP1-Results/direction/direction_image_15.png,33.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The image shows a line that starts at a dot and ends at another point. The line is sloping upward to the right.
+
+**Answer:** 45 degrees",0.0,12067.832708358765
+LLaMA,run_0,EXP1-Results/direction/direction_image_16.png,255.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing in the direction of approximately 140 degrees relative to the starting dot.",0.0,9006.650924682617
+LLaMA,run_0,EXP1-Results/direction/direction_image_17.png,305.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the starting dot and the endpoint of the line.**
+
+The starting dot is located at the bottom left of the image, and the endpoint is at the top left.
+
+**Step 2: Draw a line from the starting dot to the endpoint.**
+
+The line extends from the bottom left to the top left.
+
+**Step 3: Determine the direction of the line.**
+
+The line is directed towards the top left.
+
+**Step 4: Estimate the angle of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is directed towards the top left, which corresponds to an angle of approximately 90 degrees.",0.0,17334.500312805176
+LLaMA,run_0,EXP1-Results/direction/direction_image_18.png,189.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot.**
+
+*   The line is approximately 90 degrees relative to the starting dot.",0.0,9673.866271972656
+LLaMA,run_0,EXP1-Results/direction/direction_image_19.png,300.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is pointing towards the bottom left of the image.
+
+**Step 2: Determine the angle of the line relative to the starting dot.**
+
+The line is pointing towards the bottom left, so the angle is approximately 270 degrees.",0.0,12573.225736618042
+LLaMA,run_0,EXP1-Results/direction/direction_image_20.png,57.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is oriented at approximately 30 degrees relative to the starting dot.",0.0,10466.987133026123
+LLaMA,run_0,EXP1-Results/direction/direction_image_21.png,46.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Determine the starting point of the line.**
+
+The starting point of the line is the dot.
+
+**Step 2: Determine the ending point of the line.**
+
+The ending point of the line is the tip of the line.
+
+**Step 3: Estimate the direction of the line relative to the starting dot.**
+
+The line is pointing northeast relative to the starting dot.
+
+**Step 4: Convert the direction to degrees.**
+
+The direction is 45 degrees.",0.0,14829.617738723755
+LLaMA,run_0,EXP1-Results/direction/direction_image_22.png,103.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the direction of the line relative to the starting dot.**
+
+*   The line extends to the right of the starting dot.
+
+**Step 2: Convert the direction to degrees.**
+
+*   The line extends to the right, which is equivalent to 90 degrees.
+
+**Answer:** 90 degrees",0.0,11898.799896240234
+LLaMA,run_0,EXP1-Results/direction/direction_image_23.png,70.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at approximately 20 degrees relative to the starting dot.",0.0,8492.345333099365
+LLaMA,run_0,EXP1-Results/direction/direction_image_24.png,112.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at approximately 60 degrees.",0.0,8374.15075302124
+LLaMA,run_0,EXP1-Results/direction/direction_image_25.png,322.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line in the image is angled at approximately 45 degrees relative to the starting dot.",0.0,8400.59232711792
+LLaMA,run_0,EXP1-Results/direction/direction_image_26.png,105.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is angled at approximately 90 degrees relative to the starting dot.",0.0,8108.616352081299
+LLaMA,run_0,EXP1-Results/direction/direction_image_27.png,20.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the angle of the line**
+
+The line is drawn at an angle of approximately 35 degrees relative to the starting dot.
+
+**Step 2: Answer**
+
+The direction of the line is approximately 35 degrees.",0.0,11430.267095565796
+LLaMA,run_0,EXP1-Results/direction/direction_image_28.png,147.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at an angle of approximately 25 degrees.",0.0,8229.305267333984
+LLaMA,run_0,EXP1-Results/direction/direction_image_29.png,128.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot.**
+
+*   The line is oriented at approximately 130 degrees.",0.0,9361.985206604004
+LLaMA,run_0,EXP1-Results/direction/direction_image_30.png,191.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the starting dot and the end point of the line.**
+
+The starting dot is located at the top of the image, and the end point is located at the bottom right corner of the image.
+
+**Step 2: Determine the direction of the line.**
+
+The line extends from the top left to the bottom right, indicating a direction of 45 degrees.
+
+**Step 3: Provide the answer in the required format.**
+
+The direction of the line is 45 degrees.",0.0,15157.49716758728
+LLaMA,run_0,EXP1-Results/direction/direction_image_31.png,260.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is at an angle of **45 degrees** relative to the starting dot.",0.0,8372.641801834106
+LLaMA,run_0,EXP1-Results/direction/direction_image_32.png,6.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is approximately 10 degrees to the right of the starting dot.",0.0,10251.746654510498
+LLaMA,run_0,EXP1-Results/direction/direction_image_33.png,282.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+**Step 2:**
+
+The line is pointing towards the right side of the graph, which means it is in the positive x-direction.
+
+**Step 3:**
+
+The direction of the line is approximately 90 degrees relative to the starting dot.
+
+**Step 4:**
+
+*Answer*: 90",0.0,14365.461111068726
+LLaMA,run_0,EXP1-Results/direction/direction_image_34.png,112.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line appears to be directed at an angle of approximately 45 degrees relative to the starting dot.",0.0,8493.933200836182
+LLaMA,run_0,EXP1-Results/direction/direction_image_35.png,88.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Determine the direction of the line.**
+
+The line is directed towards the upper right.
+
+**Step 2: Determine the direction relative to the starting dot.**
+
+The starting dot is at the left end of the line. The line is directed towards the right.
+
+**Step 3: Estimate the direction of the line relative to the starting dot.**
+
+The direction of the line relative to the starting dot is 90 degrees.",0.0,14264.556646347046
+LLaMA,run_0,EXP1-Results/direction/direction_image_36.png,350.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the angle**
+
+The line is a vertical line.
+
+**Step 2: Determine the direction**
+
+The direction of the line is up.
+
+**Step 3: Convert to degrees**
+
+Since the line is vertical, the angle is 90 degrees.",0.0,11201.70283317566
+LLaMA,run_0,EXP1-Results/direction/direction_image_37.png,64.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is angled to the right of the starting dot, with an angle of about 45 degrees.",0.0,8556.085109710693
+LLaMA,run_0,EXP1-Results/direction/direction_image_38.png,145.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line appears to be directed at an angle of approximately 45 degrees relative to the starting dot.",0.0,11028.609037399292
+LLaMA,run_0,EXP1-Results/direction/direction_image_39.png,217.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the line's starting and ending points.**
+
+The line starts at the dot on the left and ends at the dot on the right.
+
+**Step 2: Determine the direction of the line.**
+
+The line slopes from left to right, indicating that it is in a positive direction.
+
+**Step 3: Calculate the angle between the line and the x-axis.**
+
+Since the line slopes from left to right, the angle is between 0 and 90 degrees.
+
+**Step 4: Estimate the angle.**
+
+Given that the line is sloping from left to right, the angle is approximately 45 degrees.",0.0,16575.28305053711
+LLaMA,run_0,EXP1-Results/direction/direction_image_40.png,55.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the angle between the line and the horizontal axis.**
+
+*   The line makes an angle of approximately 45 degrees with the horizontal axis.
+
+**Step 2: Determine the direction of the line.**
+
+*   The line lies in the first quadrant, which means it points in the northeast direction.
+
+**Step 3: Convert the angle to degrees relative to the starting dot.**
+
+*   Since the line makes an angle of 45 degrees with the horizontal axis, it makes an angle of 45 degrees relative to the starting dot.
+
+**Step 4: Convert the angle to degrees relative to the starting dot.**
+
+*   The line makes an angle of 45 degrees relative to the starting dot.
+
+**Answer:** 45 degrees",0.0,18970.619201660156
+LLaMA,run_0,EXP1-Results/direction/direction_image_41.png,21.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+*Answer*: 110 degrees",0.0,9907.392740249634
+LLaMA,run_0,EXP1-Results/direction/direction_image_42.png,342.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is sloping downward from the left, so the angle is approximately 270 degrees.",0.0,9096.565961837769
+LLaMA,run_0,EXP1-Results/direction/direction_image_43.png,326.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed 45 degrees to the left.",0.0,7952.903509140015
+LLaMA,run_0,EXP1-Results/direction/direction_image_44.png,111.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at an angle of approximately 35 degrees relative to the starting dot.",0.0,8767.452955245972
+LLaMA,run_0,EXP1-Results/direction/direction_image_45.png,313.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing towards the southeast.",0.0,7918.905735015869
+LLaMA,run_0,EXP1-Results/direction/direction_image_46.png,129.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line.**
+
+The line is pointing towards the right side of the image.
+
+**Step 2: Convert the direction to degrees.**
+
+The direction is approximately 45 degrees.",0.0,10521.576881408691
+LLaMA,run_0,EXP1-Results/direction/direction_image_47.png,167.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the starting point and the endpoint of the line.**
+
+*   The starting point is at the top of the image.
+*   The endpoint is at the bottom of the image.
+
+**Step 2: Determine the angle between the starting point and the endpoint.**
+
+*   The line is vertical.
+
+**Step 3: Convert the angle to degrees.**
+
+*   0 degrees is the starting point.
+*   The endpoint is 90 degrees.
+
+**Step 4: Determine the direction of the line.**
+
+*   The line is vertical.
+
+**Answer:** 90 degrees",0.0,16392.966747283936
+LLaMA,run_0,EXP1-Results/direction/direction_image_48.png,323.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+*   The line is pointing to the left.
+
+**Step 2: Determine the angle of the line in the range 0 - 359 degrees.**
+
+*   The line is pointing to the left, which corresponds to an angle of approximately 180 degrees.
+
+**Step 3: Express the angle as a decimal degree.**
+
+*   The angle is approximately 180 degrees.
+
+**Step 4: Convert the decimal degree to a degree, minute, and second.**
+
+*   The angle is approximately 180 degrees.
+
+**Step 5: Convert the degree, minute, and second to a bearing.**
+
+*   The angle is approximately 180 degrees.
+
+**Step 6: Express the bearing as a compass direction.**
+
+*   The angle is approximately 180 degrees.
+
+**Answer**: 180 degrees",0.0,21336.77577972412
+LLaMA,run_0,EXP1-Results/direction/direction_image_49.png,284.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Direction:** 135 degrees",0.0,7573.265075683594
+LLaMA,run_0,EXP1-Results/direction/direction_image_50.png,80.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed approximately 60 degrees to the right of the starting dot.",0.0,8481.419324874878
+LLaMA,run_0,EXP1-Results/direction/direction_image_51.png,43.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is angled at approximately 40 degrees.",0.0,10528.63073348999
+LLaMA,run_0,EXP1-Results/direction/direction_image_52.png,3.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line**
+
+*   The line is slightly above the horizontal line.
+
+**Step 2: Convert the direction to degrees**
+
+*   The line is approximately 10 degrees above the horizontal line.
+
+**Answer**: 10 degrees",0.0,11369.81463432312
+LLaMA,run_0,EXP1-Results/direction/direction_image_53.png,172.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing in the direction of approximately 140 degrees relative to the starting dot.",0.0,8868.175506591797
+LLaMA,run_0,EXP1-Results/direction/direction_image_54.png,192.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is approximately 45 degrees from the starting dot.",0.0,9897.703409194946
+LLaMA,run_0,EXP1-Results/direction/direction_image_55.png,347.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is approximately 45 degrees relative to the starting dot.",0.0,8830.058813095093
+LLaMA,run_1,EXP1-Results/direction/direction_image_1.png,125.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line extends diagonally from the starting dot, pointing towards the lower-right corner of the image. The direction is approximately **45 degrees**.",0.0,9538.148164749146
+LLaMA,run_1,EXP1-Results/direction/direction_image_2.png,315.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line makes an angle of approximately **45 degrees** with the starting dot.",0.0,8213.553428649902
+LLaMA,run_1,EXP1-Results/direction/direction_image_3.png,274.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is approximately 90 degrees to the left of the starting dot.",0.0,8960.389375686646
+LLaMA,run_1,EXP1-Results/direction/direction_image_4.png,357.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the line's starting point.**
+
+*   The line starts at the bottom of the dot.
+
+**Step 2: Determine the direction of the line.**
+
+*   The line extends upwards from the dot.
+
+**Step 3: Estimate the angle of the line relative to the starting dot.**
+
+*   The line is at approximately 90 degrees relative to the starting dot.
+
+**Answer:** 90 degrees",0.0,13280.696153640747
+LLaMA,run_1,EXP1-Results/direction/direction_image_5.png,225.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the angle of the line relative to the starting dot.**
+
+*   The line is pointing towards the right, so the angle is 90 degrees.
+
+**Step 2: Answer the question.**
+
+*   The line is pointing at 90 degrees.",0.0,12029.536724090576
+LLaMA,run_1,EXP1-Results/direction/direction_image_6.png,119.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Direction of the Line**
+
+* Starting point: The line originates at the top-right corner of the image.
+* Direction: It extends downwards and to the left, forming an angle with the horizontal.
+
+**Estimated Angle**
+
+* 0-359 degrees: The line's direction is approximately 45 degrees counterclockwise from the horizontal.",0.0,12077.47507095337
+LLaMA,run_1,EXP1-Results/direction/direction_image_7.png,323.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Direction:** 90 degrees
+
+**Explanation:** The line extends upwards and to the left, forming a 90-degree angle with the starting dot.",0.0,10348.854780197144
+LLaMA,run_1,EXP1-Results/direction/direction_image_8.png,320.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is at approximately 135 degrees.",0.0,7846.6596603393555
+LLaMA,run_1,EXP1-Results/direction/direction_image_9.png,138.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the starting point of the line.**
+
+The starting point of the line is located at the top of the dot.
+
+**Step 2: Determine the direction of the line.**
+
+The line extends from the starting point to the right and slightly downwards.
+
+**Step 3: Estimate the direction of the line relative to the starting dot.**
+
+The line is directed at approximately 45 degrees relative to the starting dot.
+
+**Answer:** 45 degrees.",0.0,13928.63655090332
+LLaMA,run_1,EXP1-Results/direction/direction_image_10.png,63.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the line's direction relative to the starting dot.**
+
+The line points towards the upper right.
+
+**Step 2: Convert the direction into degrees.**
+
+The line points in the direction of 45 degrees.",0.0,10276.134967803955
+LLaMA,run_1,EXP1-Results/direction/direction_image_11.png,33.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+**Step 2: The line is approximately 45 degrees relative to the starting dot.**",0.0,10100.332260131836
+LLaMA,run_1,EXP1-Results/direction/direction_image_12.png,81.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line appears to be in the range of 180 to 270 degrees.",0.0,8277.812004089355
+LLaMA,run_1,EXP1-Results/direction/direction_image_13.png,134.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Determine the direction of the line in relation to the starting dot**
+
+The line is directed from the top-right to the bottom-left.
+
+**Step 2: Convert the direction to a degree**
+
+The direction is 135 degrees from the starting dot.",0.0,10574.304103851318
+LLaMA,run_1,EXP1-Results/direction/direction_image_14.png,221.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is pointing in the direction of 45 degrees.
+
+**Step 2: Provide the answer.**
+
+The line is pointing in the direction of 45 degrees.",0.0,11165.56692123413
+LLaMA,run_1,EXP1-Results/direction/direction_image_15.png,33.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the angle of the line**
+
+The line is directed at an angle of approximately **135 degrees** relative to the starting dot.",0.0,9030.056238174438
+LLaMA,run_1,EXP1-Results/direction/direction_image_16.png,255.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line.**
+
+The line is directed towards the right.
+
+**Step 2: Convert the direction to degrees.**
+
+The line is directed 90 degrees relative to the starting dot.",0.0,10313.395500183105
+LLaMA,run_1,EXP1-Results/direction/direction_image_17.png,305.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the starting dot.** The line starts at the dot marked with a square.
+
+**Step 2: Identify the ending point.** The line ends at the dot marked with a circle.
+
+**Step 3: Determine the direction of the line.** The line extends from the starting dot to the ending dot.
+
+**Step 4: Estimate the direction of the line.** The line extends from the starting dot to the ending dot, and it is between the 0 and 90-degree mark.
+
+**Answer:** 45 degrees.",0.0,14881.317138671875
+LLaMA,run_1,EXP1-Results/direction/direction_image_18.png,189.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line appears to be at approximately 180 degrees relative to the starting dot.",0.0,8131.252288818359
+LLaMA,run_1,EXP1-Results/direction/direction_image_19.png,300.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is approximately 100 degrees relative to the starting dot.",0.0,7893.418312072754
+LLaMA,run_1,EXP1-Results/direction/direction_image_20.png,57.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line makes an angle of approximately 45 degrees with the starting dot.",0.0,8149.58930015564
+LLaMA,run_1,EXP1-Results/direction/direction_image_21.png,46.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is approximately 45 degrees relative to the starting dot.",0.0,7785.050630569458
+LLaMA,run_1,EXP1-Results/direction/direction_image_22.png,103.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot.**
+
+The line is directed at approximately 145 degrees relative to the starting dot.",0.0,9354.245901107788
+LLaMA,run_1,EXP1-Results/direction/direction_image_23.png,70.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is approximately at an angle of **45 degrees**.",0.0,9791.410684585571
+LLaMA,run_1,EXP1-Results/direction/direction_image_24.png,112.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Direction of the Line**
+
+The line is oriented at an angle of approximately 30 degrees relative to the starting dot.
+
+**Answer:** 30 degrees",0.0,9437.7920627594
+LLaMA,run_1,EXP1-Results/direction/direction_image_25.png,322.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is directed at approximately 135 degrees.",0.0,9726.542711257935
+LLaMA,run_1,EXP1-Results/direction/direction_image_26.png,105.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is directed at approximately 140 degrees.",0.0,9554.407596588135
+LLaMA,run_1,EXP1-Results/direction/direction_image_27.png,20.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+**Answer:** 45 degrees",0.0,9626.075744628906
+LLaMA,run_1,EXP1-Results/direction/direction_image_28.png,147.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at approximately 45 degrees relative to the starting dot.",0.0,8287.405014038086
+LLaMA,run_1,EXP1-Results/direction/direction_image_29.png,128.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line.**
+
+The line is approximately 140 degrees from the starting dot.",0.0,8757.722616195679
+LLaMA,run_1,EXP1-Results/direction/direction_image_30.png,191.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot.**
+
+*   The line is to the southeast of the starting dot.
+
+**Step 2: Convert the direction to degrees.**
+
+*   Southeast is 135 degrees.
+
+**Step 3: Answer the question.**
+
+*   The line is approximately 135 degrees from the starting dot.",0.0,12145.395517349243
+LLaMA,run_1,EXP1-Results/direction/direction_image_31.png,260.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed approximately 110 degrees relative to the starting dot.",0.0,8136.088848114014
+LLaMA,run_1,EXP1-Results/direction/direction_image_32.png,6.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Direction of the Line:**
+
+*   180 degrees
+
+**Reasoning:**
+
+*   The line extends vertically downward from the starting dot.",0.0,9165.41838645935
+LLaMA,run_1,EXP1-Results/direction/direction_image_33.png,282.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is oriented at approximately 170 degrees relative to the starting dot.",0.0,9904.682874679565
+LLaMA,run_1,EXP1-Results/direction/direction_image_34.png,112.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at approximately 70 degrees relative to the starting dot.",0.0,7993.086099624634
+LLaMA,run_1,EXP1-Results/direction/direction_image_35.png,88.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is horizontal and to the right of the starting dot.
+
+**Step 2: Convert the direction to degrees.**
+
+The line is to the right, which corresponds to 90 degrees.",0.0,11509.661436080933
+LLaMA,run_1,EXP1-Results/direction/direction_image_36.png,350.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is estimated to be at a direction of **0 degrees** relative to the starting dot.",0.0,8614.64786529541
+LLaMA,run_1,EXP1-Results/direction/direction_image_37.png,64.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is oriented at approximately 20 degrees relative to the starting dot.",0.0,7942.856311798096
+LLaMA,run_1,EXP1-Results/direction/direction_image_38.png,145.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing in the direction of 120 degrees relative to the starting dot.",0.0,8393.936157226562
+LLaMA,run_1,EXP1-Results/direction/direction_image_39.png,217.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the line's orientation**
+
+The line is oriented at an angle to the starting dot.
+
+**Step 2: Estimate the direction of the line**
+
+The line is oriented at approximately 40 degrees to the starting dot.",0.0,10473.403930664062
+LLaMA,run_1,EXP1-Results/direction/direction_image_40.png,55.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot.**
+
+The line extends diagonally up and to the right.
+
+**Step 2: Determine the direction in degrees.**
+
+The line extends at an angle of about 45 degrees relative to the starting dot.",0.0,11462.549924850464
+LLaMA,run_1,EXP1-Results/direction/direction_image_41.png,21.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is directed approximately at 45 degrees.",0.0,9436.416864395142
+LLaMA,run_1,EXP1-Results/direction/direction_image_42.png,342.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at **135 degrees** relative to the starting dot.",0.0,7890.681743621826
+LLaMA,run_1,EXP1-Results/direction/direction_image_43.png,326.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the angle of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The angle of the line is approximately **45 degrees.**",0.0,9867.545366287231
+LLaMA,run_1,EXP1-Results/direction/direction_image_44.png,111.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at approximately 145 degrees relative to the starting dot.",0.0,8224.464178085327
+LLaMA,run_1,EXP1-Results/direction/direction_image_45.png,313.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+*Answer*: 45 degrees",0.0,9230.409145355225
+LLaMA,run_1,EXP1-Results/direction/direction_image_46.png,129.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at **45 degrees**.",0.0,7593.533992767334
+LLaMA,run_1,EXP1-Results/direction/direction_image_47.png,167.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the line**
+
+The line is a straight line that starts at a dot and ends at another point.
+
+**Step 2: Determine the angle of the line**
+
+The line is oriented at an angle of 45 degrees relative to the starting dot.
+
+**Step 3: Provide the answer**
+
+The direction of the line relative to the starting dot is **45 degrees**.",0.0,12510.563611984253
+LLaMA,run_1,EXP1-Results/direction/direction_image_48.png,323.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The answer is: 45 degrees.",0.0,9579.870462417603
+LLaMA,run_1,EXP1-Results/direction/direction_image_49.png,284.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing to the right at an angle of approximately 30 degrees.",0.0,7926.685810089111
+LLaMA,run_1,EXP1-Results/direction/direction_image_50.png,80.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed to the right.",0.0,7471.858739852905
+LLaMA,run_1,EXP1-Results/direction/direction_image_51.png,43.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line.**
+
+The line is directed at approximately 40 degrees relative to the starting dot.",0.0,8878.548860549927
+LLaMA,run_1,EXP1-Results/direction/direction_image_52.png,3.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the line in the image.**
+
+The line in the image is a short line segment with a dot at one end.
+
+**Step 2: Determine the direction of the line relative to the starting dot.**
+
+The line extends from the dot at an angle of approximately 10 degrees.",0.0,11682.886838912964
+LLaMA,run_1,EXP1-Results/direction/direction_image_53.png,172.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the direction of the line.**
+
+The line extends to the right and slightly upward.
+
+**Step 2: Estimate the angle of the line relative to the starting dot.**
+
+The line is roughly at a 45-degree angle.
+
+**Step 3: Provide the final answer.**
+
+The angle is 45 degrees.",0.0,11941.909790039062
+LLaMA,run_1,EXP1-Results/direction/direction_image_54.png,192.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the line's starting point and end point.**
+
+The line starts at the dot in the top-left corner of the image and ends at the dot in the bottom-right corner.
+
+**Step 2: Determine the angle between the line and the horizontal axis.**
+
+The line is at an angle to the horizontal axis. 
+
+**Step 3: Estimate the angle in degrees.**
+
+The angle between the line and the horizontal axis is approximately 45 degrees.",0.0,13715.010404586792
+LLaMA,run_1,EXP1-Results/direction/direction_image_55.png,347.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed 0 degrees.",0.0,7704.235792160034
+LLaMA,run_2,EXP1-Results/direction/direction_image_1.png,125.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is approximately 60 degrees relative to the starting dot.",0.0,8042.907238006592
+LLaMA,run_2,EXP1-Results/direction/direction_image_2.png,315.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the angle of the line.**
+
+*   The line is slightly above and to the left of the starting dot.
+
+**Step 2: Convert the estimate to degrees.**
+
+*   The line is approximately 45 degrees above the horizontal.",0.0,10756.978750228882
+LLaMA,run_2,EXP1-Results/direction/direction_image_3.png,274.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is at an angle of approximately 170 degrees relative to the starting dot.",0.0,8037.05906867981
+LLaMA,run_2,EXP1-Results/direction/direction_image_4.png,357.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is oriented in a direction of 180 degrees relative to the starting dot.",0.0,8337.07571029663
+LLaMA,run_2,EXP1-Results/direction/direction_image_5.png,225.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is angled at about 70 degrees relative to the starting dot.",0.0,8307.048320770264
+LLaMA,run_2,EXP1-Results/direction/direction_image_6.png,119.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at approximately 135 degrees relative to the starting dot.",0.0,8002.6867389678955
+LLaMA,run_2,EXP1-Results/direction/direction_image_7.png,323.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is approximately 50 degrees from the starting dot.",0.0,7779.916286468506
+LLaMA,run_2,EXP1-Results/direction/direction_image_8.png,320.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is sloping downward and to the left, so it is in the second quadrant.
+
+**Step 2: Determine the angle of the line relative to the starting dot.**
+
+The line is sloping downward and to the left, so it is in the second quadrant.
+
+**Step 3: Estimate the angle of the line relative to the starting dot.**
+
+The line is sloping downward and to the left, so it is in the second quadrant.
+
+**Answer**: 225 degrees",0.0,15717.090606689453
+LLaMA,run_2,EXP1-Results/direction/direction_image_9.png,138.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing towards the right at about 40 degrees.",0.0,8223.93536567688
+LLaMA,run_2,EXP1-Results/direction/direction_image_10.png,63.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+*   The line is pointing to the upper right, which is approximately 45 degrees.",0.0,10342.795610427856
+LLaMA,run_2,EXP1-Results/direction/direction_image_11.png,33.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line.**
+
+The line is angled to the right of the starting dot.
+
+**Step 2: Convert the angle to a numerical value.**
+
+The line is approximately 45 degrees relative to the starting dot.
+
+**Step 3: Determine the answer.**
+
+The answer is 45 degrees.",0.0,11834.060430526733
+LLaMA,run_2,EXP1-Results/direction/direction_image_12.png,81.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed 180 degrees relative to the starting dot.",0.0,8166.84627532959
+LLaMA,run_2,EXP1-Results/direction/direction_image_13.png,134.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line**
+
+The line starts at the dot at the top of the image and ends at the bottom right of the image. The line is slightly angled.
+
+**Step 2: Estimate the angle**
+
+The line is almost horizontal. The angle is approximately 45 degrees.",0.0,11437.001466751099
+LLaMA,run_2,EXP1-Results/direction/direction_image_14.png,221.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line points towards the northeast.
+
+**Step 2: Convert the angle to degrees.**
+
+The angle is approximately 45 degrees.
+
+**Step 3: Round the angle to the nearest whole number.**
+
+The angle is approximately 45 degrees.
+
+**Step 4: Add the rounded angle to the starting angle.**
+
+45 + 0 = 45 degrees.
+
+**Step 5: Convert the angle to degrees.**
+
+The angle is approximately 45 degrees.",0.0,15541.325569152832
+LLaMA,run_2,EXP1-Results/direction/direction_image_15.png,33.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is approximately 45 degrees to the right of the starting dot.
+
+**Answer:** 45",0.0,10410.183191299438
+LLaMA,run_2,EXP1-Results/direction/direction_image_16.png,255.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+*Answer*: 140 degrees",0.0,9355.949640274048
+LLaMA,run_2,EXP1-Results/direction/direction_image_17.png,305.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Determine the angle of the line relative to the starting dot.**
+
+*   The line makes an angle of 30 degrees with the horizontal.
+
+**Step 2: Determine the direction of the line.**
+
+*   Since the line is at an angle of 30 degrees with the horizontal, it is directed northeast.",0.0,11759.5796585083
+LLaMA,run_2,EXP1-Results/direction/direction_image_18.png,189.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is pointing towards the right side of the image.
+
+**Answer:** 90 degrees",0.0,10247.93028831482
+LLaMA,run_2,EXP1-Results/direction/direction_image_19.png,300.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line.**
+
+The line is directed toward the southeast.
+
+**Step 2: Convert the direction to degrees.**
+
+The southeast direction is approximately 135 degrees.",0.0,10139.794111251831
+LLaMA,run_2,EXP1-Results/direction/direction_image_20.png,57.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line.**
+
+The line is pointing in the northeast direction.
+
+**Step 2: Convert the direction to degrees.**
+
+The northeast direction is 45 degrees.
+
+**Step 3: Convert the angle to the range 0 - 359 degrees.**
+
+The angle is already in the correct range.
+
+**Answer:** 45",0.0,12177.722692489624
+LLaMA,run_2,EXP1-Results/direction/direction_image_21.png,46.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the direction of the line.**
+
+The line extends upward and to the right.
+
+**Step 2: Estimate the direction relative to the starting dot.**
+
+The line is at a 45-degree angle relative to the starting dot.
+
+**Step 3: Convert the angle to degrees.**
+
+45 degrees.
+
+**Step 4: Provide the final answer.**
+
+The final answer is 45.",0.0,13101.345300674438
+LLaMA,run_2,EXP1-Results/direction/direction_image_22.png,103.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line**
+
+*   The line is at an angle of approximately **45 degrees** relative to the starting dot.",0.0,9338.446140289307
+LLaMA,run_2,EXP1-Results/direction/direction_image_23.png,70.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at an angle of **45 degrees** relative to the starting dot.",0.0,8270.509243011475
+LLaMA,run_2,EXP1-Results/direction/direction_image_24.png,112.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line extends at an angle of approximately 30 degrees relative to the starting dot.",0.0,8052.559852600098
+LLaMA,run_2,EXP1-Results/direction/direction_image_25.png,322.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing to the right and slightly upwards at an angle of approximately 35 degrees.",0.0,8268.109560012817
+LLaMA,run_2,EXP1-Results/direction/direction_image_26.png,105.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+*   The line is to the right of the starting dot.
+
+**Step 2: Determine the angle in degrees.**
+
+*   The line is approximately 45 degrees to the right of the starting dot.
+
+**Step 3: Determine the direction.**
+
+*   The direction is southeast.",0.0,13234.120845794678
+LLaMA,run_2,EXP1-Results/direction/direction_image_27.png,20.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Observe the line and starting dot**
+
+The line starts at the dot.
+
+**Step 2: Determine the direction of the line**
+
+The line is directed to the right.
+
+**Step 3: Estimate the angle**
+
+The line is directed to the right, which is equivalent to 90 degrees.
+
+**Step 4: Answer**
+
+The direction of the line relative to the starting dot is **90 degrees**.",0.0,13258.2688331604
+LLaMA,run_2,EXP1-Results/direction/direction_image_28.png,147.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot.**
+
+*   The line extends at an angle of approximately 45 degrees to the right of the starting dot.",0.0,9615.180730819702
+LLaMA,run_2,EXP1-Results/direction/direction_image_29.png,128.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Direction:** 150 degrees
+
+**Explanation:**
+
+*   The line extends diagonally from the starting dot.
+*   The line is directed towards the right and slightly upwards.",0.0,9398.952722549438
+LLaMA,run_2,EXP1-Results/direction/direction_image_30.png,191.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed at an angle of approximately 10 degrees relative to the starting dot.",0.0,8481.020212173462
+LLaMA,run_2,EXP1-Results/direction/direction_image_31.png,260.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is oriented at an angle of approximately 10 degrees relative to the starting dot.",0.0,8112.105846405029
+LLaMA,run_2,EXP1-Results/direction/direction_image_32.png,6.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is directed approximately 150 degrees relative to the starting dot.",0.0,7958.553314208984
+LLaMA,run_2,EXP1-Results/direction/direction_image_33.png,282.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is pointing towards the southeast.
+
+**Answer:** 135 degrees",0.0,9891.065120697021
+LLaMA,run_2,EXP1-Results/direction/direction_image_34.png,112.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line.**
+
+*   The line is directed in the range 180 - 270 degrees.
+
+**Step 2: Determine the exact angle.**
+
+*   The line is directed in the range 225 - 225 degrees.
+
+**Step 3: Round the angle to the nearest whole number.**
+
+*   The line is directed in the range 225 - 225 degrees.
+
+**Answer:** 225",0.0,13720.88646888733
+LLaMA,run_2,EXP1-Results/direction/direction_image_35.png,88.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is at approximately 70 degrees relative to the starting dot.",0.0,7904.563665390015
+LLaMA,run_2,EXP1-Results/direction/direction_image_36.png,350.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is in the range of 0 - 359 degrees.
+
+**Step 2: Determine the direction of the line.**
+
+The line is pointing upwards.
+
+**Step 3: Estimate the angle of the line.**
+
+The line is pointing upwards, so the angle is approximately 90 degrees.
+
+**Answer:** 90",0.0,13636.411666870117
+LLaMA,run_2,EXP1-Results/direction/direction_image_37.png,64.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+*   The line is in the range of 0 - 359 degrees.
+*   The line is between 90 - 180 degrees.
+
+**Step 2: Determine the direction of the line relative to the starting dot.**
+
+*   The line is between 90 - 180 degrees, so it is in the second quadrant.
+*   The line is in the second quadrant, so it is in the direction of 180 degrees.
+
+**Step 3: Determine the direction of the line relative to the starting dot.**
+
+*   The line is in the direction of 180 degrees.
+
+**Step 4: Determine the direction of the line relative to the starting dot.**
+
+*   The line is in the direction of 180 degrees.
+
+**Answer:** 180 degrees",0.0,20736.823081970215
+LLaMA,run_2,EXP1-Results/direction/direction_image_38.png,145.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the direction of the line**
+
+The line extends to the right of the starting dot.
+
+**Step 2: Estimate the direction**
+
+The line extends to the right of the starting dot, which corresponds to 90 degrees.
+
+**Answer:** 90 degrees",0.0,10900.398254394531
+LLaMA,run_2,EXP1-Results/direction/direction_image_39.png,217.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the angle of the line relative to the starting dot.**
+
+The line is approximately 45 degrees relative to the starting dot.
+
+**Step 2: Convert the angle from degrees to radians.**
+
+45 degrees is equivalent to 45 * pi / 180 radians, which is approximately 0.7854 radians.
+
+**Step 3: Round the result to four decimal places.**
+
+The angle is approximately 0.7854 radians.",0.0,13445.257663726807
+LLaMA,run_2,EXP1-Results/direction/direction_image_40.png,55.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot.**
+
+*   The line is at approximately 45 degrees relative to the starting dot.",0.0,9661.649942398071
+LLaMA,run_2,EXP1-Results/direction/direction_image_41.png,21.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is at approximately **45 degrees** relative to the starting dot.",0.0,9976.847410202026
+LLaMA,run_2,EXP1-Results/direction/direction_image_42.png,342.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is at an angle of approximately 45 degrees relative to the starting dot.",0.0,8256.911754608154
+LLaMA,run_2,EXP1-Results/direction/direction_image_43.png,326.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+**Step 2:**
+
+*   The line is pointing towards the top-right of the image.
+*   It is approximately 45 degrees from the starting dot.
+
+**Answer: 45 degrees**",0.0,11670.527219772339
+LLaMA,run_2,EXP1-Results/direction/direction_image_44.png,111.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+The line is at approximately 60 degrees relative to the starting dot.",0.0,10055.56845664978
+LLaMA,run_2,EXP1-Results/direction/direction_image_45.png,313.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the angle in the range 0 - 359 degrees.**
+
+The line is approximately 45 degrees relative to the starting dot.",0.0,9149.080038070679
+LLaMA,run_2,EXP1-Results/direction/direction_image_46.png,129.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line.**
+
+The line is approximately 50 degrees relative to the starting dot.",0.0,8953.927993774414
+LLaMA,run_2,EXP1-Results/direction/direction_image_47.png,167.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing in the direction of **135 degrees** relative to the starting dot.",0.0,8476.189136505127
+LLaMA,run_2,EXP1-Results/direction/direction_image_48.png,323.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Identify the starting point and the end point of the line.**
+
+The line starts at the bottom left corner and ends at the top right corner of the image.
+
+**Step 2: Determine the direction of the line relative to the starting dot.**
+
+The line points upwards and to the right.
+
+**Step 3: Estimate the direction in the range of 0 - 359 degrees.**
+
+The line is approximately at a 45-degree angle.
+
+**Answer:** 45 degrees.",0.0,14443.732261657715
+LLaMA,run_2,EXP1-Results/direction/direction_image_49.png,284.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing in a direction of approximately **45 degrees** relative to the starting dot.",0.0,8893.360137939453
+LLaMA,run_2,EXP1-Results/direction/direction_image_50.png,80.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing in the range of 180 - 199 degrees.",0.0,8155.080080032349
+LLaMA,run_2,EXP1-Results/direction/direction_image_51.png,43.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line is pointing in the direction of 90 degrees relative to the starting dot.",0.0,8197.47257232666
+LLaMA,run_2,EXP1-Results/direction/direction_image_52.png,3.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Direction:** 180 degrees
+
+**Reasoning:**
+The line extends vertically downward from the starting dot, indicating a downward direction.",0.0,9023.211002349854
+LLaMA,run_2,EXP1-Results/direction/direction_image_53.png,172.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line appears to be pointing at an angle of approximately 120 degrees relative to the starting dot.",0.0,8394.575595855713
+LLaMA,run_2,EXP1-Results/direction/direction_image_54.png,192.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+**Step 1: Estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees.**
+
+**Step 2:**
+
+**Answer:** 180 degrees.",0.0,9774.685859680176
+LLaMA,run_2,EXP1-Results/direction/direction_image_55.png,347.0,"user
+
+Please estimate the direction of the line relative to the starting dot in the range 0 - 359 degrees. No explanation.assistant
+
+The line appears to be pointing in the range of 90 - 135 degrees.",0.0,8178.013563156128
+LLaMA,average,,,,,
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_1.png,125.0,"45
+",0.0,5814.59903717041
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_2.png,315.0,"45
+",0.0,5642.100095748901
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_3.png,274.0,"45
+",0.0,5587.7885818481445
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_4.png,357.0,"45
+",0.0,5933.974504470825
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_5.png,225.0,"45
+",0.0,5537.166118621826
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_6.png,119.0,"45
+",0.0,5652.438163757324
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_7.png,323.0,"45
+",0.0,5974.826812744141
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_8.png,320.0,"45
+",0.0,8027.230024337769
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_9.png,138.0,"45
+",0.0,7145.479679107666
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_10.png,63.0,"45
+",0.0,12380.119562149048
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_11.png,33.0,"45
+",0.0,5528.852224349976
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_12.png,81.0,"45
+",0.0,5659.657716751099
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_13.png,134.0,"45
+",0.0,5533.622026443481
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_14.png,221.0,"45
+",0.0,5527.438163757324
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_15.png,33.0,"45
+",0.0,5621.149063110352
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_16.png,255.0,"45
+",0.0,8158.960342407227
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_17.png,305.0,"45
+",0.0,8114.932060241699
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_18.png,189.0,"45
+",0.0,15890.467166900635
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_19.png,300.0,"45
+",0.0,6694.628953933716
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_20.png,57.0,"45
+",0.0,7100.025177001953
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_21.png,46.0,"45
+",0.0,5553.781509399414
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_22.png,103.0,"45
+",0.0,6001.4379024505615
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_23.png,70.0,"45
+",0.0,5816.3697719573975
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_24.png,112.0,"45
+",0.0,5564.7571086883545
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_25.png,322.0,"45
+",0.0,6961.819887161255
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_26.png,105.0,"315
+",0.0,6604.167938232422
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_27.png,20.0,"315
+",0.0,13752.666711807251
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_28.png,147.0,"45
+",0.0,5712.5725746154785
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_29.png,128.0,"45
+",0.0,6773.478746414185
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_30.png,191.0,"45
+",0.0,8305.978536605835
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_31.png,260.0,"45
+",0.0,5640.406608581543
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_32.png,6.0,"45
+",0.0,5555.9186935424805
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_33.png,282.0,"45
+",0.0,12902.628183364868
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_34.png,112.0,"315
+",0.0,6015.312910079956
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_35.png,88.0,"45
+",0.0,8122.076749801636
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_36.png,350.0,"45
+",0.0,9468.416452407837
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_37.png,64.0,"45
+",0.0,5539.797067642212
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_38.png,145.0,"45
+",0.0,5535.153150558472
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_39.png,217.0,"315
+",0.0,5572.406530380249
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_40.png,55.0,"45
+",0.0,5762.118816375732
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_41.png,21.0,"315
+",0.0,8976.87029838562
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_42.png,342.0,"45
+",0.0,8252.564907073975
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_43.png,326.0,"45
+",0.0,7650.010347366333
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_44.png,111.0,"315
+",0.0,6815.484285354614
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_45.png,313.0,"45
+",0.0,5755.805969238281
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_46.png,129.0,"45
+",0.0,5542.50168800354
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_47.png,167.0,"315
+",0.0,5874.179124832153
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_48.png,323.0,"45
+",0.0,5547.517776489258
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_49.png,284.0,"45
+",0.0,5856.705904006958
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_50.png,80.0,"45
+",0.0,5574.535608291626
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_51.png,43.0,"45
+",0.0,41026.286125183105
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_52.png,3.0,"45
+",0.0,5528.935432434082
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_53.png,172.0,"45
+",0.0,9336.530685424805
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_54.png,192.0,"45
+",0.0,7082.331418991089
+GeminiProVision,run_0,EXP1-Results/direction/direction_image_55.png,347.0,"45
+",0.0,20972.107648849487
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_1.png,125.0,"45
+",0.0,5518.337249755859
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_2.png,315.0,"45
+",0.0,5544.836759567261
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_3.png,274.0,"45
+",0.0,5548.234224319458
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_4.png,357.0,"45
+",0.0,5538.465738296509
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_5.png,225.0,"45
+",0.0,6859.372138977051
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_6.png,119.0,"45
+",0.0,8440.726518630981
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_7.png,323.0,"45
+",0.0,5842.465162277222
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_8.png,320.0,"45
+",0.0,8041.088342666626
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_9.png,138.0,"45
+",0.0,5824.779510498047
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_10.png,63.0,"45
+",0.0,5530.263662338257
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_11.png,33.0,"45
+",0.0,5540.693521499634
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_12.png,81.0,"45
+",0.0,5535.953760147095
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_13.png,134.0,"45
+",0.0,5964.598655700684
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_14.png,221.0,"45
+",0.0,5659.741163253784
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_15.png,33.0,"45
+",0.0,5823.186874389648
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_16.png,255.0,"45
+",0.0,5532.3638916015625
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_17.png,305.0,"45
+",0.0,6435.7781410217285
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_18.png,189.0,"45
+",0.0,5970.461130142212
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_19.png,300.0,"45
+",0.0,6618.457555770874
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_20.png,57.0,"45
+",0.0,5565.142631530762
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_21.png,46.0,"45
+",0.0,5626.297950744629
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_22.png,103.0,"45
+",0.0,5565.912961959839
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_23.png,70.0,"45
+",0.0,5537.577152252197
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_24.png,112.0,"45
+",0.0,5666.335582733154
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_25.png,322.0,"45
+",0.0,7017.783880233765
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_26.png,105.0,"315
+",0.0,5615.6980991363525
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_27.png,20.0,"315
+",0.0,5721.688747406006
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_28.png,147.0,"45
+",0.0,6849.719524383545
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_29.png,128.0,"45
+",0.0,7223.751783370972
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_30.png,191.0,"315
+",0.0,5874.288082122803
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_31.png,260.0,"45
+",0.0,5766.613483428955
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_32.png,6.0,"45
+",0.0,5541.857004165649
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_33.png,282.0,"45
+",0.0,5719.520568847656
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_34.png,112.0,"315
+",0.0,7150.792598724365
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_35.png,88.0,"45
+",0.0,6864.588975906372
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_36.png,350.0,"45
+",0.0,35089.7433757782
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_37.png,64.0,"45
+",0.0,5651.241302490234
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_38.png,145.0,"45
+",0.0,7012.892007827759
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_39.png,217.0,"315
+",0.0,5547.072410583496
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_40.png,55.0,"45
+",0.0,5523.920774459839
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_41.png,21.0,"315
+",0.0,8355.244874954224
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_42.png,342.0,"45
+",0.0,12036.201238632202
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_43.png,326.0,"45
+",0.0,5536.755084991455
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_44.png,111.0,"315
+",0.0,5558.018445968628
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_45.png,313.0,"45
+",0.0,7260.149717330933
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_46.png,129.0,"45
+",0.0,6976.906538009644
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_47.png,167.0,"315
+",0.0,5858.906030654907
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_48.png,323.0,"45
+",0.0,5843.883991241455
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_49.png,284.0,"315
+",0.0,5825.291872024536
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_50.png,80.0,"45
+",0.0,5545.256614685059
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_51.png,43.0,"45
+",0.0,5569.049596786499
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_52.png,3.0,"45
+",0.0,5673.314332962036
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_53.png,172.0,"45
+",0.0,5750.129222869873
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_54.png,192.0,"315
+",0.0,5551.3293743133545
+GeminiProVision,run_1,EXP1-Results/direction/direction_image_55.png,347.0,"45
+",0.0,6494.350910186768
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_1.png,125.0,"45
+",0.0,5534.714460372925
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_2.png,315.0,"45
+",0.0,5541.144609451294
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_3.png,274.0,"45
+",0.0,7912.526607513428
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_4.png,357.0,"45
+",0.0,5704.164028167725
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_5.png,225.0,"45
+",0.0,5524.012088775635
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_6.png,119.0,"45
+",0.0,5528.595924377441
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_7.png,323.0,"45
+",0.0,5530.246019363403
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_8.png,320.0,"45
+",0.0,5592.90623664856
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_9.png,138.0,"315
+",0.0,5641.556739807129
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_10.png,63.0,"45
+",0.0,5764.575481414795
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_11.png,33.0,"45
+",0.0,5581.353187561035
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_12.png,81.0,"45
+",0.0,5539.939880371094
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_13.png,134.0,"45
+",0.0,5534.138917922974
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_14.png,221.0,"45
+",0.0,5596.080303192139
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_15.png,33.0,"45
+",0.0,5538.675308227539
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_16.png,255.0,"45
+",0.0,5536.844491958618
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_17.png,305.0,"45
+",0.0,5547.703742980957
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_18.png,189.0,"45
+",0.0,5527.329444885254
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_19.png,300.0,"45
+",0.0,5531.6948890686035
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_20.png,57.0,"45
+",0.0,5776.171445846558
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_21.png,46.0,"45
+",0.0,7240.420341491699
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_22.png,103.0,"45
+",0.0,5802.333831787109
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_23.png,70.0,"45
+",0.0,5509.726524353027
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_24.png,112.0,"45
+",0.0,5523.250102996826
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_25.png,322.0,"45
+",0.0,6776.84473991394
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_26.png,105.0,"45
+",0.0,5529.8614501953125
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_27.png,20.0,"315
+",0.0,5573.264837265015
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_28.png,147.0,"45
+",0.0,5527.441740036011
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_29.png,128.0,"45
+",0.0,5555.026292800903
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_30.png,191.0,"315
+",0.0,5558.732032775879
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_31.png,260.0,"45
+",0.0,5529.765844345093
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_32.png,6.0,"45
+",0.0,5842.878341674805
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_33.png,282.0,"45
+",0.0,5748.582601547241
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_34.png,112.0,"315
+",0.0,5560.5974197387695
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_35.png,88.0,"45
+",0.0,5522.735595703125
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_36.png,350.0,"45
+",0.0,5538.739204406738
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_37.png,64.0,"45
+",0.0,5549.363851547241
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_38.png,145.0,"45
+",0.0,5519.679546356201
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_39.png,217.0,"315
+",0.0,5536.453723907471
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_40.png,55.0,"45
+",0.0,5533.575534820557
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_41.png,21.0,"315
+",0.0,5546.700000762939
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_42.png,342.0,"45
+",0.0,5531.749248504639
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_43.png,326.0,"45
+",0.0,5706.78973197937
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_44.png,111.0,"315
+",0.0,5559.548139572144
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_45.png,313.0,"45
+",0.0,5761.803388595581
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_46.png,129.0,"45
+",0.0,5525.378704071045
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_47.png,167.0,"315
+",0.0,5597.655534744263
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_48.png,323.0,"45
+",0.0,5526.392459869385
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_49.png,284.0,"45
+",0.0,5530.92360496521
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_50.png,80.0,"45
+",0.0,7514.545679092407
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_51.png,43.0,"45
+",0.0,5531.886577606201
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_52.png,3.0,"45
+",0.0,5531.973600387573
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_53.png,172.0,"45
+",0.0,5539.62254524231
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_54.png,192.0,"315
+",0.0,5537.81533241272
+GeminiProVision,run_2,EXP1-Results/direction/direction_image_55.png,347.0,"45
+",0.0,5526.633024215698
+GeminiProVision,average,,,,,
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_1.png,125.0,"90
+",0.0,5593.412637710571
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_2.png,315.0,"0
+",0.0,5375.7500648498535
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_3.png,274.0,"90
+",0.0,5722.498893737793
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_4.png,357.0,"90
+",0.0,6388.421058654785
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_5.png,225.0,"0
+",0.0,6791.152715682983
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_6.png,119.0,"90
+",0.0,9902.70733833313
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_7.png,323.0,"315
+",0.0,7816.804647445679
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_8.png,320.0,"90
+",0.0,6983.28423500061
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_9.png,138.0,"90
+",0.0,6402.778625488281
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_10.png,63.0,"90
+",0.0,8038.267612457275
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_11.png,33.0,"90
+",0.0,6271.474599838257
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_12.png,81.0,"315
+",0.0,8056.891202926636
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_13.png,134.0,"0
+",0.0,6875.818967819214
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_14.png,221.0,"90
+",0.0,6426.589250564575
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_15.png,33.0,"270
+",0.0,8521.020889282227
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_16.png,255.0,"0
+",0.0,5934.86762046814
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_17.png,305.0,"90
+",0.0,9567.342042922974
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_18.png,189.0,"315
+",0.0,6211.174249649048
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_19.png,300.0,"90
+",0.0,8982.537508010864
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_20.png,57.0,"90
+",0.0,7291.921615600586
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_21.png,46.0,"90
+",0.0,8937.740087509155
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_22.png,103.0,"90
+",0.0,5390.516042709351
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_23.png,70.0,"90
+",0.0,5628.225088119507
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_24.png,112.0,"90
+",0.0,5977.046728134155
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_25.png,322.0,"315
+",0.0,6820.762634277344
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_26.png,105.0,"90
+",0.0,10168.690204620361
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_27.png,20.0,"90
+",0.0,10598.040580749512
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_28.png,147.0,"90
+",0.0,7966.283559799194
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_29.png,128.0,"90
+",0.0,8526.964664459229
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_30.png,191.0,"90
+",0.0,8015.944957733154
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_31.png,260.0,"90
+",0.0,5361.315011978149
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_32.png,6.0,"315
+",0.0,7308.694362640381
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_33.png,282.0,"270
+",0.0,12145.51067352295
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_34.png,112.0,"90
+",0.0,5935.017108917236
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_35.png,88.0,"90
+",0.0,5713.74249458313
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_36.png,350.0,"90
+",0.0,6340.796232223511
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_37.png,64.0,"90
+",0.0,12254.662275314331
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_38.png,145.0,"315
+",0.0,11528.788566589355
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_39.png,217.0,"90
+",0.0,5464.871406555176
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_40.png,55.0,"90
+",0.0,6108.789682388306
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_41.png,21.0,"90
+",0.0,5351.370573043823
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_42.png,342.0,"90
+",0.0,6466.540098190308
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_43.png,326.0,"315
+",0.0,7924.339771270752
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_44.png,111.0,"0
+",0.0,8646.415710449219
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_45.png,313.0,"0
+",0.0,5408.921718597412
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_46.png,129.0,"90
+",0.0,5999.74250793457
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_47.png,167.0,"90
+",0.0,9351.891279220581
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_48.png,323.0,"315
+",0.0,9016.853332519531
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_49.png,284.0,"90
+",0.0,6583.944320678711
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_50.png,80.0,"315
+",0.0,6652.765989303589
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_51.png,43.0,"90
+",0.0,7857.283353805542
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_52.png,3.0,"0
+",0.0,5424.197673797607
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_53.png,172.0,"90
+",0.0,5342.454433441162
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_54.png,192.0,"90
+",0.0,7032.641410827637
+Gemini1_5Flash,run_0,EXP1-Results/direction/direction_image_55.png,347.0,"90
+",0.0,9337.066411972046
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_1.png,125.0,"90
+",0.0,5712.932586669922
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_2.png,315.0,"0
+",0.0,7546.045303344727
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_3.png,274.0,"90
+",0.0,5356.286287307739
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_4.png,357.0,"90
+",0.0,11856.369256973267
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_5.png,225.0,"90
+",0.0,6619.736909866333
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_6.png,119.0,"90
+",0.0,15754.130601882935
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_7.png,323.0,"270
+",0.0,9671.842336654663
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_8.png,320.0,"90
+",0.0,11153.05495262146
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_9.png,138.0,"90
+",0.0,7186.387300491333
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_10.png,63.0,"90
+",0.0,6945.828199386597
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_11.png,33.0,"90
+",0.0,7924.31378364563
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_12.png,81.0,"315
+",0.0,8019.454479217529
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_13.png,134.0,"90
+",0.0,6782.400608062744
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_14.png,221.0,"90
+",0.0,5843.006372451782
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_15.png,33.0,"90
+",0.0,5387.028455734253
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_16.png,255.0,"90
+",0.0,5548.839330673218
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_17.png,305.0,"90
+",0.0,10808.067560195923
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_18.png,189.0,"315
+",0.0,6186.5527629852295
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_19.png,300.0,"90
+",0.0,6114.617109298706
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_20.png,57.0,"90
+",0.0,6585.9620571136475
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_21.png,46.0,"90
+",0.0,7730.321407318115
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_22.png,103.0,"90
+",0.0,7622.168779373169
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_23.png,70.0,"180
+",0.0,5967.248916625977
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_24.png,112.0,"90
+",0.0,5604.115724563599
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_25.png,322.0,"315
+",0.0,6539.268493652344
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_26.png,105.0,"90
+",0.0,7116.444826126099
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_27.png,20.0,"90
+",0.0,8380.315065383911
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_28.png,147.0,"90
+",0.0,5752.47049331665
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_29.png,128.0,"90
+",0.0,5718.502521514893
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_30.png,191.0,"90
+",0.0,13681.212902069092
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_31.png,260.0,"90
+",0.0,6199.893236160278
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_32.png,6.0,"315
+",0.0,9517.15612411499
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_33.png,282.0,"270
+",0.0,5618.485689163208
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_34.png,112.0,"90
+",0.0,5350.028991699219
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_35.png,88.0,"90
+",0.0,8341.017484664917
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_36.png,350.0,"90
+",0.0,6631.512880325317
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_37.png,64.0,"90
+",0.0,5702.991247177124
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_38.png,145.0,"315
+",0.0,9918.112993240356
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_39.png,217.0,"0
+",0.0,16282.035112380981
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_40.png,55.0,"90
+",0.0,10004.682540893555
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_41.png,21.0,"90
+",0.0,9348.133325576782
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_42.png,342.0,"90
+",0.0,8860.758543014526
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_43.png,326.0,"315
+",0.0,6840.230226516724
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_44.png,111.0,"90
+",0.0,10457.851886749268
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_45.png,313.0,"0
+",0.0,7233.286619186401
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_46.png,129.0,"0
+",0.0,6236.5007400512695
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_47.png,167.0,"90
+",0.0,6078.789234161377
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_48.png,323.0,"180
+",0.0,6055.422067642212
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_49.png,284.0,"90
+",0.0,5351.257562637329
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_50.png,80.0,"315
+",0.0,10731.21428489685
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_51.png,43.0,"270
+",0.0,7060.746908187866
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_52.png,3.0,"0
+",0.0,5586.122274398804
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_53.png,172.0,"90
+",0.0,9235.099077224731
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_54.png,192.0,"270
+",0.0,6163.841724395752
+Gemini1_5Flash,run_1,EXP1-Results/direction/direction_image_55.png,347.0,"90
+",0.0,5359.337091445923
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_1.png,125.0,"90
+",0.0,9634.25087928772
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_2.png,315.0,"0
+",0.0,6101.741552352905
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_3.png,274.0,"90
+",0.0,5736.344337463379
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_4.png,357.0,"90
+",0.0,7613.169193267822
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_5.png,225.0,"0
+",0.0,8091.854572296143
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_6.png,119.0,"90
+",0.0,6617.112398147583
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_7.png,323.0,"315
+",0.0,16036.949872970581
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_8.png,320.0,"90
+",0.0,7003.905773162842
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_9.png,138.0,"90
+",0.0,8243.69764328003
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_10.png,63.0,"90
+",0.0,7638.060808181763
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_11.png,33.0,"90
+",0.0,8559.091091156006
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_12.png,81.0,"315
+",0.0,8896.299600601196
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_13.png,134.0,"0
+",0.0,6690.518617630005
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_14.png,221.0,"90
+",0.0,6094.103813171387
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_15.png,33.0,"90
+",0.0,5451.675891876221
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_16.png,255.0,"90
+",0.0,8361.098527908325
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_17.png,305.0,"90
+",0.0,8262.287616729736
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_18.png,189.0,"180
+",0.0,6560.287952423096
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_19.png,300.0,"90
+",0.0,5928.489446640015
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_20.png,57.0,"90
+",0.0,10671.905040740967
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_21.png,46.0,"90
+",0.0,6115.6415939331055
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_22.png,103.0,"90
+",0.0,8582.71074295044
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_23.png,70.0,"180
+",0.0,11098.557949066162
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_24.png,112.0,"90
+",0.0,9797.333002090454
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_25.png,322.0,"270
+",0.0,6299.946069717407
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_26.png,105.0,"90
+",0.0,5343.546628952026
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_27.png,20.0,"90
+",0.0,7365.713834762573
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_28.png,147.0,"90
+",0.0,9935.487985610962
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_29.png,128.0,"90
+",0.0,8009.346723556519
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_30.png,191.0,"90
+",0.0,8529.041528701782
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_31.png,260.0,"90
+",0.0,10292.325973510742
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_32.png,6.0,"315
+",0.0,7651.753187179565
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_33.png,282.0,"90
+",0.0,5597.681522369385
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_34.png,112.0,"90
+",0.0,6763.197898864746
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_35.png,88.0,"90
+",0.0,5475.720643997192
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_36.png,350.0,"90
+",0.0,6007.772445678711
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_37.png,64.0,"90
+",0.0,9141.058683395386
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_38.png,145.0,"90
+",0.0,7191.0719871521
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_39.png,217.0,"90
+",0.0,7502.266407012939
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_40.png,55.0,"90
+",0.0,9485.470056533813
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_41.png,21.0,"90
+",0.0,11027.575492858887
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_42.png,342.0,"90
+",0.0,7345.57580947876
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_43.png,326.0,"315
+",0.0,5537.772655487061
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_44.png,111.0,"90
+",0.0,6373.284101486206
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_45.png,313.0,"90
+",0.0,10878.859043121338
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_46.png,129.0,"0
+",0.0,10873.3549118042
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_47.png,167.0,"90
+",0.0,7166.935443878174
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_48.png,323.0,"315
+",0.0,11449.91159439087
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_49.png,284.0,"90
+",0.0,5374.4957447052
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_50.png,80.0,"315
+",0.0,8416.665315628052
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_51.png,43.0,"90
+",0.0,7638.548851013184
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_52.png,3.0,"0
+",0.0,6924.27659034729
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_53.png,172.0,"90
+",0.0,10018.66602897644
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_54.png,192.0,"90
+",0.0,7981.541395187378
+Gemini1_5Flash,run_2,EXP1-Results/direction/direction_image_55.png,347.0,"90
+",0.0,6650.867462158203
+Gemini1_5Flash,average,,,,,

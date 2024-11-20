@@ -1,0 +1,2495 @@
+model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
+gpt4o,run_0,EXP1-Results/length/length_image_1.png,29.0,10,0.0,6763.832807540894
+gpt4o,run_0,EXP1-Results/length/length_image_2.png,26.0,10,0.0,5919.338941574097
+gpt4o,run_0,EXP1-Results/length/length_image_3.png,52.0,20,0.0,6174.22342300415
+gpt4o,run_0,EXP1-Results/length/length_image_4.png,38.0,8,0.0,5913.463354110718
+gpt4o,run_0,EXP1-Results/length/length_image_5.png,26.0,18,0.0,5805.9797286987305
+gpt4o,run_0,EXP1-Results/length/length_image_6.png,44.0,24,0.0,5885.361909866333
+gpt4o,run_0,EXP1-Results/length/length_image_7.png,16.0,10,0.0,5885.3440284729
+gpt4o,run_0,EXP1-Results/length/length_image_8.png,21.0,12,0.0,6363.812208175659
+gpt4o,run_0,EXP1-Results/length/length_image_9.png,25.0,13,0.0,5957.847833633423
+gpt4o,run_0,EXP1-Results/length/length_image_10.png,53.0,10,0.0,5731.223583221436
+gpt4o,run_0,EXP1-Results/length/length_image_11.png,28.0,12,0.0,6081.137180328369
+gpt4o,run_0,EXP1-Results/length/length_image_12.png,18.0,10,0.0,7455.830097198486
+gpt4o,run_0,EXP1-Results/length/length_image_13.png,53.0,20,0.0,5900.627374649048
+gpt4o,run_0,EXP1-Results/length/length_image_14.png,36.0,15,0.0,5823.9426612854
+gpt4o,run_0,EXP1-Results/length/length_image_15.png,8.0,3,0.0,5849.552869796753
+gpt4o,run_0,EXP1-Results/length/length_image_16.png,48.0,20,0.0,5973.97255897522
+gpt4o,run_0,EXP1-Results/length/length_image_17.png,1.0,10,0.0,5654.000997543335
+gpt4o,run_0,EXP1-Results/length/length_image_18.png,18.0,12,0.0,8835.107803344727
+gpt4o,run_0,EXP1-Results/length/length_image_19.png,59.0,10,0.0,5926.148176193237
+gpt4o,run_0,EXP1-Results/length/length_image_20.png,15.0,10,0.0,5715.916395187378
+gpt4o,run_0,EXP1-Results/length/length_image_21.png,8.0,6,0.0,5637.293338775635
+gpt4o,run_0,EXP1-Results/length/length_image_22.png,33.0,10,0.0,5958.297967910767
+gpt4o,run_0,EXP1-Results/length/length_image_23.png,26.0,10,0.0,6550.562858581543
+gpt4o,run_0,EXP1-Results/length/length_image_24.png,60.0,25,0.0,5954.551458358765
+gpt4o,run_0,EXP1-Results/length/length_image_25.png,14.0,10,0.0,6396.20566368103
+gpt4o,run_0,EXP1-Results/length/length_image_26.png,1.0,5,0.0,5670.470952987671
+gpt4o,run_0,EXP1-Results/length/length_image_27.png,38.0,25,0.0,6200.927972793579
+gpt4o,run_0,EXP1-Results/length/length_image_28.png,21.0,5,0.0,6075.004577636719
+gpt4o,run_0,EXP1-Results/length/length_image_29.png,17.0,10,0.0,5878.262519836426
+gpt4o,run_0,EXP1-Results/length/length_image_30.png,45.0,18,0.0,6333.219766616821
+gpt4o,run_0,EXP1-Results/length/length_image_31.png,53.0,44,0.0,5630.756139755249
+gpt4o,run_0,EXP1-Results/length/length_image_32.png,53.0,15,0.0,5600.026607513428
+gpt4o,run_0,EXP1-Results/length/length_image_33.png,39.0,10,0.0,6097.69344329834
+gpt4o,run_0,EXP1-Results/length/length_image_34.png,19.0,10,0.0,5757.0061683654785
+gpt4o,run_0,EXP1-Results/length/length_image_35.png,39.0,28,0.0,6499.129772186279
+gpt4o,run_0,EXP1-Results/length/length_image_36.png,31.0,15,0.0,5810.35590171814
+gpt4o,run_0,EXP1-Results/length/length_image_37.png,31.0,10,0.0,6239.240407943726
+gpt4o,run_0,EXP1-Results/length/length_image_38.png,44.0,50,0.0,5804.623126983643
+gpt4o,run_0,EXP1-Results/length/length_image_39.png,8.0,5,0.0,5702.427625656128
+gpt4o,run_0,EXP1-Results/length/length_image_40.png,54.0,20,0.0,6510.061025619507
+gpt4o,run_0,EXP1-Results/length/length_image_41.png,14.0,8,0.0,5942.363262176514
+gpt4o,run_0,EXP1-Results/length/length_image_42.png,1.0,10,0.0,5718.406677246094
+gpt4o,run_0,EXP1-Results/length/length_image_43.png,59.0,30,0.0,5903.917074203491
+gpt4o,run_0,EXP1-Results/length/length_image_44.png,40.0,15,0.0,5980.618953704834
+gpt4o,run_0,EXP1-Results/length/length_image_45.png,19.0,10,0.0,5674.415349960327
+gpt4o,run_0,EXP1-Results/length/length_image_46.png,48.0,20,0.0,5829.6966552734375
+gpt4o,run_0,EXP1-Results/length/length_image_47.png,15.0,10,0.0,5638.892412185669
+gpt4o,run_0,EXP1-Results/length/length_image_48.png,58.0,23,0.0,6288.644075393677
+gpt4o,run_0,EXP1-Results/length/length_image_49.png,24.0,9,0.0,5924.18646812439
+gpt4o,run_0,EXP1-Results/length/length_image_50.png,56.0,20,0.0,5956.454515457153
+gpt4o,run_0,EXP1-Results/length/length_image_51.png,24.0,10,0.0,6556.129693984985
+gpt4o,run_0,EXP1-Results/length/length_image_52.png,8.0,10,0.0,6058.086633682251
+gpt4o,run_0,EXP1-Results/length/length_image_53.png,36.0,12,0.0,5695.443630218506
+gpt4o,run_0,EXP1-Results/length/length_image_54.png,7.0,10,0.0,5809.68713760376
+gpt4o,run_0,EXP1-Results/length/length_image_55.png,15.0,10,0.0,5537.655591964722
+gpt4o,run_1,EXP1-Results/length/length_image_1.png,29.0,15,0.0,6120.237827301025
+gpt4o,run_1,EXP1-Results/length/length_image_2.png,26.0,15,0.0,6516.212224960327
+gpt4o,run_1,EXP1-Results/length/length_image_3.png,52.0,20,0.0,6465.73543548584
+gpt4o,run_1,EXP1-Results/length/length_image_4.png,38.0,15,0.0,5792.280673980713
+gpt4o,run_1,EXP1-Results/length/length_image_5.png,26.0,10,0.0,6510.972261428833
+gpt4o,run_1,EXP1-Results/length/length_image_6.png,44.0,15,0.0,6205.5418491363525
+gpt4o,run_1,EXP1-Results/length/length_image_7.png,16.0,12,0.0,5948.067188262939
+gpt4o,run_1,EXP1-Results/length/length_image_8.png,21.0,10,0.0,5802.491664886475
+gpt4o,run_1,EXP1-Results/length/length_image_9.png,25.0,16,0.0,6045.171737670898
+gpt4o,run_1,EXP1-Results/length/length_image_10.png,53.0,31,0.0,5714.590072631836
+gpt4o,run_1,EXP1-Results/length/length_image_11.png,28.0,15,0.0,5754.053115844727
+gpt4o,run_1,EXP1-Results/length/length_image_12.png,18.0,10,0.0,6925.060272216797
+gpt4o,run_1,EXP1-Results/length/length_image_13.png,53.0,20,0.0,5628.51357460022
+gpt4o,run_1,EXP1-Results/length/length_image_14.png,36.0,12,0.0,5679.527997970581
+gpt4o,run_1,EXP1-Results/length/length_image_15.png,8.0,5,0.0,7826.768398284912
+gpt4o,run_1,EXP1-Results/length/length_image_16.png,48.0,20,0.0,6074.724912643433
+gpt4o,run_1,EXP1-Results/length/length_image_17.png,1.0,10,0.0,5979.630470275879
+gpt4o,run_1,EXP1-Results/length/length_image_18.png,18.0,10,0.0,7688.0738735198975
+gpt4o,run_1,EXP1-Results/length/length_image_19.png,59.0,35,0.0,5831.733703613281
+gpt4o,run_1,EXP1-Results/length/length_image_20.png,15.0,14,0.0,7360.09407043457
+gpt4o,run_1,EXP1-Results/length/length_image_21.png,8.0,10,0.0,5852.132558822632
+gpt4o,run_1,EXP1-Results/length/length_image_22.png,33.0,10,0.0,5997.966289520264
+gpt4o,run_1,EXP1-Results/length/length_image_23.png,26.0,10,0.0,5806.663036346436
+gpt4o,run_1,EXP1-Results/length/length_image_24.png,60.0,24,0.0,5742.492198944092
+gpt4o,run_1,EXP1-Results/length/length_image_25.png,14.0,15,0.0,5816.429615020752
+gpt4o,run_1,EXP1-Results/length/length_image_26.png,1.0,6,0.0,5574.618101119995
+gpt4o,run_1,EXP1-Results/length/length_image_27.png,38.0,20,0.0,5870.892286300659
+gpt4o,run_1,EXP1-Results/length/length_image_28.png,21.0,18,0.0,5921.126365661621
+gpt4o,run_1,EXP1-Results/length/length_image_29.png,17.0,10,0.0,6226.013422012329
+gpt4o,run_1,EXP1-Results/length/length_image_30.png,45.0,25,0.0,5918.560743331909
+gpt4o,run_1,EXP1-Results/length/length_image_31.png,53.0,10,0.0,5965.748071670532
+gpt4o,run_1,EXP1-Results/length/length_image_32.png,53.0,20,0.0,5557.2919845581055
+gpt4o,run_1,EXP1-Results/length/length_image_33.png,39.0,11,0.0,5979.044437408447
+gpt4o,run_1,EXP1-Results/length/length_image_34.png,19.0,10,0.0,5654.1748046875
+gpt4o,run_1,EXP1-Results/length/length_image_35.png,39.0,10,0.0,5894.098520278931
+gpt4o,run_1,EXP1-Results/length/length_image_36.png,31.0,10,0.0,5864.6368980407715
+gpt4o,run_1,EXP1-Results/length/length_image_37.png,31.0,12,0.0,5763.297080993652
+gpt4o,run_1,EXP1-Results/length/length_image_38.png,44.0,25,0.0,5806.640386581421
+gpt4o,run_1,EXP1-Results/length/length_image_39.png,8.0,7,0.0,6223.27184677124
+gpt4o,run_1,EXP1-Results/length/length_image_40.png,54.0,25,0.0,5855.283260345459
+gpt4o,run_1,EXP1-Results/length/length_image_41.png,14.0,5,0.0,5914.129257202148
+gpt4o,run_1,EXP1-Results/length/length_image_42.png,1.0,5,0.0,5540.672779083252
+gpt4o,run_1,EXP1-Results/length/length_image_43.png,59.0,18,0.0,5871.712207794189
+gpt4o,run_1,EXP1-Results/length/length_image_44.png,40.0,20,0.0,6110.167741775513
+gpt4o,run_1,EXP1-Results/length/length_image_45.png,19.0,10,0.0,5722.136735916138
+gpt4o,run_1,EXP1-Results/length/length_image_46.png,48.0,24,0.0,5887.1307373046875
+gpt4o,run_1,EXP1-Results/length/length_image_47.png,15.0,10,0.0,5623.229026794434
+gpt4o,run_1,EXP1-Results/length/length_image_48.png,58.0,20,0.0,5820.469379425049
+gpt4o,run_1,EXP1-Results/length/length_image_49.png,24.0,20,0.0,5965.593099594116
+gpt4o,run_1,EXP1-Results/length/length_image_50.png,56.0,38,0.0,5945.56450843811
+gpt4o,run_1,EXP1-Results/length/length_image_51.png,24.0,13,0.0,5943.285226821899
+gpt4o,run_1,EXP1-Results/length/length_image_52.png,8.0,10,0.0,6054.321527481079
+gpt4o,run_1,EXP1-Results/length/length_image_53.png,36.0,40,0.0,5736.379146575928
+gpt4o,run_1,EXP1-Results/length/length_image_54.png,7.0,10,0.0,5732.591152191162
+gpt4o,run_1,EXP1-Results/length/length_image_55.png,15.0,10,0.0,5600.608110427856
+gpt4o,run_2,EXP1-Results/length/length_image_1.png,29.0,10,6482.0,5945.192813873291
+gpt4o,run_2,EXP1-Results/length/length_image_2.png,26.0,10,6482.0,7507.3394775390625
+gpt4o,run_2,EXP1-Results/length/length_image_3.png,52.0,15,6482.0,5828.026533126831
+gpt4o,run_2,EXP1-Results/length/length_image_4.png,38.0,20,6482.0,8912.336349487305
+gpt4o,run_2,EXP1-Results/length/length_image_5.png,26.0,10,6482.0,6204.720020294189
+gpt4o,run_2,EXP1-Results/length/length_image_6.png,44.0,20,6482.0,6094.775199890137
+gpt4o,run_2,EXP1-Results/length/length_image_7.png,16.0,10,6482.0,6056.971549987793
+gpt4o,run_2,EXP1-Results/length/length_image_8.png,21.0,12,6482.0,11093.811988830566
+gpt4o,run_2,EXP1-Results/length/length_image_9.png,25.0,10,6482.0,5761.908531188965
+gpt4o,run_2,EXP1-Results/length/length_image_10.png,53.0,30,6482.0,5653.572797775269
+gpt4o,run_2,EXP1-Results/length/length_image_11.png,28.0,10,6482.0,5710.801839828491
+gpt4o,run_2,EXP1-Results/length/length_image_12.png,18.0,10,6482.0,17311.413764953613
+gpt4o,run_2,EXP1-Results/length/length_image_13.png,53.0,20,6482.0,18599.481105804443
+gpt4o,run_2,EXP1-Results/length/length_image_14.png,36.0,20,6482.0,5830.027341842651
+gpt4o,run_2,EXP1-Results/length/length_image_15.png,8.0,10,6482.0,10700.526714324951
+gpt4o,run_2,EXP1-Results/length/length_image_16.png,48.0,9,6482.0,16471.527814865112
+gpt4o,run_2,EXP1-Results/length/length_image_17.png,1.0,5,6482.0,5543.973207473755
+gpt4o,run_2,EXP1-Results/length/length_image_18.png,18.0,10,6482.0,7221.754312515259
+gpt4o,run_2,EXP1-Results/length/length_image_19.png,59.0,10,6482.0,6210.9315395355225
+gpt4o,run_2,EXP1-Results/length/length_image_20.png,15.0,7,6482.0,5570.649862289429
+gpt4o,run_2,EXP1-Results/length/length_image_21.png,8.0,5,6482.0,16226.6206741333
+gpt4o,run_2,EXP1-Results/length/length_image_22.png,33.0,12,6482.0,31302.82974243164
+gpt4o,run_2,EXP1-Results/length/length_image_23.png,26.0,10,6482.0,15981.6734790802
+gpt4o,run_2,EXP1-Results/length/length_image_24.png,60.0,20,6482.0,156300.80103874207
+gpt4o,run_2,EXP1-Results/length/length_image_25.png,14.0,10,6482.0,16306.421041488647
+gpt4o,run_2,EXP1-Results/length/length_image_26.png,1.0,5,6482.0,34017.7047252655
+gpt4o,run_2,EXP1-Results/length/length_image_27.png,38.0,10,6482.0,51515.748739242554
+gpt4o,run_2,EXP1-Results/length/length_image_28.png,21.0,10,6482.0,97626.31464004517
+gpt4o,run_2,EXP1-Results/length/length_image_29.png,17.0,10,6482.0,152885.20050048828
+gpt4o,run_2,EXP1-Results/length/length_image_30.png,45.0,20,6482.0,77404.34980392456
+gpt4o,run_2,EXP1-Results/length/length_image_31.png,53.0,12,6482.0,32298812.35432625
+gpt4o,run_2,EXP1-Results/length/length_image_32.png,53.0,10,6482.0,26293.715476989746
+gpt4o,run_2,EXP1-Results/length/length_image_33.png,39.0,12,6482.0,11109.815120697021
+gpt4o,run_2,EXP1-Results/length/length_image_34.png,19.0,25,6482.0,5921.0100173950195
+gpt4o,run_2,EXP1-Results/length/length_image_35.png,39.0,11,6482.0,5925.868511199951
+gpt4o,run_2,EXP1-Results/length/length_image_36.png,31.0,11,6482.0,11436.36441230774
+gpt4o,run_2,EXP1-Results/length/length_image_37.png,31.0,10,6482.0,21815.653085708618
+gpt4o,run_2,EXP1-Results/length/length_image_38.png,44.0,7,6482.0,5879.903316497803
+gpt4o,run_2,EXP1-Results/length/length_image_39.png,8.0,28,6482.0,5840.970516204834
+gpt4o,run_2,EXP1-Results/length/length_image_40.png,54.0,15,6482.0,5862.271070480347
+gpt4o,run_2,EXP1-Results/length/length_image_41.png,14.0,10,6482.0,5817.484617233276
+gpt4o,run_2,EXP1-Results/length/length_image_42.png,1.0,20,6482.0,13847.750425338745
+gpt4o,run_2,EXP1-Results/length/length_image_43.png,59.0,5,6482.0,5988.688230514526
+gpt4o,run_2,EXP1-Results/length/length_image_44.png,40.0,10,6482.0,5839.853525161743
+gpt4o,run_2,EXP1-Results/length/length_image_45.png,19.0,35,6482.0,6098.433494567871
+gpt4o,run_2,EXP1-Results/length/length_image_46.png,48.0,16,6482.0,5747.700452804565
+gpt4o,run_2,EXP1-Results/length/length_image_47.png,15.0,10,6482.0,6051.74994468689
+gpt4o,run_2,EXP1-Results/length/length_image_48.png,58.0,20,6482.0,5896.813631057739
+gpt4o,run_2,EXP1-Results/length/length_image_49.png,24.0,20,6482.0,5659.132957458496
+gpt4o,run_2,EXP1-Results/length/length_image_50.png,56.0,17,6482.0,6078.45664024353
+gpt4o,run_2,EXP1-Results/length/length_image_51.png,24.0,25,6482.0,6169.9957847595215
+gpt4o,run_2,EXP1-Results/length/length_image_52.png,8.0,10,6482.0,8557.924509048462
+gpt4o,run_2,EXP1-Results/length/length_image_53.png,36.0,14,6482.0,16314.618587493896
+gpt4o,run_2,EXP1-Results/length/length_image_54.png,7.0,15,6482.0,10979.494333267212
+gpt4o,run_2,EXP1-Results/length/length_image_55.png,15.0,10,6482.0,10846.182823181152
+gpt4o,average,,,,,
+CustomLLaMA,run_0,EXP1-Results/length/length_image_1.png,29.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,994.7943687438965
+CustomLLaMA,run_0,EXP1-Results/length/length_image_2.png,26.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,413.8338565826416
+CustomLLaMA,run_0,EXP1-Results/length/length_image_3.png,52.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,422.025203704834
+CustomLLaMA,run_0,EXP1-Results/length/length_image_4.png,38.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+2.0",0.0,429.19921875
+CustomLLaMA,run_0,EXP1-Results/length/length_image_5.png,26.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,421.9019412994385
+CustomLLaMA,run_0,EXP1-Results/length/length_image_6.png,44.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+8.0",0.0,422.6722717285156
+CustomLLaMA,run_0,EXP1-Results/length/length_image_7.png,16.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,424.9107837677002
+CustomLLaMA,run_0,EXP1-Results/length/length_image_8.png,21.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,416.72468185424805
+CustomLLaMA,run_0,EXP1-Results/length/length_image_9.png,25.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,428.61151695251465
+CustomLLaMA,run_0,EXP1-Results/length/length_image_10.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,421.39291763305664
+CustomLLaMA,run_0,EXP1-Results/length/length_image_11.png,28.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,421.34594917297363
+CustomLLaMA,run_0,EXP1-Results/length/length_image_12.png,18.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+8.0",0.0,420.7644462585449
+CustomLLaMA,run_0,EXP1-Results/length/length_image_13.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,422.8074550628662
+CustomLLaMA,run_0,EXP1-Results/length/length_image_14.png,36.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,414.31641578674316
+CustomLLaMA,run_0,EXP1-Results/length/length_image_15.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,423.8276481628418
+CustomLLaMA,run_0,EXP1-Results/length/length_image_16.png,48.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,424.0436553955078
+CustomLLaMA,run_0,EXP1-Results/length/length_image_17.png,1.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+3.0",0.0,421.39554023742676
+CustomLLaMA,run_0,EXP1-Results/length/length_image_18.png,18.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,420.1929569244385
+CustomLLaMA,run_0,EXP1-Results/length/length_image_19.png,59.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,421.02813720703125
+CustomLLaMA,run_0,EXP1-Results/length/length_image_20.png,15.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+12.0",0.0,421.4191436767578
+CustomLLaMA,run_0,EXP1-Results/length/length_image_21.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+40.0",0.0,430.10878562927246
+CustomLLaMA,run_0,EXP1-Results/length/length_image_22.png,33.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+32.0",0.0,422.44935035705566
+CustomLLaMA,run_0,EXP1-Results/length/length_image_23.png,26.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,418.61557960510254
+CustomLLaMA,run_0,EXP1-Results/length/length_image_24.png,60.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,421.5202331542969
+CustomLLaMA,run_0,EXP1-Results/length/length_image_25.png,14.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,414.34526443481445
+CustomLLaMA,run_0,EXP1-Results/length/length_image_26.png,1.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,443.73297691345215
+CustomLLaMA,run_0,EXP1-Results/length/length_image_27.png,38.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,428.9236068725586
+CustomLLaMA,run_0,EXP1-Results/length/length_image_28.png,21.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+12.0",0.0,421.9775199890137
+CustomLLaMA,run_0,EXP1-Results/length/length_image_29.png,17.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,421.6892719268799
+CustomLLaMA,run_0,EXP1-Results/length/length_image_30.png,45.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,421.863317489624
+CustomLLaMA,run_0,EXP1-Results/length/length_image_31.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+26.0",0.0,420.2892780303955
+CustomLLaMA,run_0,EXP1-Results/length/length_image_32.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,427.11687088012695
+CustomLLaMA,run_0,EXP1-Results/length/length_image_33.png,39.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,421.0548400878906
+CustomLLaMA,run_0,EXP1-Results/length/length_image_34.png,19.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+26.0",0.0,421.58055305480957
+CustomLLaMA,run_0,EXP1-Results/length/length_image_35.png,39.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,421.54407501220703
+CustomLLaMA,run_0,EXP1-Results/length/length_image_36.png,31.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+8.0",0.0,419.5411205291748
+CustomLLaMA,run_0,EXP1-Results/length/length_image_37.png,31.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,425.5409240722656
+CustomLLaMA,run_0,EXP1-Results/length/length_image_38.png,44.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+40.0",0.0,424.88718032836914
+CustomLLaMA,run_0,EXP1-Results/length/length_image_39.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,423.4437942504883
+CustomLLaMA,run_0,EXP1-Results/length/length_image_40.png,54.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,421.2369918823242
+CustomLLaMA,run_0,EXP1-Results/length/length_image_41.png,14.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+2.0",0.0,427.5341033935547
+CustomLLaMA,run_0,EXP1-Results/length/length_image_42.png,1.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+53.0",0.0,421.4620590209961
+CustomLLaMA,run_0,EXP1-Results/length/length_image_43.png,59.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,423.0344295501709
+CustomLLaMA,run_0,EXP1-Results/length/length_image_44.png,40.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+26.0",0.0,420.71986198425293
+CustomLLaMA,run_0,EXP1-Results/length/length_image_45.png,19.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,422.28031158447266
+CustomLLaMA,run_0,EXP1-Results/length/length_image_46.png,48.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,425.187349319458
+CustomLLaMA,run_0,EXP1-Results/length/length_image_47.png,15.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,422.0161437988281
+CustomLLaMA,run_0,EXP1-Results/length/length_image_48.png,58.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,421.5266704559326
+CustomLLaMA,run_0,EXP1-Results/length/length_image_49.png,24.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+26.0",0.0,418.7614917755127
+CustomLLaMA,run_0,EXP1-Results/length/length_image_50.png,56.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,534.0011119842529
+CustomLLaMA,run_0,EXP1-Results/length/length_image_51.png,24.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,420.75324058532715
+CustomLLaMA,run_0,EXP1-Results/length/length_image_52.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+11.0",0.0,421.8158721923828
+CustomLLaMA,run_0,EXP1-Results/length/length_image_53.png,36.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,429.35872077941895
+CustomLLaMA,run_0,EXP1-Results/length/length_image_54.png,7.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,424.83973503112793
+CustomLLaMA,run_0,EXP1-Results/length/length_image_55.png,15.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+54.0",0.0,424.8538017272949
+CustomLLaMA,run_1,EXP1-Results/length/length_image_1.png,29.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,421.7379093170166
+CustomLLaMA,run_1,EXP1-Results/length/length_image_2.png,26.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,421.01287841796875
+CustomLLaMA,run_1,EXP1-Results/length/length_image_3.png,52.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,422.1024513244629
+CustomLLaMA,run_1,EXP1-Results/length/length_image_4.png,38.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+2.0",0.0,424.6706962585449
+CustomLLaMA,run_1,EXP1-Results/length/length_image_5.png,26.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,426.56564712524414
+CustomLLaMA,run_1,EXP1-Results/length/length_image_6.png,44.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+8.0",0.0,425.9183406829834
+CustomLLaMA,run_1,EXP1-Results/length/length_image_7.png,16.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,424.61633682250977
+CustomLLaMA,run_1,EXP1-Results/length/length_image_8.png,21.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,424.8061180114746
+CustomLLaMA,run_1,EXP1-Results/length/length_image_9.png,25.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,425.4598617553711
+CustomLLaMA,run_1,EXP1-Results/length/length_image_10.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,420.7315444946289
+CustomLLaMA,run_1,EXP1-Results/length/length_image_11.png,28.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,421.3898181915283
+CustomLLaMA,run_1,EXP1-Results/length/length_image_12.png,18.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+8.0",0.0,415.600061416626
+CustomLLaMA,run_1,EXP1-Results/length/length_image_13.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+49.0",0.0,424.7586727142334
+CustomLLaMA,run_1,EXP1-Results/length/length_image_14.png,36.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,427.1080493927002
+CustomLLaMA,run_1,EXP1-Results/length/length_image_15.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,412.9905700683594
+CustomLLaMA,run_1,EXP1-Results/length/length_image_16.png,48.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,419.88682746887207
+CustomLLaMA,run_1,EXP1-Results/length/length_image_17.png,1.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+3.0",0.0,417.3598289489746
+CustomLLaMA,run_1,EXP1-Results/length/length_image_18.png,18.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,421.6330051422119
+CustomLLaMA,run_1,EXP1-Results/length/length_image_19.png,59.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,423.5095977783203
+CustomLLaMA,run_1,EXP1-Results/length/length_image_20.png,15.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+12.0",0.0,422.47486114501953
+CustomLLaMA,run_1,EXP1-Results/length/length_image_21.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+40.0",0.0,421.67067527770996
+CustomLLaMA,run_1,EXP1-Results/length/length_image_22.png,33.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+28.0",0.0,420.19081115722656
+CustomLLaMA,run_1,EXP1-Results/length/length_image_23.png,26.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,422.34134674072266
+CustomLLaMA,run_1,EXP1-Results/length/length_image_24.png,60.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,421.50044441223145
+CustomLLaMA,run_1,EXP1-Results/length/length_image_25.png,14.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,422.4534034729004
+CustomLLaMA,run_1,EXP1-Results/length/length_image_26.png,1.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,423.2170581817627
+CustomLLaMA,run_1,EXP1-Results/length/length_image_27.png,38.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,421.0505485534668
+CustomLLaMA,run_1,EXP1-Results/length/length_image_28.png,21.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+10.0",0.0,413.51866722106934
+CustomLLaMA,run_1,EXP1-Results/length/length_image_29.png,17.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,421.4298725128174
+CustomLLaMA,run_1,EXP1-Results/length/length_image_30.png,45.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,422.64652252197266
+CustomLLaMA,run_1,EXP1-Results/length/length_image_31.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+26.0",0.0,422.7108955383301
+CustomLLaMA,run_1,EXP1-Results/length/length_image_32.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,421.83732986450195
+CustomLLaMA,run_1,EXP1-Results/length/length_image_33.png,39.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,423.5656261444092
+CustomLLaMA,run_1,EXP1-Results/length/length_image_34.png,19.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+28.0",0.0,422.15704917907715
+CustomLLaMA,run_1,EXP1-Results/length/length_image_35.png,39.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,424.9718189239502
+CustomLLaMA,run_1,EXP1-Results/length/length_image_36.png,31.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+8.0",0.0,432.15227127075195
+CustomLLaMA,run_1,EXP1-Results/length/length_image_37.png,31.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,426.1901378631592
+CustomLLaMA,run_1,EXP1-Results/length/length_image_38.png,44.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+40.0",0.0,415.72022438049316
+CustomLLaMA,run_1,EXP1-Results/length/length_image_39.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,421.3416576385498
+CustomLLaMA,run_1,EXP1-Results/length/length_image_40.png,54.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,423.9516258239746
+CustomLLaMA,run_1,EXP1-Results/length/length_image_41.png,14.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+2.0",0.0,421.19479179382324
+CustomLLaMA,run_1,EXP1-Results/length/length_image_42.png,1.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,426.3956546783447
+CustomLLaMA,run_1,EXP1-Results/length/length_image_43.png,59.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,423.74324798583984
+CustomLLaMA,run_1,EXP1-Results/length/length_image_44.png,40.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+26.0",0.0,421.8287467956543
+CustomLLaMA,run_1,EXP1-Results/length/length_image_45.png,19.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,427.64782905578613
+CustomLLaMA,run_1,EXP1-Results/length/length_image_46.png,48.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,421.6632843017578
+CustomLLaMA,run_1,EXP1-Results/length/length_image_47.png,15.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,420.9170341491699
+CustomLLaMA,run_1,EXP1-Results/length/length_image_48.png,58.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,423.0349063873291
+CustomLLaMA,run_1,EXP1-Results/length/length_image_49.png,24.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+26.0",0.0,426.7399311065674
+CustomLLaMA,run_1,EXP1-Results/length/length_image_50.png,56.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,424.85547065734863
+CustomLLaMA,run_1,EXP1-Results/length/length_image_51.png,24.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,429.72397804260254
+CustomLLaMA,run_1,EXP1-Results/length/length_image_52.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+12.0",0.0,421.70000076293945
+CustomLLaMA,run_1,EXP1-Results/length/length_image_53.png,36.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,421.1161136627197
+CustomLLaMA,run_1,EXP1-Results/length/length_image_54.png,7.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,420.896053314209
+CustomLLaMA,run_1,EXP1-Results/length/length_image_55.png,15.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+54.0",0.0,421.5817451477051
+CustomLLaMA,run_2,EXP1-Results/length/length_image_1.png,29.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,425.74095726013184
+CustomLLaMA,run_2,EXP1-Results/length/length_image_2.png,26.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,423.77638816833496
+CustomLLaMA,run_2,EXP1-Results/length/length_image_3.png,52.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,421.5881824493408
+CustomLLaMA,run_2,EXP1-Results/length/length_image_4.png,38.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+2.0",0.0,424.00622367858887
+CustomLLaMA,run_2,EXP1-Results/length/length_image_5.png,26.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,422.12677001953125
+CustomLLaMA,run_2,EXP1-Results/length/length_image_6.png,44.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+8.0",0.0,418.8258647918701
+CustomLLaMA,run_2,EXP1-Results/length/length_image_7.png,16.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,421.3123321533203
+CustomLLaMA,run_2,EXP1-Results/length/length_image_8.png,21.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,415.9421920776367
+CustomLLaMA,run_2,EXP1-Results/length/length_image_9.png,25.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,420.5739498138428
+CustomLLaMA,run_2,EXP1-Results/length/length_image_10.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,421.2837219238281
+CustomLLaMA,run_2,EXP1-Results/length/length_image_11.png,28.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,420.945405960083
+CustomLLaMA,run_2,EXP1-Results/length/length_image_12.png,18.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+8.0",0.0,421.4153289794922
+CustomLLaMA,run_2,EXP1-Results/length/length_image_13.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,425.5709648132324
+CustomLLaMA,run_2,EXP1-Results/length/length_image_14.png,36.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,420.4821586608887
+CustomLLaMA,run_2,EXP1-Results/length/length_image_15.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,423.04086685180664
+CustomLLaMA,run_2,EXP1-Results/length/length_image_16.png,48.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,427.90722846984863
+CustomLLaMA,run_2,EXP1-Results/length/length_image_17.png,1.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+3.0",0.0,423.65002632141113
+CustomLLaMA,run_2,EXP1-Results/length/length_image_18.png,18.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,416.8117046356201
+CustomLLaMA,run_2,EXP1-Results/length/length_image_19.png,59.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,425.7524013519287
+CustomLLaMA,run_2,EXP1-Results/length/length_image_20.png,15.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+12.0",0.0,421.3521480560303
+CustomLLaMA,run_2,EXP1-Results/length/length_image_21.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+40.0",0.0,421.47040367126465
+CustomLLaMA,run_2,EXP1-Results/length/length_image_22.png,33.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,427.5979995727539
+CustomLLaMA,run_2,EXP1-Results/length/length_image_23.png,26.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,421.42534255981445
+CustomLLaMA,run_2,EXP1-Results/length/length_image_24.png,60.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,426.9888401031494
+CustomLLaMA,run_2,EXP1-Results/length/length_image_25.png,14.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,421.2348461151123
+CustomLLaMA,run_2,EXP1-Results/length/length_image_26.png,1.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,420.38798332214355
+CustomLLaMA,run_2,EXP1-Results/length/length_image_27.png,38.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,428.0567169189453
+CustomLLaMA,run_2,EXP1-Results/length/length_image_28.png,21.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+10.0",0.0,421.51808738708496
+CustomLLaMA,run_2,EXP1-Results/length/length_image_29.png,17.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,419.44313049316406
+CustomLLaMA,run_2,EXP1-Results/length/length_image_30.png,45.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,646.2907791137695
+CustomLLaMA,run_2,EXP1-Results/length/length_image_31.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+26.0",0.0,431.66470527648926
+CustomLLaMA,run_2,EXP1-Results/length/length_image_32.png,53.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,421.33116722106934
+CustomLLaMA,run_2,EXP1-Results/length/length_image_33.png,39.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,421.572208404541
+CustomLLaMA,run_2,EXP1-Results/length/length_image_34.png,19.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+28.0",0.0,423.1741428375244
+CustomLLaMA,run_2,EXP1-Results/length/length_image_35.png,39.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,429.41904067993164
+CustomLLaMA,run_2,EXP1-Results/length/length_image_36.png,31.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+8.0",0.0,421.48566246032715
+CustomLLaMA,run_2,EXP1-Results/length/length_image_37.png,31.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,417.9518222808838
+CustomLLaMA,run_2,EXP1-Results/length/length_image_38.png,44.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+40.0",0.0,420.4685688018799
+CustomLLaMA,run_2,EXP1-Results/length/length_image_39.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+30.0",0.0,420.8519458770752
+CustomLLaMA,run_2,EXP1-Results/length/length_image_40.png,54.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,420.7890033721924
+CustomLLaMA,run_2,EXP1-Results/length/length_image_41.png,14.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+2.0",0.0,421.5826988220215
+CustomLLaMA,run_2,EXP1-Results/length/length_image_42.png,1.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+53.0",0.0,425.46820640563965
+CustomLLaMA,run_2,EXP1-Results/length/length_image_43.png,59.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+16.0",0.0,424.2286682128906
+CustomLLaMA,run_2,EXP1-Results/length/length_image_44.png,40.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+26.0",0.0,420.16029357910156
+CustomLLaMA,run_2,EXP1-Results/length/length_image_45.png,19.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,425.13108253479004
+CustomLLaMA,run_2,EXP1-Results/length/length_image_46.png,48.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+50.0",0.0,428.65705490112305
+CustomLLaMA,run_2,EXP1-Results/length/length_image_47.png,15.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,425.5988597869873
+CustomLLaMA,run_2,EXP1-Results/length/length_image_48.png,58.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,430.6051731109619
+CustomLLaMA,run_2,EXP1-Results/length/length_image_49.png,24.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+26.0",0.0,419.7094440460205
+CustomLLaMA,run_2,EXP1-Results/length/length_image_50.png,56.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+20.0",0.0,421.15306854248047
+CustomLLaMA,run_2,EXP1-Results/length/length_image_51.png,24.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,423.0935573577881
+CustomLLaMA,run_2,EXP1-Results/length/length_image_52.png,8.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+12.0",0.0,416.881799697876
+CustomLLaMA,run_2,EXP1-Results/length/length_image_53.png,36.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,440.69981575012207
+CustomLLaMA,run_2,EXP1-Results/length/length_image_54.png,7.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+46.0",0.0,427.0825386047363
+CustomLLaMA,run_2,EXP1-Results/length/length_image_55.png,15.0,"user
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.
+assistant
+
+49.0",0.0,420.37272453308105
+CustomLLaMA,average,,,,,
+LLaMA,run_0,EXP1-Results/length/length_image_1.png,29.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,8693.807125091553
+LLaMA,run_0,EXP1-Results/length/length_image_2.png,26.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+44",0.0,7573.249816894531
+LLaMA,run_0,EXP1-Results/length/length_image_3.png,52.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+85",0.0,7772.621631622314
+LLaMA,run_0,EXP1-Results/length/length_image_4.png,38.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+15",0.0,8104.557991027832
+LLaMA,run_0,EXP1-Results/length/length_image_5.png,26.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+40",0.0,7600.604057312012
+LLaMA,run_0,EXP1-Results/length/length_image_6.png,44.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+0",0.0,7632.5647830963135
+LLaMA,run_0,EXP1-Results/length/length_image_7.png,16.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7783.209323883057
+LLaMA,run_0,EXP1-Results/length/length_image_8.png,21.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+44",0.0,7974.839925765991
+LLaMA,run_0,EXP1-Results/length/length_image_9.png,25.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+99",0.0,7591.295480728149
+LLaMA,run_0,EXP1-Results/length/length_image_10.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+100",0.0,8031.962871551514
+LLaMA,run_0,EXP1-Results/length/length_image_11.png,28.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+5",0.0,7598.381042480469
+LLaMA,run_0,EXP1-Results/length/length_image_12.png,18.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+10",0.0,7751.007556915283
+LLaMA,run_0,EXP1-Results/length/length_image_13.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+40",0.0,7905.251741409302
+LLaMA,run_0,EXP1-Results/length/length_image_14.png,36.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+70",0.0,7612.243175506592
+LLaMA,run_0,EXP1-Results/length/length_image_15.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7685.977935791016
+LLaMA,run_0,EXP1-Results/length/length_image_16.png,48.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+70",0.0,7866.163015365601
+LLaMA,run_0,EXP1-Results/length/length_image_17.png,1.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+1",0.0,8283.115863800049
+LLaMA,run_0,EXP1-Results/length/length_image_18.png,18.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7948.178768157959
+LLaMA,run_0,EXP1-Results/length/length_image_19.png,59.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+60",0.0,7680.608034133911
+LLaMA,run_0,EXP1-Results/length/length_image_20.png,15.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+100",0.0,7556.664943695068
+LLaMA,run_0,EXP1-Results/length/length_image_21.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7704.86044883728
+LLaMA,run_0,EXP1-Results/length/length_image_22.png,33.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+10",0.0,8034.646034240723
+LLaMA,run_0,EXP1-Results/length/length_image_23.png,26.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,8572.795391082764
+LLaMA,run_0,EXP1-Results/length/length_image_24.png,60.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,7559.291124343872
+LLaMA,run_0,EXP1-Results/length/length_image_25.png,14.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,7971.5070724487305
+LLaMA,run_0,EXP1-Results/length/length_image_26.png,1.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+99",0.0,7799.804449081421
+LLaMA,run_0,EXP1-Results/length/length_image_27.png,38.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+100",0.0,7760.631322860718
+LLaMA,run_0,EXP1-Results/length/length_image_28.png,21.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+35",0.0,7887.126684188843
+LLaMA,run_0,EXP1-Results/length/length_image_29.png,17.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7650.371313095093
+LLaMA,run_0,EXP1-Results/length/length_image_30.png,45.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+100",0.0,7661.989688873291
+LLaMA,run_0,EXP1-Results/length/length_image_31.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+The final answer is 90.",0.0,8183.554410934448
+LLaMA,run_0,EXP1-Results/length/length_image_32.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+9",0.0,7985.74686050415
+LLaMA,run_0,EXP1-Results/length/length_image_33.png,39.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+5",0.0,7619.6653842926025
+LLaMA,run_0,EXP1-Results/length/length_image_34.png,19.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+1",0.0,7539.688348770142
+LLaMA,run_0,EXP1-Results/length/length_image_35.png,39.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+60",0.0,7785.305976867676
+LLaMA,run_0,EXP1-Results/length/length_image_36.png,31.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7631.836652755737
+LLaMA,run_0,EXP1-Results/length/length_image_37.png,31.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7773.481845855713
+LLaMA,run_0,EXP1-Results/length/length_image_38.png,44.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+61",0.0,7674.514293670654
+LLaMA,run_0,EXP1-Results/length/length_image_39.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7667.471408843994
+LLaMA,run_0,EXP1-Results/length/length_image_40.png,54.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7963.029861450195
+LLaMA,run_0,EXP1-Results/length/length_image_41.png,14.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+25",0.0,7649.624586105347
+LLaMA,run_0,EXP1-Results/length/length_image_42.png,1.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+66",0.0,8103.6529541015625
+LLaMA,run_0,EXP1-Results/length/length_image_43.png,59.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+25",0.0,7604.902029037476
+LLaMA,run_0,EXP1-Results/length/length_image_44.png,40.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7781.097412109375
+LLaMA,run_0,EXP1-Results/length/length_image_45.png,19.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+83",0.0,7704.405069351196
+LLaMA,run_0,EXP1-Results/length/length_image_46.png,48.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7581.140995025635
+LLaMA,run_0,EXP1-Results/length/length_image_47.png,15.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+75",0.0,7724.443197250366
+LLaMA,run_0,EXP1-Results/length/length_image_48.png,58.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7988.9466762542725
+LLaMA,run_0,EXP1-Results/length/length_image_49.png,24.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+The answer is 50.",0.0,8081.895351409912
+LLaMA,run_0,EXP1-Results/length/length_image_50.png,56.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7830.8398723602295
+LLaMA,run_0,EXP1-Results/length/length_image_51.png,24.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7627.082347869873
+LLaMA,run_0,EXP1-Results/length/length_image_52.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+5",0.0,9010.128259658813
+LLaMA,run_0,EXP1-Results/length/length_image_53.png,36.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+The line length is approximately 90.",0.0,8297.396421432495
+LLaMA,run_0,EXP1-Results/length/length_image_54.png,7.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7759.127855300903
+LLaMA,run_0,EXP1-Results/length/length_image_55.png,15.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+99",0.0,8055.047512054443
+LLaMA,run_1,EXP1-Results/length/length_image_1.png,29.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+60",0.0,7653.442859649658
+LLaMA,run_1,EXP1-Results/length/length_image_2.png,26.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7858.024120330811
+LLaMA,run_1,EXP1-Results/length/length_image_3.png,52.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7605.94367980957
+LLaMA,run_1,EXP1-Results/length/length_image_4.png,38.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+5",0.0,7637.509346008301
+LLaMA,run_1,EXP1-Results/length/length_image_5.png,26.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+65",0.0,7633.300542831421
+LLaMA,run_1,EXP1-Results/length/length_image_6.png,44.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,9906.81529045105
+LLaMA,run_1,EXP1-Results/length/length_image_7.png,16.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7869.645833969116
+LLaMA,run_1,EXP1-Results/length/length_image_8.png,21.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,7557.1448802948
+LLaMA,run_1,EXP1-Results/length/length_image_9.png,25.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+1",0.0,7839.28918838501
+LLaMA,run_1,EXP1-Results/length/length_image_10.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+40",0.0,7861.885070800781
+LLaMA,run_1,EXP1-Results/length/length_image_11.png,28.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+0",0.0,7626.528263092041
+LLaMA,run_1,EXP1-Results/length/length_image_12.png,18.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+66",0.0,7896.178245544434
+LLaMA,run_1,EXP1-Results/length/length_image_13.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+7",0.0,8213.358402252197
+LLaMA,run_1,EXP1-Results/length/length_image_14.png,36.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+99",0.0,7716.764688491821
+LLaMA,run_1,EXP1-Results/length/length_image_15.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+70",0.0,7644.593715667725
+LLaMA,run_1,EXP1-Results/length/length_image_16.png,48.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+5",0.0,7613.851308822632
+LLaMA,run_1,EXP1-Results/length/length_image_17.png,1.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+60",0.0,7837.32795715332
+LLaMA,run_1,EXP1-Results/length/length_image_18.png,18.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+1",0.0,7675.955295562744
+LLaMA,run_1,EXP1-Results/length/length_image_19.png,59.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7796.309232711792
+LLaMA,run_1,EXP1-Results/length/length_image_20.png,15.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+100",0.0,7751.830816268921
+LLaMA,run_1,EXP1-Results/length/length_image_21.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7741.960525512695
+LLaMA,run_1,EXP1-Results/length/length_image_22.png,33.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+**Step 1: Estimate the line length.**
+
+The line length is estimated to be around 10 units long.
+
+**Step 2: Convert the estimate to a numerical value.**
+
+The estimate is converted to a numerical value of 10.
+
+**Step 3: Provide the final answer.**
+
+*Answer*: 10",0.0,12491.915464401245
+LLaMA,run_1,EXP1-Results/length/length_image_23.png,26.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+1",0.0,7818.277359008789
+LLaMA,run_1,EXP1-Results/length/length_image_24.png,60.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+25",0.0,7679.294109344482
+LLaMA,run_1,EXP1-Results/length/length_image_25.png,14.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+83",0.0,7699.894666671753
+LLaMA,run_1,EXP1-Results/length/length_image_26.png,1.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+89",0.0,7914.798021316528
+LLaMA,run_1,EXP1-Results/length/length_image_27.png,38.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+65",0.0,7744.612455368042
+LLaMA,run_1,EXP1-Results/length/length_image_28.png,21.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+10",0.0,7617.501020431519
+LLaMA,run_1,EXP1-Results/length/length_image_29.png,17.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,7962.918519973755
+LLaMA,run_1,EXP1-Results/length/length_image_30.png,45.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,7896.153450012207
+LLaMA,run_1,EXP1-Results/length/length_image_31.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+The answer is 50.",0.0,8017.91787147522
+LLaMA,run_1,EXP1-Results/length/length_image_32.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+1",0.0,7698.251008987427
+LLaMA,run_1,EXP1-Results/length/length_image_33.png,39.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7744.680166244507
+LLaMA,run_1,EXP1-Results/length/length_image_34.png,19.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+1",0.0,7697.789907455444
+LLaMA,run_1,EXP1-Results/length/length_image_35.png,39.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+85",0.0,7927.218198776245
+LLaMA,run_1,EXP1-Results/length/length_image_36.png,31.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+The line length is 1.",0.0,8119.608163833618
+LLaMA,run_1,EXP1-Results/length/length_image_37.png,31.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+15",0.0,7632.723093032837
+LLaMA,run_1,EXP1-Results/length/length_image_38.png,44.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,7946.286678314209
+LLaMA,run_1,EXP1-Results/length/length_image_39.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+65",0.0,7882.729768753052
+LLaMA,run_1,EXP1-Results/length/length_image_40.png,54.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+63",0.0,7790.777683258057
+LLaMA,run_1,EXP1-Results/length/length_image_41.png,14.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7726.970911026001
+LLaMA,run_1,EXP1-Results/length/length_image_42.png,1.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,7703.127861022949
+LLaMA,run_1,EXP1-Results/length/length_image_43.png,59.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7693.301200866699
+LLaMA,run_1,EXP1-Results/length/length_image_44.png,40.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,8378.604650497437
+LLaMA,run_1,EXP1-Results/length/length_image_45.png,19.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+65",0.0,7812.54768371582
+LLaMA,run_1,EXP1-Results/length/length_image_46.png,48.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+50",0.0,7893.201112747192
+LLaMA,run_1,EXP1-Results/length/length_image_47.png,15.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,7747.899293899536
+LLaMA,run_1,EXP1-Results/length/length_image_48.png,58.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7788.937091827393
+LLaMA,run_1,EXP1-Results/length/length_image_49.png,24.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7794.626474380493
+LLaMA,run_1,EXP1-Results/length/length_image_50.png,56.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7754.541397094727
+LLaMA,run_1,EXP1-Results/length/length_image_51.png,24.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+70",0.0,7650.858402252197
+LLaMA,run_1,EXP1-Results/length/length_image_52.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+85",0.0,7747.378349304199
+LLaMA,run_1,EXP1-Results/length/length_image_53.png,36.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7676.310062408447
+LLaMA,run_1,EXP1-Results/length/length_image_54.png,7.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7616.479396820068
+LLaMA,run_1,EXP1-Results/length/length_image_55.png,15.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+The answer is 50.",0.0,8204.473972320557
+LLaMA,run_2,EXP1-Results/length/length_image_1.png,29.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+5",0.0,7729.649305343628
+LLaMA,run_2,EXP1-Results/length/length_image_2.png,26.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+42",0.0,7718.76859664917
+LLaMA,run_2,EXP1-Results/length/length_image_3.png,52.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+25",0.0,7613.88635635376
+LLaMA,run_2,EXP1-Results/length/length_image_4.png,38.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+50",0.0,8083.402872085571
+LLaMA,run_2,EXP1-Results/length/length_image_5.png,26.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+99",0.0,7745.324373245239
+LLaMA,run_2,EXP1-Results/length/length_image_6.png,44.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+15",0.0,7834.013223648071
+LLaMA,run_2,EXP1-Results/length/length_image_7.png,16.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+99",0.0,7781.606674194336
+LLaMA,run_2,EXP1-Results/length/length_image_8.png,21.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,7573.559999465942
+LLaMA,run_2,EXP1-Results/length/length_image_9.png,25.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,8010.428190231323
+LLaMA,run_2,EXP1-Results/length/length_image_10.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+65",0.0,7849.953174591064
+LLaMA,run_2,EXP1-Results/length/length_image_11.png,28.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+44",0.0,7788.537502288818
+LLaMA,run_2,EXP1-Results/length/length_image_12.png,18.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+65",0.0,7674.675226211548
+LLaMA,run_2,EXP1-Results/length/length_image_13.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+5",0.0,8993.134021759033
+LLaMA,run_2,EXP1-Results/length/length_image_14.png,36.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+70",0.0,8771.888256072998
+LLaMA,run_2,EXP1-Results/length/length_image_15.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+44",0.0,8332.209348678589
+LLaMA,run_2,EXP1-Results/length/length_image_16.png,48.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7656.717777252197
+LLaMA,run_2,EXP1-Results/length/length_image_17.png,1.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+42",0.0,7854.729652404785
+LLaMA,run_2,EXP1-Results/length/length_image_18.png,18.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7608.530044555664
+LLaMA,run_2,EXP1-Results/length/length_image_19.png,59.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+55",0.0,7836.994886398315
+LLaMA,run_2,EXP1-Results/length/length_image_20.png,15.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7638.345003128052
+LLaMA,run_2,EXP1-Results/length/length_image_21.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7792.3784255981445
+LLaMA,run_2,EXP1-Results/length/length_image_22.png,33.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+2",0.0,7831.130266189575
+LLaMA,run_2,EXP1-Results/length/length_image_23.png,26.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7704.296827316284
+LLaMA,run_2,EXP1-Results/length/length_image_24.png,60.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,8835.853099822998
+LLaMA,run_2,EXP1-Results/length/length_image_25.png,14.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+44",0.0,7688.040733337402
+LLaMA,run_2,EXP1-Results/length/length_image_26.png,1.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+60",0.0,7735.124826431274
+LLaMA,run_2,EXP1-Results/length/length_image_27.png,38.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7824.397802352905
+LLaMA,run_2,EXP1-Results/length/length_image_28.png,21.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+60",0.0,7523.705005645752
+LLaMA,run_2,EXP1-Results/length/length_image_29.png,17.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,8016.9501304626465
+LLaMA,run_2,EXP1-Results/length/length_image_30.png,45.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+**Step 1: Estimate the line length from top to bottom.**
+
+*Answer*: 10",0.0,9126.255512237549
+LLaMA,run_2,EXP1-Results/length/length_image_31.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+The answer is: 100.",0.0,8160.884141921997
+LLaMA,run_2,EXP1-Results/length/length_image_32.png,53.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+1",0.0,7696.345329284668
+LLaMA,run_2,EXP1-Results/length/length_image_33.png,39.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,7555.109024047852
+LLaMA,run_2,EXP1-Results/length/length_image_34.png,19.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+30",0.0,8013.38267326355
+LLaMA,run_2,EXP1-Results/length/length_image_35.png,39.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+55",0.0,7716.732501983643
+LLaMA,run_2,EXP1-Results/length/length_image_36.png,31.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7669.424772262573
+LLaMA,run_2,EXP1-Results/length/length_image_37.png,31.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+70",0.0,7613.107919692993
+LLaMA,run_2,EXP1-Results/length/length_image_38.png,44.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+0",0.0,7898.0302810668945
+LLaMA,run_2,EXP1-Results/length/length_image_39.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+10",0.0,7507.1845054626465
+LLaMA,run_2,EXP1-Results/length/length_image_40.png,54.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+80",0.0,7615.143775939941
+LLaMA,run_2,EXP1-Results/length/length_image_41.png,14.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+60",0.0,8090.937852859497
+LLaMA,run_2,EXP1-Results/length/length_image_42.png,1.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7599.333047866821
+LLaMA,run_2,EXP1-Results/length/length_image_43.png,59.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+The answer is 15.",0.0,8034.360647201538
+LLaMA,run_2,EXP1-Results/length/length_image_44.png,40.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+**Step 1: Estimate the line length from top to bottom.**
+
+The line is 20 units long.",0.0,9185.814142227173
+LLaMA,run_2,EXP1-Results/length/length_image_45.png,19.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+42",0.0,7842.519044876099
+LLaMA,run_2,EXP1-Results/length/length_image_46.png,48.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+70",0.0,7655.04264831543
+LLaMA,run_2,EXP1-Results/length/length_image_47.png,15.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+65",0.0,7648.831844329834
+LLaMA,run_2,EXP1-Results/length/length_image_48.png,58.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7760.926723480225
+LLaMA,run_2,EXP1-Results/length/length_image_49.png,24.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7950.168132781982
+LLaMA,run_2,EXP1-Results/length/length_image_50.png,56.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+60",0.0,7815.323114395142
+LLaMA,run_2,EXP1-Results/length/length_image_51.png,24.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+60",0.0,7721.036434173584
+LLaMA,run_2,EXP1-Results/length/length_image_52.png,8.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+45",0.0,7805.602550506592
+LLaMA,run_2,EXP1-Results/length/length_image_53.png,36.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,8022.377729415894
+LLaMA,run_2,EXP1-Results/length/length_image_54.png,7.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+44",0.0,7755.699872970581
+LLaMA,run_2,EXP1-Results/length/length_image_55.png,15.0,"user
+
+Estimate the line length from top to bottom (range: 0-100). Number only. No explanation.assistant
+
+90",0.0,7696.643114089966
+LLaMA,average,,,,,
+GeminiProVision,run_0,EXP1-Results/length/length_image_1.png,29.0,"75
+",0.0,19504.215240478516
+GeminiProVision,run_0,EXP1-Results/length/length_image_2.png,26.0,"75
+",0.0,7564.441919326782
+GeminiProVision,run_0,EXP1-Results/length/length_image_3.png,52.0,"70
+",0.0,5585.9375
+GeminiProVision,run_0,EXP1-Results/length/length_image_4.png,38.0,"75
+",0.0,6266.5722370147705
+GeminiProVision,run_0,EXP1-Results/length/length_image_5.png,26.0,"70
+",0.0,6921.133279800415
+GeminiProVision,run_0,EXP1-Results/length/length_image_6.png,44.0,"70
+",0.0,5590.45147895813
+GeminiProVision,run_0,EXP1-Results/length/length_image_7.png,16.0,"70
+",0.0,5635.836601257324
+GeminiProVision,run_0,EXP1-Results/length/length_image_8.png,21.0,"75
+",0.0,5681.56099319458
+GeminiProVision,run_0,EXP1-Results/length/length_image_9.png,25.0,"70
+",0.0,8714.0531539917
+GeminiProVision,run_0,EXP1-Results/length/length_image_10.png,53.0,"70
+",0.0,10671.355724334717
+GeminiProVision,run_0,EXP1-Results/length/length_image_11.png,28.0,"70
+",0.0,5758.828401565552
+GeminiProVision,run_0,EXP1-Results/length/length_image_12.png,18.0,"70
+",0.0,6237.223148345947
+GeminiProVision,run_0,EXP1-Results/length/length_image_13.png,53.0,"70
+",0.0,12776.221990585327
+GeminiProVision,run_0,EXP1-Results/length/length_image_14.png,36.0,"70
+",0.0,10368.205070495605
+GeminiProVision,run_0,EXP1-Results/length/length_image_15.png,8.0,"75
+",0.0,7956.339120864868
+GeminiProVision,run_0,EXP1-Results/length/length_image_16.png,48.0,"70
+",0.0,12106.390714645386
+GeminiProVision,run_0,EXP1-Results/length/length_image_17.png,1.0,"70
+",0.0,6441.783428192139
+GeminiProVision,run_0,EXP1-Results/length/length_image_18.png,18.0,"70
+",0.0,12057.37853050232
+GeminiProVision,run_0,EXP1-Results/length/length_image_19.png,59.0,"70
+",0.0,6389.422655105591
+GeminiProVision,run_0,EXP1-Results/length/length_image_20.png,15.0,"75
+",0.0,6057.141065597534
+GeminiProVision,run_0,EXP1-Results/length/length_image_21.png,8.0,"70
+",0.0,5768.565654754639
+GeminiProVision,run_0,EXP1-Results/length/length_image_22.png,33.0,"75
+",0.0,5878.768682479858
+GeminiProVision,run_0,EXP1-Results/length/length_image_23.png,26.0,"75
+",0.0,5805.410385131836
+GeminiProVision,run_0,EXP1-Results/length/length_image_24.png,60.0,"75
+",0.0,6721.192359924316
+GeminiProVision,run_0,EXP1-Results/length/length_image_25.png,14.0,"70
+",0.0,15283.409833908081
+GeminiProVision,run_0,EXP1-Results/length/length_image_26.png,1.0,"70
+",0.0,29425.3671169281
+GeminiProVision,run_0,EXP1-Results/length/length_image_27.png,38.0,"70
+",0.0,8026.093006134033
+GeminiProVision,run_0,EXP1-Results/length/length_image_28.png,21.0,"75
+",0.0,8994.749069213867
+GeminiProVision,run_0,EXP1-Results/length/length_image_29.png,17.0,"75
+",0.0,9000.420808792114
+GeminiProVision,run_0,EXP1-Results/length/length_image_30.png,45.0,"70
+",0.0,6611.313581466675
+GeminiProVision,run_0,EXP1-Results/length/length_image_31.png,53.0,"70
+",0.0,5906.678676605225
+GeminiProVision,run_0,EXP1-Results/length/length_image_32.png,53.0,"70
+",0.0,12198.63510131836
+GeminiProVision,run_0,EXP1-Results/length/length_image_33.png,39.0,"70
+",0.0,16222.175359725952
+GeminiProVision,run_0,EXP1-Results/length/length_image_34.png,19.0,"75
+",0.0,11304.669618606567
+GeminiProVision,run_0,EXP1-Results/length/length_image_35.png,39.0,"75
+",0.0,6143.011808395386
+GeminiProVision,run_0,EXP1-Results/length/length_image_36.png,31.0,"75
+",0.0,7805.935621261597
+GeminiProVision,run_0,EXP1-Results/length/length_image_37.png,31.0,"70
+",0.0,16118.545293807983
+GeminiProVision,run_0,EXP1-Results/length/length_image_38.png,44.0,"70
+",0.0,5535.778045654297
+GeminiProVision,run_0,EXP1-Results/length/length_image_39.png,8.0,"70
+",0.0,6821.337699890137
+GeminiProVision,run_0,EXP1-Results/length/length_image_40.png,54.0,"75
+",0.0,7245.90802192688
+GeminiProVision,run_0,EXP1-Results/length/length_image_41.png,14.0,"70
+",0.0,11457.24081993103
+GeminiProVision,run_0,EXP1-Results/length/length_image_42.png,1.0,"70
+",0.0,7891.899824142456
+GeminiProVision,run_0,EXP1-Results/length/length_image_43.png,59.0,"75
+",0.0,6262.181997299194
+GeminiProVision,run_0,EXP1-Results/length/length_image_44.png,40.0,"75
+",0.0,6018.731594085693
+GeminiProVision,run_0,EXP1-Results/length/length_image_45.png,19.0,"70
+",0.0,5548.178911209106
+GeminiProVision,run_0,EXP1-Results/length/length_image_46.png,48.0,"75
+",0.0,5919.116020202637
+GeminiProVision,run_0,EXP1-Results/length/length_image_47.png,15.0,"70
+",0.0,6769.970417022705
+GeminiProVision,run_0,EXP1-Results/length/length_image_48.png,58.0,"70
+",0.0,5519.798278808594
+GeminiProVision,run_0,EXP1-Results/length/length_image_49.png,24.0,"70
+",0.0,5646.968603134155
+GeminiProVision,run_0,EXP1-Results/length/length_image_50.png,56.0,"70
+",0.0,5528.175592422485
+GeminiProVision,run_0,EXP1-Results/length/length_image_51.png,24.0,"75
+",0.0,5676.002740859985
+GeminiProVision,run_0,EXP1-Results/length/length_image_52.png,8.0,"70
+",0.0,10456.876516342163
+GeminiProVision,run_0,EXP1-Results/length/length_image_53.png,36.0,"75
+",0.0,10490.633964538574
+GeminiProVision,run_0,EXP1-Results/length/length_image_54.png,7.0,"75
+",0.0,8233.146905899048
+GeminiProVision,run_0,EXP1-Results/length/length_image_55.png,15.0,"70
+",0.0,5759.093761444092
+GeminiProVision,run_1,EXP1-Results/length/length_image_1.png,29.0,"75
+",0.0,5590.757131576538
+GeminiProVision,run_1,EXP1-Results/length/length_image_2.png,26.0,"75
+",0.0,5907.2425365448
+GeminiProVision,run_1,EXP1-Results/length/length_image_3.png,52.0,"70
+",0.0,5529.592990875244
+GeminiProVision,run_1,EXP1-Results/length/length_image_4.png,38.0,"70
+",0.0,8609.019756317139
+GeminiProVision,run_1,EXP1-Results/length/length_image_5.png,26.0,"70
+",0.0,5538.073539733887
+GeminiProVision,run_1,EXP1-Results/length/length_image_6.png,44.0,"70
+",0.0,5948.871374130249
+GeminiProVision,run_1,EXP1-Results/length/length_image_7.png,16.0,"70
+",0.0,5994.0807819366455
+GeminiProVision,run_1,EXP1-Results/length/length_image_8.png,21.0,"70
+",0.0,5535.415887832642
+GeminiProVision,run_1,EXP1-Results/length/length_image_9.png,25.0,"75
+",0.0,5542.483806610107
+GeminiProVision,run_1,EXP1-Results/length/length_image_10.png,53.0,"75
+",0.0,5556.670188903809
+GeminiProVision,run_1,EXP1-Results/length/length_image_11.png,28.0,"75
+",0.0,5550.945281982422
+GeminiProVision,run_1,EXP1-Results/length/length_image_12.png,18.0,"70
+",0.0,5542.294025421143
+GeminiProVision,run_1,EXP1-Results/length/length_image_13.png,53.0,"75
+",0.0,5544.100999832153
+GeminiProVision,run_1,EXP1-Results/length/length_image_14.png,36.0,"70
+",0.0,5578.534126281738
+GeminiProVision,run_1,EXP1-Results/length/length_image_15.png,8.0,"75
+",0.0,5900.883674621582
+GeminiProVision,run_1,EXP1-Results/length/length_image_16.png,48.0,"70
+",0.0,5958.776473999023
+GeminiProVision,run_1,EXP1-Results/length/length_image_17.png,1.0,"70
+",0.0,5784.212827682495
+GeminiProVision,run_1,EXP1-Results/length/length_image_18.png,18.0,"70
+",0.0,12278.383255004883
+GeminiProVision,run_1,EXP1-Results/length/length_image_19.png,59.0,"75
+",0.0,5830.308675765991
+GeminiProVision,run_1,EXP1-Results/length/length_image_20.png,15.0,"70
+",0.0,5528.262138366699
+GeminiProVision,run_1,EXP1-Results/length/length_image_21.png,8.0,"70
+",0.0,5535.930395126343
+GeminiProVision,run_1,EXP1-Results/length/length_image_22.png,33.0,"70
+",0.0,5514.323472976685
+GeminiProVision,run_1,EXP1-Results/length/length_image_23.png,26.0,"70
+",0.0,5531.792402267456
+GeminiProVision,run_1,EXP1-Results/length/length_image_24.png,60.0,"75
+",0.0,5611.325025558472
+GeminiProVision,run_1,EXP1-Results/length/length_image_25.png,14.0,"75
+",0.0,43490.11468887329
+GeminiProVision,run_1,EXP1-Results/length/length_image_26.png,1.0,"70
+",0.0,5537.6434326171875
+GeminiProVision,run_1,EXP1-Results/length/length_image_27.png,38.0,"70
+",0.0,5742.689371109009
+GeminiProVision,run_1,EXP1-Results/length/length_image_28.png,21.0,"75
+",0.0,11157.158136367798
+GeminiProVision,run_1,EXP1-Results/length/length_image_29.png,17.0,"75
+",0.0,7135.141611099243
+GeminiProVision,run_1,EXP1-Results/length/length_image_30.png,45.0,"75
+",0.0,5765.295505523682
+GeminiProVision,run_1,EXP1-Results/length/length_image_31.png,53.0,"70
+",0.0,5545.9349155426025
+GeminiProVision,run_1,EXP1-Results/length/length_image_32.png,53.0,"70
+",0.0,6446.421146392822
+GeminiProVision,run_1,EXP1-Results/length/length_image_33.png,39.0,"75
+",0.0,5515.501260757446
+GeminiProVision,run_1,EXP1-Results/length/length_image_34.png,19.0,"75
+",0.0,5549.3714809417725
+GeminiProVision,run_1,EXP1-Results/length/length_image_35.png,39.0,"75
+",0.0,5543.792963027954
+GeminiProVision,run_1,EXP1-Results/length/length_image_36.png,31.0,"70
+",0.0,5529.473781585693
+GeminiProVision,run_1,EXP1-Results/length/length_image_37.png,31.0,"70
+",0.0,5688.181161880493
+GeminiProVision,run_1,EXP1-Results/length/length_image_38.png,44.0,"75
+",0.0,5521.2578773498535
+GeminiProVision,run_1,EXP1-Results/length/length_image_39.png,8.0,"70
+",0.0,5759.274244308472
+GeminiProVision,run_1,EXP1-Results/length/length_image_40.png,54.0,"75
+",0.0,7996.354579925537
+GeminiProVision,run_1,EXP1-Results/length/length_image_41.png,14.0,"70
+",0.0,5577.357292175293
+GeminiProVision,run_1,EXP1-Results/length/length_image_42.png,1.0,"75
+",0.0,5537.856340408325
+GeminiProVision,run_1,EXP1-Results/length/length_image_43.png,59.0,"70
+",0.0,6069.063901901245
+GeminiProVision,run_1,EXP1-Results/length/length_image_44.png,40.0,"70
+",0.0,7545.737266540527
+GeminiProVision,run_1,EXP1-Results/length/length_image_45.png,19.0,"75
+",0.0,6825.0892162323
+GeminiProVision,run_1,EXP1-Results/length/length_image_46.png,48.0,"75
+",0.0,5519.0770626068115
+GeminiProVision,run_1,EXP1-Results/length/length_image_47.png,15.0,"70
+",0.0,7466.400384902954
+GeminiProVision,run_1,EXP1-Results/length/length_image_48.png,58.0,"70
+",0.0,6900.774717330933
+GeminiProVision,run_1,EXP1-Results/length/length_image_49.png,24.0,"70
+",0.0,6277.5232791900635
+GeminiProVision,run_1,EXP1-Results/length/length_image_50.png,56.0,"75
+",0.0,11281.078815460205
+GeminiProVision,run_1,EXP1-Results/length/length_image_51.png,24.0,"70
+",0.0,5564.13722038269
+GeminiProVision,run_1,EXP1-Results/length/length_image_52.png,8.0,"75
+",0.0,5513.821363449097
+GeminiProVision,run_1,EXP1-Results/length/length_image_53.png,36.0,"70
+",0.0,5552.405595779419
+GeminiProVision,run_1,EXP1-Results/length/length_image_54.png,7.0,"75
+",0.0,5520.6334590911865
+GeminiProVision,run_1,EXP1-Results/length/length_image_55.png,15.0,"70
+",0.0,6452.445030212402
+GeminiProVision,run_2,EXP1-Results/length/length_image_1.png,29.0,"75
+",0.0,6919.226408004761
+GeminiProVision,run_2,EXP1-Results/length/length_image_2.png,26.0,"75
+",0.0,5640.817880630493
+GeminiProVision,run_2,EXP1-Results/length/length_image_3.png,52.0,"70
+",0.0,11589.656829833984
+GeminiProVision,run_2,EXP1-Results/length/length_image_4.png,38.0,"70
+",0.0,5572.035789489746
+GeminiProVision,run_2,EXP1-Results/length/length_image_5.png,26.0,"70
+",0.0,5558.102130889893
+GeminiProVision,run_2,EXP1-Results/length/length_image_6.png,44.0,"70
+",0.0,5891.935348510742
+GeminiProVision,run_2,EXP1-Results/length/length_image_7.png,16.0,"70
+",0.0,6124.282121658325
+GeminiProVision,run_2,EXP1-Results/length/length_image_8.png,21.0,"75
+",0.0,7834.656476974487
+GeminiProVision,run_2,EXP1-Results/length/length_image_9.png,25.0,"75
+",0.0,6768.087148666382
+GeminiProVision,run_2,EXP1-Results/length/length_image_10.png,53.0,"75
+",0.0,7569.146156311035
+GeminiProVision,run_2,EXP1-Results/length/length_image_11.png,28.0,"75
+",0.0,5546.6628074646
+GeminiProVision,run_2,EXP1-Results/length/length_image_12.png,18.0,"75
+",0.0,5545.35436630249
+GeminiProVision,run_2,EXP1-Results/length/length_image_13.png,53.0,"75
+",0.0,17410.628080368042
+GeminiProVision,run_2,EXP1-Results/length/length_image_14.png,36.0,"75
+",0.0,5538.518190383911
+GeminiProVision,run_2,EXP1-Results/length/length_image_15.png,8.0,"75
+",0.0,5692.9967403411865
+GeminiProVision,run_2,EXP1-Results/length/length_image_16.png,48.0,"70
+",0.0,5523.995161056519
+GeminiProVision,run_2,EXP1-Results/length/length_image_17.png,1.0,"70
+",0.0,5658.0235958099365
+GeminiProVision,run_2,EXP1-Results/length/length_image_18.png,18.0,"70
+",0.0,21917.579650878906
+GeminiProVision,run_2,EXP1-Results/length/length_image_19.png,59.0,"75
+",0.0,5665.607452392578
+GeminiProVision,run_2,EXP1-Results/length/length_image_20.png,15.0,"75
+",0.0,7384.804248809814
+GeminiProVision,run_2,EXP1-Results/length/length_image_21.png,8.0,"70
+",0.0,5795.649528503418
+GeminiProVision,run_2,EXP1-Results/length/length_image_22.png,33.0,"75
+",0.0,6222.435712814331
+GeminiProVision,run_2,EXP1-Results/length/length_image_23.png,26.0,"70
+",0.0,5634.4146728515625
+GeminiProVision,run_2,EXP1-Results/length/length_image_24.png,60.0,"75
+",0.0,6105.401039123535
+GeminiProVision,run_2,EXP1-Results/length/length_image_25.png,14.0,"75
+",0.0,5534.332752227783
+GeminiProVision,run_2,EXP1-Results/length/length_image_26.png,1.0,"70
+",0.0,5680.799245834351
+GeminiProVision,run_2,EXP1-Results/length/length_image_27.png,38.0,"70
+",0.0,8299.741268157959
+GeminiProVision,run_2,EXP1-Results/length/length_image_28.png,21.0,"75
+",0.0,8815.027713775635
+GeminiProVision,run_2,EXP1-Results/length/length_image_29.png,17.0,"75
+",0.0,5978.456020355225
+GeminiProVision,run_2,EXP1-Results/length/length_image_30.png,45.0,"70
+",0.0,5552.81925201416
+GeminiProVision,run_2,EXP1-Results/length/length_image_31.png,53.0,"75
+",0.0,5535.805702209473
+GeminiProVision,run_2,EXP1-Results/length/length_image_32.png,53.0,"70
+",0.0,5643.524646759033
+GeminiProVision,run_2,EXP1-Results/length/length_image_33.png,39.0,"70
+",0.0,5535.734176635742
+GeminiProVision,run_2,EXP1-Results/length/length_image_34.png,19.0,"75
+",0.0,5603.5027503967285
+GeminiProVision,run_2,EXP1-Results/length/length_image_35.png,39.0,"75
+",0.0,6465.167045593262
+GeminiProVision,run_2,EXP1-Results/length/length_image_36.png,31.0,"70
+",0.0,5547.780513763428
+GeminiProVision,run_2,EXP1-Results/length/length_image_37.png,31.0,"75
+",0.0,5718.873739242554
+GeminiProVision,run_2,EXP1-Results/length/length_image_38.png,44.0,"75
+",0.0,5600.029945373535
+GeminiProVision,run_2,EXP1-Results/length/length_image_39.png,8.0,"70
+",0.0,7948.050737380981
+GeminiProVision,run_2,EXP1-Results/length/length_image_40.png,54.0,"75
+",0.0,5539.947748184204
+GeminiProVision,run_2,EXP1-Results/length/length_image_41.png,14.0,"70
+",0.0,7367.318630218506
+GeminiProVision,run_2,EXP1-Results/length/length_image_42.png,1.0,"75
+",0.0,5748.9869594573975
+GeminiProVision,run_2,EXP1-Results/length/length_image_43.png,59.0,"70
+",0.0,6466.2926197052
+GeminiProVision,run_2,EXP1-Results/length/length_image_44.png,40.0,"70
+",0.0,8492.223739624023
+GeminiProVision,run_2,EXP1-Results/length/length_image_45.png,19.0,"75
+",0.0,7728.238582611084
+GeminiProVision,run_2,EXP1-Results/length/length_image_46.png,48.0,"75
+",0.0,5543.217658996582
+GeminiProVision,run_2,EXP1-Results/length/length_image_47.png,15.0,"70
+",0.0,5575.3333568573
+GeminiProVision,run_2,EXP1-Results/length/length_image_48.png,58.0,"70
+",0.0,5551.912784576416
+GeminiProVision,run_2,EXP1-Results/length/length_image_49.png,24.0,"70
+",0.0,5521.047115325928
+GeminiProVision,run_2,EXP1-Results/length/length_image_50.png,56.0,"75
+",0.0,6103.324890136719
+GeminiProVision,run_2,EXP1-Results/length/length_image_51.png,24.0,"75
+",0.0,5651.799201965332
+GeminiProVision,run_2,EXP1-Results/length/length_image_52.png,8.0,"70
+",0.0,5899.588108062744
+GeminiProVision,run_2,EXP1-Results/length/length_image_53.png,36.0,"75
+",0.0,5550.257444381714
+GeminiProVision,run_2,EXP1-Results/length/length_image_54.png,7.0,"75
+",0.0,6168.47562789917
+GeminiProVision,run_2,EXP1-Results/length/length_image_55.png,15.0,"70
+",0.0,15928.715944290161
+GeminiProVision,average,,,,,
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_1.png,29.0,"0
+",0.0,5379.601955413818
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_2.png,26.0,"70
+",0.0,8835.747957229614
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_3.png,52.0,"0
+",0.0,7323.663949966431
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_4.png,38.0,"0
+",0.0,5774.254560470581
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_5.png,26.0,"100
+",0.0,8069.486856460571
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_6.png,44.0,"0
+",0.0,9575.190544128418
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_7.png,16.0,"0
+",0.0,10462.158203125
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_8.png,21.0,"80
+",0.0,8636.855363845825
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_9.png,25.0,"50
+",0.0,9525.700330734253
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_10.png,53.0,"60
+",0.0,12834.05876159668
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_11.png,28.0,"0
+",0.0,7698.872089385986
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_12.png,18.0,"0
+",0.0,8084.468841552734
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_13.png,53.0,"0
+",0.0,11531.404972076416
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_14.png,36.0,"100
+",0.0,6924.639701843262
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_15.png,8.0,"75
+",0.0,7294.9323654174805
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_16.png,48.0,"0
+",0.0,7918.753385543823
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_17.png,1.0,"0
+",0.0,6936.233043670654
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_18.png,18.0,"0
+",0.0,7841.04323387146
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_19.png,59.0,"0
+",0.0,8773.144245147705
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_20.png,15.0,"0
+",0.0,6061.611890792847
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_21.png,8.0,"0
+",0.0,7519.695281982422
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_22.png,33.0,"50
+",0.0,9653.586149215698
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_23.png,26.0,"100
+",0.0,10117.834568023682
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_24.png,60.0,"80
+",0.0,9165.512323379517
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_25.png,14.0,"60
+",0.0,7514.89520072937
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_26.png,1.0,"100
+",0.0,6398.845434188843
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_27.png,38.0,"0
+",0.0,6001.699209213257
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_28.png,21.0,"0
+",0.0,9892.446994781494
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_29.png,17.0,"70
+",0.0,8162.997007369995
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_30.png,45.0,"75
+",0.0,6086.790561676025
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_31.png,53.0,"90
+",0.0,7664.196729660034
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_32.png,53.0,"0
+",0.0,6142.349720001221
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_33.png,39.0,"0
+",0.0,8306.310653686523
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_34.png,19.0,"50
+",0.0,7974.949598312378
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_35.png,39.0,"0
+",0.0,8234.556198120117
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_36.png,31.0,"0
+",0.0,7023.2977867126465
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_37.png,31.0,"90
+",0.0,7839.165210723877
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_38.png,44.0,"75
+",0.0,7585.103988647461
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_39.png,8.0,"0
+",0.0,11363.961219787598
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_40.png,54.0,"0
+",0.0,6679.649114608765
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_41.png,14.0,"0
+",0.0,9387.825727462769
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_42.png,1.0,"0
+",0.0,7135.992765426636
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_43.png,59.0,"0
+",0.0,7793.656826019287
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_44.png,40.0,"0
+",0.0,5721.042633056641
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_45.png,19.0,"75
+",0.0,6821.816921234131
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_46.png,48.0,"75
+",0.0,5505.084991455078
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_47.png,15.0,"0
+",0.0,10921.63372039795
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_48.png,58.0,"0
+",0.0,7562.252521514893
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_49.png,24.0,"0
+",0.0,15224.076986312866
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_50.png,56.0,"50
+",0.0,8293.18618774414
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_51.png,24.0,"0
+",0.0,7550.044536590576
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_52.png,8.0,"0
+",0.0,6207.866191864014
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_53.png,36.0,"50
+",0.0,7654.986381530762
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_54.png,7.0,"60
+",0.0,11515.210151672363
+Gemini1_5Flash,run_0,EXP1-Results/length/length_image_55.png,15.0,"20
+",0.0,10581.123352050781
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_1.png,29.0,"0
+",0.0,6953.331470489502
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_2.png,26.0,"60
+",0.0,9354.923009872437
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_3.png,52.0,"0
+",0.0,7314.574241638184
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_4.png,38.0,"0
+",0.0,7353.166580200195
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_5.png,26.0,"0
+",0.0,9470.75343132019
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_6.png,44.0,"0
+",0.0,9285.128355026245
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_7.png,16.0,"0
+",0.0,6564.244985580444
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_8.png,21.0,"60
+",0.0,12214.324712753296
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_9.png,25.0,"75
+",0.0,6989.798784255981
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_10.png,53.0,"60
+",0.0,8455.296754837036
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_11.png,28.0,"0
+",0.0,6961.3776206970215
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_12.png,18.0,"0
+",0.0,7588.382005691528
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_13.png,53.0,"0
+",0.0,10561.558246612549
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_14.png,36.0,"0
+",0.0,14512.083292007446
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_15.png,8.0,"75
+",0.0,7969.460248947144
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_16.png,48.0,"0
+",0.0,7852.881669998169
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_17.png,1.0,"0
+",0.0,7794.5404052734375
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_18.png,18.0,"0
+",0.0,8353.91092300415
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_19.png,59.0,"0
+",0.0,8582.836627960205
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_20.png,15.0,"0
+",0.0,13929.874658584595
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_21.png,8.0,"0
+",0.0,6987.791299819946
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_22.png,33.0,"90
+",0.0,6878.5459995269775
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_23.png,26.0,"100
+",0.0,8127.625465393066
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_24.png,60.0,"50
+",0.0,7485.594749450684
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_25.png,14.0,"75
+",0.0,9043.254852294922
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_26.png,1.0,"0
+",0.0,9009.769201278687
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_27.png,38.0,"0
+",0.0,10872.784852981567
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_28.png,21.0,"0
+",0.0,7591.217041015625
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_29.png,17.0,"0
+",0.0,7703.336477279663
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_30.png,45.0,"25
+",0.0,6554.57878112793
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_31.png,53.0,"90
+",0.0,8173.458814620972
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_32.png,53.0,"0
+",0.0,10366.732120513916
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_33.png,39.0,"0
+",0.0,8126.063108444214
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_34.png,19.0,"50
+",0.0,9370.59235572815
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_35.png,39.0,"0
+",0.0,8564.810276031494
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_36.png,31.0,"0
+",0.0,15605.841398239136
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_37.png,31.0,"30
+",0.0,6299.374341964722
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_38.png,44.0,"70
+",0.0,9359.812259674072
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_39.png,8.0,"0
+",0.0,12636.547088623047
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_40.png,54.0,"0
+",0.0,8281.542301177979
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_41.png,14.0,"50
+",0.0,7427.816152572632
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_42.png,1.0,"0
+",0.0,7692.584037780762
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_43.png,59.0,"0
+",0.0,7339.810132980347
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_44.png,40.0,"0
+",0.0,8406.676769256592
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_45.png,19.0,"75
+",0.0,10036.251783370972
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_46.png,48.0,"0
+",0.0,9407.94038772583
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_47.png,15.0,"0
+",0.0,9314.225912094116
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_48.png,58.0,"0
+",0.0,10177.634239196777
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_49.png,24.0,"0
+",0.0,8437.252283096313
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_50.png,56.0,"75
+",0.0,5832.5841426849365
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_51.png,24.0,"0
+",0.0,7973.9885330200195
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_52.png,8.0,"0
+",0.0,9347.016334533691
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_53.png,36.0,"75
+",0.0,7993.967533111572
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_54.png,7.0,"60
+",0.0,7398.849725723267
+Gemini1_5Flash,run_1,EXP1-Results/length/length_image_55.png,15.0,"50
+",0.0,12422.821521759033
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_1.png,29.0,"0
+",0.0,9514.71996307373
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_2.png,26.0,"90
+",0.0,8223.047256469727
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_3.png,52.0,"0
+",0.0,9759.427785873413
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_4.png,38.0,"0
+",0.0,12842.6034450531
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_5.png,26.0,"0
+",0.0,8979.159355163574
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_6.png,44.0,"0
+",0.0,15606.841802597046
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_7.png,16.0,"0
+",0.0,9400.927782058716
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_8.png,21.0,"80
+",0.0,8904.946088790894
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_9.png,25.0,"60
+",0.0,7113.876581192017
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_10.png,53.0,"60
+",0.0,6197.43800163269
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_11.png,28.0,"0
+",0.0,9005.919933319092
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_12.png,18.0,"0
+",0.0,7588.642597198486
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_13.png,53.0,"0
+",0.0,8189.551115036011
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_14.png,36.0,"0
+",0.0,7369.509696960449
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_15.png,8.0,"60
+",0.0,13227.561712265015
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_16.png,48.0,"80
+",0.0,10812.705039978027
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_17.png,1.0,"0
+",0.0,13346.139192581177
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_18.png,18.0,"0
+",0.0,6059.509515762329
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_19.png,59.0,"0
+",0.0,9809.868812561035
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_20.png,15.0,"0
+",0.0,7014.40691947937
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_21.png,8.0,"0
+",0.0,8317.585468292236
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_22.png,33.0,"0
+",0.0,6281.771659851074
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_23.png,26.0,"0
+",0.0,8527.616262435913
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_24.png,60.0,"75
+",0.0,9596.469402313232
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_25.png,14.0,"50
+",0.0,7270.12038230896
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_26.png,1.0,"0
+",0.0,9693.798780441284
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_27.png,38.0,"0
+",0.0,8320.68920135498
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_28.png,21.0,"0
+",0.0,8155.239820480347
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_29.png,17.0,"90
+",0.0,8694.151401519775
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_30.png,45.0,"90
+",0.0,7337.641000747681
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_31.png,53.0,"50
+",0.0,11459.684133529663
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_32.png,53.0,"0
+",0.0,7846.322536468506
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_33.png,39.0,"0
+",0.0,6187.0176792144775
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_34.png,19.0,"90
+",0.0,8129.303932189941
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_35.png,39.0,"0
+",0.0,9177.86192893982
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_36.png,31.0,"0
+",0.0,10009.596347808838
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_37.png,31.0,"30
+",0.0,7114.672422409058
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_38.png,44.0,"50
+",0.0,8838.732481002808
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_39.png,8.0,"0
+",0.0,7741.926670074463
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_40.png,54.0,"0
+",0.0,7536.044120788574
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_41.png,14.0,"100
+",0.0,7090.895652770996
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_42.png,1.0,"0
+",0.0,8450.090646743774
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_43.png,59.0,"0
+",0.0,5717.114686965942
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_44.png,40.0,"0
+",0.0,8505.19061088562
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_45.png,19.0,"100
+",0.0,7531.935930252075
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_46.png,48.0,"50
+",0.0,7331.554174423218
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_47.png,15.0,"0
+",0.0,6892.06337928772
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_48.png,58.0,"0
+",0.0,6654.110670089722
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_49.png,24.0,"0
+",0.0,5724.308252334595
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_50.png,56.0,"50
+",0.0,5592.653274536133
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_51.png,24.0,"0
+",0.0,6037.916660308838
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_52.png,8.0,"0
+",0.0,6483.633279800415
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_53.png,36.0,"75
+",0.0,5377.177000045776
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_54.png,7.0,"60
+",0.0,6056.195020675659
+Gemini1_5Flash,run_2,EXP1-Results/length/length_image_55.png,15.0,"60
+",0.0,8832.797288894653
+Gemini1_5Flash,average,,,,,

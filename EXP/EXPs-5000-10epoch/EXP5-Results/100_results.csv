@@ -1,0 +1,2576 @@
+model_name,run,image_path,ground_truth,raw_answers,forced_repetitions,time_ms
+gpt4o,run_0,EXP5-Results/100/100_image_1.png,4.0,8,0.0,6335.419654846191
+gpt4o,run_0,EXP5-Results/100/100_image_2.png,4.0,9,0.0,5911.429166793823
+gpt4o,run_0,EXP5-Results/100/100_image_3.png,6.0,9,0.0,5935.7750415802
+gpt4o,run_0,EXP5-Results/100/100_image_4.png,7.0,6,0.0,6575.169324874878
+gpt4o,run_0,EXP5-Results/100/100_image_5.png,8.0,8,0.0,5985.060930252075
+gpt4o,run_0,EXP5-Results/100/100_image_6.png,4.0,5,0.0,5863.773584365845
+gpt4o,run_0,EXP5-Results/100/100_image_7.png,8.0,8,0.0,6165.399789810181
+gpt4o,run_0,EXP5-Results/100/100_image_8.png,10.0,6,0.0,5854.86102104187
+gpt4o,run_0,EXP5-Results/100/100_image_9.png,6.0,2,0.0,6366.053342819214
+gpt4o,run_0,EXP5-Results/100/100_image_10.png,3.0,8,0.0,6056.529521942139
+gpt4o,run_0,EXP5-Results/100/100_image_11.png,2.0,10,0.0,6079.1051387786865
+gpt4o,run_0,EXP5-Results/100/100_image_12.png,3.0,9,0.0,5842.832088470459
+gpt4o,run_0,EXP5-Results/100/100_image_13.png,9.0,7,0.0,5933.008193969727
+gpt4o,run_0,EXP5-Results/100/100_image_14.png,5.0,3,0.0,5988.927364349365
+gpt4o,run_0,EXP5-Results/100/100_image_15.png,3.0,10,0.0,6039.311647415161
+gpt4o,run_0,EXP5-Results/100/100_image_16.png,2.0,10,0.0,5943.3488845825195
+gpt4o,run_0,EXP5-Results/100/100_image_17.png,10.0,6,0.0,5885.585069656372
+gpt4o,run_0,EXP5-Results/100/100_image_18.png,9.0,5,0.0,5973.841667175293
+gpt4o,run_0,EXP5-Results/100/100_image_19.png,2.0,9,0.0,6268.91303062439
+gpt4o,run_0,EXP5-Results/100/100_image_20.png,2.0,5,0.0,6154.401063919067
+gpt4o,run_0,EXP5-Results/100/100_image_21.png,2.0,4,0.0,5999.7239112854
+gpt4o,run_0,EXP5-Results/100/100_image_22.png,10.0,7,0.0,5708.899259567261
+gpt4o,run_0,EXP5-Results/100/100_image_23.png,5.0,7,0.0,5890.366792678833
+gpt4o,run_0,EXP5-Results/100/100_image_24.png,3.0,6,0.0,6215.320587158203
+gpt4o,run_0,EXP5-Results/100/100_image_25.png,2.0,5,0.0,5634.588956832886
+gpt4o,run_0,EXP5-Results/100/100_image_26.png,2.0,3,0.0,5924.173355102539
+gpt4o,run_0,EXP5-Results/100/100_image_27.png,2.0,8,0.0,5969.558477401733
+gpt4o,run_0,EXP5-Results/100/100_image_28.png,10.0,4,0.0,5703.602313995361
+gpt4o,run_0,EXP5-Results/100/100_image_29.png,9.0,5,0.0,6154.128313064575
+gpt4o,run_0,EXP5-Results/100/100_image_30.png,6.0,9,0.0,5816.887378692627
+gpt4o,run_0,EXP5-Results/100/100_image_31.png,8.0,8,0.0,6410.264492034912
+gpt4o,run_0,EXP5-Results/100/100_image_32.png,6.0,10,0.0,6002.433061599731
+gpt4o,run_0,EXP5-Results/100/100_image_33.png,8.0,10,0.0,5972.925662994385
+gpt4o,run_0,EXP5-Results/100/100_image_34.png,5.0,9,0.0,5986.494779586792
+gpt4o,run_0,EXP5-Results/100/100_image_35.png,5.0,7,0.0,5969.851970672607
+gpt4o,run_0,EXP5-Results/100/100_image_36.png,4.0,8,0.0,6293.017387390137
+gpt4o,run_0,EXP5-Results/100/100_image_37.png,2.0,8,0.0,6407.937526702881
+gpt4o,run_0,EXP5-Results/100/100_image_38.png,4.0,4,0.0,5875.111818313599
+gpt4o,run_0,EXP5-Results/100/100_image_39.png,5.0,4,0.0,10366.416215896606
+gpt4o,run_0,EXP5-Results/100/100_image_40.png,4.0,3,0.0,8466.132402420044
+gpt4o,run_0,EXP5-Results/100/100_image_41.png,3.0,7,0.0,5968.9695835113525
+gpt4o,run_0,EXP5-Results/100/100_image_42.png,2.0,9,0.0,6635.306835174561
+gpt4o,run_0,EXP5-Results/100/100_image_43.png,6.0,3,0.0,5646.013975143433
+gpt4o,run_0,EXP5-Results/100/100_image_44.png,8.0,10,0.0,6955.711603164673
+gpt4o,run_0,EXP5-Results/100/100_image_45.png,5.0,6,0.0,5657.128810882568
+gpt4o,run_0,EXP5-Results/100/100_image_46.png,1.0,6,0.0,6212.944746017456
+gpt4o,run_0,EXP5-Results/100/100_image_47.png,9.0,5,0.0,6148.385763168335
+gpt4o,run_0,EXP5-Results/100/100_image_48.png,6.0,4,0.0,5836.636781692505
+gpt4o,run_0,EXP5-Results/100/100_image_49.png,10.0,5,0.0,10487.6229763031
+gpt4o,run_0,EXP5-Results/100/100_image_50.png,2.0,7,0.0,6671.556234359741
+gpt4o,run_0,EXP5-Results/100/100_image_51.png,4.0,8,0.0,6992.889404296875
+gpt4o,run_0,EXP5-Results/100/100_image_52.png,6.0,5,0.0,5978.405714035034
+gpt4o,run_0,EXP5-Results/100/100_image_53.png,7.0,6,0.0,6113.822937011719
+gpt4o,run_0,EXP5-Results/100/100_image_54.png,2.0,4,0.0,5892.134666442871
+gpt4o,run_0,EXP5-Results/100/100_image_55.png,1.0,8,0.0,6004.660844802856
+gpt4o,run_1,EXP5-Results/100/100_image_1.png,4.0,7,0.0,6086.317777633667
+gpt4o,run_1,EXP5-Results/100/100_image_2.png,4.0,3,0.0,5895.026445388794
+gpt4o,run_1,EXP5-Results/100/100_image_3.png,6.0,6,0.0,5856.932878494263
+gpt4o,run_1,EXP5-Results/100/100_image_4.png,7.0,10,0.0,6125.893592834473
+gpt4o,run_1,EXP5-Results/100/100_image_5.png,8.0,6,0.0,5928.151607513428
+gpt4o,run_1,EXP5-Results/100/100_image_6.png,4.0,5,0.0,7279.309272766113
+gpt4o,run_1,EXP5-Results/100/100_image_7.png,8.0,8,0.0,5998.8861083984375
+gpt4o,run_1,EXP5-Results/100/100_image_8.png,10.0,9,0.0,6096.70615196228
+gpt4o,run_1,EXP5-Results/100/100_image_9.png,6.0,5,0.0,5661.77225112915
+gpt4o,run_1,EXP5-Results/100/100_image_10.png,3.0,8,0.0,6105.925559997559
+gpt4o,run_1,EXP5-Results/100/100_image_11.png,2.0,10,0.0,5897.664308547974
+gpt4o,run_1,EXP5-Results/100/100_image_12.png,3.0,5,0.0,6087.502241134644
+gpt4o,run_1,EXP5-Results/100/100_image_13.png,9.0,9,0.0,5917.898178100586
+gpt4o,run_1,EXP5-Results/100/100_image_14.png,5.0,5,0.0,6001.338243484497
+gpt4o,run_1,EXP5-Results/100/100_image_15.png,3.0,6,0.0,5995.696783065796
+gpt4o,run_1,EXP5-Results/100/100_image_16.png,2.0,4,0.0,7042.9792404174805
+gpt4o,run_1,EXP5-Results/100/100_image_17.png,10.0,4,0.0,5861.07063293457
+gpt4o,run_1,EXP5-Results/100/100_image_18.png,9.0,6,0.0,5955.771207809448
+gpt4o,run_1,EXP5-Results/100/100_image_19.png,2.0,6,0.0,5978.846073150635
+gpt4o,run_1,EXP5-Results/100/100_image_20.png,2.0,6,0.0,5979.472398757935
+gpt4o,run_1,EXP5-Results/100/100_image_21.png,2.0,5,0.0,5912.580966949463
+gpt4o,run_1,EXP5-Results/100/100_image_22.png,10.0,9,0.0,5957.939624786377
+gpt4o,run_1,EXP5-Results/100/100_image_23.png,5.0,8,0.0,6010.306358337402
+gpt4o,run_1,EXP5-Results/100/100_image_24.png,3.0,9,0.0,5978.577375411987
+gpt4o,run_1,EXP5-Results/100/100_image_25.png,2.0,6,0.0,6008.299350738525
+gpt4o,run_1,EXP5-Results/100/100_image_26.png,2.0,7,0.0,6012.139081954956
+gpt4o,run_1,EXP5-Results/100/100_image_27.png,2.0,6,0.0,5994.089841842651
+gpt4o,run_1,EXP5-Results/100/100_image_28.png,10.0,7,0.0,5605.760812759399
+gpt4o,run_1,EXP5-Results/100/100_image_29.png,9.0,5,0.0,6727.729797363281
+gpt4o,run_1,EXP5-Results/100/100_image_30.png,6.0,3,0.0,5821.913957595825
+gpt4o,run_1,EXP5-Results/100/100_image_31.png,8.0,10,0.0,6012.626647949219
+gpt4o,run_1,EXP5-Results/100/100_image_32.png,6.0,5,0.0,5677.409887313843
+gpt4o,run_1,EXP5-Results/100/100_image_33.png,8.0,3,0.0,5974.117279052734
+gpt4o,run_1,EXP5-Results/100/100_image_34.png,5.0,8,0.0,6026.467323303223
+gpt4o,run_1,EXP5-Results/100/100_image_35.png,5.0,8,0.0,5671.722412109375
+gpt4o,run_1,EXP5-Results/100/100_image_36.png,4.0,3,0.0,6255.524396896362
+gpt4o,run_1,EXP5-Results/100/100_image_37.png,2.0,10,0.0,5976.763010025024
+gpt4o,run_1,EXP5-Results/100/100_image_38.png,4.0,4,0.0,5968.417167663574
+gpt4o,run_1,EXP5-Results/100/100_image_39.png,5.0,4,0.0,6155.604839324951
+gpt4o,run_1,EXP5-Results/100/100_image_40.png,4.0,4,0.0,5939.1188621521
+gpt4o,run_1,EXP5-Results/100/100_image_41.png,3.0,9,0.0,6623.422861099243
+gpt4o,run_1,EXP5-Results/100/100_image_42.png,2.0,6,0.0,11731.613874435425
+gpt4o,run_1,EXP5-Results/100/100_image_43.png,6.0,5,0.0,5685.778617858887
+gpt4o,run_1,EXP5-Results/100/100_image_44.png,8.0,10,0.0,5950.740098953247
+gpt4o,run_1,EXP5-Results/100/100_image_45.png,5.0,5,0.0,5919.546127319336
+gpt4o,run_1,EXP5-Results/100/100_image_46.png,1.0,5,0.0,8771.758317947388
+gpt4o,run_1,EXP5-Results/100/100_image_47.png,9.0,5,0.0,5680.142879486084
+gpt4o,run_1,EXP5-Results/100/100_image_48.png,6.0,5,0.0,15938.171863555908
+gpt4o,run_1,EXP5-Results/100/100_image_49.png,10.0,5,0.0,6143.407344818115
+gpt4o,run_1,EXP5-Results/100/100_image_50.png,2.0,10,0.0,5696.179151535034
+gpt4o,run_1,EXP5-Results/100/100_image_51.png,4.0,5,0.0,6504.84824180603
+gpt4o,run_1,EXP5-Results/100/100_image_52.png,6.0,7,0.0,6377.990007400513
+gpt4o,run_1,EXP5-Results/100/100_image_53.png,7.0,5,0.0,7330.530405044556
+gpt4o,run_1,EXP5-Results/100/100_image_54.png,2.0,7,0.0,5906.899690628052
+gpt4o,run_1,EXP5-Results/100/100_image_55.png,1.0,5,0.0,5774.121284484863
+gpt4o,run_2,EXP5-Results/100/100_image_1.png,4.0,7,0.0,6139.135360717773
+gpt4o,run_2,EXP5-Results/100/100_image_2.png,4.0,5,0.0,14488.731861114502
+gpt4o,run_2,EXP5-Results/100/100_image_3.png,6.0,7,0.0,5751.320362091064
+gpt4o,run_2,EXP5-Results/100/100_image_4.png,7.0,10,0.0,6440.864324569702
+gpt4o,run_2,EXP5-Results/100/100_image_5.png,8.0,4,0.0,5973.654508590698
+gpt4o,run_2,EXP5-Results/100/100_image_6.png,4.0,4,0.0,5856.943130493164
+gpt4o,run_2,EXP5-Results/100/100_image_7.png,8.0,7,0.0,6902.283430099487
+gpt4o,run_2,EXP5-Results/100/100_image_8.png,10.0,6,0.0,5671.051740646362
+gpt4o,run_2,EXP5-Results/100/100_image_9.png,6.0,5,0.0,5932.651996612549
+gpt4o,run_2,EXP5-Results/100/100_image_10.png,3.0,5,0.0,6766.162157058716
+gpt4o,run_2,EXP5-Results/100/100_image_11.png,2.0,4,0.0,5879.752397537231
+gpt4o,run_2,EXP5-Results/100/100_image_12.png,3.0,4,0.0,5777.332782745361
+gpt4o,run_2,EXP5-Results/100/100_image_13.png,9.0,6,0.0,6071.061134338379
+gpt4o,run_2,EXP5-Results/100/100_image_14.png,5.0,10,0.0,5968.844652175903
+gpt4o,run_2,EXP5-Results/100/100_image_15.png,3.0,6,0.0,5930.0830364227295
+gpt4o,run_2,EXP5-Results/100/100_image_16.png,2.0,8,0.0,5965.408086776733
+gpt4o,run_2,EXP5-Results/100/100_image_17.png,10.0,8,0.0,9963.654041290283
+gpt4o,run_2,EXP5-Results/100/100_image_18.png,9.0,9,0.0,6024.029970169067
+gpt4o,run_2,EXP5-Results/100/100_image_19.png,2.0,9,0.0,6000.5042552948
+gpt4o,run_2,EXP5-Results/100/100_image_20.png,2.0,9,0.0,5894.62947845459
+gpt4o,run_2,EXP5-Results/100/100_image_21.png,2.0,2,0.0,6091.2184715271
+gpt4o,run_2,EXP5-Results/100/100_image_22.png,10.0,6,0.0,6834.76996421814
+gpt4o,run_2,EXP5-Results/100/100_image_23.png,5.0,9,0.0,5898.180723190308
+gpt4o,run_2,EXP5-Results/100/100_image_24.png,3.0,6,0.0,5985.129833221436
+gpt4o,run_2,EXP5-Results/100/100_image_25.png,2.0,5,0.0,5705.207109451294
+gpt4o,run_2,EXP5-Results/100/100_image_26.png,2.0,9,0.0,6269.436359405518
+gpt4o,run_2,EXP5-Results/100/100_image_27.png,2.0,7,0.0,6253.926038742065
+gpt4o,run_2,EXP5-Results/100/100_image_28.png,10.0,8,0.0,5720.809698104858
+gpt4o,run_2,EXP5-Results/100/100_image_29.png,9.0,4,0.0,6180.401802062988
+gpt4o,run_2,EXP5-Results/100/100_image_30.png,6.0,5,0.0,7618.267297744751
+gpt4o,run_2,EXP5-Results/100/100_image_31.png,8.0,9,0.0,6004.319667816162
+gpt4o,run_2,EXP5-Results/100/100_image_32.png,6.0,5,0.0,5736.669540405273
+gpt4o,run_2,EXP5-Results/100/100_image_33.png,8.0,5,0.0,6235.65149307251
+gpt4o,run_2,EXP5-Results/100/100_image_34.png,5.0,9,0.0,5920.331239700317
+gpt4o,run_2,EXP5-Results/100/100_image_35.png,5.0,5,0.0,5654.719114303589
+gpt4o,run_2,EXP5-Results/100/100_image_36.png,4.0,4,0.0,5934.178590774536
+gpt4o,run_2,EXP5-Results/100/100_image_37.png,2.0,6,0.0,6530.73525428772
+gpt4o,run_2,EXP5-Results/100/100_image_38.png,4.0,5,0.0,5882.731914520264
+gpt4o,run_2,EXP5-Results/100/100_image_39.png,5.0,7,0.0,5914.893627166748
+gpt4o,run_2,EXP5-Results/100/100_image_40.png,4.0,7,0.0,6000.512361526489
+gpt4o,run_2,EXP5-Results/100/100_image_41.png,3.0,7,0.0,5830.744028091431
+gpt4o,run_2,EXP5-Results/100/100_image_42.png,2.0,7,0.0,8503.985166549683
+gpt4o,run_2,EXP5-Results/100/100_image_43.png,6.0,6,0.0,5654.862880706787
+gpt4o,run_2,EXP5-Results/100/100_image_44.png,8.0,4,0.0,5804.475784301758
+gpt4o,run_2,EXP5-Results/100/100_image_45.png,5.0,5,0.0,5798.606157302856
+gpt4o,run_2,EXP5-Results/100/100_image_46.png,1.0,9,0.0,8035.670042037964
+gpt4o,run_2,EXP5-Results/100/100_image_47.png,9.0,5,0.0,5684.672832489014
+gpt4o,run_2,EXP5-Results/100/100_image_48.png,6.0,8,0.0,5656.636714935303
+gpt4o,run_2,EXP5-Results/100/100_image_49.png,10.0,5,0.0,8547.530174255371
+gpt4o,run_2,EXP5-Results/100/100_image_50.png,2.0,4,0.0,5740.856170654297
+gpt4o,run_2,EXP5-Results/100/100_image_51.png,4.0,6,0.0,6064.6185874938965
+gpt4o,run_2,EXP5-Results/100/100_image_52.png,6.0,5,0.0,7004.353046417236
+gpt4o,run_2,EXP5-Results/100/100_image_53.png,7.0,5,0.0,6656.343936920166
+gpt4o,run_2,EXP5-Results/100/100_image_54.png,2.0,7,0.0,5944.371700286865
+gpt4o,run_2,EXP5-Results/100/100_image_55.png,1.0,7,0.0,6338.86456489563
+gpt4o,average,,,,,
+CustomLLaMA,run_0,EXP5-Results/100/100_image_1.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,363.9259338378906
+CustomLLaMA,run_0,EXP5-Results/100/100_image_2.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,337.0387554168701
+CustomLLaMA,run_0,EXP5-Results/100/100_image_3.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,333.16564559936523
+CustomLLaMA,run_0,EXP5-Results/100/100_image_4.png,7.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+7",0.0,336.5345001220703
+CustomLLaMA,run_0,EXP5-Results/100/100_image_5.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,333.37998390197754
+CustomLLaMA,run_0,EXP5-Results/100/100_image_6.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,336.5797996520996
+CustomLLaMA,run_0,EXP5-Results/100/100_image_7.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,334.58995819091797
+CustomLLaMA,run_0,EXP5-Results/100/100_image_8.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,329.7393321990967
+CustomLLaMA,run_0,EXP5-Results/100/100_image_9.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,328.71246337890625
+CustomLLaMA,run_0,EXP5-Results/100/100_image_10.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,335.36267280578613
+CustomLLaMA,run_0,EXP5-Results/100/100_image_11.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,330.83510398864746
+CustomLLaMA,run_0,EXP5-Results/100/100_image_12.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,333.9414596557617
+CustomLLaMA,run_0,EXP5-Results/100/100_image_13.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+5",0.0,333.26148986816406
+CustomLLaMA,run_0,EXP5-Results/100/100_image_14.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,327.9151916503906
+CustomLLaMA,run_0,EXP5-Results/100/100_image_15.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,332.0286273956299
+CustomLLaMA,run_0,EXP5-Results/100/100_image_16.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,335.343599319458
+CustomLLaMA,run_0,EXP5-Results/100/100_image_17.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+5",0.0,340.76571464538574
+CustomLLaMA,run_0,EXP5-Results/100/100_image_18.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,338.40203285217285
+CustomLLaMA,run_0,EXP5-Results/100/100_image_19.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,345.26729583740234
+CustomLLaMA,run_0,EXP5-Results/100/100_image_20.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,337.68272399902344
+CustomLLaMA,run_0,EXP5-Results/100/100_image_21.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,359.8971366882324
+CustomLLaMA,run_0,EXP5-Results/100/100_image_22.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+8",0.0,334.1631889343262
+CustomLLaMA,run_0,EXP5-Results/100/100_image_23.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,335.08872985839844
+CustomLLaMA,run_0,EXP5-Results/100/100_image_24.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+5",0.0,333.371639251709
+CustomLLaMA,run_0,EXP5-Results/100/100_image_25.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,334.54084396362305
+CustomLLaMA,run_0,EXP5-Results/100/100_image_26.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,329.2076587677002
+CustomLLaMA,run_0,EXP5-Results/100/100_image_27.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,332.500696182251
+CustomLLaMA,run_0,EXP5-Results/100/100_image_28.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,334.6114158630371
+CustomLLaMA,run_0,EXP5-Results/100/100_image_29.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,336.30967140197754
+CustomLLaMA,run_0,EXP5-Results/100/100_image_30.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,334.96618270874023
+CustomLLaMA,run_0,EXP5-Results/100/100_image_31.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,341.57490730285645
+CustomLLaMA,run_0,EXP5-Results/100/100_image_32.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,332.44943618774414
+CustomLLaMA,run_0,EXP5-Results/100/100_image_33.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,337.0840549468994
+CustomLLaMA,run_0,EXP5-Results/100/100_image_34.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,331.6681385040283
+CustomLLaMA,run_0,EXP5-Results/100/100_image_35.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,336.46106719970703
+CustomLLaMA,run_0,EXP5-Results/100/100_image_36.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,330.763578414917
+CustomLLaMA,run_0,EXP5-Results/100/100_image_37.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,329.3025493621826
+CustomLLaMA,run_0,EXP5-Results/100/100_image_38.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,332.9803943634033
+CustomLLaMA,run_0,EXP5-Results/100/100_image_39.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,335.4196548461914
+CustomLLaMA,run_0,EXP5-Results/100/100_image_40.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,331.55345916748047
+CustomLLaMA,run_0,EXP5-Results/100/100_image_41.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,333.1718444824219
+CustomLLaMA,run_0,EXP5-Results/100/100_image_42.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,332.8592777252197
+CustomLLaMA,run_0,EXP5-Results/100/100_image_43.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,328.8705348968506
+CustomLLaMA,run_0,EXP5-Results/100/100_image_44.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,328.81617546081543
+CustomLLaMA,run_0,EXP5-Results/100/100_image_45.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,337.56399154663086
+CustomLLaMA,run_0,EXP5-Results/100/100_image_46.png,1.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,328.83310317993164
+CustomLLaMA,run_0,EXP5-Results/100/100_image_47.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,341.7086601257324
+CustomLLaMA,run_0,EXP5-Results/100/100_image_48.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,331.07566833496094
+CustomLLaMA,run_0,EXP5-Results/100/100_image_49.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,342.2057628631592
+CustomLLaMA,run_0,EXP5-Results/100/100_image_50.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,354.08902168273926
+CustomLLaMA,run_0,EXP5-Results/100/100_image_51.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,332.7150344848633
+CustomLLaMA,run_0,EXP5-Results/100/100_image_52.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,334.9909782409668
+CustomLLaMA,run_0,EXP5-Results/100/100_image_53.png,7.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,333.25982093811035
+CustomLLaMA,run_0,EXP5-Results/100/100_image_54.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,332.24940299987793
+CustomLLaMA,run_0,EXP5-Results/100/100_image_55.png,1.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,328.4482955932617
+CustomLLaMA,run_1,EXP5-Results/100/100_image_1.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,333.0121040344238
+CustomLLaMA,run_1,EXP5-Results/100/100_image_2.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,334.11526679992676
+CustomLLaMA,run_1,EXP5-Results/100/100_image_3.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,334.4404697418213
+CustomLLaMA,run_1,EXP5-Results/100/100_image_4.png,7.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+7",0.0,330.1844596862793
+CustomLLaMA,run_1,EXP5-Results/100/100_image_5.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,338.7601375579834
+CustomLLaMA,run_1,EXP5-Results/100/100_image_6.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,331.4990997314453
+CustomLLaMA,run_1,EXP5-Results/100/100_image_7.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,334.6381187438965
+CustomLLaMA,run_1,EXP5-Results/100/100_image_8.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,340.22045135498047
+CustomLLaMA,run_1,EXP5-Results/100/100_image_9.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,329.53739166259766
+CustomLLaMA,run_1,EXP5-Results/100/100_image_10.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,329.0600776672363
+CustomLLaMA,run_1,EXP5-Results/100/100_image_11.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,341.5982723236084
+CustomLLaMA,run_1,EXP5-Results/100/100_image_12.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,330.86585998535156
+CustomLLaMA,run_1,EXP5-Results/100/100_image_13.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+5",0.0,334.37418937683105
+CustomLLaMA,run_1,EXP5-Results/100/100_image_14.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,332.33141899108887
+CustomLLaMA,run_1,EXP5-Results/100/100_image_15.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,335.5374336242676
+CustomLLaMA,run_1,EXP5-Results/100/100_image_16.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,333.9109420776367
+CustomLLaMA,run_1,EXP5-Results/100/100_image_17.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,331.6841125488281
+CustomLLaMA,run_1,EXP5-Results/100/100_image_18.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,328.79066467285156
+CustomLLaMA,run_1,EXP5-Results/100/100_image_19.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,334.6972465515137
+CustomLLaMA,run_1,EXP5-Results/100/100_image_20.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,331.1455249786377
+CustomLLaMA,run_1,EXP5-Results/100/100_image_21.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,337.9099369049072
+CustomLLaMA,run_1,EXP5-Results/100/100_image_22.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+8",0.0,369.3711757659912
+CustomLLaMA,run_1,EXP5-Results/100/100_image_23.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,356.83679580688477
+CustomLLaMA,run_1,EXP5-Results/100/100_image_24.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,334.15913581848145
+CustomLLaMA,run_1,EXP5-Results/100/100_image_25.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,330.9004306793213
+CustomLLaMA,run_1,EXP5-Results/100/100_image_26.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,330.0294876098633
+CustomLLaMA,run_1,EXP5-Results/100/100_image_27.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,333.33730697631836
+CustomLLaMA,run_1,EXP5-Results/100/100_image_28.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+5",0.0,328.1993865966797
+CustomLLaMA,run_1,EXP5-Results/100/100_image_29.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+7",0.0,331.9268226623535
+CustomLLaMA,run_1,EXP5-Results/100/100_image_30.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,328.6776542663574
+CustomLLaMA,run_1,EXP5-Results/100/100_image_31.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+7",0.0,329.850435256958
+CustomLLaMA,run_1,EXP5-Results/100/100_image_32.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,337.2163772583008
+CustomLLaMA,run_1,EXP5-Results/100/100_image_33.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,330.9779167175293
+CustomLLaMA,run_1,EXP5-Results/100/100_image_34.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,331.8006992340088
+CustomLLaMA,run_1,EXP5-Results/100/100_image_35.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,329.7579288482666
+CustomLLaMA,run_1,EXP5-Results/100/100_image_36.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,333.36734771728516
+CustomLLaMA,run_1,EXP5-Results/100/100_image_37.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,337.8479480743408
+CustomLLaMA,run_1,EXP5-Results/100/100_image_38.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,329.9686908721924
+CustomLLaMA,run_1,EXP5-Results/100/100_image_39.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,430.1319122314453
+CustomLLaMA,run_1,EXP5-Results/100/100_image_40.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,355.04150390625
+CustomLLaMA,run_1,EXP5-Results/100/100_image_41.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,330.20758628845215
+CustomLLaMA,run_1,EXP5-Results/100/100_image_42.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,337.45694160461426
+CustomLLaMA,run_1,EXP5-Results/100/100_image_43.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,327.9550075531006
+CustomLLaMA,run_1,EXP5-Results/100/100_image_44.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,331.7382335662842
+CustomLLaMA,run_1,EXP5-Results/100/100_image_45.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,333.53257179260254
+CustomLLaMA,run_1,EXP5-Results/100/100_image_46.png,1.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,328.967809677124
+CustomLLaMA,run_1,EXP5-Results/100/100_image_47.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,330.979585647583
+CustomLLaMA,run_1,EXP5-Results/100/100_image_48.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,334.2089653015137
+CustomLLaMA,run_1,EXP5-Results/100/100_image_49.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,327.61454582214355
+CustomLLaMA,run_1,EXP5-Results/100/100_image_50.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,349.00879859924316
+CustomLLaMA,run_1,EXP5-Results/100/100_image_51.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,343.67847442626953
+CustomLLaMA,run_1,EXP5-Results/100/100_image_52.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,331.59327507019043
+CustomLLaMA,run_1,EXP5-Results/100/100_image_53.png,7.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+7",0.0,360.28170585632324
+CustomLLaMA,run_1,EXP5-Results/100/100_image_54.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,338.2885456085205
+CustomLLaMA,run_1,EXP5-Results/100/100_image_55.png,1.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,330.6581974029541
+CustomLLaMA,run_2,EXP5-Results/100/100_image_1.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+5",0.0,333.25862884521484
+CustomLLaMA,run_2,EXP5-Results/100/100_image_2.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,331.0396671295166
+CustomLLaMA,run_2,EXP5-Results/100/100_image_3.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,334.08522605895996
+CustomLLaMA,run_2,EXP5-Results/100/100_image_4.png,7.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+8",0.0,332.9908847808838
+CustomLLaMA,run_2,EXP5-Results/100/100_image_5.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,334.31553840637207
+CustomLLaMA,run_2,EXP5-Results/100/100_image_6.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,332.69643783569336
+CustomLLaMA,run_2,EXP5-Results/100/100_image_7.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,329.7405242919922
+CustomLLaMA,run_2,EXP5-Results/100/100_image_8.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+5",0.0,334.3310356140137
+CustomLLaMA,run_2,EXP5-Results/100/100_image_9.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,331.5157890319824
+CustomLLaMA,run_2,EXP5-Results/100/100_image_10.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,330.1670551300049
+CustomLLaMA,run_2,EXP5-Results/100/100_image_11.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,354.4728755950928
+CustomLLaMA,run_2,EXP5-Results/100/100_image_12.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,330.9476375579834
+CustomLLaMA,run_2,EXP5-Results/100/100_image_13.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+5",0.0,331.5389156341553
+CustomLLaMA,run_2,EXP5-Results/100/100_image_14.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,343.14656257629395
+CustomLLaMA,run_2,EXP5-Results/100/100_image_15.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,328.93824577331543
+CustomLLaMA,run_2,EXP5-Results/100/100_image_16.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,336.1399173736572
+CustomLLaMA,run_2,EXP5-Results/100/100_image_17.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,333.40001106262207
+CustomLLaMA,run_2,EXP5-Results/100/100_image_18.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,328.98426055908203
+CustomLLaMA,run_2,EXP5-Results/100/100_image_19.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,336.4527225494385
+CustomLLaMA,run_2,EXP5-Results/100/100_image_20.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,332.0355415344238
+CustomLLaMA,run_2,EXP5-Results/100/100_image_21.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,329.99682426452637
+CustomLLaMA,run_2,EXP5-Results/100/100_image_22.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+7",0.0,332.2265148162842
+CustomLLaMA,run_2,EXP5-Results/100/100_image_23.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,327.97741889953613
+CustomLLaMA,run_2,EXP5-Results/100/100_image_24.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,349.7331142425537
+CustomLLaMA,run_2,EXP5-Results/100/100_image_25.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,353.7793159484863
+CustomLLaMA,run_2,EXP5-Results/100/100_image_26.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,353.64532470703125
+CustomLLaMA,run_2,EXP5-Results/100/100_image_27.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,330.81865310668945
+CustomLLaMA,run_2,EXP5-Results/100/100_image_28.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+5",0.0,330.9786319732666
+CustomLLaMA,run_2,EXP5-Results/100/100_image_29.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+7",0.0,329.98132705688477
+CustomLLaMA,run_2,EXP5-Results/100/100_image_30.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,333.7283134460449
+CustomLLaMA,run_2,EXP5-Results/100/100_image_31.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,328.91249656677246
+CustomLLaMA,run_2,EXP5-Results/100/100_image_32.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,331.5579891204834
+CustomLLaMA,run_2,EXP5-Results/100/100_image_33.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,331.4816951751709
+CustomLLaMA,run_2,EXP5-Results/100/100_image_34.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,330.3513526916504
+CustomLLaMA,run_2,EXP5-Results/100/100_image_35.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,337.24164962768555
+CustomLLaMA,run_2,EXP5-Results/100/100_image_36.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,330.92474937438965
+CustomLLaMA,run_2,EXP5-Results/100/100_image_37.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,338.96732330322266
+CustomLLaMA,run_2,EXP5-Results/100/100_image_38.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,330.5244445800781
+CustomLLaMA,run_2,EXP5-Results/100/100_image_39.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,335.79087257385254
+CustomLLaMA,run_2,EXP5-Results/100/100_image_40.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,332.2262763977051
+CustomLLaMA,run_2,EXP5-Results/100/100_image_41.png,3.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+3",0.0,333.26172828674316
+CustomLLaMA,run_2,EXP5-Results/100/100_image_42.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,331.1185836791992
+CustomLLaMA,run_2,EXP5-Results/100/100_image_43.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,332.0727348327637
+CustomLLaMA,run_2,EXP5-Results/100/100_image_44.png,8.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,332.1552276611328
+CustomLLaMA,run_2,EXP5-Results/100/100_image_45.png,5.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,330.3656578063965
+CustomLLaMA,run_2,EXP5-Results/100/100_image_46.png,1.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,334.14649963378906
+CustomLLaMA,run_2,EXP5-Results/100/100_image_47.png,9.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+5",0.0,331.61330223083496
+CustomLLaMA,run_2,EXP5-Results/100/100_image_48.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+4",0.0,330.9333324432373
+CustomLLaMA,run_2,EXP5-Results/100/100_image_49.png,10.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,334.46264266967773
+CustomLLaMA,run_2,EXP5-Results/100/100_image_50.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,331.91919326782227
+CustomLLaMA,run_2,EXP5-Results/100/100_image_51.png,4.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,331.41064643859863
+CustomLLaMA,run_2,EXP5-Results/100/100_image_52.png,6.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+2",0.0,333.97889137268066
+CustomLLaMA,run_2,EXP5-Results/100/100_image_53.png,7.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+6",0.0,343.2614803314209
+CustomLLaMA,run_2,EXP5-Results/100/100_image_54.png,2.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,346.13895416259766
+CustomLLaMA,run_2,EXP5-Results/100/100_image_55.png,1.0,"user
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.
+assistant
+
+1",0.0,355.3881645202637
+CustomLLaMA,average,,,,,
+LLaMA,run_0,EXP5-Results/100/100_image_1.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,21787.490606307983
+LLaMA,run_0,EXP5-Results/100/100_image_2.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a visual representation of the concept of adding dots to an initial set of 100 dots. The dots are arranged in a seemingly random pattern, with some dots appearing to be added in a more concentrated area, while others are scattered throughout the image.
+
+To estimate the number of dots added to the initial 100 dots, we can make an educated guess based on the visual representation. Given the range of 1 to 10, we can consider the following:
+
+*   The image shows a relatively small increase in the number of dots, indicating that not many dots were added.
+*   The dots are not densely packed, suggesting that the increase is not drastic.
+*   The pattern of the dots does not indicate any specific mathematical relationship or formula that could be used to calculate the exact number of dots added.
+
+Considering these factors, a reasonable estimate for the number of dots added would be around 5. This is because the image suggests a moderate increase in the number of dots, but not an extreme one.",0.0,21447.099685668945
+LLaMA,run_0,EXP5-Results/100/100_image_3.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7011.417627334595
+LLaMA,run_0,EXP5-Results/100/100_image_4.png,7.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7027.2417068481445
+LLaMA,run_0,EXP5-Results/100/100_image_5.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7638.84162902832
+LLaMA,run_0,EXP5-Results/100/100_image_6.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7690.528631210327
+LLaMA,run_0,EXP5-Results/100/100_image_7.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The answer is 5.",0.0,7535.931825637817
+LLaMA,run_0,EXP5-Results/100/100_image_8.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7045.02010345459
+LLaMA,run_0,EXP5-Results/100/100_image_9.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7145.4198360443115
+LLaMA,run_0,EXP5-Results/100/100_image_10.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a pattern of dots, with an initial 100 dots and additional dots added. The pattern suggests that the additional dots were added in a way that maintains the symmetry of the original pattern. Based on the visual observation, it appears that around 20-30 dots were added to the initial 100 dots.",0.0,11592.10205078125
+LLaMA,run_0,EXP5-Results/100/100_image_11.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7239.0992641448975
+LLaMA,run_0,EXP5-Results/100/100_image_12.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+Approximately 5.",0.0,7285.290479660034
+LLaMA,run_0,EXP5-Results/100/100_image_13.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a scatter plot with 100 dots in the initial state. Upon closer inspection, it appears that about 5-7 dots were added to the original 100 dots.",0.0,9417.784214019775
+LLaMA,run_0,EXP5-Results/100/100_image_14.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7012.370824813843
+LLaMA,run_0,EXP5-Results/100/100_image_15.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7359.832525253296
+LLaMA,run_0,EXP5-Results/100/100_image_16.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,6963.418960571289
+LLaMA,run_0,EXP5-Results/100/100_image_17.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7352.8759479522705
+LLaMA,run_0,EXP5-Results/100/100_image_18.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The answer is 7.",0.0,9122.886419296265
+LLaMA,run_0,EXP5-Results/100/100_image_19.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+It appears that approximately 5 dots were added.",0.0,8067.19446182251
+LLaMA,run_0,EXP5-Results/100/100_image_20.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7485.692024230957
+LLaMA,run_0,EXP5-Results/100/100_image_21.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a pattern of dots with an increase of 5 dots per iteration. Starting with 100 dots, the next iteration would add 5 more dots, resulting in 105 dots. The next iteration would add another 5 dots, resulting in 110 dots. This pattern continues, with each iteration adding 5 more dots than the previous one.
+
+*Answer*: 5",0.0,12836.090326309204
+LLaMA,run_0,EXP5-Results/100/100_image_22.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7126.584529876709
+LLaMA,run_0,EXP5-Results/100/100_image_23.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7094.202041625977
+LLaMA,run_0,EXP5-Results/100/100_image_24.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7284.884214401245
+LLaMA,run_0,EXP5-Results/100/100_image_25.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7186.632871627808
+LLaMA,run_0,EXP5-Results/100/100_image_26.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7053.826808929443
+LLaMA,run_0,EXP5-Results/100/100_image_27.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,6925.764560699463
+LLaMA,run_0,EXP5-Results/100/100_image_28.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7157.806158065796
+LLaMA,run_0,EXP5-Results/100/100_image_29.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7232.667446136475
+LLaMA,run_0,EXP5-Results/100/100_image_30.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+8",0.0,7262.909889221191
+LLaMA,run_0,EXP5-Results/100/100_image_31.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a pattern of dots that appear to be randomly scattered. The dots are black and are placed on a white background. The dots are not arranged in any specific pattern, but they seem to be concentrated in certain areas.
+
+To estimate the number of dots added to the initial 100 dots, we can count the number of dots in each quadrant and then multiply it by 4. 
+
+The top-left quadrant has approximately 25 dots, the top-right quadrant has approximately 20 dots, the bottom-left quadrant has approximately 15 dots, and the bottom-right quadrant has approximately 10 dots. 
+
+So, the total number of dots added to the initial 100 dots is 25 + 20 + 15 + 10 = 70. 
+
+Therefore, the estimated number of dots added to the initial 100 dots is 70.",0.0,18646.4626789093
+LLaMA,run_0,EXP5-Results/100/100_image_32.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7084.752321243286
+LLaMA,run_0,EXP5-Results/100/100_image_33.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7417.018413543701
+LLaMA,run_0,EXP5-Results/100/100_image_34.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7023.024082183838
+LLaMA,run_0,EXP5-Results/100/100_image_35.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+9",0.0,6959.954500198364
+LLaMA,run_0,EXP5-Results/100/100_image_36.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+8",0.0,7168.4558391571045
+LLaMA,run_0,EXP5-Results/100/100_image_37.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7004.03618812561
+LLaMA,run_0,EXP5-Results/100/100_image_38.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5.",0.0,7269.688367843628
+LLaMA,run_0,EXP5-Results/100/100_image_39.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7191.524267196655
+LLaMA,run_0,EXP5-Results/100/100_image_40.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a pattern of dots, with the initial 100 dots being the starting point. The pattern appears to be a random distribution of dots, with some dots added to the initial 100 dots. To estimate the number of dots added, we can count the total number of dots in the image and subtract the initial 100 dots.
+
+Upon counting, we can see that there are approximately 150 dots in the image. Subtracting the initial 100 dots from this total gives us an estimate of 50 dots added.
+
+*Answer*: 50",0.0,14802.15835571289
+LLaMA,run_0,EXP5-Results/100/100_image_41.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a scatter plot with 100 dots initially, and an unknown number of additional dots added. The additional dots are scattered randomly throughout the plot, with some areas having more dots than others.
+
+To estimate the number of additional dots, we can observe the following:
+
+*   The density of the dots in the plot is not uniform, with some areas having more dots than others.
+*   The distribution of the dots appears to be random, with no clear pattern or clustering.
+
+Based on these observations, it is difficult to provide an exact estimate of the number of additional dots. However, we can make an educated guess based on the visual appearance of the plot.
+
+**Answer:** 5",0.0,16676.70202255249
+LLaMA,run_0,EXP5-Results/100/100_image_42.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7289.848327636719
+LLaMA,run_0,EXP5-Results/100/100_image_43.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 7.",0.0,7509.61446762085
+LLaMA,run_0,EXP5-Results/100/100_image_44.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7023.8189697265625
+LLaMA,run_0,EXP5-Results/100/100_image_45.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7183.545827865601
+LLaMA,run_0,EXP5-Results/100/100_image_46.png,1.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7420.257091522217
+LLaMA,run_0,EXP5-Results/100/100_image_47.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7398.377418518066
+LLaMA,run_0,EXP5-Results/100/100_image_48.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5.",0.0,8489.583253860474
+LLaMA,run_0,EXP5-Results/100/100_image_49.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,6954.856157302856
+LLaMA,run_0,EXP5-Results/100/100_image_50.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7582.3655128479
+LLaMA,run_0,EXP5-Results/100/100_image_51.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7146.222829818726
+LLaMA,run_0,EXP5-Results/100/100_image_52.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The answer is 5.",0.0,7331.649303436279
+LLaMA,run_0,EXP5-Results/100/100_image_53.png,7.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7017.658233642578
+LLaMA,run_0,EXP5-Results/100/100_image_54.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7414.791107177734
+LLaMA,run_0,EXP5-Results/100/100_image_55.png,1.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7368.115186691284
+LLaMA,run_1,EXP5-Results/100/100_image_1.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7034.470319747925
+LLaMA,run_1,EXP5-Results/100/100_image_2.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a pattern of dots on a white background. The dots are arranged in a seemingly random pattern, with some dots appearing to be clustered together and others spaced farther apart.
+
+To estimate the number of additional dots added to the initial 100 dots, we can count the dots in the image. There are approximately 150 dots visible in the image. Therefore, the estimated number of additional dots added is:
+
+150 - 100 = 50
+
+So, approximately 50 dots were added to the initial 100 dots.",0.0,14492.429971694946
+LLaMA,run_1,EXP5-Results/100/100_image_3.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7025.826930999756
+LLaMA,run_1,EXP5-Results/100/100_image_4.png,7.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7048.470973968506
+LLaMA,run_1,EXP5-Results/100/100_image_5.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7415.8360958099365
+LLaMA,run_1,EXP5-Results/100/100_image_6.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+Approximately 4.",0.0,7212.079048156738
+LLaMA,run_1,EXP5-Results/100/100_image_7.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image depicts a pattern of dots that appears to be generated by a simple algorithm or rule. To estimate the number of dots added to the initial 100 dots, we can observe the pattern and make an educated guess.
+
+*Answer*: 5",0.0,10319.063186645508
+LLaMA,run_1,EXP5-Results/100/100_image_8.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7056.095123291016
+LLaMA,run_1,EXP5-Results/100/100_image_9.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7508.617639541626
+LLaMA,run_1,EXP5-Results/100/100_image_10.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a pattern of dots with an increasing number of dots from left to right and top to bottom. The initial 100 dots are located in the top-left corner, and the pattern continues to the right and down. 
+
+To estimate the number of additional dots added, we can count the number of rows and columns. There are 10 rows and 10 columns, with each row having one more dot than the previous one. The total number of dots in each row is: 100, 101, 102,..., 110.
+
+To find the total number of additional dots, we can subtract the initial 100 dots from the total number of dots in the last row (110). This gives us:
+
+110 - 100 = 10
+
+Therefore, an estimated 10 dots were added to the initial 100 dots.",0.0,18744.875192642212
+LLaMA,run_1,EXP5-Results/100/100_image_11.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7655.929803848267
+LLaMA,run_1,EXP5-Results/100/100_image_12.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,6990.70930480957
+LLaMA,run_1,EXP5-Results/100/100_image_13.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7182.204723358154
+LLaMA,run_1,EXP5-Results/100/100_image_14.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7206.860303878784
+LLaMA,run_1,EXP5-Results/100/100_image_15.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,6938.5974407196045
+LLaMA,run_1,EXP5-Results/100/100_image_16.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7421.103954315186
+LLaMA,run_1,EXP5-Results/100/100_image_17.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7621.709108352661
+LLaMA,run_1,EXP5-Results/100/100_image_18.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7159.567594528198
+LLaMA,run_1,EXP5-Results/100/100_image_19.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 3.",0.0,7684.640645980835
+LLaMA,run_1,EXP5-Results/100/100_image_20.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7077.954053878784
+LLaMA,run_1,EXP5-Results/100/100_image_21.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7293.562412261963
+LLaMA,run_1,EXP5-Results/100/100_image_22.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5.",0.0,7189.650297164917
+LLaMA,run_1,EXP5-Results/100/100_image_23.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,6971.729040145874
+LLaMA,run_1,EXP5-Results/100/100_image_24.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7220.911979675293
+LLaMA,run_1,EXP5-Results/100/100_image_25.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7193.081855773926
+LLaMA,run_1,EXP5-Results/100/100_image_26.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+8",0.0,7034.909963607788
+LLaMA,run_1,EXP5-Results/100/100_image_27.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7008.379697799683
+LLaMA,run_1,EXP5-Results/100/100_image_28.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7294.510126113892
+LLaMA,run_1,EXP5-Results/100/100_image_29.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7144.7694301605225
+LLaMA,run_1,EXP5-Results/100/100_image_30.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7266.136884689331
+LLaMA,run_1,EXP5-Results/100/100_image_31.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7102.989196777344
+LLaMA,run_1,EXP5-Results/100/100_image_32.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7388.6613845825195
+LLaMA,run_1,EXP5-Results/100/100_image_33.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 6.",0.0,7413.661479949951
+LLaMA,run_1,EXP5-Results/100/100_image_34.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 4.",0.0,7464.835166931152
+LLaMA,run_1,EXP5-Results/100/100_image_35.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 7.",0.0,7604.773998260498
+LLaMA,run_1,EXP5-Results/100/100_image_36.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The answer is 5.",0.0,7576.793909072876
+LLaMA,run_1,EXP5-Results/100/100_image_37.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a visual representation of the number of dots added to the initial 100 dots. To estimate the number of dots added, we need to compare the number of dots in the final image to the initial 100 dots.
+
+Upon observation, it appears that the number of dots has increased significantly, but not by a large amount. The dots seem to be spread out in a way that suggests some have been added, but not in a uniform pattern.
+
+Given the range of 1 to 10, I would estimate that around 5 dots were added to the initial 100 dots.",0.0,15063.094854354858
+LLaMA,run_1,EXP5-Results/100/100_image_38.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+8",0.0,7081.573247909546
+LLaMA,run_1,EXP5-Results/100/100_image_39.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7089.686393737793
+LLaMA,run_1,EXP5-Results/100/100_image_40.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+9.",0.0,7041.540145874023
+LLaMA,run_1,EXP5-Results/100/100_image_41.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image depicts a pattern of dots, with a starting point of 100 dots and an additional 19 dots added. The dots are arranged in a random pattern, with no discernible structure or symmetry. The image is presented in a black and white color scheme, with the dots being black and the background being white.
+
+*Answer*: 19",0.0,11772.82691001892
+LLaMA,run_1,EXP5-Results/100/100_image_42.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image depicts a scatter plot with 100 dots initially, and upon closer inspection, it appears that the dots are randomly distributed across the plot. The distribution of the dots seems to be uniform, with no discernible pattern or trend.
+
+To estimate the number of additional dots added, let's consider the following:
+
+*   The initial 100 dots are evenly spaced and cover the entire plot.
+*   The additional dots appear to be randomly placed within the existing dots, with no clear pattern or correlation.
+*   The density of the dots seems to be consistent throughout the plot, with no areas having significantly more or fewer dots than others.
+
+Given these observations, it's reasonable to assume that the number of additional dots is relatively small compared to the initial 100 dots. Based on the visual inspection, I estimate that around 5-6 dots were added to the initial 100 dots.",0.0,19388.89741897583
+LLaMA,run_1,EXP5-Results/100/100_image_43.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7141.462087631226
+LLaMA,run_1,EXP5-Results/100/100_image_44.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,6980.616092681885
+LLaMA,run_1,EXP5-Results/100/100_image_45.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7247.428894042969
+LLaMA,run_1,EXP5-Results/100/100_image_46.png,1.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+8",0.0,7181.570529937744
+LLaMA,run_1,EXP5-Results/100/100_image_47.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,6912.564754486084
+LLaMA,run_1,EXP5-Results/100/100_image_48.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7266.284465789795
+LLaMA,run_1,EXP5-Results/100/100_image_49.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7459.175109863281
+LLaMA,run_1,EXP5-Results/100/100_image_50.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,6984.7424030303955
+LLaMA,run_1,EXP5-Results/100/100_image_51.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7150.23398399353
+LLaMA,run_1,EXP5-Results/100/100_image_52.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The answer is 5.",0.0,7791.756153106689
+LLaMA,run_1,EXP5-Results/100/100_image_53.png,7.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+8",0.0,6977.77533531189
+LLaMA,run_1,EXP5-Results/100/100_image_54.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,6967.234134674072
+LLaMA,run_1,EXP5-Results/100/100_image_55.png,1.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+9",0.0,7232.238292694092
+LLaMA,run_2,EXP5-Results/100/100_image_1.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7183.614253997803
+LLaMA,run_2,EXP5-Results/100/100_image_2.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 4.",0.0,7575.676918029785
+LLaMA,run_2,EXP5-Results/100/100_image_3.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7183.427333831787
+LLaMA,run_2,EXP5-Results/100/100_image_4.png,7.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7127.011060714722
+LLaMA,run_2,EXP5-Results/100/100_image_5.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+8",0.0,6967.028617858887
+LLaMA,run_2,EXP5-Results/100/100_image_6.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5.",0.0,7049.980878829956
+LLaMA,run_2,EXP5-Results/100/100_image_7.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The answer is 3.",0.0,7679.2402267456055
+LLaMA,run_2,EXP5-Results/100/100_image_8.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7381.992816925049
+LLaMA,run_2,EXP5-Results/100/100_image_9.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7007.49945640564
+LLaMA,run_2,EXP5-Results/100/100_image_10.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 4.",0.0,7417.855978012085
+LLaMA,run_2,EXP5-Results/100/100_image_11.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7289.670467376709
+LLaMA,run_2,EXP5-Results/100/100_image_12.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7128.88240814209
+LLaMA,run_2,EXP5-Results/100/100_image_13.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a pattern of dots, with the initial 100 dots forming a square. The dots are arranged in a way that suggests a random or scattered distribution.
+
+**Step 1: Estimate the number of additional dots**
+
+*   The image shows a pattern of dots, with the initial 100 dots forming a square.
+*   The dots are arranged in a way that suggests a random or scattered distribution.
+
+**Step 2: Analyze the pattern**
+
+*   The dots are not evenly spaced, and there are some areas with more dots than others.
+*   There are some areas with fewer dots, and some areas with more dots.
+
+**Step 3: Estimate the number of additional dots**
+
+*   Based on the pattern, it appears that around 20-30 additional dots were added to the initial 100 dots.
+
+**Answer:** 25",0.0,19009.78398323059
+LLaMA,run_2,EXP5-Results/100/100_image_14.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7018.270254135132
+LLaMA,run_2,EXP5-Results/100/100_image_15.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7226.840257644653
+LLaMA,run_2,EXP5-Results/100/100_image_16.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7296.345472335815
+LLaMA,run_2,EXP5-Results/100/100_image_17.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7318.950891494751
+LLaMA,run_2,EXP5-Results/100/100_image_18.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+8",0.0,7072.75915145874
+LLaMA,run_2,EXP5-Results/100/100_image_19.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+Approximately 8.",0.0,7490.7214641571045
+LLaMA,run_2,EXP5-Results/100/100_image_20.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7049.546957015991
+LLaMA,run_2,EXP5-Results/100/100_image_21.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a pattern of dots that appears to be randomly scattered. To estimate the number of dots added to the initial 100 dots, we need to count the total number of dots in the image.
+
+*Answer*: 7",0.0,10681.296348571777
+LLaMA,run_2,EXP5-Results/100/100_image_22.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7163.94305229187
+LLaMA,run_2,EXP5-Results/100/100_image_23.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,6980.938911437988
+LLaMA,run_2,EXP5-Results/100/100_image_24.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7222.8240966796875
+LLaMA,run_2,EXP5-Results/100/100_image_25.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+5",0.0,7008.994340896606
+LLaMA,run_2,EXP5-Results/100/100_image_26.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7037.549018859863
+LLaMA,run_2,EXP5-Results/100/100_image_27.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7539.055585861206
+LLaMA,run_2,EXP5-Results/100/100_image_28.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7203.530311584473
+LLaMA,run_2,EXP5-Results/100/100_image_29.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7166.815757751465
+LLaMA,run_2,EXP5-Results/100/100_image_30.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 6.",0.0,7573.010683059692
+LLaMA,run_2,EXP5-Results/100/100_image_31.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+Approximately 7",0.0,7475.411176681519
+LLaMA,run_2,EXP5-Results/100/100_image_32.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+7",0.0,7499.211072921753
+LLaMA,run_2,EXP5-Results/100/100_image_33.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a dot pattern with 100 dots. The number of dots added can be estimated by counting the number of dots in each quadrant and comparing it to the initial 100 dots. The top-left quadrant has 20 dots, the top-right quadrant has 30 dots, the bottom-left quadrant has 25 dots, and the bottom-right quadrant has 25 dots. The total number of dots in the top and bottom-right quadrants is 30 + 25 = 55. The total number of dots in the top and bottom-left quadrants is 20 + 25 = 45. Therefore, the total number of dots added is 55 + 45 = 100. However, this is the same as the initial 100 dots, so the number of dots added is 0.",0.0,18165.10844230652
+LLaMA,run_2,EXP5-Results/100/100_image_34.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+8",0.0,6981.321334838867
+LLaMA,run_2,EXP5-Results/100/100_image_35.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 7.",0.0,7985.0172996521
+LLaMA,run_2,EXP5-Results/100/100_image_36.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a plot of 100 dots, with some dots added to the initial 100 dots. The added dots are scattered throughout the plot, with some clusters and some isolated dots. To estimate the number of added dots, we can count the number of dots in each cluster and add them up.
+
+There are 5 clusters of 10 dots each, and 3 clusters of 5 dots each. There are also 2 clusters of 3 dots each and 1 cluster of 2 dots. In addition, there are 7 isolated dots.
+
+To estimate the total number of added dots, we can multiply the number of dots in each cluster by the number of clusters, and then add the number of isolated dots:
+
+(5 x 10) + (3 x 5) + (2 x 3) + (1 x 2) + 7 = 50 + 15 + 6 + 2 + 7 = 80
+
+Therefore, there are approximately 80 added dots.",0.0,21338.95993232727
+LLaMA,run_2,EXP5-Results/100/100_image_37.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,13090.239763259888
+LLaMA,run_2,EXP5-Results/100/100_image_38.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a graph with 100 dots on the x-axis and 100 dots on the y-axis, with a scatter plot of points. The points are randomly distributed, with some points clustered together and others spread out.
+
+To estimate the number of additional dots added to the initial 100 dots, we need to count the number of points in the scatter plot. Based on the image, it appears that there are approximately 50-60 additional points added to the initial 100 dots.
+
+Answer: 60",0.0,14003.603458404541
+LLaMA,run_2,EXP5-Results/100/100_image_39.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,6945.8019733428955
+LLaMA,run_2,EXP5-Results/100/100_image_40.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,6987.19334602356
+LLaMA,run_2,EXP5-Results/100/100_image_41.png,3.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a pattern of dots on a white background. The pattern is made up of small black dots, with some dots being added to the initial 100 dots.
+
+*Answer*: 5",0.0,10265.076637268066
+LLaMA,run_2,EXP5-Results/100/100_image_42.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+Approximately 5.",0.0,7681.786298751831
+LLaMA,run_2,EXP5-Results/100/100_image_43.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7159.676551818848
+LLaMA,run_2,EXP5-Results/100/100_image_44.png,8.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7038.841247558594
+LLaMA,run_2,EXP5-Results/100/100_image_45.png,5.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7010.775327682495
+LLaMA,run_2,EXP5-Results/100/100_image_46.png,1.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7624.57799911499
+LLaMA,run_2,EXP5-Results/100/100_image_47.png,9.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 7.",0.0,7651.176691055298
+LLaMA,run_2,EXP5-Results/100/100_image_48.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The image shows a scatter plot with 100 dots initially and 150 dots after some have been added. The range of the answer is 1 to 10. 
+
+150",0.0,9564.519166946411
+LLaMA,run_2,EXP5-Results/100/100_image_49.png,10.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,6926.188945770264
+LLaMA,run_2,EXP5-Results/100/100_image_50.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 7.",0.0,7587.402820587158
+LLaMA,run_2,EXP5-Results/100/100_image_51.png,4.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7404.169797897339
+LLaMA,run_2,EXP5-Results/100/100_image_52.png,6.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+The final answer is 5.",0.0,7344.209671020508
+LLaMA,run_2,EXP5-Results/100/100_image_53.png,7.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7133.231401443481
+LLaMA,run_2,EXP5-Results/100/100_image_54.png,2.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,7228.309392929077
+LLaMA,run_2,EXP5-Results/100/100_image_55.png,1.0,"user
+
+Please estimate how many dots were added to the initial 100 dots. Answer range 1 to 10. Number only. No explanation.assistant
+
+6",0.0,10855.571508407593
+LLaMA,average,,,,,
+GeminiProVision,run_0,EXP5-Results/100/100_image_1.png,4.0,"4
+",0.0,5608.6745262146
+GeminiProVision,run_0,EXP5-Results/100/100_image_2.png,4.0,"7
+",0.0,5540.955543518066
+GeminiProVision,run_0,EXP5-Results/100/100_image_3.png,6.0,"4
+",0.0,5507.664680480957
+GeminiProVision,run_0,EXP5-Results/100/100_image_4.png,7.0,"4
+",0.0,5534.334182739258
+GeminiProVision,run_0,EXP5-Results/100/100_image_5.png,8.0,"2
+",0.0,5501.025676727295
+GeminiProVision,run_0,EXP5-Results/100/100_image_6.png,4.0,"2
+",0.0,5546.219825744629
+GeminiProVision,run_0,EXP5-Results/100/100_image_7.png,8.0,"2
+",0.0,5630.280017852783
+GeminiProVision,run_0,EXP5-Results/100/100_image_8.png,10.0,"2
+",0.0,5532.14168548584
+GeminiProVision,run_0,EXP5-Results/100/100_image_9.png,6.0,"2
+",0.0,5534.43717956543
+GeminiProVision,run_0,EXP5-Results/100/100_image_10.png,3.0,"2
+",0.0,5539.777517318726
+GeminiProVision,run_0,EXP5-Results/100/100_image_11.png,2.0,"2
+",0.0,5658.35428237915
+GeminiProVision,run_0,EXP5-Results/100/100_image_12.png,3.0,"4
+",0.0,5500.597238540649
+GeminiProVision,run_0,EXP5-Results/100/100_image_13.png,9.0,"4
+",0.0,5499.15623664856
+GeminiProVision,run_0,EXP5-Results/100/100_image_14.png,5.0,"4
+",0.0,5514.256715774536
+GeminiProVision,run_0,EXP5-Results/100/100_image_15.png,3.0,"2
+",0.0,5506.653070449829
+GeminiProVision,run_0,EXP5-Results/100/100_image_16.png,2.0,"2
+",0.0,5503.528833389282
+GeminiProVision,run_0,EXP5-Results/100/100_image_17.png,10.0,"4
+",0.0,5521.857500076294
+GeminiProVision,run_0,EXP5-Results/100/100_image_18.png,9.0,"4
+",0.0,5518.671989440918
+GeminiProVision,run_0,EXP5-Results/100/100_image_19.png,2.0,"2
+",0.0,5592.247486114502
+GeminiProVision,run_0,EXP5-Results/100/100_image_20.png,2.0,"4
+",0.0,5509.613513946533
+GeminiProVision,run_0,EXP5-Results/100/100_image_21.png,2.0,"2
+",0.0,5529.693603515625
+GeminiProVision,run_0,EXP5-Results/100/100_image_22.png,10.0,"2
+",0.0,5506.890773773193
+GeminiProVision,run_0,EXP5-Results/100/100_image_23.png,5.0,"2
+",0.0,5499.073505401611
+GeminiProVision,run_0,EXP5-Results/100/100_image_24.png,3.0,"4
+",0.0,5511.113405227661
+GeminiProVision,run_0,EXP5-Results/100/100_image_25.png,2.0,"4
+",0.0,5497.681379318237
+GeminiProVision,run_0,EXP5-Results/100/100_image_26.png,2.0,"4
+",0.0,5879.2665004730225
+GeminiProVision,run_0,EXP5-Results/100/100_image_27.png,2.0,"2
+",0.0,5524.024963378906
+GeminiProVision,run_0,EXP5-Results/100/100_image_28.png,10.0,"2
+",0.0,5631.488084793091
+GeminiProVision,run_0,EXP5-Results/100/100_image_29.png,9.0,"4
+",0.0,5505.447864532471
+GeminiProVision,run_0,EXP5-Results/100/100_image_30.png,6.0,"4
+",0.0,5520.184755325317
+GeminiProVision,run_0,EXP5-Results/100/100_image_31.png,8.0,"2
+",0.0,5518.4526443481445
+GeminiProVision,run_0,EXP5-Results/100/100_image_32.png,6.0,"2
+",0.0,5487.19334602356
+GeminiProVision,run_0,EXP5-Results/100/100_image_33.png,8.0,"7
+",0.0,5522.012710571289
+GeminiProVision,run_0,EXP5-Results/100/100_image_34.png,5.0,"2
+",0.0,5491.096019744873
+GeminiProVision,run_0,EXP5-Results/100/100_image_35.png,5.0,"2
+",0.0,5503.427505493164
+GeminiProVision,run_0,EXP5-Results/100/100_image_36.png,4.0,"4
+",0.0,5499.972343444824
+GeminiProVision,run_0,EXP5-Results/100/100_image_37.png,2.0,"7
+",0.0,5492.505311965942
+GeminiProVision,run_0,EXP5-Results/100/100_image_38.png,4.0,"4
+",0.0,5522.958755493164
+GeminiProVision,run_0,EXP5-Results/100/100_image_39.png,5.0,"4
+",0.0,5499.373912811279
+GeminiProVision,run_0,EXP5-Results/100/100_image_40.png,4.0,"4
+",0.0,5507.4920654296875
+GeminiProVision,run_0,EXP5-Results/100/100_image_41.png,3.0,"2
+",0.0,5540.198087692261
+GeminiProVision,run_0,EXP5-Results/100/100_image_42.png,2.0,"4
+",0.0,5503.953456878662
+GeminiProVision,run_0,EXP5-Results/100/100_image_43.png,6.0,"4
+",0.0,5509.49764251709
+GeminiProVision,run_0,EXP5-Results/100/100_image_44.png,8.0,"2
+",0.0,5484.287738800049
+GeminiProVision,run_0,EXP5-Results/100/100_image_45.png,5.0,"4
+",0.0,5512.812614440918
+GeminiProVision,run_0,EXP5-Results/100/100_image_46.png,1.0,"2
+",0.0,5507.951259613037
+GeminiProVision,run_0,EXP5-Results/100/100_image_47.png,9.0,"2
+",0.0,5506.91556930542
+GeminiProVision,run_0,EXP5-Results/100/100_image_48.png,6.0,"2
+",0.0,5538.004159927368
+GeminiProVision,run_0,EXP5-Results/100/100_image_49.png,10.0,"2
+",0.0,5522.478342056274
+GeminiProVision,run_0,EXP5-Results/100/100_image_50.png,2.0,"4
+",0.0,5505.006551742554
+GeminiProVision,run_0,EXP5-Results/100/100_image_51.png,4.0,"4
+",0.0,5506.728410720825
+GeminiProVision,run_0,EXP5-Results/100/100_image_52.png,6.0,"4
+",0.0,5501.553773880005
+GeminiProVision,run_0,EXP5-Results/100/100_image_53.png,7.0,"4
+",0.0,5498.780250549316
+GeminiProVision,run_0,EXP5-Results/100/100_image_54.png,2.0,"4
+",0.0,5522.119998931885
+GeminiProVision,run_0,EXP5-Results/100/100_image_55.png,1.0,"4
+",0.0,5479.535341262817
+GeminiProVision,run_1,EXP5-Results/100/100_image_1.png,4.0,"4
+",0.0,5513.207674026489
+GeminiProVision,run_1,EXP5-Results/100/100_image_2.png,4.0,"4
+",0.0,5522.377729415894
+GeminiProVision,run_1,EXP5-Results/100/100_image_3.png,6.0,"4
+",0.0,5511.384725570679
+GeminiProVision,run_1,EXP5-Results/100/100_image_4.png,7.0,"2
+",0.0,5501.9519329071045
+GeminiProVision,run_1,EXP5-Results/100/100_image_5.png,8.0,"2
+",0.0,5512.7854347229
+GeminiProVision,run_1,EXP5-Results/100/100_image_6.png,4.0,"4
+",0.0,5509.459495544434
+GeminiProVision,run_1,EXP5-Results/100/100_image_7.png,8.0,"2
+",0.0,5505.28359413147
+GeminiProVision,run_1,EXP5-Results/100/100_image_8.png,10.0,"2
+",0.0,5513.709783554077
+GeminiProVision,run_1,EXP5-Results/100/100_image_9.png,6.0,"4
+",0.0,5499.930858612061
+GeminiProVision,run_1,EXP5-Results/100/100_image_10.png,3.0,"2
+",0.0,5519.985198974609
+GeminiProVision,run_1,EXP5-Results/100/100_image_11.png,2.0,"2
+",0.0,5545.2399253845215
+GeminiProVision,run_1,EXP5-Results/100/100_image_12.png,3.0,"4
+",0.0,5514.453411102295
+GeminiProVision,run_1,EXP5-Results/100/100_image_13.png,9.0,"4
+",0.0,5502.4895668029785
+GeminiProVision,run_1,EXP5-Results/100/100_image_14.png,5.0,"4
+",0.0,5495.415925979614
+GeminiProVision,run_1,EXP5-Results/100/100_image_15.png,3.0,"4
+",0.0,5498.1689453125
+GeminiProVision,run_1,EXP5-Results/100/100_image_16.png,2.0,"2
+",0.0,5539.1998291015625
+GeminiProVision,run_1,EXP5-Results/100/100_image_17.png,10.0,"4
+",0.0,5505.829095840454
+GeminiProVision,run_1,EXP5-Results/100/100_image_18.png,9.0,"4
+",0.0,5505.012035369873
+GeminiProVision,run_1,EXP5-Results/100/100_image_19.png,2.0,"4
+",0.0,5493.437051773071
+GeminiProVision,run_1,EXP5-Results/100/100_image_20.png,2.0,"4
+",0.0,5504.238843917847
+GeminiProVision,run_1,EXP5-Results/100/100_image_21.png,2.0,"2
+",0.0,5606.36830329895
+GeminiProVision,run_1,EXP5-Results/100/100_image_22.png,10.0,"4
+",0.0,5519.9034214019775
+GeminiProVision,run_1,EXP5-Results/100/100_image_23.png,5.0,"4
+",0.0,5506.526231765747
+GeminiProVision,run_1,EXP5-Results/100/100_image_24.png,3.0,"4
+",0.0,5511.689186096191
+GeminiProVision,run_1,EXP5-Results/100/100_image_25.png,2.0,"2
+",0.0,5509.0014934539795
+GeminiProVision,run_1,EXP5-Results/100/100_image_26.png,2.0,"4
+",0.0,5497.4424839019775
+GeminiProVision,run_1,EXP5-Results/100/100_image_27.png,2.0,"7
+",0.0,5498.28028678894
+GeminiProVision,run_1,EXP5-Results/100/100_image_28.png,10.0,"7
+",0.0,5503.334999084473
+GeminiProVision,run_1,EXP5-Results/100/100_image_29.png,9.0,"4
+",0.0,5514.42289352417
+GeminiProVision,run_1,EXP5-Results/100/100_image_30.png,6.0,"4
+",0.0,5678.341865539551
+GeminiProVision,run_1,EXP5-Results/100/100_image_31.png,8.0,"2
+",0.0,5509.340763092041
+GeminiProVision,run_1,EXP5-Results/100/100_image_32.png,6.0,"2
+",0.0,5493.88575553894
+GeminiProVision,run_1,EXP5-Results/100/100_image_33.png,8.0,"2
+",0.0,5499.031066894531
+GeminiProVision,run_1,EXP5-Results/100/100_image_34.png,5.0,"4
+",0.0,5516.450881958008
+GeminiProVision,run_1,EXP5-Results/100/100_image_35.png,5.0,"2
+",0.0,5500.532388687134
+GeminiProVision,run_1,EXP5-Results/100/100_image_36.png,4.0,"4
+",0.0,5497.591018676758
+GeminiProVision,run_1,EXP5-Results/100/100_image_37.png,2.0,"4
+",0.0,5508.664131164551
+GeminiProVision,run_1,EXP5-Results/100/100_image_38.png,4.0,"4
+",0.0,5508.754253387451
+GeminiProVision,run_1,EXP5-Results/100/100_image_39.png,5.0,"2
+",0.0,5525.847434997559
+GeminiProVision,run_1,EXP5-Results/100/100_image_40.png,4.0,"4
+",0.0,5602.551221847534
+GeminiProVision,run_1,EXP5-Results/100/100_image_41.png,3.0,"4
+",0.0,5488.771200180054
+GeminiProVision,run_1,EXP5-Results/100/100_image_42.png,2.0,"4
+",0.0,5503.035306930542
+GeminiProVision,run_1,EXP5-Results/100/100_image_43.png,6.0,"2
+",0.0,5503.410339355469
+GeminiProVision,run_1,EXP5-Results/100/100_image_44.png,8.0,"2
+",0.0,5503.293991088867
+GeminiProVision,run_1,EXP5-Results/100/100_image_45.png,5.0,"4
+",0.0,5539.800643920898
+GeminiProVision,run_1,EXP5-Results/100/100_image_46.png,1.0,"4
+",0.0,5541.944265365601
+GeminiProVision,run_1,EXP5-Results/100/100_image_47.png,9.0,"2
+",0.0,5534.466505050659
+GeminiProVision,run_1,EXP5-Results/100/100_image_48.png,6.0,"4
+",0.0,5489.18342590332
+GeminiProVision,run_1,EXP5-Results/100/100_image_49.png,10.0,"2
+",0.0,5513.334512710571
+GeminiProVision,run_1,EXP5-Results/100/100_image_50.png,2.0,"2
+",0.0,5504.737615585327
+GeminiProVision,run_1,EXP5-Results/100/100_image_51.png,4.0,"2
+",0.0,5499.9680519104
+GeminiProVision,run_1,EXP5-Results/100/100_image_52.png,6.0,"4
+",0.0,5510.438442230225
+GeminiProVision,run_1,EXP5-Results/100/100_image_53.png,7.0,"4
+",0.0,5490.650415420532
+GeminiProVision,run_1,EXP5-Results/100/100_image_54.png,2.0,"2
+",0.0,5503.014087677002
+GeminiProVision,run_1,EXP5-Results/100/100_image_55.png,1.0,"4
+",0.0,5527.939081192017
+GeminiProVision,run_2,EXP5-Results/100/100_image_1.png,4.0,"4
+",0.0,5497.033357620239
+GeminiProVision,run_2,EXP5-Results/100/100_image_2.png,4.0,"4
+",0.0,5501.639604568481
+GeminiProVision,run_2,EXP5-Results/100/100_image_3.png,6.0,"4
+",0.0,5494.753122329712
+GeminiProVision,run_2,EXP5-Results/100/100_image_4.png,7.0,"4
+",0.0,5495.161294937134
+GeminiProVision,run_2,EXP5-Results/100/100_image_5.png,8.0,"2
+",0.0,5504.32825088501
+GeminiProVision,run_2,EXP5-Results/100/100_image_6.png,4.0,"2
+",0.0,5683.693408966064
+GeminiProVision,run_2,EXP5-Results/100/100_image_7.png,8.0,"2
+",0.0,5488.609552383423
+GeminiProVision,run_2,EXP5-Results/100/100_image_8.png,10.0,"2
+",0.0,5522.4316120147705
+GeminiProVision,run_2,EXP5-Results/100/100_image_9.png,6.0,"4
+",0.0,5512.870311737061
+GeminiProVision,run_2,EXP5-Results/100/100_image_10.png,3.0,"2
+",0.0,5495.783090591431
+GeminiProVision,run_2,EXP5-Results/100/100_image_11.png,2.0,"2
+",0.0,5532.6361656188965
+GeminiProVision,run_2,EXP5-Results/100/100_image_12.png,3.0,"4
+",0.0,5513.5817527771
+GeminiProVision,run_2,EXP5-Results/100/100_image_13.png,9.0,"4
+",0.0,5491.941690444946
+GeminiProVision,run_2,EXP5-Results/100/100_image_14.png,5.0,"2
+",0.0,5491.521835327148
+GeminiProVision,run_2,EXP5-Results/100/100_image_15.png,3.0,"4
+",0.0,5494.643449783325
+GeminiProVision,run_2,EXP5-Results/100/100_image_16.png,2.0,"4
+",0.0,5534.273147583008
+GeminiProVision,run_2,EXP5-Results/100/100_image_17.png,10.0,"4
+",0.0,5568.142890930176
+GeminiProVision,run_2,EXP5-Results/100/100_image_18.png,9.0,"2
+",0.0,5522.228240966797
+GeminiProVision,run_2,EXP5-Results/100/100_image_19.png,2.0,"2
+",0.0,5509.555339813232
+GeminiProVision,run_2,EXP5-Results/100/100_image_20.png,2.0,"4
+",0.0,5531.804323196411
+GeminiProVision,run_2,EXP5-Results/100/100_image_21.png,2.0,"4
+",0.0,5509.761571884155
+GeminiProVision,run_2,EXP5-Results/100/100_image_22.png,10.0,"4
+",0.0,5533.524751663208
+GeminiProVision,run_2,EXP5-Results/100/100_image_23.png,5.0,"2
+",0.0,5527.53758430481
+GeminiProVision,run_2,EXP5-Results/100/100_image_24.png,3.0,"4
+",0.0,5513.537645339966
+GeminiProVision,run_2,EXP5-Results/100/100_image_25.png,2.0,"2
+",0.0,5539.482355117798
+GeminiProVision,run_2,EXP5-Results/100/100_image_26.png,2.0,"2
+",0.0,5509.28258895874
+GeminiProVision,run_2,EXP5-Results/100/100_image_27.png,2.0,"4
+",0.0,5501.450538635254
+GeminiProVision,run_2,EXP5-Results/100/100_image_28.png,10.0,"2
+",0.0,5496.508836746216
+GeminiProVision,run_2,EXP5-Results/100/100_image_29.png,9.0,"4
+",0.0,5523.989200592041
+GeminiProVision,run_2,EXP5-Results/100/100_image_30.png,6.0,"4
+",0.0,5506.411790847778
+GeminiProVision,run_2,EXP5-Results/100/100_image_31.png,8.0,"2
+",0.0,5541.225910186768
+GeminiProVision,run_2,EXP5-Results/100/100_image_32.png,6.0,"2
+",0.0,5501.765966415405
+GeminiProVision,run_2,EXP5-Results/100/100_image_33.png,8.0,"2
+",0.0,5540.6646728515625
+GeminiProVision,run_2,EXP5-Results/100/100_image_34.png,5.0,"2
+",0.0,5506.70599937439
+GeminiProVision,run_2,EXP5-Results/100/100_image_35.png,5.0,"2
+",0.0,5525.4967212677
+GeminiProVision,run_2,EXP5-Results/100/100_image_36.png,4.0,"4
+",0.0,5533.288955688477
+GeminiProVision,run_2,EXP5-Results/100/100_image_37.png,2.0,"4
+",0.0,5509.966611862183
+GeminiProVision,run_2,EXP5-Results/100/100_image_38.png,4.0,"2
+",0.0,5488.576889038086
+GeminiProVision,run_2,EXP5-Results/100/100_image_39.png,5.0,"2
+",0.0,5536.946773529053
+GeminiProVision,run_2,EXP5-Results/100/100_image_40.png,4.0,"7
+",0.0,5501.037120819092
+GeminiProVision,run_2,EXP5-Results/100/100_image_41.png,3.0,"7
+",0.0,5526.252031326294
+GeminiProVision,run_2,EXP5-Results/100/100_image_42.png,2.0,"4
+",0.0,5503.086090087891
+GeminiProVision,run_2,EXP5-Results/100/100_image_43.png,6.0,"4
+",0.0,5497.061014175415
+GeminiProVision,run_2,EXP5-Results/100/100_image_44.png,8.0,"2
+",0.0,5530.079126358032
+GeminiProVision,run_2,EXP5-Results/100/100_image_45.png,5.0,"4
+",0.0,5513.386487960815
+GeminiProVision,run_2,EXP5-Results/100/100_image_46.png,1.0,"2
+",0.0,5510.919809341431
+GeminiProVision,run_2,EXP5-Results/100/100_image_47.png,9.0,"2
+",0.0,5506.587505340576
+GeminiProVision,run_2,EXP5-Results/100/100_image_48.png,6.0,"4
+",0.0,5508.603096008301
+GeminiProVision,run_2,EXP5-Results/100/100_image_49.png,10.0,"4
+",0.0,5610.504865646362
+GeminiProVision,run_2,EXP5-Results/100/100_image_50.png,2.0,"4
+",0.0,5503.914833068848
+GeminiProVision,run_2,EXP5-Results/100/100_image_51.png,4.0,"4
+",0.0,5493.721008300781
+GeminiProVision,run_2,EXP5-Results/100/100_image_52.png,6.0,"4
+",0.0,5516.366243362427
+GeminiProVision,run_2,EXP5-Results/100/100_image_53.png,7.0,"4
+",0.0,5505.509376525879
+GeminiProVision,run_2,EXP5-Results/100/100_image_54.png,2.0,"4
+",0.0,5511.8842124938965
+GeminiProVision,run_2,EXP5-Results/100/100_image_55.png,1.0,"4
+",0.0,5493.65496635437
+GeminiProVision,average,,,,,
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_1.png,4.0,"7
+",0.0,6264.621734619141
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_2.png,4.0,"7
+",0.0,5358.185291290283
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_3.png,6.0,"7
+",0.0,5357.935190200806
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_4.png,7.0,"7
+",0.0,7642.316579818726
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_5.png,8.0,"7
+",0.0,5347.2185134887695
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_6.png,4.0,"7
+",0.0,5333.394527435303
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_7.png,8.0,"7
+",0.0,6492.650747299194
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_8.png,10.0,"7
+",0.0,5347.618818283081
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_9.png,6.0,"7
+",0.0,6278.6900997161865
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_10.png,3.0,"7
+",0.0,5683.732748031616
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_11.png,2.0,"7
+",0.0,6770.108699798584
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_12.png,3.0,"7
+",0.0,6103.689193725586
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_13.png,9.0,"7
+",0.0,5575.862884521484
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_14.png,5.0,"7
+",0.0,5357.6390743255615
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_15.png,3.0,"7
+",0.0,7705.405950546265
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_16.png,2.0,"7
+",0.0,5350.797891616821
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_17.png,10.0,"7
+",0.0,5768.4173583984375
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_18.png,9.0,"7
+",0.0,5419.434547424316
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_19.png,2.0,"7
+",0.0,5802.073240280151
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_20.png,2.0,"7
+",0.0,5363.469839096069
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_21.png,2.0,"7
+",0.0,5362.785577774048
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_22.png,10.0,"7
+",0.0,7300.910234451294
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_23.png,5.0,"7
+",0.0,6564.549684524536
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_24.png,3.0,"7
+",0.0,5879.820823669434
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_25.png,2.0,"7
+",0.0,6248.400449752808
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_26.png,2.0,"7
+",0.0,9448.091268539429
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_27.png,2.0,"7
+",0.0,5334.078788757324
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_28.png,10.0,"7
+",0.0,5344.978332519531
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_29.png,9.0,"7
+",0.0,6677.258729934692
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_30.png,6.0,"7
+",0.0,5371.150493621826
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_31.png,8.0,"7
+",0.0,6876.488924026489
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_32.png,6.0,"7
+",0.0,5549.8809814453125
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_33.png,8.0,"7
+",0.0,6002.101421356201
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_34.png,5.0,"7
+",0.0,6050.339698791504
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_35.png,5.0,"7
+",0.0,6372.753381729126
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_36.png,4.0,"7
+",0.0,5727.733135223389
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_37.png,2.0,"7
+",0.0,5362.831115722656
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_38.png,4.0,"7
+",0.0,5375.266075134277
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_39.png,5.0,"7
+",0.0,5374.2570877075195
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_40.png,4.0,"7
+",0.0,5514.819383621216
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_41.png,3.0,"7
+",0.0,5697.6637840271
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_42.png,2.0,"7
+",0.0,5352.009296417236
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_43.png,6.0,"7
+",0.0,5329.303503036499
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_44.png,8.0,"7
+",0.0,5314.032316207886
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_45.png,5.0,"7
+",0.0,5374.486446380615
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_46.png,1.0,"7
+",0.0,5339.537620544434
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_47.png,9.0,"7
+",0.0,5359.439134597778
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_48.png,6.0,"7
+",0.0,5359.156608581543
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_49.png,10.0,"7
+",0.0,5622.683525085449
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_50.png,2.0,"7
+",0.0,5666.707277297974
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_51.png,4.0,"7
+",0.0,5354.132413864136
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_52.png,6.0,"7
+",0.0,5377.237796783447
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_53.png,7.0,"7
+",0.0,6054.434061050415
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_54.png,2.0,"7
+",0.0,6586.040258407593
+Gemini1_5Flash,run_0,EXP5-Results/100/100_image_55.png,1.0,"7
+",0.0,9592.463254928589
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_1.png,4.0,"7
+",0.0,7515.586376190186
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_2.png,4.0,"7
+",0.0,6120.63455581665
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_3.png,6.0,"7
+",0.0,6786.9391441345215
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_4.png,7.0,"7
+",0.0,6281.490087509155
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_5.png,8.0,"7
+",0.0,5345.3209400177
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_6.png,4.0,"7
+",0.0,5665.412425994873
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_7.png,8.0,"7
+",0.0,5524.044036865234
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_8.png,10.0,"7
+",0.0,5829.887628555298
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_9.png,6.0,"7
+",0.0,5723.479747772217
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_10.png,3.0,"7
+",0.0,6023.492336273193
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_11.png,2.0,"7
+",0.0,6221.180200576782
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_12.png,3.0,"7
+",0.0,5685.525417327881
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_13.png,9.0,"7
+",0.0,5770.022869110107
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_14.png,5.0,"7
+",0.0,5380.0811767578125
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_15.png,3.0,"7
+",0.0,6034.006357192993
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_16.png,2.0,"7
+",0.0,5987.022638320923
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_17.png,10.0,"7
+",0.0,6338.000774383545
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_18.png,9.0,"7
+",0.0,5417.287349700928
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_19.png,2.0,"7
+",0.0,5360.18443107605
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_20.png,2.0,"7
+",0.0,5674.753665924072
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_21.png,2.0,"7
+",0.0,5334.88392829895
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_22.png,10.0,"7
+",0.0,5353.073358535767
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_23.png,5.0,"7
+",0.0,6559.608697891235
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_24.png,3.0,"7
+",0.0,5857.219934463501
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_25.png,2.0,"7
+",0.0,5316.622495651245
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_26.png,2.0,"7
+",0.0,5415.199041366577
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_27.png,2.0,"7
+",0.0,6575.873374938965
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_28.png,10.0,"7
+",0.0,5316.88928604126
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_29.png,9.0,"7
+",0.0,5358.113050460815
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_30.png,6.0,"7
+",0.0,6546.895265579224
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_31.png,8.0,"7
+",0.0,5375.110864639282
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_32.png,6.0,"7
+",0.0,5693.078517913818
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_33.png,8.0,"7
+",0.0,5534.931421279907
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_34.png,5.0,"7
+",0.0,5799.306869506836
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_35.png,5.0,"7
+",0.0,5396.9762325286865
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_36.png,4.0,"7
+",0.0,6171.142816543579
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_37.png,2.0,"7
+",0.0,7786.97943687439
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_38.png,4.0,"7
+",0.0,5355.885982513428
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_39.png,5.0,"7
+",0.0,5407.909631729126
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_40.png,4.0,"7
+",0.0,6648.76651763916
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_41.png,3.0,"7
+",0.0,5829.156160354614
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_42.png,2.0,"7
+",0.0,5354.708194732666
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_43.png,6.0,"7
+",0.0,6362.622976303101
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_44.png,8.0,"7
+",0.0,10409.96265411377
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_45.png,5.0,"7
+",0.0,6292.641401290894
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_46.png,1.0,"7
+",0.0,5350.395917892456
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_47.png,9.0,"7
+",0.0,5309.903621673584
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_48.png,6.0,"7
+",0.0,5380.275249481201
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_49.png,10.0,"7
+",0.0,5753.140211105347
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_50.png,2.0,"7
+",0.0,5348.647832870483
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_51.png,4.0,"7
+",0.0,5313.29870223999
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_52.png,6.0,"7
+",0.0,5895.061016082764
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_53.png,7.0,"7
+",0.0,5386.596918106079
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_54.png,2.0,"7
+",0.0,5355.011463165283
+Gemini1_5Flash,run_1,EXP5-Results/100/100_image_55.png,1.0,"7
+",0.0,5304.497957229614
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_1.png,4.0,"7
+",0.0,5317.316293716431
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_2.png,4.0,"7
+",0.0,5365.1721477508545
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_3.png,6.0,"7
+",0.0,5322.757005691528
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_4.png,7.0,"7
+",0.0,5337.926387786865
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_5.png,8.0,"7
+",0.0,5598.756551742554
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_6.png,4.0,"7
+",0.0,5357.1202754974365
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_7.png,8.0,"7
+",0.0,5425.1720905303955
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_8.png,10.0,"7
+",0.0,5339.702844619751
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_9.png,6.0,"7
+",0.0,6871.4025020599365
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_10.png,3.0,"7
+",0.0,6038.771629333496
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_11.png,2.0,"7
+",0.0,8045.660018920898
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_12.png,3.0,"7
+",0.0,5318.913459777832
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_13.png,9.0,"7
+",0.0,5350.271701812744
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_14.png,5.0,"7
+",0.0,5304.608583450317
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_15.png,3.0,"7
+",0.0,5324.005126953125
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_16.png,2.0,"7
+",0.0,5710.397243499756
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_17.png,10.0,"7
+",0.0,5556.70690536499
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_18.png,9.0,"7
+",0.0,6610.6767654418945
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_19.png,2.0,"7
+",0.0,5556.506633758545
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_20.png,2.0,"7
+",0.0,6114.702224731445
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_21.png,2.0,"7
+",0.0,7039.267063140869
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_22.png,10.0,"7
+",0.0,5436.505556106567
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_23.png,5.0,"7
+",0.0,6719.536304473877
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_24.png,3.0,"7
+",0.0,5455.169200897217
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_25.png,2.0,"7
+",0.0,8689.539909362793
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_26.png,2.0,"7
+",0.0,5596.784591674805
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_27.png,2.0,"7
+",0.0,6547.598123550415
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_28.png,10.0,"7
+",0.0,6054.317235946655
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_29.png,9.0,"7
+",0.0,5968.049049377441
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_30.png,6.0,"7
+",0.0,6016.360282897949
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_31.png,8.0,"7
+",0.0,5315.669775009155
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_32.png,6.0,"7
+",0.0,5320.721387863159
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_33.png,8.0,"7
+",0.0,5349.2591381073
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_34.png,5.0,"7
+",0.0,5879.176139831543
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_35.png,5.0,"7
+",0.0,5445.059537887573
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_36.png,4.0,"7
+",0.0,5349.612236022949
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_37.png,2.0,"7
+",0.0,6771.014451980591
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_38.png,4.0,"7
+",0.0,5507.982969284058
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_39.png,5.0,"7
+",0.0,5330.122947692871
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_40.png,4.0,"7
+",0.0,5339.771509170532
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_41.png,3.0,"7
+",0.0,6060.980319976807
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_42.png,2.0,"7
+",0.0,6126.218557357788
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_43.png,6.0,"7
+",0.0,5369.785785675049
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_44.png,8.0,"7
+",0.0,5653.090476989746
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_45.png,5.0,"7
+",0.0,6581.059455871582
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_46.png,1.0,"7
+",0.0,5343.242645263672
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_47.png,9.0,"7
+",0.0,5413.389682769775
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_48.png,6.0,"7
+",0.0,5415.702819824219
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_49.png,10.0,"7
+",0.0,6010.635614395142
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_50.png,2.0,"7
+",0.0,6304.665565490723
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_51.png,4.0,"7
+",0.0,5522.583961486816
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_52.png,6.0,"7
+",0.0,5306.280851364136
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_53.png,7.0,"7
+",0.0,5856.725454330444
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_54.png,2.0,"7
+",0.0,5375.072002410889
+Gemini1_5Flash,run_2,EXP5-Results/100/100_image_55.png,1.0,"7
+",0.0,7060.3461265563965
+Gemini1_5Flash,average,,,,,
