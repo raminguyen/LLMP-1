@@ -88,7 +88,6 @@ def clean_experiment_data(file_path):
 
     return df
 
-
 def calculate_mlae(gt, answers):
     """
     Calculate Mean Log Absolute Error (MLAE), handling NaN values.
@@ -100,14 +99,70 @@ def calculate_mlae(gt, answers):
     Returns:
         float: The calculated MLAE, or NaN if no valid data exists.
     """
-    # Remove NaN values
+   # Remove NaN values
     valid_mask = ~np.isnan(answers)
     gt_filtered = np.array(gt)[valid_mask]
     answers_filtered = answers[valid_mask]
 
-    # Check if we have any valid data
     if len(answers_filtered) == 0:
         return np.nan
 
-    mlae = np.log2(mean_absolute_error(gt_filtered, answers_filtered) + 0.125)
-    return mlae
+    return np.log2(mean_absolute_error(gt_filtered, answers_filtered) + 0.125)
+
+# Function to calculate MLAE for a single row
+def calculate_row_mlae(row):
+    # Ground truth value
+    ground_truth = 20
+
+    """
+    Calculate MLAE for a single row using its Answer and the ground truth.
+
+    Parameters:
+        row (pd.Series): A single row of the DataFrame.
+
+    Returns:
+        float: The MLAE for the row.
+    """
+    answer = np.array([row['Answer']])
+    gt = np.array([ground_truth]) 
+    return calculate_mlae(gt, answer)  
+
+
+def plot_mlae_heatmap(df):
+    """
+    Plot a heatmap showing MLAE values for each model and image.
+
+    Parameters:
+        df (pd.DataFrame): DataFrame containing MLAE values with columns 
+                           'Image Name', 'Model', and 'MLAE'.
+
+    Returns:
+        None
+    """
+    # Pivot the DataFrame for heatmap data
+    heatmap_data = df.pivot(index='Image Name', columns='Model', values='MLAE')
+
+    # Import libraries
+    import seaborn as sns
+    import matplotlib.pyplot as plt
+
+    # Plot the heatmap
+    plt.figure(figsize=(12, 8))
+
+    sns.heatmap(heatmap_data, 
+                annot=True, 
+                cmap='coolwarm', 
+                cbar_kws = {'label': "MLAE"},
+                annot_kws = {"fontsize": 12})
+
+    plt.title('MLAE Heatmap for Each Model and Images')
+
+    plt.xlabel('Model Name', fontsize = 14 )
+
+    plt.ylabel('Image Name', fontsize = 14 )
+
+    plt.xticks (fontsize=12)
+
+    plt.yticks (fontsize=14)
+
+    plt.show()
