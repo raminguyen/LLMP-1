@@ -13,8 +13,10 @@ from svgpathtools import svg2paths
 from matplotlib.patches import PathPatch, Rectangle
 from matplotlib.path import Path
 import cairosvg
-
-
+import seaborn as sns
+import tempfile
+import seaborn as sns
+import matplotlib.pyplot as plt
 # Add LLMP path
 sys.path.append('../')
 import LLMP as L
@@ -22,6 +24,9 @@ import os
 import matplotlib.pyplot as plt
 from PIL import Image
 import fitz  # PyMuPDF for handling PDFs
+from sklearn.metrics import mean_absolute_error
+import numpy as np
+import pandas as pd
 
 def display_images_combined_by_degree(folder):
     """
@@ -120,7 +125,6 @@ def display_images_combined_by_degree(folder):
     plt.show()
 
 
-import pandas as pd
 
 def clean_experiment_data(file_path):
     """
@@ -154,8 +158,6 @@ def clean_experiment_data(file_path):
     return df
 
 
-from sklearn.metrics import mean_absolute_error
-import numpy as np
 
 def calculate_mlae(gt, answers):
     """
@@ -533,7 +535,6 @@ class Runexp1:
             print(f"Experiment failed: {str(e)}")
 
 
-import tempfile
 
 def load_image(file_path):
     """
@@ -596,7 +597,6 @@ def prepare_image_data(image_dir):
     return image_data
 
 
-import seaborn as sns
 
 def average_mlae_and_visualize(df):
     """
@@ -638,8 +638,6 @@ def average_mlae_and_visualize(df):
     # Show the plot
     plt.show()
 
-
-import matplotlib.pyplot as plt
 
 def plot_vectorized_predictions_scatter(df):
     """
@@ -700,5 +698,184 @@ def plot_vectorized_predictions_scatter(df):
     plt.tight_layout()
 
     # Display the plot
+    plt.show()
+
+
+def analyze_best_model_by_image_type(df):
+    """
+    Analyze and determine the best model for each image type based on MLAE and see which models work better.
+
+    Parameters:
+        df (pd.DataFrame): DataFrame with columns ['file_name', 'model', 'MLAE']
+
+    Returns:
+        pd.DataFrame: Summary table showing the best model for each image type
+                      and their average MLAE.
+    """
+    # Extract the image type from the file name (aliased, antialiased, vectorized)
+    df['image_type'] = df['file_name'].str.extract('(aliased|antialiased|vectorized)')
+
+    # Calculate the average MLAE for each image type and model
+    avg_mlae = df.groupby(['image_type', 'model'])['MLAE'].mean().reset_index()
+
+    # Identify the best model for each image type (lowest MLAE)
+    best_model = avg_mlae.loc[avg_mlae.groupby('image_type')['MLAE'].idxmin()]
+
+    # Rename columns for better readability
+    best_model = best_model.rename(columns={
+        'model': 'Best Model',
+        'MLAE': 'Average MLAE'
+    })
+
+    # Sort by image type for readability
+    best_model = best_model.sort_values(by='image_type').reset_index(drop=True)
+
+    return best_model
+
+def analyze_image_type_per_model(df):
+    """
+    Analyze and determine which image type works best for each model based on average MLAE.
+
+    Parameters:
+        df (pd.DataFrame): DataFrame with columns ['file_name', 'model', 'MLAE']
+
+    Returns:
+        pd.DataFrame: Summary table showing the best image type for each model
+                      and their average MLAE for that image type.
+    """
+    # Extract the image type from the file name
+    df['image_type'] = df['file_name'].str.extract(r'(aliased|antialiased|vectorized)')
+    
+    # Group by model and image type to calculate average MLAE
+    avg_mlae_per_model = df.groupby(['model', 'image_type'])['MLAE'].mean().reset_index()
+    
+    # Find the best image type (lowest MLAE) for each model
+    best_image_type_per_model = avg_mlae_per_model.loc[
+        avg_mlae_per_model.groupby('model')['MLAE'].idxmin()
+    ]
+    
+    # Sort the results for clarity
+    best_image_type_per_model = best_image_type_per_model.sort_values(by='MLAE').reset_index(drop=True)
+    
+    return best_image_type_per_model
+
+import os
+import pandas as pd
+import matplotlib.pyplot as plt
+from PIL import Image
+import fitz  # PyMuPDF
+
+def plot_mlae_per_image(df, image_folder, model_colors, xlim=(2.5, 4.5), reference_line=3):
+    """
+    Plots average MLAE per image type for different models with corresponding images.
+    
+    Parameters:
+    - df (DataFrame): DataFrame containing 'image_type', 'model', 'MLAE', and 'file_name'.
+    - image_folder (str): Path to the folder containing images.
+    - model_colors (dict): Dictionary mapping model names to their colors.
+    - xlim (tuple): Tuple specifying x-axis limits.
+    - reference_line (float): x-coordinate for the vertical reference line.
+    """
+    # Extract image types and calculate average MLAE
+    df["image_type"] = df["file_name"].apply(lambda x: "_".join(x.split("_")[:-1]))
+    average_mlae = df.groupby(["image_type", "model"])["MLAE"].mean().reset_index()
+    image_types = average_mlae["image_type"].unique()
+
+    # Create grid layout
+    nrows = len(image_types)
+    fig, axes = plt.subplots(nrows=nrows, ncols=2, figsize=(12, nrows * 2), gridspec_kw={"width_ratios": [1, 4]})
+
+    # Function to load and display images
+    def load_and_display_image(file_path, image_type):
+        if file_path.endswith(".png") and os.path.exists(file_path):
+            img = Image.open(file_path)
+            if "black" in image_type:
+                img = img.convert("L")
+            else:
+                img = img.convert("RGB")
+        elif file_path.endswith(".pdf") and os.path.exists(file_path):
+            pdf_document = fitz.open(file_path)
+            page = pdf_document[0]
+            pix = page.get_pixmap(dpi=300)
+            img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+            pdf_document.close()
+        else:
+            raise FileNotFoundError(f"File not found or unsupported format: {file_path}")
+        return img
+
+    # Iterate over image types
+    for i, image_type in enumerate(image_types):
+        subset = average_mlae[average_mlae["image_type"] == image_type]
+
+        # Left column: Image
+        ax_img = axes[i, 0] if nrows > 1 else axes[0]
+        file_name = df[df["image_type"] == image_type]["file_name"].iloc[0]
+        file_path = os.path.join(image_folder, file_name)
+        try:
+            img = load_and_display_image(file_path, image_type)
+            ax_img.imshow(img, cmap="gray" if "black" in image_type else None)
+            ax_img.axis("off")
+            ax_img.text(
+                0.5, -0.2, image_type, transform=ax_img.transAxes, ha="center", va="top", fontsize=10, color="black"
+            )
+        except FileNotFoundError:
+            ax_img.text(0.5, 0.5, "Image not found", ha="center", va="center", fontsize=12, color="red")
+            ax_img.axis("off")
+
+        # Right column: Scatter plot
+        ax_plot = axes[i, 1] if nrows > 1 else axes[1]
+        for model, color in model_colors.items():
+            model_data = subset[subset["model"] == model]
+            sizes = model_data["MLAE"].apply(lambda x: 300 if x < 3 else 100)
+            ax_plot.scatter(
+                model_data["MLAE"],
+                [i] * len(model_data),
+                color=color,
+                s=sizes,
+                alpha=0.8,
+            )
+        
+        # Add a vertical reference line
+        ax_plot.axvline(x=reference_line, color='red', linestyle='--', linewidth=1, label="Reference (MLAE = 3)")
+
+        # Hide all spines except the bottom one
+        ax_plot.spines["top"].set_visible(False)
+        ax_plot.spines["right"].set_visible(False)
+        ax_plot.spines["left"].set_visible(False)
+
+        # Set x-axis limits
+        ax_plot.set_xlim(*xlim)
+
+        # Handle bottom spine and x-tick labels
+        if i == len(image_types) - 1:
+            ax_plot.spines["bottom"].set_visible(True)
+            ax_plot.tick_params(axis="x", which="both", bottom=True, labelbottom=True)
+        else:
+            ax_plot.spines["bottom"].set_visible(False)
+            ax_plot.tick_params(axis="x", which="both", bottom=False, labelbottom=False)
+
+        # Hide y-ticks and labels
+        ax_plot.tick_params(axis="y", left=False, labelleft=False)
+        ax_plot.grid(axis="x", linestyle="--", alpha=0.8)
+
+    # Add a title
+    fig.suptitle("Average MLAE for Each Image Per Model", fontsize=16, weight="bold")
+
+    # Add legend
+    legend_handles = [
+        plt.Line2D([0], [0], marker='o', color='w', label=model, markersize=10, markerfacecolor=color)
+        for model, color in model_colors.items()
+    ]
+    fig.legend(
+        handles=legend_handles,
+        loc="upper right",
+        bbox_to_anchor=(1.1, 0.97),
+        frameon=False,
+        title="Models",
+        fontsize=12
+    )
+
+    # Adjust layout
+    plt.tight_layout()
     plt.show()
 
